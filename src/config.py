@@ -16,12 +16,36 @@ class Config:
     MAX_ODDS = float(os.getenv('MAX_ODDS', 4.00))
     MAX_PREDICTIONS = int(os.getenv('MAX_PREDICTIONS', 8))
     
-    # Compétitions
+    # IDs des ligues à inclure (API-Football)
+    INCLUDED_LEAGUE_IDS = [
+        # Compétitions UEFA
+        2,    # UEFA Champions League
+        3,    # UEFA Europa League
+        848,  # UEFA Europa Conference League
+        # Top 5 championnats européens
+        39,   # Premier League (Angleterre)
+        140,  # La Liga (Espagne)
+        135,  # Serie A (Italie)
+        78,   # Bundesliga (Allemagne)
+        61,   # Ligue 1 (France)
+        # Belgique
+        144,  # Jupiler Pro League (Belgique)
+    ]
+
+    # Compétitions (noms pour filtrage texte si pas d'ID)
     INCLUDED_COMPETITIONS = [
-        'Champions League', 'Europa League', 'Conference League',
-        'Premier League', 'La Liga', 'Serie A', 'Bundesliga', 'Ligue 1',
-        'Championship', 'Liga Portugal', 'Eredivisie', 'Belgian Pro League',
-        'World Cup Qualification', 'Euro Qualification'
+        # Compétitions UEFA
+        'Champions League', 'UEFA Champions League',
+        'Europa League', 'UEFA Europa League',
+        'Conference League', 'UEFA Europa Conference League',
+        # Top 5 championnats européens
+        'Premier League',
+        'La Liga', 'LaLiga',
+        'Serie A',
+        'Bundesliga',
+        'Ligue 1',
+        # Belgique
+        'Belgian Pro League', 'Jupiler Pro League', 'First Division A'
     ]
     
     EXCLUDED_KEYWORDS = ['Friendly', 'Amical', 'U21', 'U19', 'Youth']

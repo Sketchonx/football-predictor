@@ -89,6 +89,8 @@ class MatchScraper:
                     'home': fixture['teams']['home']['name'],
                     'away': fixture['teams']['away']['name'],
                     'competition': fixture['league']['name'],
+                    'league_id': fixture['league']['id'],
+                    'country': fixture['league']['country'],
                     'time': fixture['fixture']['date'],
                     'date': today,
                     'source': 'api-football'
@@ -102,20 +104,28 @@ class MatchScraper:
     def _filter_matches(self, matches):
         """Filtre les matchs selon compétitions et critères"""
         filtered = []
-        
+
         for match in matches:
             competition = match.get('competition', '')
-            
+            league_id = match.get('league_id')
+
             # Exclure mots-clés interdits
-            if any(keyword.lower() in competition.lower() 
+            if any(keyword.lower() in competition.lower()
                    for keyword in self.config.EXCLUDED_KEYWORDS):
                 continue
-            
-            # Inclure uniquement compétitions européennes
-            # Pour simplifier, on garde tous les matchs européens
-            # (filtrage plus fin dans l'analyse IA)
-            filtered.append(match)
-        
+
+            # Filtrer par ID de ligue si disponible (plus précis)
+            if league_id and league_id in self.config.INCLUDED_LEAGUE_IDS:
+                filtered.append(match)
+            # Sinon filtrer par nom de compétition (pour FlashScore)
+            elif not league_id and any(included.lower() in competition.lower()
+                   for included in self.config.INCLUDED_COMPETITIONS):
+                # Vérifier le pays pour éviter les faux positifs
+                country = match.get('country', '')
+                # Accepter uniquement si pays européen ou vide
+                if not country or country in ['England', 'Spain', 'Italy', 'Germany', 'France', 'Belgium', 'World', 'Europe']:
+                    filtered.append(match)
+
         return filtered
     
     def format_matches_for_prompt(self, matches):

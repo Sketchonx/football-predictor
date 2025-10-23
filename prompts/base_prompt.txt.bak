@@ -134,81 +134,81 @@ Pour CHAQUE match retenu, tu DOIS analyser EN DÉTAIL :
   "total_retained": Y,
   
   "recommendations": [
-    {{
+    {
       "match": "Équipe Domicile vs Équipe Extérieur",
       "competition": "Nom compétition",
       "kickoff": "HH:MM",
       
-      "detailed_analysis": {{
+      "detailed_analysis": {
         
-        "recent_form": {{
-          "home_team": {{
+        "recent_form": {
+          "home_team": {
             "last_5_matches": "4V-1N-0D, 14 buts pour, 3 contre",
             "home_record": "À domicile: 3V-0N, 10 buts pour, 1 contre",
             "trend": "Forme excellente en hausse",
             "details": "Derniers résultats : 3-0 vs X, 2-1 vs Y, 4-0 vs Z..."
-          }},
-          "away_team": {{
+          },
+          "away_team": {
             "last_5_matches": "2V-2N-1D, 8 buts pour, 6 contre",
             "away_record": "À l'extérieur: 1V-1N-1D, 3 buts pour, 4 contre",
             "trend": "Forme moyenne, instable en déplacement",
             "details": "Derniers résultats : 1-2 vs A, 1-1 vs B, 2-0 vs C..."
-          }}
-        }},
+          }
+        },
         
-        "head_to_head": {{
+        "head_to_head": {
           "last_5": "3V équipe domicile, 1N, 1V équipe extérieur",
           "at_home": "2 victoires domicile sur 2 derniers matchs ici",
           "details": "Résultats: 3-0 (2024), 2-1 (2023), 1-1 (2022), 0-2 (2021), 3-1 (2020)",
           "trends": "Domination claire équipe domicile à la maison, moyenne 2.5 buts/match"
-        }},
+        },
         
-        "injuries_suspensions": {{
-          "home_team": {{
+        "injuries_suspensions": {
+          "home_team": {
             "absent": ["Joueur A (blessure, poste clé)", "Joueur B (suspendu)"],
             "impact": "Impact modéré, remplaçants compétents disponibles"
-          }},
-          "away_team": {{
+          },
+          "away_team": {
             "absent": ["Joueur X (gardien titulaire)", "Joueur Y (meneur de jeu, 8 buts)", "Joueur Z (suspendu)"],
             "impact": "Impact MAJEUR : 3 titulaires absents dont 2 postes clés. Défense et création affaiblies."
-          }}
-        }},
+          }
+        },
         
-        "tactical_analysis": {{
+        "tactical_analysis": {
           "home_style": "4-3-3 offensif, possession 63%, pressing haut, transitions rapides sur les ailes",
           "away_style": "4-2-3-1, pressing haut mais vulnérable en profondeur, ligne haute défensive",
           "key_matchup": "Vitesse des ailiers domicile vs ligne haute extérieur. Avantage domicile.",
           "predicted_approach": "Domicile va exploiter la profondeur, extérieur forcé défendre plus bas"
-        }},
+        },
         
-        "schedule_fatigue": {{
+        "schedule_fatigue": {
           "home_team": "4 jours repos, rotation effectuée match précédent. Équipe fraîche.",
           "away_team": "3 matchs en 7 jours, déplacement international il y a 48h. Fatigue probable.",
           "advantage": "Avantage physique net pour équipe domicile"
-        }},
+        },
         
-        "context_stakes": {{
+        "context_stakes": {
           "home_situation": "2e du groupe, doit gagner pour qualification. Pression maximale mais motivation extrême.",
           "away_situation": "Déjà qualifié, 1ère place en jeu mais pas crucial. Motivation moyenne.",
           "psychological": "Équipe domicile plus affamée, veut revanche saison passée. Pression supporters à domicile.",
           "overall": "Avantage mental et motivationnel équipe domicile"
-        }},
+        },
         
-        "home_advantage": {{
+        "home_advantage": {
           "home_record_season": "10V-1N-1D à domicile, 32 buts pour, 7 contre. Forteresse.",
           "away_record_opponent": "Résultats extérieur mitigés : 3V-2N-3D, difficulté en déplacement",
           "atmosphere": "Stade plein, 48000 supporters, ambiance hostile pour visiteurs",
           "weather": "Conditions normales, pas d'impact",
           "advantage_score": "9/10 - Avantage domicile majeur"
-        }},
+        },
         
-        "odds_value": {{
+        "odds_value": {
           "bet_odds": 2.10,
           "implied_probability": "47.6%",
           "estimated_real_probability": "55-60%",
           "value_analysis": "Value bet identifié, cote sous-évaluée de 7-12%",
           "odds_movement": "Cote en légère baisse depuis hier (était 2.20), marché corrige"
-        }},
+        },
         
         "key_factors_summary": [
           "Forme exceptionnelle équipe domicile (4V-1N) vs forme instable extérieur en déplacement",
@@ -217,7 +217,7 @@ Pour CHAQUE match retenu, tu DOIS analyser EN DÉTAIL :
           "Enjeu crucial pour domicile (qualification) vs motivation moyenne extérieur",
           "Historique favorable : 2 victoires domicile sur 2 derniers matchs à domicile"
         ]
-      }},
+      },
       
       "conclusion": "Tous les facteurs convergent vers une victoire domicile : forme supérieure, avantage physique (fatigue adverse), effectif complet vs 3 absents majeurs côté extérieur, motivation maximale (enjeu qualification), historique favorable à domicile, et avantage tactique (vitesse vs ligne haute). Les cotes offrent une value intéressante (7-12% edge). Risque modéré mais probabilité élevée.",
       
@@ -228,37 +228,37 @@ Pour CHAQUE match retenu, tu DOIS analyser EN DÉTAIL :
       "risk_level": "Medium",
       
       "alternative_bets": [
-        {{
+        {
           "type": "Over 2.5 buts",
           "odds": 1.75,
           "reasoning": "Deux attaques prolifiques, défense extérieur affaiblie"
-        }}
+        }
       ]
-    }}
+    }
   ],
   
-  "matches_excluded": {{
+  "matches_excluded": {
     "count": Z,
     "examples": [
-      {{
+      {
         "match": "Match X vs Y",
         "reason": "Cote trop faible (1.30), gain insuffisant"
-      }},
-      {{
+      },
+      {
         "match": "Match A vs B",
         "reason": "Incertitude composition (5 blessés non confirmés)"
-      }}
+      }
     ]
-  }},
+  },
   
-  "combined_bet": {{
+  "combined_bet": {
     "matches": ["Match 1", "Match 2"],
     "total_odds": 3.89,
     "confidence": 72,
     "detailed_reasoning": "Match 1 : forte probabilité (78%). Match 2 : probabilité élevée (76%). Corrélation faible entre les deux (compétitions différentes). Risque combiné calculé : 59% (78% × 76%). Cote offre value vs risque.",
     "risk_level": "Medium-High"
-  }}
-}}
+  }
+}
 ```
 
 ## RÈGLES CRITIQUES
@@ -267,7 +267,7 @@ Pour CHAQUE match retenu, tu DOIS analyser EN DÉTAIL :
 2. **STATS PRÉCISES** : Toujours donner chiffres, scores, dates quand mentionnés
 3. **PAS DE GÉNÉRALITÉS** : Bannir phrases vagues type "bonne forme" sans détails
 4. **PREUVES** : Chaque affirmation doit être étayée par des faits
-5. **LONGUEUR** : Une analyse complète = environ 300 mots par match (synthétique mais détaillée)
+5. **LONGUEUR** : Une analyse complète = 800-1500 mots minimum par match
 6. **CONCLUSION SYNTHÉTIQUE** : Résumer tous les facteurs en fin d'analyse
 
 ## AUTO-VÉRIFICATION AVANT ENVOI
@@ -279,7 +279,7 @@ Pour chaque pronostic, vérifier :
 - [ ] Ai-je analysé la TACTIQUE en détail ?
 - [ ] Ai-je expliqué le CONTEXTE et l'ENJEU ?
 - [ ] Ai-je donné des STATS de forme domicile/extérieur ?
-- [ ] Mon analyse fait-elle environ 300 mots (synthétique mais complète) ?
+- [ ] Mon analyse fait-elle AU MOINS 800 mots ?
 - [ ] Chaque facteur est-il CONCRET et VÉRIFIABLE ?
 
 ---
@@ -290,7 +290,6 @@ Pour chaque pronostic, vérifier :
 
 **INSTRUCTION FINALE:**
 Réponds en JSON pur et valide.
-Les analyses DOIVENT être synthétiques mais détaillées.
-Environ 300 mots par analyse de match retenu.
+Les analyses DOIVENT être exhaustives et détaillées.
+Minimum 800 mots par analyse de match retenu.
 Prouve ton travail avec des FAITS, CHIFFRES, EXEMPLES concrets.
-IMPORTANT: Assure-toi que le JSON est parfaitement formaté et valide.

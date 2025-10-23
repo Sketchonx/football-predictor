@@ -5,13 +5,18 @@ on:
     - cron: '0 11 * * *'  # 11h UTC = 12h Belgique (hiver), 13h (été)
   workflow_dispatch:  # Permet déclenchement manuel
 
+permissions:
+  contents: write  # Nécessaire pour git push
+
 jobs:
   analyze:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -34,6 +39,17 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/
-          git commit -m "📊 Prédictions $(date +'%Y-%m-%d')" || echo "No changes"
-          git push || echo "No push needed"
+
+          # Créer le dossier data s'il n'existe pas
+          mkdir -p data
+
+          # Ajouter les changements s'il y en a
+          git add data/ || true
+
+          # Commit seulement s'il y a des changements
+          if git diff --staged --quiet; then
+            echo "Aucun changement à commit"
+          else
+            git commit -m "📊 Prédictions $(date +'%Y-%m-%d')"
+            git push
+          fi

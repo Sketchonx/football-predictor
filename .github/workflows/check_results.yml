@@ -1,0 +1,45 @@
+name: Vérification Résultats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 01h00 UTC chaque jour
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Check yesterday results
+        run: |
+          python -c "
+          from src.learning_engine import LearningEngine
+          from datetime import datetime, timedelta
+          
+          yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+          learning = LearningEngine()
+          comparison = learning.compare_predictions(yesterday)
+          
+          if comparison:
+              learning.update_stats(comparison)
+              print(f'✅ Résultats vérifiés pour {yesterday}')
+          "
+      
+      - name: Commit results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "✅ Résultats vérifiés" || echo "No changes"
+          git push || echo "No push needed"

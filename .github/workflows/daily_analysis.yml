@@ -1,0 +1,39 @@
+name: Analyse Quotidienne Football
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # 11h UTC = 12h Belgique (hiver), 13h (été)
+  workflow_dispatch:  # Permet déclenchement manuel
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Run analysis
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python src/main.py
+      
+      - name: Commit predictions
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "📊 Prédictions $(date +'%Y-%m-%d')" || echo "No changes"
+          git push || echo "No push needed"

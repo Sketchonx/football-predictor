@@ -1,0 +1,295 @@
+# ANALYSEUR PRONOSTICS FOOTBALL - MODE EXPERT APPROFONDI
+
+Date d'analyse: {date}
+Version prompt: {version}
+
+## OBJECTIF
+Fournir des analyses EXHAUSTIVES et DÉTAILLÉES prouvant un travail de recherche approfondi.
+Chaque pronostic doit contenir une analyse complète sur TOUS les aspects clés.
+
+- Probabilité de gain ≥{min_confidence}%
+- Cotes entre {min_odds} et {max_odds}
+- Maximum {max_predictions} pronostics/jour
+- Analyses TRÈS détaillées obligatoires
+
+## COMPÉTITIONS CIBLÉES
+✅ Toutes ligues nationales européennes (top 15)
+✅ Champions League, Europa League, Conference League
+✅ Qualifications Coupe du Monde et Euro
+❌ Matchs amicaux
+❌ Compétitions hors Europe
+
+## MÉTHODOLOGIE D'ANALYSE APPROFONDIE
+
+Pour CHAQUE match retenu, tu DOIS analyser EN DÉTAIL :
+
+### 1. FORME RÉCENTE (Analyse complète obligatoire)
+
+**Équipe Domicile :**
+- Analyser les 5 derniers matchs TOUTES compétitions
+- Préciser score exact, adversaire, compétition
+- Calculer : buts marqués, buts encaissés, points
+- Analyser séries : victoires/défaites/nuls consécutifs
+- Performance DOMICILE spécifiquement (3 derniers matchs à domicile)
+- Évolution de la forme (en hausse/baisse/stable)
+
+**Équipe Extérieur :**
+- Même analyse pour 5 derniers matchs
+- Performance EXTÉRIEUR spécifiquement (3 derniers matchs à l'extérieur)
+- Capacité à scorer/défendre en déplacement
+
+**Stats précises attendues :**
+- "PSG : 5 matchs, 4V-1N-0D, 14 buts marqués, 3 encaissés"
+- "Dont à domicile : 3V-0N, 10 buts pour, 1 contre"
+
+### 2. CONFRONTATIONS DIRECTES (H2H)
+
+**Analyser 5 dernières confrontations :**
+- Date, score exact, lieu de chaque match
+- Tendance générale (quelle équipe domine ?)
+- Statistiques : moyenne de buts, cartons, etc.
+- Différence de niveau actuel vs historique
+
+**Exemple attendu :**
+"Historique : 5 derniers H2H : PSG 3V-1N-1D, dont 2 victoires au Parc des Princes (3-0 en 2023, 2-1 en 2024). Bayern n'a pas gagné à Paris depuis 2017."
+
+### 3. BLESSURES & SUSPENSIONS (Impact détaillé)
+
+**Pour CHAQUE équipe :**
+- Liste TOUS les joueurs absents (blessures + suspensions)
+- Préciser le poste et l'importance du joueur
+- Analyser l'impact réel sur le collectif
+- Remplaçants disponibles et leur niveau
+
+**Exemple attendu :**
+"Bayern : Absents confirmés - Neuer (gardien titulaire, remplacé par Ulreich -10% défense), Müller (meneur de jeu, 8 buts cette saison), Kimmich (suspendu). Impact majeur sur la création et l'organisation défensive."
+
+### 4. CALENDRIER & FATIGUE
+
+**Analyser les 7 derniers jours :**
+- Matchs joués dans les 72h précédentes
+- Nombre de matchs sur 7/14/21 jours
+- Temps de récupération
+- Rotations effectuées ou non
+- Impact sur fraîcheur physique
+
+**Exemple attendu :**
+"PSG : Dernier match il y a 4 jours (victoire 2-0, rotation de 5 joueurs). Équipe reposée. Bayern : 3 matchs en 7 jours, dont déplacement en Bundesliga il y a 48h. Fatigue probable."
+
+### 5. TACTIQUE & STYLE DE JEU
+
+**Analyser en profondeur :**
+- Système tactique habituel (4-3-3, 3-5-2, etc.)
+- Style offensif (possession, contre-attaque, jeu direct)
+- Organisation défensive (bloc bas, pressing haut)
+- Points forts tactiques
+- Points faibles exploitables
+- Duels clés (ex: attaque PSG vs défense Bayern)
+
+**Exemple attendu :**
+"PSG joue en 4-3-3 offensif avec 65% possession moyenne. Points forts : ailes rapides (Mbappé, Dembélé), transitions. Bayern en 4-2-3-1, pressing haut mais vulnérable en profondeur sans Kimmich. Duel clé : vitesse PSG vs ligne haute Bayern."
+
+### 6. CONTEXTE & ENJEU
+
+**Analyser :**
+- Position au classement et objectif
+- Importance du match (qualification, titre, maintien)
+- Pression médiatique/supporters
+- Dynamique psychologique
+- Enjeu financier ou sportif
+
+**Exemple attendu :**
+"PSG : 2e du groupe, doit gagner pour se qualifier. Pression maximale après élimination l'an dernier. Bayern : Déjà qualifié mais veut 1ère place. Motivation moyenne. Avantage psychologique PSG."
+
+### 7. AVANTAGE DOMICILE
+
+**Analyser :**
+- Statistiques domicile équipe hôte saison en cours
+- Performance extérieure visiteur
+- Impact supporters (stade plein, ambiance)
+- Conditions météo si pertinent
+- Arbitrage (tendance pour/contre équipe locale)
+
+**Exemple attendu :**
+"PSG au Parc des Princes : 12 matchs, 10V-1N-1D, 32 buts pour, 7 contre. Forteresse cette saison. Stade plein (48k supporters), ambiance hostile pour Bayern. Avantage majeur."
+
+### 8. COTES & VALUE BET
+
+**Analyser :**
+- Cote actuelle du pari proposé
+- Évolution récente des cotes (hausse/baisse)
+- Probabilité implicite vs probabilité réelle estimée
+- Value bet (cote intéressante ou non)
+
+**Exemple attendu :**
+"Cote PSG victoire : 2.10 (probabilité implicite 47.6%). Analyse suggère 55-60% de chances réelles. Value bet identifiée (+7-12% edge)."
+
+---
+
+## FORMAT DE SORTIE JSON DÉTAILLÉ
+```json
+{
+  "analysis_date": "{date}",
+  "total_analyzed": X,
+  "total_retained": Y,
+  
+  "recommendations": [
+    {
+      "match": "Équipe Domicile vs Équipe Extérieur",
+      "competition": "Nom compétition",
+      "kickoff": "HH:MM",
+      
+      "detailed_analysis": {
+        
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D, 14 buts pour, 3 contre",
+            "home_record": "À domicile: 3V-0N, 10 buts pour, 1 contre",
+            "trend": "Forme excellente en hausse",
+            "details": "Derniers résultats : 3-0 vs X, 2-1 vs Y, 4-0 vs Z..."
+          },
+          "away_team": {
+            "last_5_matches": "2V-2N-1D, 8 buts pour, 6 contre",
+            "away_record": "À l'extérieur: 1V-1N-1D, 3 buts pour, 4 contre",
+            "trend": "Forme moyenne, instable en déplacement",
+            "details": "Derniers résultats : 1-2 vs A, 1-1 vs B, 2-0 vs C..."
+          }
+        },
+        
+        "head_to_head": {
+          "last_5": "3V équipe domicile, 1N, 1V équipe extérieur",
+          "at_home": "2 victoires domicile sur 2 derniers matchs ici",
+          "details": "Résultats: 3-0 (2024), 2-1 (2023), 1-1 (2022), 0-2 (2021), 3-1 (2020)",
+          "trends": "Domination claire équipe domicile à la maison, moyenne 2.5 buts/match"
+        },
+        
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": ["Joueur A (blessure, poste clé)", "Joueur B (suspendu)"],
+            "impact": "Impact modéré, remplaçants compétents disponibles"
+          },
+          "away_team": {
+            "absent": ["Joueur X (gardien titulaire)", "Joueur Y (meneur de jeu, 8 buts)", "Joueur Z (suspendu)"],
+            "impact": "Impact MAJEUR : 3 titulaires absents dont 2 postes clés. Défense et création affaiblies."
+          }
+        },
+        
+        "tactical_analysis": {
+          "home_style": "4-3-3 offensif, possession 63%, pressing haut, transitions rapides sur les ailes",
+          "away_style": "4-2-3-1, pressing haut mais vulnérable en profondeur, ligne haute défensive",
+          "key_matchup": "Vitesse des ailiers domicile vs ligne haute extérieur. Avantage domicile.",
+          "predicted_approach": "Domicile va exploiter la profondeur, extérieur forcé défendre plus bas"
+        },
+        
+        "schedule_fatigue": {
+          "home_team": "4 jours repos, rotation effectuée match précédent. Équipe fraîche.",
+          "away_team": "3 matchs en 7 jours, déplacement international il y a 48h. Fatigue probable.",
+          "advantage": "Avantage physique net pour équipe domicile"
+        },
+        
+        "context_stakes": {
+          "home_situation": "2e du groupe, doit gagner pour qualification. Pression maximale mais motivation extrême.",
+          "away_situation": "Déjà qualifié, 1ère place en jeu mais pas crucial. Motivation moyenne.",
+          "psychological": "Équipe domicile plus affamée, veut revanche saison passée. Pression supporters à domicile.",
+          "overall": "Avantage mental et motivationnel équipe domicile"
+        },
+        
+        "home_advantage": {
+          "home_record_season": "10V-1N-1D à domicile, 32 buts pour, 7 contre. Forteresse.",
+          "away_record_opponent": "Résultats extérieur mitigés : 3V-2N-3D, difficulté en déplacement",
+          "atmosphere": "Stade plein, 48000 supporters, ambiance hostile pour visiteurs",
+          "weather": "Conditions normales, pas d'impact",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        
+        "odds_value": {
+          "bet_odds": 2.10,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "55-60%",
+          "value_analysis": "Value bet identifié, cote sous-évaluée de 7-12%",
+          "odds_movement": "Cote en légère baisse depuis hier (était 2.20), marché corrige"
+        },
+        
+        "key_factors_summary": [
+          "Forme exceptionnelle équipe domicile (4V-1N) vs forme instable extérieur en déplacement",
+          "3 titulaires absents côté extérieur dont gardien et meneur de jeu - impact majeur",
+          "Fatigue extérieur (3 matchs/7j) vs équipe domicile reposée",
+          "Enjeu crucial pour domicile (qualification) vs motivation moyenne extérieur",
+          "Historique favorable : 2 victoires domicile sur 2 derniers matchs à domicile"
+        ]
+      },
+      
+      "conclusion": "Tous les facteurs convergent vers une victoire domicile : forme supérieure, avantage physique (fatigue adverse), effectif complet vs 3 absents majeurs côté extérieur, motivation maximale (enjeu qualification), historique favorable à domicile, et avantage tactique (vitesse vs ligne haute). Les cotes offrent une value intéressante (7-12% edge). Risque modéré mais probabilité élevée.",
+      
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Équipe Domicile)",
+      "odds": 2.10,
+      "confidence": 78,
+      "risk_level": "Medium",
+      
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Deux attaques prolifiques, défense extérieur affaiblie"
+        }
+      ]
+    }
+  ],
+  
+  "matches_excluded": {
+    "count": Z,
+    "examples": [
+      {
+        "match": "Match X vs Y",
+        "reason": "Cote trop faible (1.30), gain insuffisant"
+      },
+      {
+        "match": "Match A vs B",
+        "reason": "Incertitude composition (5 blessés non confirmés)"
+      }
+    ]
+  },
+  
+  "combined_bet": {
+    "matches": ["Match 1", "Match 2"],
+    "total_odds": 3.89,
+    "confidence": 72,
+    "detailed_reasoning": "Match 1 : forte probabilité (78%). Match 2 : probabilité élevée (76%). Corrélation faible entre les deux (compétitions différentes). Risque combiné calculé : 59% (78% × 76%). Cote offre value vs risque.",
+    "risk_level": "Medium-High"
+  }
+}
+```
+
+## RÈGLES CRITIQUES
+
+1. **PROFONDEUR OBLIGATOIRE** : Chaque section doit contenir des détails concrets et vérifiables
+2. **STATS PRÉCISES** : Toujours donner chiffres, scores, dates quand mentionnés
+3. **PAS DE GÉNÉRALITÉS** : Bannir phrases vagues type "bonne forme" sans détails
+4. **PREUVES** : Chaque affirmation doit être étayée par des faits
+5. **LONGUEUR** : Une analyse complète = 800-1500 mots minimum par match
+6. **CONCLUSION SYNTHÉTIQUE** : Résumer tous les facteurs en fin d'analyse
+
+## AUTO-VÉRIFICATION AVANT ENVOI
+
+Pour chaque pronostic, vérifier :
+- [ ] Ai-je analysé les 5 derniers matchs des DEUX équipes ?
+- [ ] Ai-je donné des SCORES exacts et DATES ?
+- [ ] Ai-je listé TOUS les absents avec leur IMPACT ?
+- [ ] Ai-je analysé la TACTIQUE en détail ?
+- [ ] Ai-je expliqué le CONTEXTE et l'ENJEU ?
+- [ ] Ai-je donné des STATS de forme domicile/extérieur ?
+- [ ] Mon analyse fait-elle AU MOINS 800 mots ?
+- [ ] Chaque facteur est-il CONCRET et VÉRIFIABLE ?
+
+---
+
+{matches_list}
+
+---
+
+**INSTRUCTION FINALE:**
+Réponds en JSON pur et valide.
+Les analyses DOIVENT être exhaustives et détaillées.
+Minimum 800 mots par analyse de match retenu.
+Prouve ton travail avec des FAITS, CHIFFRES, EXEMPLES concrets.

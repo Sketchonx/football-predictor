@@ -72,6 +72,22 @@ Le dashboard sera accessible sur `http://localhost:8501`
 - 📋 Historique des pronostics
 - ✏️ Enregistrement des résultats
 
+### Rapport hebdomadaire
+
+Un rapport de performance est envoyé automatiquement **tous les lundis à 9h UTC** sur Telegram avec :
+- 📊 Taux de réussite de la semaine écoulée
+- ✅ Nombre de victoires/défaites
+- 📈 Performance par type de pari
+- 🏆 Performance par compétition (Top 3)
+- 💎 Cote et confiance moyennes
+- 🔥 Série en cours (victoires/défaites consécutives)
+- 🏅 Meilleur pari de la semaine
+
+Pour générer manuellement un rapport :
+```bash
+python3 src/weekly_report.py
+```
+
 ## 📁 Structure du projet
 
 ```

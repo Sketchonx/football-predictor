@@ -109,9 +109,15 @@ RÉPONDS UNIQUEMENT EN JSON VALIDE. PAS DE MARKDOWN, PAS DE TEXTE HORS JSON."""
             
             # Nettoyer markdown si présent
             result_text = result_text.replace('```json', '').replace('```', '').strip()
-            
+
             # Parser JSON
             result = json.loads(result_text)
+
+            # Limiter au nombre maximum de prédictions configuré
+            if 'recommendations' in result and len(result['recommendations']) > self.config.MAX_PREDICTIONS:
+                result['recommendations'] = result['recommendations'][:self.config.MAX_PREDICTIONS]
+                result['total_retained'] = len(result['recommendations'])
+
             return result
         
         except json.JSONDecodeError as e:

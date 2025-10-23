@@ -5,3 +5,8 @@ beautifulsoup4==4.12.2
 lxml==4.9.3
 python-dotenv==1.0.0
 pytz==2023.3
+
+# Dashboard dependencies
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0

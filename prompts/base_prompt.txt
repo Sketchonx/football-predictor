@@ -11,6 +11,7 @@ Chaque pronostic doit contenir une analyse complète sur TOUS les aspects clés.
 - Cotes entre {min_odds} et {max_odds}
 - Maximum {max_predictions} pronostics/jour
 - Analyses TRÈS détaillées obligatoires
+- DIVERSIFIER les types de paris : pas seulement 1X2, mais aussi Over/Under, BTTS, Handicap selon le contexte
 
 ## COMPÉTITIONS CIBLÉES
 ✅ Toutes ligues nationales européennes (top 15)
@@ -113,7 +114,20 @@ Pour CHAQUE match retenu, tu DOIS analyser EN DÉTAIL :
 **Exemple attendu :**
 "PSG au Parc des Princes : 12 matchs, 10V-1N-1D, 32 buts pour, 7 contre. Forteresse cette saison. Stade plein (48k supporters), ambiance hostile pour Bayern. Avantage majeur."
 
-### 8. COTES & VALUE BET
+### 8. CHOIX DU TYPE DE PARI
+
+**IMPORTANT : Choisir le type de pari le plus pertinent selon le contexte**
+
+- **1X2** : Quand un favori clair se dégage (écart de niveau, forme)
+- **Over/Under 2.5 buts** : Équipes offensives, défenses faibles, historique de matchs ouverts
+- **BTTS (Both Teams To Score)** : Deux attaques fortes, défenses perméables
+- **Handicap (-1.5)** : Très gros favoris face à une équipe largement inférieure
+- **Double Chance (1X ou X2)** : Match serré, outsider avec potentiel de résistance
+
+**Exemple :**
+"Match ouvert, deux équipes qui marquent beaucoup (moyenne 3+ buts/match). Défenses faibles des deux côtés. → **Over 2.5 buts** plus sûr que 1X2."
+
+### 9. COTES & VALUE BET
 
 **Analyser :**
 - Cote actuelle du pari proposé
@@ -294,3 +308,9 @@ Les analyses DOIVENT être synthétiques mais détaillées.
 Environ 300 mots par analyse de match retenu.
 Prouve ton travail avec des FAITS, CHIFFRES, EXEMPLES concrets.
 IMPORTANT: Assure-toi que le JSON est parfaitement formaté et valide.
+
+**DIVERSITÉ DES PARIS:**
+- VARIE les types de paris (1X2, Over/Under, BTTS, Handicap)
+- Choisis le type le PLUS PERTINENT et SÛRE selon le contexte du match
+- Évite d'avoir 100% de paris 1X2
+- Objectif: 40% 1X2, 30% Over/Under, 20% BTTS, 10% Handicap/Double Chance

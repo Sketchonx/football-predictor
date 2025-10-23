@@ -7,7 +7,7 @@ class GeminiAnalyzer:
     def __init__(self):
         self.config = Config()
         genai.configure(api_key=self.config.GEMINI_API_KEY)
-        self.model = genai.GenerativeModel('gemini-1.5-flash')
+        self.model = genai.GenerativeModel('gemini-2.5-flash')
     
     def load_prompt_template(self):
         """Charge le prompt depuis le fichier"""

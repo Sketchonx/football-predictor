@@ -1,0 +1,135 @@
+{
+  "analysis_date": "2025-10-23",
+  "total_analyzed": 8,
+  "recommendations": [
+    {
+      "match": "Fenerbahce vs VfB Stuttgart",
+      "competition": "UEFA Europa League",
+      "kickoff": "18h45",
+      "analysis": "Fenerbahce affiche une excellente forme à domicile en compétitions européennes, avec une attaque prolifique. Stuttgart, bien que solide en Bundesliga, pourrait prioriser le championnat et présenter une rotation d'effectif, ce qui affaiblirait sa défense face à l'intensité turque.",
+      "critical_factors": [
+        "Forme récente de Fenerbahce à domicile",
+        "Potentielle rotation d'effectif de Stuttgart",
+        "Ambiance hostile au stade Şükrü Saracoğlu"
+      ],
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Fenerbahce)",
+      "odds": 1.9,
+      "confidence": 78
+    },
+    {
+      "match": "GO Ahead Eagles vs Aston Villa",
+      "competition": "UEFA Europa League",
+      "kickoff": "18h45",
+      "analysis": "Aston Villa, avec un effectif de Premier League de qualité supérieure, est un favori logique. Même avec des rotations, leur profondeur de banc et leur expérience européenne devraient leur permettre de dominer les débats face à une équipe hollandaise moins aguerrie.",
+      "critical_factors": [
+        "Qualité supérieure de l'effectif d'Aston Villa",
+        "Expérience européenne des joueurs de Villa",
+        "GO Ahead Eagles souvent moins performant face aux gros calibres"
+      ],
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Aston Villa)",
+      "odds": 1.75,
+      "confidence": 82
+    },
+    {
+      "match": "Lyon vs FC Basel 1893",
+      "competition": "UEFA Europa League",
+      "kickoff": "18h45",
+      "analysis": "Lyon bénéficie de l'avantage du terrain et possède une qualité individuelle généralement supérieure à Bâle. Les Suisses ont montré des signes d'inconstance à l'extérieur en Europe, tandis que Lyon est souvent difficile à battre dans son antre.",
+      "critical_factors": [
+        "Avantage du terrain pour Lyon",
+        "Qualité offensive lyonnaise",
+        "Inconstance de Bâle à l'extérieur"
+      ],
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Lyon)",
+      "odds": 1.75,
+      "confidence": 77
+    },
+    {
+      "match": "SC Braga vs FK Crvena Zvezda",
+      "competition": "UEFA Europa League",
+      "kickoff": "18h45",
+      "analysis": "Braga excelle à domicile en compétitions européennes, affichant une grande solidité défensive et une capacité à surprendre offensivement. L'Étoile Rouge peut être imprévisible à l'extérieur, mais la discipline tactique et l'ambiance portugaise pencheront pour Braga.",
+      "critical_factors": [
+        "Solidité de Braga à domicile",
+        "Organisation tactique de Braga",
+        "Difficultés de l'Étoile Rouge à l'extérieur"
+      ],
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire SC Braga)",
+      "odds": 1.8,
+      "confidence": 79
+    },
+    {
+      "match": "Rapid Vienna vs Fiorentina",
+      "competition": "UEFA Europa Conference League",
+      "kickoff": "18h45",
+      "analysis": "La Fiorentina possède un effectif nettement supérieur et une ambition claire dans cette compétition. Malgré le déplacement, leur maîtrise technique et leur capacité à contrôler le jeu devraient leur permettre de s'imposer face à une équipe autrichienne souvent limitée au niveau européen.",
+      "critical_factors": [
+        "Qualité individuelle de la Fiorentina",
+        "Ambition de la Viola en C4",
+        "Limites du Rapid Vienne contre des adversaires de Serie A"
+      ],
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Fiorentina)",
+      "odds": 1.95,
+      "confidence": 76
+    },
+    {
+      "match": "AZ Alkmaar vs Slovan Bratislava",
+      "competition": "UEFA Europa Conference League",
+      "kickoff": "18h45",
+      "analysis": "L'AZ Alkmaar est une équipe très dynamique et performante à domicile, avec une forte propension à marquer. Slovan Bratislava, bien que champion slovaque, aura du mal à contenir les attaques incessantes des Néerlandais dans leur stade.",
+      "critical_factors": [
+        "Puissance offensive de l'AZ à domicile",
+        "Dynamisme de l'équipe néerlandaise",
+        "Différence de niveau entre les championnats"
+      ],
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire AZ Alkmaar)",
+      "odds": 1.6,
+      "confidence": 80
+    },
+    {
+      "match": "AS Roma vs Plzen",
+      "competition": "UEFA Europa League",
+      "kickoff": "21h00",
+      "analysis": "L'AS Roma est un habitué des phases finales européennes et excelle dans son stade, où l'ambiance est toujours électrique. Plzen, malgré sa combativité, est généralement dépassé par les équipes italiennes de ce calibre, surtout à l'extérieur.",
+      "critical_factors": [
+        "Forteresse du Stadio Olimpico pour la Roma",
+        "Expérience et profondeur de l'effectif romain",
+        "Difficultés de Plzen face aux géants européens"
+      ],
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire AS Roma)",
+      "odds": 1.55,
+      "confidence": 85
+    },
+    {
+      "match": "Lille vs PAOK",
+      "competition": "UEFA Europa League",
+      "kickoff": "21h00",
+      "analysis": "Lille est une équipe tactiquement disciplinée et solide défensivement, particulièrement à domicile. Le PAOK, bien que capable de coups d'éclat, manque souvent de régularité et de qualité face à des adversaires de Ligue 1 sur leur terrain.",
+      "critical_factors": [
+        "Solidité défensive et organisation de Lille",
+        "Avantage du terrain pour les Dogues",
+        "Inconstance du PAOK en déplacement européen"
+      ],
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Lille)",
+      "odds": 1.68,
+      "confidence": 78
+    }
+  ],
+  "combined_bet": {
+    "matches": [
+      "GO Ahead Eagles vs Aston Villa",
+      "Rapid Vienna vs Fiorentina"
+    ],
+    "total_odds": 3.41,
+    "confidence": 79,
+    "reasoning": "La qualité supérieure et l'ambition d'Aston Villa et de la Fiorentina en Europe justifient ces paris combinés, avec des cotes attrayantes pour des victoires attendues."
+  }
+}

@@ -326,6 +326,15 @@ Les analyses DOIVENT être synthétiques mais détaillées.
 Minimum 300 mots par analyse, peut aller jusqu'à 500 mots si nécessaire pour terminer correctement les phrases.
 Prouve ton travail avec des FAITS, CHIFFRES, EXEMPLES concrets.
 
+**⚠️ RÈGLE CRITIQUE SUR LES DONNÉES:**
+Tu as une connaissance coupée en janvier 2025. Nous sommes maintenant en octobre 2025.
+- NE PAS inventer ou extrapoler de données obsolètes
+- Si tu n'as PAS de données récentes fiables, ADMETS-LE dans l'analyse
+- Utilise des termes prudents: "Selon les dernières données disponibles..." "Tendance récente suggère..."
+- NE JAMAIS affirmer avec certitude des stats que tu ne peux pas vérifier
+- Focus sur l'ANALYSE TACTIQUE et CONTEXTUELLE plutôt que sur des stats inventées
+- Si un facteur clé est INCERTAIN (blessures récentes, forme actuelle), MENTIONNE cette incertitude
+
 **RÈGLE ABSOLUE SUR LES PHRASES:**
 - AUCUN "..." n'est autorisé dans les analyses
 - TOUTES les phrases DOIVENT se terminer correctement avec un point final

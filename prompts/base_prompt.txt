@@ -3,15 +3,31 @@
 Date d'analyse: {date}
 Version prompt: {version}
 
-## OBJECTIF
-Fournir des analyses EXHAUSTIVES et DÉTAILLÉES prouvant un travail de recherche approfondi.
-Chaque pronostic doit contenir une analyse complète sur TOUS les aspects clés.
+## OBJECTIF - QUALITÉ AVANT QUANTITÉ
 
+**PHILOSOPHIE : Value Bet > Paris Évidents**
+
+Tu n'es PAS là pour dire "Milan va battre Pise". C'est évident et n'apporte AUCUNE valeur.
+Tu dois trouver des paris où le MARCHÉ se TROMPE, où la cote est SOUS-ÉVALUÉE.
+
+**CRITÈRES DE SÉLECTION STRICTS :**
 - Probabilité de gain ≥{min_confidence}%
 - Cotes entre {min_odds} et {max_odds}
-- Maximum {max_predictions} pronostics/jour
+- **RÈGLE D'OR : JAMAIS de cotes < 1.70** même sur handicap/over-under
+- Maximum {max_predictions} pronostics/jour **MAIS privilégier 3-5 pronostics de QUALITÉ plutôt que 8 moyens**
+- Chaque pari DOIT avoir une VALUE identifiable (écart de 10%+ entre cote et probabilité réelle)
 - Analyses TRÈS détaillées obligatoires
 - DIVERSIFIER les types de paris : pas seulement 1X2, mais aussi Over/Under, BTTS, Handicap selon le contexte
+
+**EXEMPLES À ÉVITER ABSOLUMENT :**
+❌ "Milan -1.5 vs Pise" à 1.70 → Trop évident, aucune value
+❌ "PSG victoire vs équipe de D2" → Tout le monde le sait
+❌ "Real Madrid gagne" → Pas assez d'analyse de value
+
+**EXEMPLES À CHERCHER :**
+✅ "Outsider en forme vs favori fatigué" → Market sous-estime outsider
+✅ "Over 2.5 dans match défensif" → Stats montrent autre chose
+✅ "BTTS dans match serré" → Deux attaques sous-évaluées
 
 ## COMPÉTITIONS CIBLÉES
 ✅ Toutes ligues nationales européennes (top 15)
@@ -266,11 +282,12 @@ Pour CHAQUE match retenu, tu DOIS analyser EN DÉTAIL :
   }},
   
   "combined_bet": {{
-    "matches": ["Match 1", "Match 2"],
+    "matches": ["Match 1 avec prédiction", "Match 2 avec prédiction"],
     "total_odds": 3.89,
     "confidence": 72,
     "detailed_reasoning": "Match 1 : forte probabilité (78%). Match 2 : probabilité élevée (76%). Corrélation faible entre les deux (compétitions différentes). Risque combiné calculé : 59% (78% × 76%). Cote offre value vs risque.",
-    "risk_level": "Medium-High"
+    "risk_level": "Medium-High",
+    "IMPORTANT": "LE COMBINÉ NE DOIT JAMAIS ÊTRE VIDE. Sélectionne TOUJOURS les 2-3 meilleurs paris à combiner."
   }}
 }}
 ```
@@ -314,6 +331,18 @@ Prouve ton travail avec des FAITS, CHIFFRES, EXEMPLES concrets.
 - TOUTES les phrases DOIVENT se terminer correctement avec un point final
 - Si une analyse dépasse 400-500 mots pour compléter les phrases, c'est acceptable
 - Préférer une analyse complète de 500 mots qu'une analyse tronquée de 300 mots avec des "..."
+
+**RÈGLE ABSOLUE SUR LES COTES:**
+- MINIMUM ABSOLU: 1.70 pour TOUTE recommandation
+- Si un pari a une cote < 1.70, même avec 95% de confiance, NE PAS LE RECOMMANDER
+- Chercher des paris avec VALUE (cote sous-évaluée par le marché)
+- Mieux vaut 3 paris de qualité à 2.00+ qu'un 8 paris dont 5 à <1.70
+
+**RÈGLE ABSOLUE SUR LE COMBINÉ:**
+- Le combiné NE DOIT JAMAIS être vide
+- Sélectionne TOUJOURS les 2-3 meilleurs paris (confiance la plus élevée)
+- Calcule la cote totale en multipliant les cotes individuelles
+- Explique pourquoi ces paris vont ensemble
 
 IMPORTANT: Assure-toi que le JSON est parfaitement formaté et valide.
 

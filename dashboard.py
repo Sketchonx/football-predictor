@@ -104,18 +104,16 @@ with col1:
     )
 
 with col2:
-    roi_color = "normal" if stats['roi'] >= 0 else "inverse"
     st.metric(
-        label="ROI",
-        value=f"{stats['roi']:.1f}%",
-        delta=f"€{stats['profit']:.2f}" if stats['completed'] > 0 else None,
-        delta_color=roi_color
+        label="Total pronostics",
+        value=f"{stats['total_predictions']}",
+        delta=f"{stats['completed']} terminés"
     )
 
 with col3:
     st.metric(
-        label="Pronostics gagnants",
-        value=f"{stats['total_wins']}/{stats['completed']}",
+        label="Victoires / Défaites",
+        value=f"{stats['total_wins']} / {stats['total_losses']}",
         delta=f"{stats['pending']} en attente"
     )
 

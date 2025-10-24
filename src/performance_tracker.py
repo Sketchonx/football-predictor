@@ -114,11 +114,11 @@ class PerformanceTracker:
         if not predictions:
             return {
                 'total_predictions': 0,
+                'completed': 0,
                 'win_rate': 0,
                 'total_wins': 0,
                 'total_losses': 0,
                 'pending': 0,
-                'roi': 0,
                 'avg_odds': 0,
                 'avg_confidence': 0
             }
@@ -128,14 +128,6 @@ class PerformanceTracker:
         losses = [p for p in completed if p['result'] == 'loss']
         pending = [p for p in predictions if p['result'] not in ['win', 'loss']]
 
-        # Calcul ROI (retour sur investissement)
-        # Hypothèse: mise de 10€ par pari
-        stake = 10
-        total_staked = len(completed) * stake
-        total_return = sum([p['odds'] * stake for p in wins])
-        profit = total_return - total_staked
-        roi = (profit / total_staked * 100) if total_staked > 0 else 0
-
         return {
             'total_predictions': len(predictions),
             'completed': len(completed),
@@ -143,10 +135,6 @@ class PerformanceTracker:
             'total_wins': len(wins),
             'total_losses': len(losses),
             'pending': len(pending),
-            'roi': roi,
-            'profit': profit,
-            'total_staked': total_staked,
-            'total_return': total_return,
             'avg_odds': sum([p['odds'] for p in predictions]) / len(predictions),
             'avg_confidence': sum([p['confidence'] for p in predictions]) / len(predictions),
         }

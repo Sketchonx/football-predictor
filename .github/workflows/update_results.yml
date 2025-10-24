@@ -35,18 +35,24 @@ jobs:
         run: |
           python src/auto_update_results.py
 
-      - name: Commit updated results
+      - name: Analyze lost predictions
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python src/post_match_analyzer.py
+
+      - name: Commit updated results and analyses
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          # Ajouter les changements
-          git add data/performance_history.json || true
+          # Ajouter les changements (résultats + analyses d'erreurs)
+          git add data/performance_history.json data/predictions/ data/error_analysis.json data/learnings.json || true
 
           # Commit seulement s'il y a des changements
           if git diff --staged --quiet; then
             echo "Aucun changement à commit"
           else
-            git commit -m "🤖 Mise à jour automatique des résultats - $(date +'%Y-%m-%d')"
+            git commit -m "🤖 Mise à jour automatique des résultats et analyses - $(date +'%Y-%m-%d')"
             git push
           fi

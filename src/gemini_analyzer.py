@@ -1,5 +1,6 @@
 import google.generativeai as genai
 import json
+import os
 from datetime import datetime
 from config import Config
 
@@ -83,15 +84,60 @@ Analyser matchs européens avec probabilité gain ≥75%, cote 1.50-4.00.
 
 RÉPONDS UNIQUEMENT EN JSON VALIDE. PAS DE MARKDOWN, PAS DE TEXTE HORS JSON."""
     
+    def _load_learnings(self):
+        """Charge les apprentissages des erreurs passées."""
+        learnings_file = os.path.join(self.config.DATA_DIR, 'learnings.json')
+
+        if not os.path.exists(learnings_file):
+            return ""
+
+        try:
+            with open(learnings_file, 'r', encoding='utf-8') as f:
+                learnings = json.load(f)
+
+            if learnings['total_errors_analyzed'] == 0:
+                return ""
+
+            # Construire le contexte d'apprentissage
+            context = "\n\n## ⚠️ APPRENTISSAGES DES ERREURS PASSÉES\n\n"
+            context += f"**{learnings['total_errors_analyzed']} erreurs analysées** - Applique ces conclusions pour éviter les mêmes erreurs.\n\n"
+
+            # Top 3 catégories d'erreurs
+            if learnings['categories']:
+                sorted_categories = sorted(
+                    learnings['categories'].items(),
+                    key=lambda x: x[1]['count'],
+                    reverse=True
+                )[:3]
+
+                context += "### Principales causes d'erreurs:\n"
+                for category, data in sorted_categories:
+                    context += f"- **{category.replace('_', ' ').title()}** ({data['count']} fois)\n"
+                    # Ajouter un exemple de conclusion
+                    if data['examples']:
+                        context += f"  → Exemple: {data['examples'][-1]['conclusion']}\n"
+
+            # Dernières conclusions actionnables
+            if learnings.get('key_learnings'):
+                context += "\n### ⚡ Règles à appliquer MAINTENANT:\n"
+                for learning in learnings['key_learnings'][-5:]:
+                    context += f"- {learning['conclusion']}\n"
+
+            context += "\n**IMPORTANT**: Vérifie systématiquement ces points avant chaque pronostic.\n\n"
+
+            return context
+
+        except Exception as e:
+            print(f"⚠️ Erreur chargement apprentissages: {e}")
+            return ""
+
     def analyze_matches(self, matches_formatted, stats=None):
         """Analyse les matchs avec Gemini"""
         today = datetime.now().strftime('%Y-%m-%d')
-        
-        # Charger statistiques d'apprentissage
-        learning_context = ""
-        if stats:
-            learning_context = f"\n## APPRENTISSAGE\nTaux réussite: {stats.get('win_rate', 0)}%\nErreurs courantes: {stats.get('common_errors', [])}\n"
-        
+
+        # Charger les apprentissages des erreurs passées
+        learning_context = self._load_learnings()
+
         prompt_template = self.load_prompt_template()
         prompt = prompt_template.format(
             date=today,

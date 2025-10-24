@@ -281,8 +281,9 @@ Pour CHAQUE match retenu, tu DOIS analyser EN DÉTAIL :
 2. **STATS PRÉCISES** : Toujours donner chiffres, scores, dates quand mentionnés
 3. **PAS DE GÉNÉRALITÉS** : Bannir phrases vagues type "bonne forme" sans détails
 4. **PREUVES** : Chaque affirmation doit être étayée par des faits
-5. **LONGUEUR** : Une analyse complète = environ 300 mots par match (synthétique mais détaillée)
+5. **LONGUEUR** : Une analyse complète = environ 300 mots par match minimum, peut aller jusqu'à 400-500 mots si nécessaire pour compléter les phrases
 6. **CONCLUSION SYNTHÉTIQUE** : Résumer tous les facteurs en fin d'analyse
+7. **PHRASES COMPLÈTES OBLIGATOIRES** : JAMAIS de "..." ou de phrases inachevées. Chaque phrase DOIT se terminer correctement avec un point final
 
 ## AUTO-VÉRIFICATION AVANT ENVOI
 
@@ -305,8 +306,15 @@ Pour chaque pronostic, vérifier :
 **INSTRUCTION FINALE:**
 Réponds en JSON pur et valide.
 Les analyses DOIVENT être synthétiques mais détaillées.
-Environ 300 mots par analyse de match retenu.
+Minimum 300 mots par analyse, peut aller jusqu'à 500 mots si nécessaire pour terminer correctement les phrases.
 Prouve ton travail avec des FAITS, CHIFFRES, EXEMPLES concrets.
+
+**RÈGLE ABSOLUE SUR LES PHRASES:**
+- AUCUN "..." n'est autorisé dans les analyses
+- TOUTES les phrases DOIVENT se terminer correctement avec un point final
+- Si une analyse dépasse 400-500 mots pour compléter les phrases, c'est acceptable
+- Préférer une analyse complète de 500 mots qu'une analyse tronquée de 300 mots avec des "..."
+
 IMPORTANT: Assure-toi que le JSON est parfaitement formaté et valide.
 
 **DIVERSITÉ DES PARIS:**

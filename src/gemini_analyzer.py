@@ -149,30 +149,51 @@ RÉPONDS UNIQUEMENT EN JSON VALIDE. PAS DE MARKDOWN, PAS DE TEXTE HORS JSON."""
             matches_list=matches_formatted
         ) + learning_context
         
-        try:
-            response = self.model.generate_content(prompt)
-            result_text = response.text.strip()
-            
-            # Nettoyer markdown si présent
-            result_text = result_text.replace('```json', '').replace('```', '').strip()
+        # Tentatives multiples pour obtenir un JSON valide
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                response = self.model.generate_content(prompt)
+                result_text = response.text.strip()
 
-            # Parser JSON
-            result = json.loads(result_text)
+                # Nettoyer markdown si présent
+                result_text = result_text.replace('```json', '').replace('```', '').strip()
 
-            # Limiter au nombre maximum de prédictions configuré
-            if 'recommendations' in result and len(result['recommendations']) > self.config.MAX_PREDICTIONS:
-                result['recommendations'] = result['recommendations'][:self.config.MAX_PREDICTIONS]
-                result['total_retained'] = len(result['recommendations'])
+                # Nettoyer les caractères invisibles et les espaces problématiques
+                result_text = result_text.replace('\u200b', '').replace('\ufeff', '')
 
-            return result
-        
-        except json.JSONDecodeError as e:
-            print(f"Erreur parsing JSON: {e}")
-            print(f"Réponse brute: {response.text[:500]}")
-            return None
-        except Exception as e:
-            print(f"Erreur Gemini: {e}")
-            return None
+                # Trouver le premier { et le dernier }
+                start = result_text.find('{')
+                end = result_text.rfind('}')
+
+                if start != -1 and end != -1:
+                    result_text = result_text[start:end+1]
+
+                # Parser JSON
+                result = json.loads(result_text)
+
+                # Limiter au nombre maximum de prédictions configuré
+                if 'recommendations' in result and len(result['recommendations']) > self.config.MAX_PREDICTIONS:
+                    result['recommendations'] = result['recommendations'][:self.config.MAX_PREDICTIONS]
+                    result['total_retained'] = len(result['recommendations'])
+
+                print(f"✅ Analyse réussie ({len(result.get('recommendations', []))} pronostics)")
+                return result
+
+            except json.JSONDecodeError as e:
+                print(f"⚠️ Tentative {attempt + 1}/{max_retries} - Erreur parsing JSON: {e}")
+                if attempt < max_retries - 1:
+                    print("🔄 Nouvelle tentative...")
+                    continue
+                else:
+                    print(f"❌ Échec après {max_retries} tentatives")
+                    print(f"Réponse brute: {response.text[:500]}")
+                    return None
+            except Exception as e:
+                print(f"❌ Erreur Gemini: {e}")
+                return None
+
+        return None
 
 # Test
 if __name__ == "__main__":

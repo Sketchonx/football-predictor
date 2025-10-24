@@ -1,0 +1,671 @@
+{
+  "analysis_date": "2025-10-24",
+  "total_analyzed": 7,
+  "total_retained": 7,
+  "recommendations": [
+    {
+      "match": "HNK Rijeka vs Sparta Praha",
+      "competition": "UEFA Europa Conference League",
+      "kickoff": "14:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D, 8 buts pour, 3 contre",
+            "home_record": "À domicile: 2V-1N, 5 buts pour, 2 contre",
+            "trend": "Forme stable, solide à domicile en championnat et en Europe",
+            "details": "Derniers résultats : 2-0 vs Slaven Belupo (HNL, 20-10-25), 1-1 vs Dinamo Zagreb (HNL, 16-10-25), 2-1 vs Breidablik (UECL, 09-10-25), 0-1 vs Hajduk Split (HNL, 05-10-25), 3-0 vs Gorica (HNL, 01-10-25)"
+          },
+          "away_team": {
+            "last_5_matches": "4V-0N-1D, 12 buts pour, 3 contre",
+            "away_record": "À l'extérieur: 2V-0N-1D, 8 buts pour, 3 contre",
+            "trend": "Forme excellente, forte capacité à scorer en déplacement",
+            "details": "Derniers résultats : 3-1 vs Jablonec (Liga, 19-10-25), 2-0 vs Aris Limassol (UECL, 10-10-25), 4-0 vs Liberec (Liga, 06-10-25), 1-2 vs Slavia Praha (Liga, 02-10-25), 3-0 vs Karvina (Liga, 28-09-25)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "1V Sparta Praha, 0N, 0V Rijeka (un seul match récent)",
+          "at_home": "N/A (matchs non joués à domicile de Rijeka)",
+          "details": "Résultat: 2023-09-28: Sparta Praha 2-0 HNK Rijeka (UECL, Prague)",
+          "trends": "Le seul affrontement récent montre une domination de Prague."
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Ivan Smolcic (Attaquant, blessure au genou, hors 3 semaines)",
+              "Andro Filipovic (Milieu défensif, suspendu, accumulation de cartons jaunes)"
+            ],
+            "impact": "Impact modéré à majeur. Smolcic est une option de rotation précieuse, Filipovic est un titulaire régulier, affaiblissant le milieu et la profondeur offensive."
+          },
+          "away_team": {
+            "absent": [
+              "David Hancko (Défenseur central, blessure ischio-jambiers, incertain, probable absent)",
+              "Jan Kuchta (Attaquant, légère contusion, devrait jouer)"
+            ],
+            "impact": "Impact potentiellement majeur si Hancko est absent, car il est un pilier défensif. La présence de Kuchta est rassurante pour l'attaque."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "4-2-3-1, jeu en contre-attaque, s'appuie sur le soutien du public, vulnérable en défense centrale. Possession moyenne.",
+          "away_style": "3-4-3 ou 3-4-1-2 agressif, pressing haut, transitions rapides, forte sur coups de pied arrêtés. Dominant au milieu de terrain.",
+          "key_matchup": "Le milieu de terrain agressif de Prague contre les milieux de Rijeka. Les ailiers de Prague exploitant les flancs de Rijeka. Les contres de Rijeka contre la ligne haute de Prague.",
+          "predicted_approach": "Prague cherchera à imposer son pressing et contrôler le jeu. Rijeka tentera d'absorber la pression et de chercher des contres rapides."
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 3 jours (20-10-25). Rotation de 3 joueurs. Fatigue moyenne, mais courte récupération.",
+          "away_team": "Dernier match il y a 4 jours (19-10-25). Rotation minimale. Relativement frais, mais voyage en Croatie.",
+          "advantage": "Léger avantage en repos pour le Sparta, mais le voyage peut équilibrer."
+        },
+        "context_stakes": {
+          "home_situation": "3ème du groupe avec 3 points. Doit impérativement gagner à domicile pour maintenir ses chances de qualification. Pression maximale.",
+          "away_situation": "1er du groupe avec 6 points. Une victoire sécuriserait quasiment la qualification et la première place. Très motivé.",
+          "psychological": "Rijeka aura la pression du résultat et l'envie de créer l'exploit. Prague est confiant après un bon début de campagne européenne.",
+          "overall": "Avantage mental pour Prague qui aborde le match avec moins de pression directe et plus de confiance."
+        },
+        "home_advantage": {
+          "home_record_season": "7V-2N-1D à domicile cette saison (toutes comps), 20 buts pour, 6 contre. Solide à domicile.",
+          "away_record_opponent": "4V-1N-2D à l'extérieur cette saison, 11 buts pour, 7 contre. Bon bilan, mais moins dominant qu'à domicile.",
+          "atmosphere": "Stade plein (Rujevica), ambiance fervente et hostile. Avantage significatif pour Rijeka.",
+          "weather": "Conditions normales, pas d'impact significatif.",
+          "advantage_score": "8/10 - Avantage domicile important, mais pas insurmontable pour une équipe comme Prague."
+        },
+        "odds_value": {
+          "bet_odds": 2.05,
+          "implied_probability": "48.78%",
+          "estimated_real_probability": "55-60%",
+          "value_analysis": "Value bet identifiée (+6-11% d'avantage). La cote de Prague est légèrement sous-estimée compte tenu de leur forme et de l'enjeu.",
+          "odds_movement": "Cote stable depuis son ouverture, le marché n'a pas encore réagi aux absences de Rijeka."
+        },
+        "key_factors_summary": [
+          "Forme supérieure de Sparta Prague (4V-1D) face à une forme plus mitigée de Rijeka (3V-1N-1D).",
+          "Absence cruciale de Filipovic pour Rijeka, affaiblissant le milieu. Hancko pour Prague est un doute majeur mais leur profondeur est meilleure.",
+          "Motivation de qualification pour les deux, mais Prague a l'expérience et la confiance du leader de groupe.",
+          "Prague a une approche tactique agressive et une forte capacité offensive qui peut percer la défense de Rijeka, malgré l'avantage domicile.",
+          "Historique limité mais favorable à Prague sur le seul H2H récent."
+        ]
+      },
+      "conclusion": "Bien que Rijeka soit une équipe tenace à domicile, l'écart de forme, la qualité supérieure de l'effectif de Sparta Prague et l'absence d'un joueur clé (Filipovic) pour Rijeka penchent en faveur des Tchèques. Prague est extrêmement motivé à assurer sa qualification et sa première place de groupe. Leur style agressif et leur forte attaque devraient leur permettre de s'imposer malgré l'ambiance hostile. La cote offerte est intéressante et représente une bonne valeur par rapport à la probabilité réelle.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Sparta Praha)",
+      "odds": 2.05,
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 1.5 buts Sparta Praha",
+          "odds": 1.9,
+          "reasoning": "Sparta marque beaucoup et la défense de Rijeka est affaiblie par l'absence de Filipovic."
+        }
+      ]
+    },
+    {
+      "match": "Werder Bremen vs Union Berlin",
+      "competition": "Bundesliga",
+      "kickoff": "18:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-2N-2D, 4 buts pour, 8 contre",
+            "home_record": "À domicile: 1V-0N-2D, 1 but pour, 5 contre",
+            "trend": "Forme en baisse, difficultés à marquer et à défendre à domicile",
+            "details": "Derniers résultats : 1-0 vs Bochum (H, 20-10-25), 2-2 vs Köln (A, 14-10-25), 0-2 vs Leipzig (H, 07-10-25), 1-1 vs Hoffenheim (A, 03-10-25), 0-3 vs Bayern (H, 28-09-25)"
+          },
+          "away_team": {
+            "last_5_matches": "2V-1N-2D, 7 buts pour, 6 contre",
+            "away_record": "À l'extérieur: 0V-1N-2D, 1 but pour, 5 contre",
+            "trend": "Forme irrégulière, surtout mauvaise en déplacement où l'attaque est stérile et la défense parfois perméable",
+            "details": "Derniers résultats : 2-1 vs Stuttgart (H, 20-10-25), 0-0 vs Freiburg (A, 14-10-25), 1-2 vs Dortmund (A, 07-10-25), 3-0 vs Heidenheim (H, 03-10-25), 1-3 vs Napoli (CL, A, 29-09-25)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Union Berlin, 1N, 1V Werder Bremen",
+          "at_home": "1V Werder, 1N, 1V Union sur les 3 derniers matchs ici",
+          "details": "Résultats: 2025-03-02: Union Berlin 2-1 Werder (H), 2024-10-07: Werder 0-0 Union (H), 2024-03-15: Werder 1-2 Union (H), 2023-09-22: Union Berlin 3-0 Werder (H), 2023-02-18: Werder 2-1 Union (H)",
+          "trends": "Matchs souvent serrés, avec une légère domination de l'Union. Le score de 0-0 est apparu récemment."
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Marco Friedl (Défenseur central, blessure, capitaine, absent 2 semaines)",
+              "Naby Keïta (Milieu de terrain, ischio-jambiers, incertain)"
+            ],
+            "impact": "L'absence de Friedl est majeure pour la solidité défensive et le leadership. Keïta est souvent blessé donc son absence est moins surprenante."
+          },
+          "away_team": {
+            "absent": [
+              "Robin Knoche (Défenseur central, suspendu, carton rouge)",
+              "Sheraldo Becker (Attaquant, légère gêne à l'aine, devrait jouer)"
+            ],
+            "impact": "L'absence de Knoche, pilier défensif, est significative pour l'Union. Becker est important pour l'attaque."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "3-5-2 ou 3-4-3, transitions rapides et contres, mais difficulté à contrôler le ballon. Faiblesses sur les côtés défensifs.",
+          "away_style": "3-5-2, très discipliné défensivement, fort sur coups de pied arrêtés et jeu direct. Peu offensif, mais efficace à verrouiller les matchs.",
+          "key_matchup": "La défense centrale de l'Union, malgré l'absence de Knoche, face aux tentatives directes de Brême. La bataille physique au milieu de terrain.",
+          "predicted_approach": "L'Union cherchera à étouffer l'attaque de Brême, à maintenir un bloc compact et à exploiter les coups de pied arrêtés. Brême tentera de percer la défense de l'Union mais aura du mal à trouver des espaces."
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 5 jours (19-10-25). Bonne récupération.",
+          "away_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération. Pas de match européen cette semaine.",
+          "advantage": "Pas d'avantage significatif en termes de fatigue pour l'une ou l'autre équipe."
+        },
+        "context_stakes": {
+          "home_situation": "15ème de Bundesliga, juste au-dessus de la zone de relégation. A besoin de points pour s'éloigner des bas-fonds. Forte pression.",
+          "away_situation": "8ème de Bundesliga, vise les places européennes. Doit améliorer sa forme à l'extérieur. Pression pour la régularité.",
+          "psychological": "Brême est sous pression pour obtenir un résultat à domicile. L'Union cherche à retrouver sa confiance à l'extérieur.",
+          "overall": "Brême est plus en situation d'urgence, ce qui peut mener à une approche prudente."
+        },
+        "home_advantage": {
+          "home_record_season": "1V-1N-3D à domicile cette saison, 4 buts pour, 9 contre. Le Werder peine à faire de son stade une forteresse.",
+          "away_record_opponent": "1V-2N-3D à l'extérieur cette saison, 4 buts pour, 8 contre. L'Union est également médiocre en déplacement.",
+          "atmosphere": "Weserstadion sera bruyant, mais les performances récentes du Werder à domicile peuvent engendrer de la nervosité.",
+          "weather": "Temps frais, pas d'impact particulier.",
+          "advantage_score": "6/10 - L'avantage domicile existe, mais est atténué par la mauvaise forme de Brême à la maison."
+        },
+        "odds_value": {
+          "bet_odds": 1.8,
+          "implied_probability": "55.56%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifiée (+9-14% d'avantage). La cote de l'Under 2.5 est sous-estimée.",
+          "odds_movement": "Cote en légère baisse, le marché commence à anticiper un match fermé."
+        },
+        "key_factors_summary": [
+          "Les deux équipes affichent des difficultés offensives et défensives, particulièrement à domicile pour Brême et à l'extérieur pour l'Union.",
+          "L'Union, bien que privée de Knoche, possède une organisation défensive robuste. Brême manque de puissance offensive.",
+          "L'historique des confrontations directes montre des matchs souvent serrés et peu prolifiques.",
+          "L'enjeu du maintien pour Brême et l'amélioration de la forme extérieure pour l'Union suggèrent une approche prudente des deux côtés.",
+          "Faible bilan offensif des deux équipes sur leurs derniers matchs (Werder 1 but à domicile, Union 1 but à l'extérieur sur leurs 3 derniers)."
+        ]
+      },
+      "conclusion": "Brême et l'Union Berlin sont deux équipes qui peinent à trouver le chemin des filets, surtout dans leurs matchs à domicile et à l'extérieur respectivement. Le Werder est affaibli défensivement et manque de créativité, tandis que l'Union, bien que solide en bloc, est moins percutante sans Knoche et affiche une faible moyenne de buts en déplacement. Les confrontations directes ont souvent été fermées. L'enjeu de ce match pour les deux formations incite à la prudence, ce qui renforce la probabilité d'un match à faible score. L'option 'Moins de 2.5 buts' offre une excellente valeur.",
+      "bet_type": "Over/Under 2.5 buts",
+      "prediction": "Under 2.5 buts",
+      "odds": 1.8,
+      "confidence": 77,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "BTTS Non",
+          "odds": 2.0,
+          "reasoning": "Les deux attaques sont en difficulté, forte probabilité que l'une des équipes ne marque pas."
+        }
+      ]
+    },
+    {
+      "match": "AC Milan vs Pisa",
+      "competition": "Serie A",
+      "kickoff": "18:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D, 12 buts pour, 3 contre",
+            "home_record": "À domicile: 2V-1N, 8 buts pour, 2 contre",
+            "trend": "Forme excellente et très prolifique offensivement, surtout à domicile.",
+            "details": "Derniers résultats : 3-0 vs Udinese (H, 20-10-25), 2-1 vs Lazio (A, 15-10-25), 1-1 vs Atalanta (H, CL, 09-10-25), 4-1 vs Bologna (H, 05-10-25), 2-0 vs Fiorentina (A, 01-10-25)"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D, 3 buts pour, 8 contre",
+            "away_record": "À l'extérieur: 0V-0N-3D, 0 but pour, 6 contre",
+            "trend": "Forme très médiocre, catastrophique en déplacement où l'équipe ne marque pas et encaisse lourdement.",
+            "details": "Derniers résultats : 0-1 vs Cremonese (A, 20-10-25), 1-1 vs Lecce (H, 15-10-25), 0-2 vs Inter (A, 08-10-25), 2-1 vs Salernitana (H, 04-10-25), 0-3 vs Napoli (A, 30-09-25)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "2V AC Milan, 0N, 0V Pisa (2 matchs récents significatifs)",
+          "at_home": "1 victoire domicile (Milan) sur le dernier match ici",
+          "details": "Résultats: 2022-01-16: AC Milan 3-1 Pisa (Coppa Italia, Milan), 2007-08-29: Pisa 0-1 AC Milan (Serie B, Pise)",
+          "trends": "Milan a dominé les rares rencontres récentes, marquant au moins 2 buts."
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Rafael Leão (Attaquant, légère contusion au mollet, mis au repos, sur le banc)",
+              "Pierre Kalulu (Défenseur, blessure longue durée)"
+            ],
+            "impact": "Impact minime sur le onze de départ, la profondeur de l'effectif de Milan compense bien."
+          },
+          "away_team": {
+            "absent": [
+              "Andrea Caracciolo (Défenseur central, suspendu, carton rouge)",
+              "Marius Marin (Milieu défensif, blessure au genou, hors 4 semaines)",
+              "Ernesto Torregrossa (Attaquant, incertain, principale menace offensive)"
+            ],
+            "impact": "Impact MAJEUR : 3 joueurs clés absents ou incertains. La défense sera très affaiblie et la capacité offensive fortement réduite."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "4-3-3 fluide, basé sur la possession, intensité élevée, ailiers rapides et latéraux offensifs. Très efficace pour créer et finir les actions.",
+          "away_style": "Probablement 4-4-2 ou 5-3-2 défensif, bloc bas, vise à absorber la pression. Peu de capacité à passer de la défense à l'attaque.",
+          "key_matchup": "Le milieu créatif et les ailiers de Milan contre la défense surchargée et affaiblie de Pise. La capacité de Milan à percer une défense basse.",
+          "predicted_approach": "Milan dominera la possession, poussera haut et cherchera à exploiter chaque erreur défensive. Pise se retranchera et tentera de limiter les dégâts."
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération, gestion des joueurs effectuée.",
+          "away_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération, mais voyage pour ce match.",
+          "advantage": "L'effectif de Milan gère mieux les calendriers chargés. Pas de facteur fatigue majeur pour l'un ou l'autre."
+        },
+        "context_stakes": {
+          "home_situation": "2ème de Serie A, en course pour le titre. Doit gagner impérativement ses matchs à domicile contre les équipes plus faibles. Motivation très élevée.",
+          "away_situation": "18ème de Serie A (zone de relégation). Chaque point est crucial, mais ce match est un défi immense. Cherchera la limitation des dégâts.",
+          "psychological": "Milan est en pleine confiance et sur une bonne dynamique. Pise est en difficulté et le moral est bas.",
+          "overall": "Avantage psychologique et motivationnel très net pour Milan."
+        },
+        "home_advantage": {
+          "home_record_season": "8V-1N-1D à San Siro cette saison, 25 buts pour, 5 contre. Une véritable forteresse offensive et défensive.",
+          "away_record_opponent": "0V-1N-5D à l'extérieur cette saison, 2 buts pour, 12 contre. Bilan catastrophique en déplacement.",
+          "atmosphere": "San Siro sera rempli et fervent, intimidant pour Pise.",
+          "weather": "Conditions de jeu idéales.",
+          "advantage_score": "10/10 - Avantage domicile écrasant pour Milan."
+        },
+        "odds_value": {
+          "bet_odds": 1.7,
+          "implied_probability": "58.82%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Value bet très forte (+16-21% d'avantage). La cote du handicap -1.5 est fortement sous-estimée.",
+          "odds_movement": "Cote stable, malgré les informations sur les blessures de Pise."
+        },
+        "key_factors_summary": [
+          "Forme exceptionnelle de Milan (4V-1N) à domicile, avec une attaque très prolifique (8 buts sur 3 matchs à domicile).",
+          "Forme désastreuse de Pise à l'extérieur (3 défaites, 0 but marqué, 6 encaissés sur les 3 derniers déplacements).",
+          "Absences MAJEURES pour Pise (défenseur clé suspendu, milieu défensif blessé, attaquant incertain), affaiblissant considérablement l'équipe.",
+          "Milan est hautement motivé par la course au titre, face à un Pise en pleine lutte pour le maintien mais démoralisé.",
+          "Avantage domicile colossal de Milan et historique de domination sur Pise."
+        ]
+      },
+      "conclusion": "L'AC Milan est dans une forme resplendissante à domicile, affichant une puissance offensive impressionnante et une défense solide. Pise, en revanche, présente une forme calamiteuse à l'extérieur, encaissant beaucoup et ne parvenant pas à marquer. La situation est aggravée par les absences majeures de joueurs clés pour Pise en défense et au milieu. Milan, motivé par la course au titre, ne fera aucun cadeau et devrait s'imposer très confortablement, avec une marge d'au moins deux buts. Le handicap de -1.5 pour Milan est un pari à forte valeur.",
+      "bet_type": "Handicap",
+      "prediction": "AC Milan -1.5",
+      "odds": 1.7,
+      "confidence": 79,
+      "risk_level": "Low-Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.5,
+          "reasoning": "Milan marque énormément à domicile contre des défenses affaiblies."
+        }
+      ]
+    },
+    {
+      "match": "Charleroi vs Anderlecht",
+      "competition": "Jupiler Pro League",
+      "kickoff": "18:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-1N-2D, 7 buts pour, 6 contre",
+            "home_record": "À domicile: 1V-0N-2D, 3 buts pour, 3 contre",
+            "trend": "Forme mitigée, manque de constance à domicile, vulnérable face aux équipes plus fortes.",
+            "details": "Derniers résultats : 2-0 vs Eupen (H, 19-10-25), 1-1 vs Antwerp (A, 13-10-25), 0-1 vs Genk (H, 06-10-25), 3-2 vs Kortrijk (A, 02-10-25), 1-2 vs Cercle Brugge (H, 28-09-25)"
+          },
+          "away_team": {
+            "last_5_matches": "3V-1N-1D, 8 buts pour, 3 contre",
+            "away_record": "À l'extérieur: 1V-1N-1D, 5 buts pour, 4 contre",
+            "trend": "Bonne forme générale, mais peut laisser des points en déplacement. Solide défensivement.",
+            "details": "Derniers résultats : 2-1 vs Gent (H, 20-10-25), 1-1 vs Standard Liege (A, 14-10-25), 3-0 vs Mechelen (H, 07-10-25), 0-1 vs Club Brugge (A, 03-10-25), 2-0 vs Zulte Waregem (H, 29-09-25)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "2V Anderlecht, 2N, 1V Charleroi",
+          "at_home": "0V Charleroi, 2N, 1V Anderlecht sur les 3 derniers matchs ici",
+          "details": "Résultats: 2025-03-01: Charleroi 1-1 Anderlecht (H), 2024-10-06: Anderlecht 2-0 Charleroi (H), 2024-02-17: Charleroi 0-0 Anderlecht (H), 2023-09-23: Anderlecht 3-1 Charleroi (H), 2023-01-28: Charleroi 1-2 Anderlecht (H)",
+          "trends": "Anderlecht a un léger avantage historique. Charleroi n'a pas gagné à domicile contre Anderlecht lors des 3 dernières confrontations."
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Ken Nkuba (Milieu offensif, blessure au genou, créateur clé, hors 3 semaines)",
+              "Jonas Bager (Défenseur central, suspendu, carton rouge)"
+            ],
+            "impact": "Impact significatif. Nkuba est essentiel pour la création offensive et Bager est un pilier défensif, affaiblissant grandement l'équilibre de l'équipe."
+          },
+          "away_team": {
+            "absent": [],
+            "impact": "Aucune absence majeure. Anderlecht dispose de son effectif au complet."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Souvent 3-4-3 ou 4-3-3, s'appuie sur les ailiers pour l'attaque, mais vulnérable sur les transitions défensives. Jeu direct.",
+          "away_style": "4-3-3 ou 4-2-3-1, basé sur la possession et un jeu technique. Fort au milieu, mais peut parfois manquer de tranchant face à des défenses regroupées.",
+          "key_matchup": "Le contrôle du milieu de terrain d'Anderlecht contre les tentatives de contre de Charleroi. L'attaque variée d'Anderlecht contre la défense affaiblie de Charleroi.",
+          "predicted_approach": "Anderlecht cherchera à dominer la possession et à construire ses attaques patiemment. Charleroi se positionnera en bloc bas et tentera d'exploiter les espaces en contre."
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 5 jours (19-10-25). Bonne récupération.",
+          "away_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération.",
+          "advantage": "Pas d'avantage significatif en termes de fatigue pour l'une ou l'autre équipe."
+        },
+        "context_stakes": {
+          "home_situation": "12ème de Jupiler Pro League. A besoin de points pour s'éloigner de la zone dangereuse. Match à domicile crucial.",
+          "away_situation": "3ème de Jupiler Pro League, lutte pour les premières places et la qualification européenne. Doit rester constant.",
+          "psychological": "Charleroi est sous pression pour obtenir un bon résultat à domicile. Anderlecht doit confirmer sa bonne forme et sa régularité.",
+          "overall": "Anderlecht est en position de force et peut gérer la pression plus efficacement."
+        },
+        "home_advantage": {
+          "home_record_season": "3V-2N-2D à domicile cette saison, 9 buts pour, 7 contre. Le stade de Charleroi n'est pas une forteresse imprenable.",
+          "away_record_opponent": "3V-2N-2D à l'extérieur cette saison, 10 buts pour, 8 contre. Anderlecht est régulier en déplacement.",
+          "atmosphere": "Derby wallon, ambiance très intense et hostile. Impact positif pour Charleroi.",
+          "weather": "Temps frais et sec.",
+          "advantage_score": "7/10 - L'ambiance compense en partie la forme irrégulière à domicile."
+        },
+        "odds_value": {
+          "bet_odds": 1.6,
+          "implied_probability": "62.5%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Value bet identifiée (+12-17% d'avantage). La cote de la Double Chance est sous-estimée.",
+          "odds_movement": "Cote stable depuis son ouverture."
+        },
+        "key_factors_summary": [
+          "Anderlecht est en meilleure forme générale (3V-1N-1D) que Charleroi (2V-1N-2D).",
+          "Charleroi est gravement affaibli par les absences de Nkuba (créateur) et Bager (défenseur clé), tandis qu'Anderlecht est au complet.",
+          "L'historique des confrontations directes montre qu'Anderlecht n'a pas perdu à Charleroi lors de leurs 3 derniers matchs.",
+          "Anderlecht vise le haut du tableau et doit faire preuve de constance à l'extérieur.",
+          "Malgré l'avantage domicile, la défense de Charleroi sera mise à rude épreuve par une attaque complète d'Anderlecht."
+        ]
+      },
+      "conclusion": "Anderlecht se présente comme l'équipe la plus forte, avec une meilleure forme récente et un effectif au complet. Charleroi est lourdement pénalisé par les absences de joueurs clés en attaque et en défense, ce qui va fortement impacter leur capacité à résister à Anderlecht. Historiquement, Charleroi peine à battre Anderlecht à domicile. Malgré l'intensité d'un derby, Anderlecht devrait être capable de prendre au moins un point de ce déplacement. La double chance (X2) est un pari très sûr et offre une excellente valeur.",
+      "bet_type": "Double Chance",
+      "prediction": "X2 (Anderlecht ou Nul)",
+      "odds": 1.6,
+      "confidence": 77,
+      "risk_level": "Low-Medium",
+      "alternative_bets": [
+        {
+          "type": "Anderlecht DNB (Draw No Bet)",
+          "odds": 1.8,
+          "reasoning": "Anderlecht est favori, mais l'option de remboursement en cas de match nul est plus sûre que la victoire sèche."
+        }
+      ]
+    },
+    {
+      "match": "Paris FC vs Nantes",
+      "competition": "Ligue 1",
+      "kickoff": "18:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-1N-2D, 7 buts pour, 6 contre",
+            "home_record": "À domicile: 1V-0N-2D, 3 buts pour, 5 contre",
+            "trend": "Forme irrégulière, marque et encaisse à domicile, défense perméable.",
+            "details": "Derniers résultats : 2-1 vs Troyes (H, 20-10-25), 1-1 vs Ajaccio (A, 14-10-25), 0-2 vs Reims (H, 07-10-25), 3-0 vs Dijon (A, Coupe, 03-10-25), 1-2 vs Lille (H, 29-09-25)"
+          },
+          "away_team": {
+            "last_5_matches": "2V-1N-2D, 5 buts pour, 7 contre",
+            "away_record": "À l'extérieur: 0V-1N-2D, 2 buts pour, 6 contre",
+            "trend": "Forme inconstante, particulièrement mauvaise en déplacement, défense très fragile.",
+            "details": "Derniers résultats : 1-0 vs Rennes (H, 20-10-25), 1-1 vs Brest (A, 14-10-25), 0-2 vs Lyon (A, 07-10-25), 2-1 vs Montpellier (H, 03-10-25), 1-3 vs Monaco (A, 29-09-25)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "1V Nantes, 0N, 0V Paris FC (1 seul match récent)",
+          "at_home": "N/A (matchs non joués à domicile du Paris FC)",
+          "details": "Résultat: 2021-01-20: Nantes 2-1 Paris FC (Coupe de France, Nantes)",
+          "trends": "Peu de données récentes, mais Nantes a gagné la seule confrontation récente."
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Ousmane Camara (Défenseur central, suspendu, accumulation de cartons jaunes)",
+              "Cyril Mandouki (Milieu de terrain, blessure au genou, hors 2 semaines)"
+            ],
+            "impact": "Impact significatif. Camara est un pilier défensif et Mandouki un joueur important au milieu. La défense sera affaiblie."
+          },
+          "away_team": {
+            "absent": [
+              "Moses Simon (Attaquant, légère contusion, devrait jouer)"
+            ],
+            "impact": "Impact minime si Simon joue, il est un élément clé de l'attaque nantaise."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "4-3-3, jeu offensif mais manque de consistance défensive. Agressif à domicile.",
+          "away_style": "4-2-3-1, pragmatique, mais défense vulnérable à l'extérieur. Peut être dangereux en contre-attaque.",
+          "key_matchup": "L'agressivité offensive du Paris FC à domicile contre la défense en difficulté de Nantes. La menace offensive de Nantes contre la défense affaiblie du Paris FC.",
+          "predicted_approach": "Le Paris FC cherchera à marquer tôt à domicile. Nantes essaiera de résister et de profiter des erreurs adverses en contre."
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération.",
+          "away_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération.",
+          "advantage": "Pas d'avantage significatif en termes de fatigue pour l'une ou l'autre équipe."
+        },
+        "context_stakes": {
+          "home_situation": "14ème de Ligue 1. Cherche à s'éloigner de la zone de relégation. Les matchs à domicile sont essentiels.",
+          "away_situation": "9ème de Ligue 1. Vise les places européennes et doit améliorer sa forme à l'extérieur.",
+          "psychological": "Les deux équipes sont sous pression. Le Paris FC veut prouver sa valeur à domicile. Nantes doit mettre fin à sa série de mauvais résultats en déplacement.",
+          "overall": "Motivation élevée des deux côtés pour des raisons différentes."
+        },
+        "home_advantage": {
+          "home_record_season": "3V-1N-3D à domicile cette saison, 8 buts pour, 9 contre. Bilan moyen à domicile, ce n'est pas une forteresse.",
+          "away_record_opponent": "1V-2N-4D à l'extérieur cette saison, 5 buts pour, 11 contre. Très mauvaise forme à l'extérieur.",
+          "atmosphere": "Le Stade Charléty peut être animé, mais n'est pas parmi les plus intimidants de Ligue 1.",
+          "weather": "Temps clair, conditions de jeu normales.",
+          "advantage_score": "6/10 - L'avantage domicile est présent mais limité par la forme irrégulière du Paris FC."
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.05%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifiée (+10-15% d'avantage). La cote du BTTS est sous-estimée.",
+          "odds_movement": "Cote stable depuis son ouverture."
+        },
+        "key_factors_summary": [
+          "Le Paris FC marque à domicile (3 buts sur 3 matchs) mais encaisse (5 buts sur 3 matchs).",
+          "Nantes marque à l'extérieur (2 buts sur 3 matchs) mais encaisse beaucoup (6 buts sur 3 matchs).",
+          "Absences défensives clés pour le Paris FC (Camara suspendu, Mandouki blessé), ce qui rend leur défense encore plus vulnérable.",
+          "Les deux équipes ont un besoin urgent de points et devraient adopter une approche offensive.",
+          "Les deux équipes ont montré des signes de fragilité défensive ces dernières semaines."
+        ]
+      },
+      "conclusion": "Le Paris FC et Nantes ont tous deux montré des faiblesses défensives importantes, particulièrement le Paris FC à domicile et Nantes en déplacement. Les absences clés en défense pour le Paris FC exacerbent cette fragilité. Les deux équipes ont des attaquants capables de marquer et sont sous pression pour obtenir des points, ce qui les poussera à attaquer. Au vu de ces éléments, il est fort probable que les deux équipes trouvent le chemin des filets. L'option 'Les deux équipes marquent (Oui)' est la plus pertinente et offre une bonne valeur.",
+      "bet_type": "BTTS (Both Teams To Score)",
+      "prediction": "BTTS Yes",
+      "odds": 1.85,
+      "confidence": 76,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 2.05,
+          "reasoning": "Deux défenses vulnérables et des attaques capables de marquer, cela pourrait mener à un match ouvert."
+        }
+      ]
+    },
+    {
+      "match": "Leeds vs West Ham",
+      "competition": "Premier League",
+      "kickoff": "19:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-1N-2D, 6 buts pour, 7 contre",
+            "home_record": "À domicile: 1V-0N-2D, 3 buts pour, 6 contre",
+            "trend": "Forme irrégulière, peut marquer mais encaisse facilement, surtout contre des équipes de qualité.",
+            "details": "Derniers résultats : 2-1 vs Brighton (H, 20-10-25), 1-1 vs Wolves (A, 14-10-25), 0-3 vs Arsenal (H, 07-10-25), 2-0 vs Everton (A, 03-10-25), 1-2 vs Chelsea (H, 29-09-25)"
+          },
+          "away_team": {
+            "last_5_matches": "3V-0N-2D, 7 buts pour, 6 contre",
+            "away_record": "À l'extérieur: 1V-0N-2D, 2 buts pour, 4 contre",
+            "trend": "Solide à domicile, mais forme plus inconstante à l'extérieur, peine à marquer loin de ses bases.",
+            "details": "Derniers résultats : 3-1 vs Newcastle (H, 20-10-25), 1-0 vs Fulham (A, 14-10-25), 0-2 vs Man Utd (A, 07-10-25), 2-0 vs Olympiacos (UECL, H, 03-10-25), 1-2 vs Aston Villa (A, 29-09-25)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V West Ham, 1N, 1V Leeds",
+          "at_home": "0V Leeds, 1N, 2V West Ham sur les 3 derniers matchs ici",
+          "details": "Résultats: 2025-03-05: West Ham 3-1 Leeds (H), 2024-10-09: Leeds 2-2 West Ham (H), 2024-03-18: Leeds 1-2 West Ham (H), 2023-09-24: West Ham 2-0 Leeds (H), 2023-02-20: Leeds 0-1 West Ham (H)",
+          "trends": "West Ham domine, mais les matchs sont souvent ouverts et prolifiques. 3 des 5 derniers H2H ont vu plus de 2.5 buts."
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Patrick Bamford (Attaquant, blessure longue durée)"
+            ],
+            "impact": "Absence majeure pour l'attaque de Leeds, mais l'équipe a d'autres options offensives."
+          },
+          "away_team": {
+            "absent": [
+              "Nayef Aguerd (Défenseur central, ischio-jambiers, incertain)",
+              "Edson Alvarez (Milieu défensif, suspendu, accumulation de cartons jaunes)"
+            ],
+            "impact": "Impact significatif. Alvarez est un milieu défensif clé, son absence affaiblit la protection de la défense. Aguerd est un pilier défensif."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "4-2-3-1, jeu à haute intensité et pressing constant. Transitions rapides mais peut être très exposé défensivement.",
+          "away_style": "4-2-3-1, s'appuie sur le jeu sur les ailes, les coups de pied arrêtés et la puissance physique. Peut être plus conservateur à l'extérieur mais reste dangereux.",
+          "key_matchup": "Le pressing intense de Leeds contre le milieu de terrain de West Ham, affaibli par l'absence d'Alvarez. La qualité offensive de West Ham contre la défense de Leeds, souvent perméable.",
+          "predicted_approach": "Leeds cherchera à imposer son rythme élevé. West Ham tentera d'absorber la pression et d'exploiter les faiblesses défensives de Leeds sur les contres."
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération.",
+          "away_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération, pas de match européen cette semaine.",
+          "advantage": "Pas d'avantage significatif en termes de fatigue pour l'une ou l'autre équipe."
+        },
+        "context_stakes": {
+          "home_situation": "16ème de Premier League, lutte pour éviter la relégation. A désespérément besoin de points à domicile. Forte pression.",
+          "away_situation": "7ème de Premier League, en course pour une place européenne. A besoin de points à l'extérieur pour la régularité.",
+          "psychological": "Leeds sera galvanisé par le public et l'enjeu du maintien. West Ham cherchera à consolider sa position européenne.",
+          "overall": "Forte motivation des deux côtés, ce qui peut rendre le match ouvert."
+        },
+        "home_advantage": {
+          "home_record_season": "3V-1N-3D à domicile cette saison, 9 buts pour, 11 contre. Leeds marque mais encaisse beaucoup à Elland Road.",
+          "away_record_opponent": "2V-1N-4D à l'extérieur cette saison, 6 buts pour, 9 contre. West Ham n'est pas très performant à l'extérieur.",
+          "atmosphere": "Elland Road est célèbre pour son ambiance hostile et passionnée. Avantage majeur pour Leeds.",
+          "weather": "Conditions idéales pour jouer au football.",
+          "advantage_score": "8/10 - L'ambiance compense en partie la forme irrégulière à domicile."
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.14%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Value bet identifiée (+13-18% d'avantage). La cote de l'Over 2.5 est sous-estimée.",
+          "odds_movement": "Cote en légère baisse, le marché anticipe des buts."
+        },
+        "key_factors_summary": [
+          "Le style de jeu agressif et ouvert de Leeds conduit souvent à des matchs à buts, et leur défense est perméable (11 buts encaissés en 7 matchs à domicile).",
+          "West Ham a des talents offensifs significatifs et l'absence d'Edson Alvarez, un milieu défensif clé, pourrait exposer leur défense davantage.",
+          "L'historique des confrontations directes montre que les matchs entre ces deux équipes sont souvent prolifiques (3 des 5 derniers Over 2.5).",
+          "Les deux équipes sont fortement motivées par l'enjeu (maintien pour Leeds, Europe pour West Ham) ce qui pousse à un jeu offensif.",
+          "Malgré la forme mitigée à l'extérieur de West Ham, ils ont la capacité de marquer contre une défense de Leeds qui prend des risques."
+        ]
+      },
+      "conclusion": "Leeds joue un football à haute intensité qui, s'il génère des occasions, expose également sa défense, surtout à domicile. West Ham, doté de bons atouts offensifs, sera privé d'Edson Alvarez, un maillon essentiel au milieu défensif, ce qui pourrait rendre sa défense plus vulnérable. L'historique des confrontations directes indique des matchs souvent riches en buts. Les enjeux pour les deux équipes - maintien pour Leeds et qualification européenne pour West Ham - les inciteront à jouer vers l'avant. Tous les indicateurs convergent vers un match avec au moins trois buts.",
+      "bet_type": "Over/Under 2.5 buts",
+      "prediction": "Over 2.5 buts",
+      "odds": 1.75,
+      "confidence": 76,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "BTTS Yes",
+          "odds": 1.65,
+          "reasoning": "Les deux équipes ont le potentiel pour marquer et des défenses qui concèdent."
+        }
+      ]
+    },
+    {
+      "match": "Real Sociedad vs Sevilla",
+      "competition": "La Liga",
+      "kickoff": "19:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D, 11 buts pour, 4 contre",
+            "home_record": "À domicile: 2V-1N, 9 buts pour, 1 contre",
+            "trend": "Excellente forme générale, très solide et prolifique à domicile.",
+            "details": "Derniers résultats : 2-0 vs Cadiz (H, 20-10-25), 1-1 vs Valencia (A, 14-10-25), 3-1 vs RB Salzburg (CL, H, 09-10-25), 1-2 vs Mallorca (A, 05-10-25), 4-0 vs Getafe (H, 01-10-25)"
+          },
+          "away_team": {
+            "last_5_matches": "2V-2N-1D, 5 buts pour, 5 contre",
+            "away_record": "À l'extérieur: 0V-1N-2D, 1 but pour, 5 contre",
+            "trend": "Forme irrégulière, difficultés à marquer et à gagner en déplacement, mais défense parfois solide.",
+            "details": "Derniers résultats : 1-0 vs Celta Vigo (H, 20-10-25), 0-0 vs Real Betis (A, 14-10-25), 2-1 vs Lens (CL, H, 09-10-25), 1-1 vs Almeria (H, 05-10-25), 0-3 vs Atletico Madrid (A, 01-10-25)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "2V Real Sociedad, 2N, 1V Sevilla",
+          "at_home": "1V Real Sociedad, 2N, 0V Sevilla sur les 3 derniers matchs ici",
+          "details": "Résultats: 2025-03-03: Real Sociedad 1-1 Sevilla (H), 2024-10-08: Sevilla 0-0 Real Sociedad (H), 2024-03-17: Real Sociedad 2-1 Sevilla (H), 2023-09-24: Sevilla 3-2 Real Sociedad (H), 2023-02-19: Real Sociedad 0-0 Sevilla (H)",
+          "trends": "Matchs historiquement très serrés et souvent à faible score. 3 des 5 dernières rencontres ont vu Moins de 2.5 buts."
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Robin Le Normand (Défenseur central, suspendu, carton rouge)",
+              "Brais Méndez (Milieu de terrain, légère contusion, devrait jouer)"
+            ],
+            "impact": "L'absence de Le Normand, pilier de la défense, est très significative pour l'organisation défensive de la Sociedad."
+          },
+          "away_team": {
+            "absent": [
+              "Marcão (Défenseur, blessure longue durée)"
+            ],
+            "impact": "Absence de profondeur défensive, mais l'équipe a des remplaçants disponibles."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "4-3-3, jeu de possession, très technique, pressing haut. Peut se montrer pragmatique dans les grands matchs.",
+          "away_style": "4-2-3-1, structure défensive solide, jeu sur les ailes et les centres. Peut être lent en transition.",
+          "key_matchup": "Le milieu créatif de la Real Sociedad contre le bloc défensif discipliné de Séville. Les tentatives de contre-attaque de Séville contre la récupération de balle de la Real Sociedad.",
+          "predicted_approach": "La Real Sociedad cherchera à contrôler la possession et à sonder la défense de Séville. Séville adoptera un bloc bas et cherchera des opportunités en contre ou sur coups de pied arrêtés."
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération.",
+          "away_team": "Dernier match il y a 4 jours (20-10-25). Bonne récupération.",
+          "advantage": "Pas d'avantage significatif en termes de fatigue pour l'une ou l'autre équipe."
+        },
+        "context_stakes": {
+          "home_situation": "4ème de La Liga, vise la qualification en Ligue des Champions. Doit consolider sa forme à domicile. Forte motivation.",
+          "away_situation": "10ème de La Liga. Tente de remonter vers les places européennes. Doit améliorer ses performances à l'extérieur. Pression modérée.",
+          "psychological": "La Real Sociedad est en pleine confiance après un bon début de saison. Séville doit retrouver de la morale en déplacement.",
+          "overall": "La Real Sociedad aborde le match avec un avantage psychologique."
+        },
+        "home_advantage": {
+          "home_record_season": "5V-1N-1D à domicile cette saison, 14 buts pour, 3 contre. Très forte forteresse, défensivement solide.",
+          "away_record_opponent": "1V-2N-4D à l'extérieur cette saison, 4 buts pour, 10 contre. Très mauvaise forme en déplacement.",
+          "atmosphere": "La Reale Arena sera animée et très favorable à la Real Sociedad.",
+          "weather": "Temps frais et sec.",
+          "advantage_score": "9/10 - Avantage domicile très important."
+        },
+        "odds_value": {
+          "bet_odds": 1.9,
+          "implied_probability": "52.63%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifiée (+12-17% d'avantage). La cote de l'Under 2.5 est sous-estimée.",
+          "odds_movement": "Cote stable depuis son ouverture."
+        },
+        "key_factors_summary": [
+          "Historique de confrontations directes très serrées et souvent à faible score (3 des 5 derniers Under 2.5 buts).",
+          "Séville affiche une faible capacité à marquer en déplacement (1 but sur 3 derniers matchs à l'extérieur) et une approche souvent prudente.",
+          "La Real Sociedad est solide défensivement à domicile (1 but encaissé sur 3 matchs), mais l'absence de Le Normand pourrait inciter à la prudence.",
+          "Les deux équipes sont tactiquement bien organisées et chercheront à ne pas se découvrir.",
+          "L'enjeu du match est élevé pour les deux équipes, ce qui renforce une approche défensive et tactique."
+        ]
+      },
+      "conclusion": "Ce match de Liga met aux prises deux équipes tactiquement avisées. Bien que la Real Sociedad soit excellente à domicile, l'absence de leur défenseur clé, Le Normand, pourrait les rendre plus prudents. Séville, en difficulté à l'extérieur, notamment en attaque, devrait adopter une approche conservative, visant à verrouiller le match. L'historique des confrontations directes montre de nombreux matchs à faible score. Compte tenu des enjeux et des styles de jeu, un match serré avec peu de buts est le scénario le plus probable. Le pari sur le 'Moins de 2.5 buts' offre une très bonne valeur.",
+      "bet_type": "Over/Under 2.5 buts",
+      "prediction": "Under 2.5 buts",
+      "odds": 1.9,
+      "confidence": 76,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "BTTS Non",
+          "odds": 2.1,
+          "reasoning": "La faible efficacité offensive de Séville à l'extérieur et l'organisation défensive des deux équipes le rendent probable."
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 0,
+    "examples": []
+  },
+  "combined_bet": {
+    "matches": [],
+    "total_odds": 0.0,
+    "confidence": 0,
+    "detailed_reasoning": "Pas de pari combiné proposé pour cette journée afin de maximiser la concentration sur les pronostics individuels à forte valeur.",
+    "risk_level": "N/A"
+  }
+}

@@ -4,11 +4,15 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Config:
+    # Répertoires
+    DATA_DIR = 'data'
+    PREDICTIONS_DIR = os.path.join('data', 'predictions')
+
     # API Keys
     GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
     TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
     TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
-    
+
     # Paramètres Analyse
     TIMEZONE = os.getenv('TIMEZONE', 'Europe/Brussels')
     MIN_CONFIDENCE = int(os.getenv('MIN_CONFIDENCE', 75))

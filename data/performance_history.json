@@ -33,5 +33,26 @@
     "actual_score": "1-2",
     "recorded_at": "2025-10-23T21:21:46.094066",
     "updated_at": "2025-10-23T21:21:46.094077"
+  },
+  {
+    "prediction_id": "2025-10-23_5",
+    "result": "win",
+    "actual_score": "0-3",
+    "recorded_at": "2025-10-24T09:37:01.271002",
+    "updated_at": "2025-10-24T09:37:01.271032"
+  },
+  {
+    "prediction_id": "2025-10-23_6",
+    "result": "loss",
+    "actual_score": "1-2",
+    "recorded_at": "2025-10-24T09:37:01.613314",
+    "updated_at": "2025-10-24T09:37:01.613331"
+  },
+  {
+    "prediction_id": "2025-10-23_7",
+    "result": "loss",
+    "actual_score": "2-0",
+    "recorded_at": "2025-10-24T09:37:01.867934",
+    "updated_at": "2025-10-24T09:37:01.867967"
   }
 ]

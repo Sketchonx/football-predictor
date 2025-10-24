@@ -1,0 +1,52 @@
+name: Mise à jour automatique des résultats
+
+on:
+  schedule:
+    # Tous les jours à 23h00 UTC (00h Belgique) - après les matchs
+    - cron: '0 23 * * *'
+  workflow_dispatch:  # Permet déclenchement manuel
+
+permissions:
+  contents: write
+
+jobs:
+  update-results:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Update results automatically
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          TIMEZONE: Europe/Brussels
+        run: |
+          python src/auto_update_results.py
+
+      - name: Commit updated results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          # Ajouter les changements
+          git add data/performance_history.json || true
+
+          # Commit seulement s'il y a des changements
+          if git diff --staged --quiet; then
+            echo "Aucun changement à commit"
+          else
+            git commit -m "🤖 Mise à jour automatique des résultats - $(date +'%Y-%m-%d')"
+            git push
+          fi

@@ -71,7 +71,13 @@ st.markdown("""
 tracker = PerformanceTracker()
 
 # Header
-st.markdown("# ⚽ Football Predictor Dashboard")
+col_header1, col_header2 = st.columns([4, 1])
+with col_header1:
+    st.markdown("# ⚽ Football Predictor Dashboard")
+with col_header2:
+    if st.button("🔄 Refresh", use_container_width=True):
+        st.rerun()
+
 st.markdown("---")
 
 # Sidebar - Filtres

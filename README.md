@@ -136,14 +136,37 @@ Le système propose différents types de paris selon le contexte :
 
 ## 🤖 Automatisation
 
-Le workflow GitHub Actions s'exécute automatiquement tous les jours à 11h UTC (12h Belgique) :
-
+### Analyse quotidienne
+Le workflow s'exécute automatiquement tous les jours à **11h UTC** (12h Belgique) :
 1. Récupère les matchs du jour
 2. Analyse avec Gemini
 3. Envoie les pronostics sur Telegram
 4. Sauvegarde dans le repository
 
-## 📱 Enregistrer les résultats
+### Mise à jour automatique des résultats 🆕
+Le workflow s'exécute automatiquement tous les jours à **23h UTC** (00h Belgique) :
+1. Récupère les scores finaux via API-Football
+2. Détermine automatiquement si les pronostics sont gagnants/perdants
+3. Met à jour la base de données
+4. Commit les résultats sur GitHub
+
+**Plus besoin de saisir manuellement les résultats !** ✨
+
+### Rapport hebdomadaire
+Le workflow s'exécute tous les **lundis à 9h UTC** :
+1. Analyse les performances de la semaine écoulée
+2. Envoie le rapport sur Telegram
+
+## 📱 Enregistrer les résultats (Manuel - Optionnel)
+
+⚡ **Les résultats sont maintenant mis à jour automatiquement tous les soirs à 23h UTC !**
+
+Si vous voulez mettre à jour manuellement avant :
+
+### Automatiquement (Recommandé)
+```bash
+python3 src/auto_update_results.py
+```
 
 ### Via le dashboard
 

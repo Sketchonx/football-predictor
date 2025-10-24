@@ -43,8 +43,8 @@ Thumbs.db
 # data/predictions/*.json
 # data/performance_history.json
 
-# Streamlit
-.streamlit/
+# Streamlit secrets only (keep config.toml)
+.streamlit/secrets.toml
 
 # Logs
 *.log

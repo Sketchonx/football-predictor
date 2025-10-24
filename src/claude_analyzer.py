@@ -21,9 +21,8 @@ class ClaudeAnalyzer:
             raise ValueError("ANTHROPIC_API_KEY manquante dans .env")
 
         self.client = anthropic.Anthropic(api_key=self.api_key)
-        # Utiliser Claude 3.5 Sonnet v2 (le meilleur modèle actuel)
-        self.model = "claude-3-5-sonnet-20241022"  # Alias pour la dernière version
-        # Alternative: "claude-sonnet-4-20250514" si vous voulez forcer Sonnet 4
+        # Utiliser Claude Sonnet 4.5 (le meilleur modèle actuel - mai 2025)
+        self.model = "claude-sonnet-4-20250514"
 
     def load_prompt_template(self):
         """Charge le prompt depuis le fichier."""
@@ -51,6 +50,10 @@ Réponds en JSON valide."""
         today = datetime.now().strftime('%Y-%m-%d')
 
         prompt_template = self.load_prompt_template()
+
+        # Intégrer les apprentissages des erreurs passées
+        learnings_summary = self._get_learnings()
+
         prompt = prompt_template.format(
             date=today,
             version="2.0-Claude",
@@ -60,6 +63,10 @@ Réponds en JSON valide."""
             max_odds=self.config.MAX_ODDS,
             matches_list=matches_formatted
         )
+
+        # Ajouter les apprentissages si disponibles
+        if learnings_summary:
+            prompt = prompt + "\n\n" + learnings_summary
 
         # Système de retry pour Claude
         max_retries = 2
@@ -132,6 +139,48 @@ Réponds en JSON valide."""
                 return None
 
         return None
+
+    def _get_learnings(self):
+        """Récupère les apprentissages des erreurs passées."""
+        try:
+            learnings_file = os.path.join('data', 'learnings.json')
+            if not os.path.exists(learnings_file):
+                return ""
+
+            with open(learnings_file, 'r', encoding='utf-8') as f:
+                learnings = json.load(f)
+
+            if learnings.get('total_errors_analyzed', 0) == 0:
+                return ""
+
+            summary = "\n\n---\n\n## 🎓 APPRENTISSAGES DES ERREURS PASSÉES\n\n"
+            summary += f"**{learnings['total_errors_analyzed']} erreurs analysées précédemment.**\n\n"
+
+            # Top catégories d'erreurs
+            if learnings.get('categories'):
+                sorted_categories = sorted(
+                    learnings['categories'].items(),
+                    key=lambda x: x[1]['count'],
+                    reverse=True
+                )[:3]
+
+                summary += "**⚠️ Principales causes d'erreurs à éviter :**\n"
+                for category, data in sorted_categories:
+                    summary += f"- **{category}** : {data['count']} fois\n"
+
+            # Conclusions récentes à appliquer
+            if learnings.get('key_learnings'):
+                summary += "\n**💡 Règles apprises (à IMPÉRATIVEMENT appliquer) :**\n"
+                for learning in learnings['key_learnings'][-5:]:
+                    summary += f"- {learning['conclusion']}\n"
+
+            summary += "\n**→ Prends en compte ces apprentissages dans ton analyse actuelle.**\n"
+
+            return summary
+
+        except Exception as e:
+            print(f"⚠️ Erreur lors du chargement des apprentissages: {e}")
+            return ""
 
 
 # Test

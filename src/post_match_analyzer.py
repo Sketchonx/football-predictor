@@ -7,7 +7,7 @@ import json
 import os
 from datetime import datetime
 from typing import Dict, List, Optional
-import google.generativeai as genai
+import anthropic
 from config import Config
 
 
@@ -23,9 +23,13 @@ class PostMatchAnalyzer:
         """
         self.config = config or Config()
 
-        # Configuration Gemini pour l'analyse
-        genai.configure(api_key=self.config.GEMINI_API_KEY)
-        self.model = genai.GenerativeModel('gemini-2.0-flash-exp')
+        # Configuration Claude pour l'analyse post-match
+        self.api_key = os.getenv('ANTHROPIC_API_KEY')
+        if not self.api_key:
+            raise ValueError("ANTHROPIC_API_KEY manquante dans .env")
+
+        self.client = anthropic.Anthropic(api_key=self.api_key)
+        self.model = "claude-sonnet-4-20250514"  # Claude Sonnet 4.5 pour l'analyse
 
         self.analysis_file = os.path.join(self.config.DATA_DIR, 'error_analysis.json')
         self.learnings_file = os.path.join(self.config.DATA_DIR, 'learnings.json')
@@ -167,14 +171,35 @@ Réponds en JSON:
 """
 
         try:
-            response = self.model.generate_content(prompt)
-            analysis_text = response.text.strip()
+            # Appel API Claude
+            message = self.client.messages.create(
+                model=self.model,
+                max_tokens=2000,
+                temperature=0.3,  # Analyse rigoureuse
+                messages=[
+                    {
+                        "role": "user",
+                        "content": prompt
+                    }
+                ]
+            )
+
+            analysis_text = message.content[0].text.strip()
 
             # Extraire le JSON de la réponse
             if '```json' in analysis_text:
                 analysis_text = analysis_text.split('```json')[1].split('```')[0].strip()
             elif '```' in analysis_text:
                 analysis_text = analysis_text.split('```')[1].split('```')[0].strip()
+
+            # Nettoyer les caractères invisibles
+            analysis_text = analysis_text.replace('\u200b', '').replace('\ufeff', '')
+
+            # Trouver le JSON
+            start = analysis_text.find('{')
+            end = analysis_text.rfind('}')
+            if start != -1 and end != -1:
+                analysis_text = analysis_text[start:end+1]
 
             analysis = json.loads(analysis_text)
 

@@ -37,7 +37,7 @@ jobs:
 
       - name: Analyze lost predictions
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           python src/post_match_analyzer.py
 

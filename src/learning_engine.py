@@ -19,6 +19,9 @@ class LearningEngine:
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(analysis_result, f, indent=2, ensure_ascii=False)
         print(f"✅ Prédictions sauvegardées: {filepath}")
+
+        # Ajouter automatiquement les pronostics en statut "pending" dans performance_history.json
+        self._register_predictions_as_pending(analysis_result, date)
     
     def fetch_results(self, date):
         """Récupère les résultats réels (à implémenter avec scraping)"""
@@ -83,9 +86,47 @@ class LearningEngine:
     def update_stats(self, comparison):
         """Met à jour les statistiques globales"""
         stats = self.get_learning_stats()
-        
+
         # TODO: Mise à jour intelligente basée sur les résultats
-        
+
         stats_file = self.stats_dir / 'global_stats.json'
         with open(stats_file, 'w', encoding='utf-8') as f:
             json.dump(stats, f, indent=2, ensure_ascii=False)
+
+    def _register_predictions_as_pending(self, analysis_result, date):
+        """Enregistre les nouveaux pronostics comme 'pending' dans performance_history.json"""
+        performance_file = Path('data/performance_history.json')
+
+        # Charger l'historique existant
+        if performance_file.exists():
+            with open(performance_file, 'r', encoding='utf-8') as f:
+                history = json.load(f)
+        else:
+            history = []
+
+        # IDs existants
+        existing_ids = {entry['prediction_id'] for entry in history}
+
+        # Ajouter les nouveaux pronostics en pending
+        recommendations = analysis_result.get('recommendations', [])
+        new_entries = 0
+
+        for idx, rec in enumerate(recommendations):
+            prediction_id = f"{date}_{idx}"
+
+            # Ajouter seulement si pas déjà présent
+            if prediction_id not in existing_ids:
+                history.append({
+                    'prediction_id': prediction_id,
+                    'result': 'pending',
+                    'actual_score': None,
+                    'recorded_at': datetime.now().isoformat(),
+                    'updated_at': datetime.now().isoformat()
+                })
+                new_entries += 1
+
+        # Sauvegarder
+        if new_entries > 0:
+            with open(performance_file, 'w', encoding='utf-8') as f:
+                json.dump(history, f, indent=2, ensure_ascii=False)
+            print(f"✅ {new_entries} pronostics enregistrés comme 'pending' dans performance_history.json")

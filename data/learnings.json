@@ -1,0 +1,50 @@
+{
+  "last_updated": "2025-10-24T10:42:50.153548",
+  "total_errors_analyzed": 3,
+  "categories": {
+    "contexte_match": {
+      "count": 1,
+      "examples": [
+        {
+          "match": "SC Braga vs FK Crvena Zvezda",
+          "conclusion": "Il est crucial d'analyser en profondeur les schémas tactiques et la gestion du risque des équipes, en particulier dans les matchs à enjeux, au-delà des simples statistiques de buts."
+        }
+      ]
+    },
+    "surestimation_favori": {
+      "count": 1,
+      "examples": [
+        {
+          "match": "AS Roma vs Plzen",
+          "conclusion": "Toujours évaluer la forme récente des équipes, leur motivation et le contexte spécifique du match, même face à un adversaire théoriquement plus faible, avant de parier sur un handicap important."
+        }
+      ]
+    },
+    "forme_recente": {
+      "count": 1,
+      "examples": [
+        {
+          "match": "SC Freiburg vs Utrecht",
+          "conclusion": "Il est crucial d'évaluer la forme récente des équipes, en particulier à l'extérieur, et de ne pas se fier uniquement à leur réputation offensive, surtout en pré-saison où les enjeux sont moindres."
+        }
+      ]
+    }
+  },
+  "key_learnings": [
+    {
+      "date": "2025-10-24T10:42:45.086969",
+      "category": "contexte_match",
+      "conclusion": "Il est crucial d'analyser en profondeur les schémas tactiques et la gestion du risque des équipes, en particulier dans les matchs à enjeux, au-delà des simples statistiques de buts."
+    },
+    {
+      "date": "2025-10-24T10:42:47.382599",
+      "category": "surestimation_favori",
+      "conclusion": "Toujours évaluer la forme récente des équipes, leur motivation et le contexte spécifique du match, même face à un adversaire théoriquement plus faible, avant de parier sur un handicap important."
+    },
+    {
+      "date": "2025-10-24T10:42:50.147109",
+      "category": "forme_recente",
+      "conclusion": "Il est crucial d'évaluer la forme récente des équipes, en particulier à l'extérieur, et de ne pas se fier uniquement à leur réputation offensive, surtout en pré-saison où les enjeux sont moindres."
+    }
+  ]
+}

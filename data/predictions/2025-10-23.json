@@ -367,7 +367,8 @@
           "odds": 1.65,
           "reasoning": "Attaques fortes, défenses perméables, enjeu poussant les deux à marquer."
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "FCSB vs Bologna",
@@ -645,7 +646,8 @@
           "odds": 2.0,
           "reasoning": "La Roma marque beaucoup à domicile et Plzen encaisse facilement."
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "SC Freiburg vs Utrecht",
@@ -738,7 +740,8 @@
           "odds": 1.65,
           "reasoning": "La défense d'Utrecht est perméable et Fribourg est offensif, ce qui pourrait amener un match avec beaucoup de buts."
         }
-      ]
+      ],
+      "analyzed": true
     }
   ],
   "matches_excluded": {

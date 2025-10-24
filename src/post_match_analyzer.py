@@ -44,12 +44,41 @@ class PostMatchAnalyzer:
         with open(predictions_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
+        # Charger l'historique des performances pour savoir quels pronostics sont perdus
+        performance_file = os.path.join(self.config.DATA_DIR, 'performance_history.json')
+        lost_prediction_ids = set()
+
+        if os.path.exists(performance_file):
+            with open(performance_file, 'r', encoding='utf-8') as f:
+                performance_history = json.load(f)
+                for entry in performance_history:
+                    if entry.get('result') == 'loss':
+                        lost_prediction_ids.add(entry.get('prediction_id'))
+
         analyses = []
 
-        for pred in data.get('recommendations', []):
-            # Analyser uniquement les pronostics perdus
-            if pred.get('result') == 'lost' and not pred.get('analyzed', False):
-                analysis = self._analyze_single_prediction(pred)
+        # Extraire la date du nom de fichier (format: YYYY-MM-DD.json)
+        filename = os.path.basename(predictions_file)
+        date_str = filename.replace('.json', '')
+
+        for idx, pred in enumerate(data.get('recommendations', [])):
+            pred_id = f"{date_str}_{idx}"
+
+            # Analyser uniquement les pronostics perdus non analysés
+            if pred_id in lost_prediction_ids and not pred.get('analyzed', False):
+                # Récupérer le score final depuis performance_history
+                final_score = None
+                for entry in performance_history:
+                    if entry.get('prediction_id') == pred_id:
+                        final_score = entry.get('actual_score', 'N/A')
+                        break
+
+                # Enrichir la prédiction avec les données nécessaires
+                pred_enriched = pred.copy()
+                pred_enriched['final_score'] = final_score
+                pred_enriched['match_id'] = pred_id
+
+                analysis = self._analyze_single_prediction(pred_enriched)
                 if analysis:
                     analyses.append(analysis)
                     # Marquer comme analysé
@@ -76,11 +105,27 @@ class PostMatchAnalyzer:
         Returns:
             Analyse de l'erreur ou None
         """
-        match_info = prediction.get('match', {})
-        reasoning = prediction.get('reasoning', '')
+        # Extraction des données du match (format peut varier)
+        match = prediction.get('match', '')
+        competition = prediction.get('competition', 'N/A')
+        reasoning = prediction.get('conclusion', prediction.get('reasoning', ''))
         bet_type = prediction.get('bet_type', '')
-        bet_choice = prediction.get('bet_choice', '')
+        bet_choice = prediction.get('prediction', '')
         final_score = prediction.get('final_score', '')
+
+        # Extraire home_team et away_team du string "Team A vs Team B"
+        home_team, away_team = '', ''
+        if ' vs ' in match:
+            parts = match.split(' vs ')
+            home_team = parts[0].strip()
+            away_team = parts[1].strip() if len(parts) > 1 else ''
+
+        match_info = {
+            'home_team': home_team,
+            'away_team': away_team,
+            'league': competition,
+            'date': prediction.get('kickoff', 'N/A')
+        }
 
         # Construire le prompt d'analyse
         prompt = f"""

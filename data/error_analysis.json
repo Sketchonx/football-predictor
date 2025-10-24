@@ -1,0 +1,65 @@
+[
+  {
+    "main_cause": "Bien que le score final ait été de 2-2, le pronostic était faux car le match n'a pas atteint Over 2.5 buts comme prévu.",
+    "missed_factors": [
+      "Surestimation de l'impact des absences sur la vulnérabilité défensive de Braga; la défense a mieux résisté que prévu.",
+      "Sous-estimation de la capacité de Crvena Zvezda à marquer à l'extérieur malgré les enjeux du match; ils ont concrétisé leurs occasions.",
+      "Absence d'analyse approfondie des schémas tactiques spécifiques adoptés par les deux équipes, qui auraient pu indiquer une approche plus prudente que prévue."
+    ],
+    "actionable_conclusion": "Il est crucial d'analyser en profondeur les schémas tactiques et la gestion du risque des équipes, en particulier dans les matchs à enjeux, au-delà des simples statistiques de buts.",
+    "error_category": "contexte_match",
+    "match_id": "2025-10-23_3",
+    "match": {
+      "home_team": "SC Braga",
+      "away_team": "FK Crvena Zvezda",
+      "league": "UEFA Europa League",
+      "date": "16:45"
+    },
+    "bet_type": "Over 2.5 buts",
+    "bet_choice": "Over 2.5 buts",
+    "final_score": "2-2",
+    "analysis_date": "2025-10-24T10:42:45.086969"
+  },
+  {
+    "main_cause": "Surestimation de la capacité de l'AS Roma à dominer le match et à marquer plusieurs buts à domicile, malgré le contexte et la forme des joueurs.",
+    "missed_factors": [
+      "La Roma n'était pas dans une forme de 'rouleau compresseur' récente, leurs performances à domicile étaient inégales et souffraient d'un manque de créativité offensive.",
+      "La sous-estimation de la capacité de Plzen à jouer défensivement et à exploiter les faiblesses de la défense romaine en contre-attaque.",
+      "Le manque d'enjeu pour la Roma, déjà qualifiée, pouvait potentiellement impacter leur motivation et intensité."
+    ],
+    "actionable_conclusion": "Toujours évaluer la forme récente des équipes, leur motivation et le contexte spécifique du match, même face à un adversaire théoriquement plus faible, avant de parier sur un handicap important.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-10-23_6",
+    "match": {
+      "home_team": "AS Roma",
+      "away_team": "Plzen",
+      "league": "UEFA Europa League",
+      "date": "19:00"
+    },
+    "bet_type": "Handicap (-1.5)",
+    "bet_choice": "1 (Victoire AS Roma avec au moins 2 buts d'écart)",
+    "final_score": "1-2",
+    "analysis_date": "2025-10-24T10:42:47.382599"
+  },
+  {
+    "main_cause": "Surestimation de la capacité offensive d'Utrecht et sous-estimation de la solidité défensive de Fribourg, particulièrement à domicile.",
+    "missed_factors": [
+      "La forme récente d'Utrecht, qui indiquait des difficultés à marquer à l'extérieur contre des équipes bien organisées.",
+      "La discipline tactique et la solidité défensive de Fribourg, qui ont démontré leur capacité à contrôler le jeu et à empêcher l'adversaire de marquer.",
+      "Le contexte de match amical de pré-saison, qui peut souvent conduire à des approches plus prudentes et moins orientées vers l'attaque"
+    ],
+    "actionable_conclusion": "Il est crucial d'évaluer la forme récente des équipes, en particulier à l'extérieur, et de ne pas se fier uniquement à leur réputation offensive, surtout en pré-saison où les enjeux sont moindres.",
+    "error_category": "forme_recente",
+    "match_id": "2025-10-23_7",
+    "match": {
+      "home_team": "SC Freiburg",
+      "away_team": "Utrecht",
+      "league": "UEFA Europa League",
+      "date": "19:00"
+    },
+    "bet_type": "BTTS (Both Teams To Score) - Yes",
+    "bet_choice": "BTTS - Yes",
+    "final_score": "2-0",
+    "analysis_date": "2025-10-24T10:42:50.147109"
+  }
+]

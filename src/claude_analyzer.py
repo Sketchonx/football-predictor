@@ -21,8 +21,9 @@ class ClaudeAnalyzer:
             raise ValueError("ANTHROPIC_API_KEY manquante dans .env")
 
         self.client = anthropic.Anthropic(api_key=self.api_key)
-        # Utiliser Claude 3.5 Sonnet - meilleur rapport qualité/prix/performance
-        self.model = "claude-3-5-sonnet-20241022"
+        # Utiliser Claude 3.5 Sonnet v2 (le meilleur modèle actuel)
+        self.model = "claude-3-5-sonnet-20241022"  # Alias pour la dernière version
+        # Alternative: "claude-sonnet-4-20250514" si vous voulez forcer Sonnet 4
 
     def load_prompt_template(self):
         """Charge le prompt depuis le fichier."""

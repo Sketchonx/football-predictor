@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 import sys
+import os
 from datetime import datetime
 from match_scraper import MatchScraper
-from gemini_analyzer import GeminiAnalyzer
+from claude_analyzer import ClaudeAnalyzer  # Remplacé Gemini par Claude
 from telegram_sender import TelegramSender
 from learning_engine import LearningEngine
 
@@ -27,9 +28,9 @@ def main():
     learning = LearningEngine()
     stats = learning.get_learning_stats()
     
-    # 3. Analyse avec Gemini
-    print("🤖 Analyse IA en cours...")
-    analyzer = GeminiAnalyzer()
+    # 3. Analyse avec Claude (Anthropic)
+    print("🤖 Analyse avec Claude en cours...")
+    analyzer = ClaudeAnalyzer()
     result = analyzer.analyze_matches(matches_formatted, stats)
     
     if not result:

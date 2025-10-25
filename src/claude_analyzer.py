@@ -64,6 +64,14 @@ Réponds en JSON valide."""
             matches_list=matches_formatted
         )
 
+        # DEBUG: Sauvegarder le prompt pour vérification
+        try:
+            with open(f'data/debug_prompt_{today}.txt', 'w', encoding='utf-8') as f:
+                f.write(prompt)
+            print(f"🐛 DEBUG: Prompt sauvegardé dans data/debug_prompt_{today}.txt ({len(prompt)} caractères)")
+        except Exception as e:
+            print(f"⚠️ Impossible de sauvegarder debug prompt: {e}")
+
         # Ajouter les apprentissages si disponibles
         if learnings_summary:
             prompt = prompt + "\n\n" + learnings_summary

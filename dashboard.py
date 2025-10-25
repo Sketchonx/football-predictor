@@ -566,3 +566,4 @@ st.markdown("""
     <p>⚽ Football Predictor Dashboard | Propulsé par Streamlit & Gemini AI</p>
 </div>
 """, unsafe_allow_html=True)
+# Dashboard version 20251025_1239

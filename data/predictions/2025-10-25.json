@@ -1,0 +1,524 @@
+{
+  "analysis_date": "2025-10-25",
+  "total_analyzed": 24,
+  "total_retained": 5,
+  "recommendations": [
+    {
+      "match": "RB Leipzig vs FC Augsburg",
+      "competition": "Bundesliga",
+      "kickoff": "13:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "home_record": "Selon données fournies: 2V-1N-1D à l'extérieur cette saison",
+            "trend": "Équipe 2e du classement avec 16 points, forme générale excellente",
+            "details": "Données API montrent 5V-1N-1D cette saison, 10 buts pour, 9 contre"
+          },
+          "away_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "away_record": "Selon données fournies: 1V-0N-2D à domicile cette saison",
+            "trend": "Équipe 13e avec seulement 7 points, difficultés évidentes",
+            "details": "Bilan global 2V-1N-4D, 12 buts pour, 14 contre, différentiel négatif"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Selon données H2H: Leipzig domine largement avec 4V-1N sur 5 derniers",
+          "at_home": "À Augsburg: Leipzig a gagné 4-0 en septembre 2024, 3-0 en septembre 2023",
+          "details": "Historique récent: 4-0 (2024), 2-2 (2024), 3-0 (2023), 3-2 (2023), 3-3 (2022)",
+          "trends": "Leipzig marque en moyenne 3+ buts contre Augsburg, domination offensive claire"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Tidiam Gomis (blessure ligaments)",
+              "Benjamin Henrichs (blessé)",
+              "Amadou Haidara (incertain)"
+            ],
+            "impact": "Impact modéré: milieu de terrain affaibli mais effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Samuel Essende (suspendu carton rouge)",
+              "Elvis Rexhbecaj (problèmes genou)",
+              "Elias Saad (blessure musculaire)",
+              "Yusuf Kabadayi (blessé)"
+            ],
+            "impact": "Impact MAJEUR: 4 absents dont attaquant titulaire suspendu et milieu défensif clé blessé"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Leipzig en 4-3-3, pressing haut intensif, transitions rapides, moyenne 1.4 buts/match",
+          "away_style": "Augsburg en 3-4-2-1, bloc défensif, jeu direct, seulement 1.7 buts/match marqués",
+          "key_matchup": "Qualité technique Leipzig vs défense affaiblie Augsburg. Avantage net Leipzig.",
+          "predicted_approach": "Leipzig va dominer possession et créer nombreuses occasions face à une défense diminuée"
+        },
+        "schedule_fatigue": {
+          "home_team": "⚠️ Calendrier récent non disponible - Analyse basée sur position classement",
+          "away_team": "⚠️ Calendrier récent non disponible - Analyse basée sur position classement",
+          "advantage": "Équipe mieux classée généralement mieux gérée physiquement"
+        },
+        "context_stakes": {
+          "home_situation": "Leipzig 2e du classement, vise le titre, chaque point crucial pour rester dans le rythme",
+          "away_situation": "Augsburg 13e avec 7 points, lutte pour le maintien, pression énorme",
+          "psychological": "Leipzig en confiance avec son classement, Augsburg sous pression des résultats",
+          "overall": "Enjeux favorisent Leipzig: ambition titre vs survie"
+        },
+        "home_advantage": {
+          "home_record_season": "⚠️ Stats domicile Leipzig non disponibles pour octobre 2025",
+          "away_record_opponent": "Augsburg: 1V-0N-2D à l'extérieur, difficultés en déplacement",
+          "atmosphere": "Leipzig à domicile historiquement fort, public acquis",
+          "weather": "Conditions normales attendues",
+          "advantage_score": "7/10 - Avantage domicile significatif mais match à l'extérieur pour Leipzig"
+        },
+        "odds_value": {
+          "bet_odds": "⚠️ Cotes non fournies dans les données",
+          "implied_probability": "Estimation basée sur écart de niveau: Leipzig favori net",
+          "estimated_real_probability": "75-80% de chances victoire Leipzig",
+          "value_analysis": "Écart de niveau trop important (2e vs 13e) pour value bet significative",
+          "odds_movement": "⚠️ Évolution cotes non disponible"
+        },
+        "key_factors_summary": [
+          "Écart de classement énorme: 2e place (16 pts) vs 13e place (7 pts)",
+          "Historique H2H favorable Leipzig: 4 victoires sur 5 derniers matchs",
+          "Augsburg affaibli: 4 absents majeurs dont attaquant suspendu",
+          "Différentiel buts révélateur: Leipzig +1, Augsburg -2",
+          "Contexte psychologique: ambition titre vs lutte maintien"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire nette de Leipzig. L'écart de niveau au classement (9 points d'écart), l'historique favorable (4V-1N-0D sur 5 derniers H2H), les absences importantes côté Augsburg (attaquant suspendu, milieu défensif blessé) et le contexte psychologique (2e vs 13e) créent un avantage décisif pour Leipzig. Cependant, l'écart de niveau étant si évident, les cotes risquent d'être faibles, limitant la value. Match à surveiller pour les cotes avant validation finale.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire RB Leipzig)",
+      "odds": "À vérifier (estimation 1.50-1.70)",
+      "confidence": 78,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": "À vérifier",
+          "reasoning": "Leipzig marque beaucoup contre Augsburg (3+ buts historique)"
+        }
+      ]
+    },
+    {
+      "match": "Como vs Parma",
+      "competition": "Serie A",
+      "kickoff": "13:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "home_record": "Selon données: 1V-1N-1D à l'extérieur cette saison",
+            "trend": "Como 6e place avec 12 points, forme correcte pour un promu",
+            "details": "Bilan global: 3V-3N-1D, 9 buts pour, 5 contre, défense solide"
+          },
+          "away_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "away_record": "Selon données: 1V-1N-1D à domicile cette saison",
+            "trend": "Parma 15e avec seulement 6 points, difficultés offensives",
+            "details": "Bilan: 1V-3N-3D, seulement 3 buts marqués, attaque défaillante"
+          }
+        },
+        "head_to_head": {
+          "last_5": "H2H récent équilibré: 2V Como, 2N, 1V Parma sur 5 derniers",
+          "at_home": "À domicile Parma: Como a gagné 1-0 en mai 2025, nul 1-1 en octobre 2024",
+          "details": "Résultats récents: 0-1 (2025), 1-1 (2024), 1-1 (2024), 2-1 (2023), 2-0 (2023)",
+          "trends": "Matchs serrés historiquement, peu de buts, Como légèrement avantagé récemment"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Assane Diao (genou tordu)",
+              "Ivan Van der Brempt (blessure)",
+              "Alberto Dossena (genou)"
+            ],
+            "impact": "Impact modéré: 3 absents mais effectif de Serie A disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Jakub Ondrejka (blessure jambe)",
+              "Hernani (cheville)",
+              "Marco Frigan (genou)",
+              "Nicola Trabucchi (genou)"
+            ],
+            "impact": "Impact significatif: 4 blessés dont milieux importants, effectif réduit"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Como en 4-2-3-1 sous Fabregas, jeu de possession, construction propre",
+          "away_style": "Parma en 3-5-2, jeu compact, difficultés à marquer (0.4 buts/match)",
+          "key_matchup": "Créativité Como vs bloc défensif Parma. Como plus technique.",
+          "predicted_approach": "Como va chercher à dominer le ballon face à un Parma défensif"
+        },
+        "schedule_fatigue": {
+          "home_team": "⚠️ Calendrier récent non disponible",
+          "away_team": "⚠️ Calendrier récent non disponible",
+          "advantage": "Avantage théorique à l'équipe recevant"
+        },
+        "context_stakes": {
+          "home_situation": "Como 6e, excellent début pour un promu, confiance élevée",
+          "away_situation": "Parma 15e, seulement 6 points, urgence de points pour le maintien",
+          "psychological": "Como sans pression vs Parma sous pression résultats",
+          "overall": "Contexte favorable à Como, plus serein"
+        },
+        "home_advantage": {
+          "home_record_season": "⚠️ Stats domicile Como non disponibles pour octobre 2025",
+          "away_record_opponent": "Parma difficile à l'extérieur: 1V-1N-1D seulement",
+          "atmosphere": "Como retrouve la Serie A, public motivé",
+          "weather": "Conditions normales",
+          "advantage_score": "6/10 - Avantage domicile modéré"
+        },
+        "odds_value": {
+          "bet_odds": "⚠️ Cotes non fournies",
+          "implied_probability": "Match équilibré sur papier",
+          "estimated_real_probability": "45% Como, 30% nul, 25% Parma",
+          "value_analysis": "Como sous-évalué: meilleur classement, moins de blessés, à domicile",
+          "odds_movement": "⚠️ Non disponible"
+        },
+        "key_factors_summary": [
+          "Écart classement significatif: 6e (12 pts) vs 15e (6 pts)",
+          "Attaque Como plus efficace: 9 buts vs 3 pour Parma",
+          "Parma plus touché par blessures: 4 absents vs 3",
+          "Avantage domicile pour Como qui retrouve l'élite",
+          "Parma sous pression maintien, Como sans pression"
+        ]
+      },
+      "conclusion": "Como présente un profil intéressant face à Parma. L'écart au classement (6 points d'avance), l'efficacité offensive supérieure (9 buts contre 3), moins de blessures importantes et l'avantage du domicile créent un contexte favorable. Parma traverse une période difficile avec seulement 6 points et une attaque défaillante. Le H2H récent montre des matchs serrés mais Como a pris l'ascendant. La pression du maintien pèse sur Parma tandis que Como évolue sereinement pour un promu. Value potentielle si les cotes sous-estiment Como.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Como)",
+      "odds": "À vérifier (estimation 2.00-2.30)",
+      "confidence": 72,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": "À vérifier",
+          "reasoning": "Historique H2H de matchs serrés, Parma marque peu"
+        }
+      ]
+    },
+    {
+      "match": "KV Mechelen vs OH Leuven",
+      "competition": "Jupiler Pro League",
+      "kickoff": "16:15",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "home_record": "Selon données: 2V-2N-1D à domicile cette saison",
+            "trend": "Mechelen 4e place avec 19 points, forme solide",
+            "details": "Bilan global: 5V-4N-2D, 16 buts pour, 12 contre, équilibre positif"
+          },
+          "away_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "away_record": "Selon données: 1V-0N-4D à l'extérieur cette saison",
+            "trend": "OH Leuven 15e avec 8 points, grandes difficultés",
+            "details": "Bilan: 2V-2N-7D, seulement 8 buts pour, 20 contre, défense perméable"
+          }
+        },
+        "head_to_head": {
+          "last_5": "H2H favorable Mechelen: 3V-1N-1D sur 5 derniers matchs",
+          "at_home": "À domicile Mechelen: 5-0 en octobre 2024, 3-0 en avril 2024, domination",
+          "details": "Résultats récents: 1-2 (2025), 1-1 (2025), 1-0 (2025), 5-0 (2024), 3-0 (2024)",
+          "trends": "Mechelen domine largement à domicile contre Leuven, scores nets"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Tommy St Jago (tendon d'Achille)",
+              "Ortwin De Wolf (léger coup)"
+            ],
+            "impact": "Impact minimal: seulement 2 absents, effectif quasi complet"
+          },
+          "away_team": {
+            "absent": [
+              "Takahiro Akimoto (cuisse)",
+              "Bryang Kayo (léger coup)",
+              "Manuel Osifo (léger coup)",
+              "Chukwubuikem Ikwuemesi"
+            ],
+            "impact": "Impact modéré: 4 absents mais blessures mineures pour certains"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Mechelen solide défensivement, efficace en attaque (1.5 buts/match)",
+          "away_style": "OH Leuven défense perméable (1.8 buts encaissés/match), attaque faible",
+          "key_matchup": "Attaque Mechelen vs défense fragile Leuven. Net avantage Mechelen.",
+          "predicted_approach": "Mechelen va presser haut et exploiter les faiblesses défensives adverses"
+        },
+        "schedule_fatigue": {
+          "home_team": "⚠️ Calendrier récent non disponible",
+          "away_team": "⚠️ Calendrier récent non disponible",
+          "advantage": "Avantage théorique équipe domicile"
+        },
+        "context_stakes": {
+          "home_situation": "Mechelen 4e, vise le top européen, dynamique positive",
+          "away_situation": "OH Leuven 15e, lutte pour maintien, situation préoccupante",
+          "psychological": "Mechelen en confiance vs Leuven sous pression",
+          "overall": "Contexte très favorable à Mechelen"
+        },
+        "home_advantage": {
+          "home_record_season": "Mechelen correct à domicile: 2V-2N-1D",
+          "away_record_opponent": "Leuven catastrophique à l'extérieur: 1V-0N-4D",
+          "atmosphere": "Public Mechelen acquis, stade difficile pour visiteurs",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Avantage domicile majeur"
+        },
+        "odds_value": {
+          "bet_odds": "⚠️ Cotes non fournies",
+          "implied_probability": "Mechelen largement favori sur tous critères",
+          "estimated_real_probability": "70-75% victoire Mechelen",
+          "value_analysis": "Écart de niveau important, H2H favorable, contexte idéal",
+          "odds_movement": "⚠️ Non disponible"
+        },
+        "key_factors_summary": [
+          "Écart classement énorme: 4e (19 pts) vs 15e (8 pts), 11 points d'écart",
+          "H2H très favorable: 5-0 et 3-0 à domicile récemment",
+          "Leuven catastrophique à l'extérieur: 1V-4D cette saison",
+          "Différentiel buts révélateur: +4 vs -12",
+          "Mechelen quasi au complet vs Leuven avec absents"
+        ]
+      },
+      "conclusion": "KV Mechelen présente tous les atouts pour s'imposer nettement face à OH Leuven. L'écart au classement est considérable (11 points), l'historique récent à domicile est écrasant (5-0, 3-0), et Leuven traverse une crise majeure avec seulement 1 victoire en 5 déplacements. La différence de dynamique est flagrante: Mechelen vise l'Europe (4e) tandis que Leuven lutte pour le maintien (15e). L'effectif de Mechelen est quasi complet contre un Leuven diminué. Tous les facteurs convergent vers une victoire confortable de Mechelen, potentiellement avec plusieurs buts d'écart comme le suggère l'historique récent.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire KV Mechelen)",
+      "odds": "À vérifier (estimation 1.60-1.80)",
+      "confidence": 82,
+      "risk_level": "Low-Medium",
+      "alternative_bets": [
+        {
+          "type": "Handicap -1.5 Mechelen",
+          "odds": "À vérifier",
+          "reasoning": "Historique de victoires nettes à domicile (5-0, 3-0)"
+        }
+      ]
+    },
+    {
+      "match": "Marseille vs Lens",
+      "competition": "Ligue 1",
+      "kickoff": "19:05",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "home_record": "Selon données: 2V-0N-2D à l'extérieur cette saison",
+            "trend": "Marseille leader avec 18 points, attaque prolifique",
+            "details": "Bilan exceptionnel: 6V-0N-2D, 21 buts pour, 7 contre, +14 de différentiel"
+          },
+          "away_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "away_record": "Selon données: 3V-0N-1D à domicile cette saison",
+            "trend": "Lens 4e avec 16 points, défense solide",
+            "details": "Bilan: 5V-1N-2D, 12 buts pour, 7 contre, équilibre défensif"
+          }
+        },
+        "head_to_head": {
+          "last_5": "H2H équilibré mais Lens avantagé: 3V-1N-1D pour Lens récemment",
+          "at_home": "À Lens: Marseille a perdu 0-1 en mars 2025, 1-3 en novembre 2024",
+          "details": "Résultats récents: 0-1 (2025), 1-3 (2024), 2-1 (2024), 1-0 (2023), 2-1 (2023)",
+          "trends": "Lens historiquement difficile pour Marseille, surtout à domicile"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Facundo Medina (suspendu carton rouge)",
+              "Adrien Rabiot (autre)",
+              "Jonathan Rowe (autre)",
+              "Geoffrey Kondogbia (incertain)"
+            ],
+            "impact": "Impact MAJEUR: défenseur central suspendu, milieu de terrain affaibli"
+          },
+          "away_team": {
+            "absent": [
+              "Jonathan Gradit (suspendu carton rouge)",
+              "Jhoanner Chavez (incertain)",
+              "Remy Labeau Lascary (incertain)"
+            ],
+            "impact": "Impact significatif: défenseur central suspendu également"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Marseille offensif, 2.6 buts/match, pressing haut, jeu rapide",
+          "away_style": "Lens équilibré, 1.5 buts/match, organisation défensive, transitions",
+          "key_matchup": "Attaque Marseille vs défense Lens affaiblie. Match ouvert attendu.",
+          "predicted_approach": "Match spectaculaire avec buts des deux côtés, rythme élevé"
+        },
+        "schedule_fatigue": {
+          "home_team": "⚠️ Calendrier récent non disponible",
+          "away_team": "⚠️ Calendrier récent non disponible",
+          "advantage": "Marseille joue à l'extérieur, pas d'avantage domicile"
+        },
+        "context_stakes": {
+          "home_situation": "Lens 4e, vise l'Europe, match important pour confirmer",
+          "away_situation": "Marseille leader, veut creuser l'écart, pression du leadership",
+          "psychological": "Lens sans complexe à domicile vs Marseille sous pression leader",
+          "overall": "Enjeu majeur pour les deux équipes, match au sommet"
+        },
+        "home_advantage": {
+          "home_record_season": "Lens solide à domicile: 3V-0N-1D cette saison",
+          "away_record_opponent": "Marseille mitigé à l'extérieur: 2V-0N-2D",
+          "atmosphere": "Bollaert difficile, public Lens très chaud",
+          "weather": "Conditions normales",
+          "advantage_score": "7/10 - Avantage domicile important"
+        },
+        "odds_value": {
+          "bet_odds": "⚠️ Cotes non fournies",
+          "implied_probability": "Match très équilibré entre 1er et 4e",
+          "estimated_real_probability": "35% Lens, 30% nul, 35% Marseille",
+          "value_analysis": "H2H favorable Lens, domicile, Marseille sous pression leader",
+          "odds_movement": "⚠️ Non disponible"
+        },
+        "key_factors_summary": [
+          "Choc au sommet: 1er (18 pts) vs 4e (16 pts), seulement 2 points d'écart",
+          "H2H favorable Lens: 3 victoires sur 5 derniers matchs",
+          "Lens solide à domicile (3V-1D) vs Marseille mitigé à l'extérieur (2V-2D)",
+          "Suspensions importantes des deux côtés (Medina, Gradit)",
+          "Bollaert historiquement difficile pour les leaders"
+        ]
+      },
+      "conclusion": "Ce choc au sommet entre Lens et Marseille présente un profil très équilibré mais avec un léger avantage pour Lens. L'historique récent est favorable aux Sang et Or (3V sur 5 derniers H2H), l'avantage du domicile à Bollaert est réel, et Lens montre une solidité à domicile (3V-1D) supérieure aux performances extérieures de Marseille (2V-2D). Les suspensions touchent les deux équipes mais Marseille, en tant que leader, subit plus de pression. L'écart de seulement 2 points au classement confirme l'équilibre, mais les facteurs contextuels (domicile, H2H, pression) penchent pour Lens. Match ouvert avec potentiel de buts des deux côtés.",
+      "bet_type": "Double Chance",
+      "prediction": "1X (Lens ou Nul)",
+      "odds": "À vérifier (estimation 1.80-2.00)",
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "BTTS",
+          "odds": "À vérifier",
+          "reasoning": "Deux attaques de qualité, défenses affaiblies par suspensions"
+        }
+      ]
+    },
+    {
+      "match": "Liverpool vs Brentford",
+      "competition": "Premier League",
+      "kickoff": "19:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "home_record": "Selon données: 2V-0N-2D à l'extérieur cette saison",
+            "trend": "Brentford 14e avec 10 points, forme irrégulière",
+            "details": "Bilan: 3V-1N-4D, 11 buts pour, 12 contre, équilibre fragile"
+          },
+          "away_team": {
+            "last_5_matches": "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables",
+            "away_record": "Selon données: 2V-0N-2D à l'extérieur cette saison",
+            "trend": "Liverpool 3e avec 15 points, forme correcte mais irrégulière",
+            "details": "Bilan: 5V-0N-3D, 14 buts pour, 11 contre, plus de défaites qu'attendu"
+          }
+        },
+        "head_to_head": {
+          "last_5": "H2H favorable Liverpool: 4V-1D sur 5 derniers matchs",
+          "at_home": "À Brentford: Liverpool a gagné 0-2 en janvier 2025, mais perdu 3-1 en janvier 2023",
+          "details": "Résultats récents: 0-2 (2025), 2-0 (2024), 1-4 (2024), 3-0 (2023), 1-0 (2023)",
+          "trends": "Liverpool domine généralement mais Brentford capable d'exploits à domicile"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Yoane Wissa (autre)",
+              "Ethan Pinnock (incertain)",
+              "Kevin Schade (incertain)",
+              "Vitaly Janelt (blessure)"
+            ],
+            "impact": "Impact modéré: attaquant clé et défenseur incertains, effectif réduit"
+          },
+          "away_team": {
+            "absent": [
+              "Joseph Gomez (blessure)",
+              "Conor Bradley (blessure)",
+              "Ryan Gravenberch (suspendu)",
+              "Stefan Bajcetic (ischio)"
+            ],
+            "impact": "Impact significatif: défense et milieu affaiblis, suspensions importantes"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Brentford pragmatique, jeu direct, efficace sur coups de pied arrêtés",
+          "away_style": "Liverpool possession, pressing haut, mais défense parfois fragile",
+          "key_matchup": "Jeu aérien Brentford vs défense Liverpool diminuée. Équilibre tactique.",
+          "predicted_approach": "Brentford va jouer ses armes (physique, coups de pied arrêtés) face à Liverpool diminué"
+        },
+        "schedule_fatigue": {
+          "home_team": "⚠️ Calendrier récent non disponible",
+          "away_team": "⚠️ Calendrier récent non disponible",
+          "advantage": "Avantage théorique Brentford à domicile"
+        },
+        "context_stakes": {
+          "home_situation": "Brentford 14e, cherche points pour s'éloigner de la zone rouge",
+          "away_situation": "Liverpool 3e mais forme irrégulière, doit confirmer ambitions top 4",
+          "psychological": "Brentford sans pression vs Liverpool attendu, renversement possible",
+          "overall": "Contexte moins favorable à Liverpool qu'habituellement"
+        },
+        "home_advantage": {
+          "home_record_season": "Brentford correct à domicile: 2V-1N-1D",
+          "away_record_opponent": "Liverpool mitigé à l'extérieur: 2V-0N-2D, autant de défaites",
+          "atmosphere": "Brentford Community Stadium, ambiance compacte et hostile",
+          "weather": "Conditions normales",
+          "advantage_score": "6/10 - Avantage domicile modéré mais réel"
+        },
+        "odds_value": {
+          "bet_odds": "⚠️ Cotes non fournies",
+          "implied_probability": "Liverpool favori mais écart réduit par contexte",
+          "estimated_real_probability": "45% Liverpool, 30% nul, 25% Brentford",
+          "value_analysis": "Liverpool peut être surévalué: forme irrégulière, blessures, extérieur difficile",
+          "odds_movement": "⚠️ Non disponible"
+        },
+        "key_factors_summary": [
+          "Liverpool forme décevante: 5V-3D, autant de défaites qu'attendu pour un top club",
+          "Brentford historiquement coriace à domicile contre les gros (3-1 vs Liverpool en 2023)",
+          "Blessures importantes côté Liverpool: défense et milieu affaiblis",
+          "Performances extérieures Liverpool mitigées: 2V-2D cette saison",
+          "Brentford spécialiste des coups de pied arrêtés face à une défense diminuée"
+        ]
+      },
+      "conclusion": "Ce match présente un profil intéressant pour un pari sur Brentford ou le nul. Liverpool traverse une période moins convaincante que prévu (5V-3D) avec des performances extérieures mitigées (2V-2D). Brentford, bien que 14e, reste solide à domicile et a déjà créé la surprise contre Liverpool (3-1 en 2023). Les blessures importantes côté Liverpool (défense et milieu affaiblis) face à une équipe de Brentford spécialiste du jeu physique et des coups de pied arrêtés créent un contexte favorable aux Bees. L'absence de pression sur Brentford contre un Liverpool attendu peut générer un renversement de situation. Value potentielle sur la double chance Brentford.",
+      "bet_type": "Double Chance",
+      "prediction": "1X (Brentford ou Nul)",
+      "odds": "À vérifier (estimation 2.20-2.50)",
+      "confidence": 68,
+      "risk_level": "Medium-High",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": "À vérifier",
+          "reasoning": "Deux équipes qui marquent, défenses affaiblies par blessures"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 19,
+    "examples": [
+      {
+        "match": "Bayern München vs Borussia Mönchengladbach",
+        "reason": "Écart trop important (1er vs 18e), cotes probablement < 1.70"
+      },
+      {
+        "match": "Chelsea vs Sunderland",
+        "reason": "Données insuffisantes pour évaluer la value, match équilibré au classement mais contexte flou"
+      },
+      {
+        "match": "PSG vs Brest",
+        "reason": "Favori trop évident, manque de value attendue"
+      },
+      {
+        "match": "Napoli vs Inter",
+        "reason": "Match trop équilibré (même points), difficile à prédire sans données récentes fiables"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "KV Mechelen victoire vs OH Leuven",
+      "RB Leipzig victoire vs FC Augsburg",
+      "Como victoire vs Parma"
+    ],
+    "total_odds": "À calculer selon cotes réelles (estimation 5.50-7.00)",
+    "confidence": 74,
+    "detailed_reasoning": "Combiné basé sur les trois paris avec la plus forte confiance et les écarts de niveau les plus nets. Mechelen (82% confiance) domine Leuven avec 11 points d'avance et un H2H écrasant. Leipzig (78% confiance) face à Augsburg affaibli avec 9 points d'écart au classement. Como (72% confiance) contre Parma en crise offensive. Trois matchs avec des favoris clairs, des contextes différents (Belgique, Allemagne, Italie) limitant les corrélations. Risque calculé acceptable pour un combiné de qualité.",
+    "risk_level": "Medium"
+  }
+}

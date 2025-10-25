@@ -82,40 +82,5 @@
     "actual_score": "2-1",
     "recorded_at": "2025-10-24T16:42:02.900421",
     "updated_at": "2025-10-25T11:04:18.307996"
-  },
-  {
-    "prediction_id": "2025-10-25_0",
-    "result": "pending",
-    "actual_score": null,
-    "recorded_at": "2025-10-25T13:48:48.264491",
-    "updated_at": "2025-10-25T13:48:48.264627"
-  },
-  {
-    "prediction_id": "2025-10-25_1",
-    "result": "pending",
-    "actual_score": null,
-    "recorded_at": "2025-10-25T13:48:48.264645",
-    "updated_at": "2025-10-25T13:48:48.264648"
-  },
-  {
-    "prediction_id": "2025-10-25_2",
-    "result": "pending",
-    "actual_score": null,
-    "recorded_at": "2025-10-25T13:48:48.264651",
-    "updated_at": "2025-10-25T13:48:48.264654"
-  },
-  {
-    "prediction_id": "2025-10-25_3",
-    "result": "pending",
-    "actual_score": null,
-    "recorded_at": "2025-10-25T13:48:48.264657",
-    "updated_at": "2025-10-25T13:48:48.264659"
-  },
-  {
-    "prediction_id": "2025-10-25_4",
-    "result": "pending",
-    "actual_score": null,
-    "recorded_at": "2025-10-25T13:48:48.264663",
-    "updated_at": "2025-10-25T13:48:48.264665"
   }
 ]

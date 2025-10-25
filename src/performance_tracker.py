@@ -256,3 +256,4 @@ if __name__ == "__main__":
     tracker = PerformanceTracker()
     stats = tracker.calculate_statistics()
     print(json.dumps(stats, indent=2))
+

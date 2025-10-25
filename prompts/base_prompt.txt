@@ -323,22 +323,33 @@ Les analyses DOIVENT être synthétiques mais détaillées.
 Minimum 300 mots par analyse, peut aller jusqu'à 500 mots si nécessaire pour terminer correctement les phrases.
 Prouve ton travail avec des FAITS, CHIFFRES, EXEMPLES concrets.
 
-**⚠️ RÈGLE CRITIQUE SUR LES DONNÉES - ZÉRO TOLÉRANCE:**
+**⚠️ RÈGLE CRITIQUE SUR LES DONNÉES - ZÉRO TOLÉRANCE ABSOLUE:**
 Tu as une connaissance coupée en janvier 2025. Nous sommes maintenant en octobre 2025.
 
-**ABSOLUMENT INTERDIT:**
-❌ "Selon les dernières données disponibles, Brest montrait une forme irrégulière avec 2V-1N-2D" → C'EST DE L'INVENTION
-❌ "PSG devrait afficher une forme dominante avec environ 4V-1N" → C'EST DE L'INVENTION
-❌ "Données récentes non disponibles, mais effectif habituel limité" → C'EST DE L'INVENTION
-❌ "Napoli en reconstruction après saison difficile, forme récente en amélioration" → TROP VAGUE, C'EST DE L'INVENTION
-❌ Toute stat, score ou résultat que tu ne peux PAS vérifier avec certitude
+**ABSOLUMENT INTERDIT - EXEMPLES D'INVENTIONS:**
+❌ "Selon les dernières données disponibles, Brest montrait une forme irrégulière avec 2V-1N-2D" → INVENTION
+❌ "PSG devrait afficher une forme dominante avec environ 4V-1N" → INVENTION
+❌ "Como 6e place avec 12 points, bilan positif 3V-3N-1D" → INVENTION SI PAS DANS LES DONNÉES FOURNIES
+❌ "Attaque défaillante: seulement 3 buts marqués en 7 matchs" → INVENTION SI PAS DANS LES DONNÉES FOURNIES
+❌ Toute stat, score, bilan ou résultat que tu ne peux PAS voir EXPLICITEMENT dans les données fournies
 
-**RÈGLE ABSOLUE:**
-- Si tu n'as PAS accès à des données RÉELLES et VÉRIFIABLES pour octobre 2025, tu DOIS l'admettre explicitement
-- INTERDICTION FORMELLE d'inventer, d'extrapoler, de supposer ou de deviner des résultats, scores ou statistiques
-- Tu DOIS écrire : "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables"
-- Dans ce cas, concentre-toi UNIQUEMENT sur : analyse tactique théorique, tendances historiques connues jusqu'en janvier 2025, contexte général de la compétition
-- MIEUX VAUT REFUSER UN PARI que d'inventer des données pour le justifier
+**RÈGLE ABSOLUE #1 - UTILISE UNIQUEMENT LES DONNÉES FOURNIES:**
+✅ Si les données fournies montrent "FORME RÉCENTE DOMICILE (10 derniers)" avec des scores RÉELS → UTILISE-LES
+✅ Si les données montrent "CLASSEMENT ACTUEL" avec position et points → UTILISE-LES
+✅ Si les données montrent "TOP 10 BUTEURS" avec noms et stats → UTILISE-LES
+❌ Si une section est VIDE ou ABSENTE → N'INVENTE PAS, DIS-LE
+
+**RÈGLE ABSOLUE #2 - REFUSER UN PARI PLUTÔT QUE D'INVENTER:**
+Si les données CRITIQUES manquent (forme récente RÉELLE, classement, H2H), tu DOIS:
+1. L'ADMETTRE explicitement: "⚠️ Données de forme récente non fournies pour ce match"
+2. NE PAS proposer de pari pour ce match
+3. Passer au match suivant qui a des données complètes
+
+**RÈGLE ABSOLUE #3 - VÉRIFICATION AVANT CHAQUE STAT:**
+Avant d'écrire TOUTE stat (ex: "3V-3N-1D", "12 points", "6e place"):
+1. VÉRIFIE qu'elle est EXPLICITEMENT dans les données fournies ci-dessus
+2. Si tu ne la VOIS PAS textuellement dans les données → NE L'ÉCRIS PAS
+3. Mieux vaut dire "Données non fournies" que d'inventer
 
 **RÈGLE ABSOLUE SUR LES PHRASES:**
 - AUCUN "..." n'est autorisé dans les analyses

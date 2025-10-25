@@ -140,7 +140,15 @@ class MatchScraper:
         return filtered
     
     def _enrich_match_data(self, match):
-        """Enrichit les données d'un match avec stats API-Football (EXHAUSTIF)"""
+        """
+        Enrichit les données d'un match avec stats API-Football (SMART)
+
+        STRATÉGIE INTELLIGENTE:
+        - ALWAYS AVAILABLE: Forme récente, H2H, blessures, stats saison, classement, top scorers/assists
+        - MATCH-TIME ONLY: Lineups, odds, stats match, events (seulement <2h avant match)
+
+        Cette approche évite les requêtes inutiles et garantit des données RÉELLES.
+        """
         try:
             api_key = os.getenv('API_FOOTBALL_KEY', None)
             if not api_key or match.get('source') != 'api-football':
@@ -156,6 +164,18 @@ class MatchScraper:
 
             team_home_id = match.get('team_home_id')
             team_away_id = match.get('team_away_id')
+
+            # Calculer le temps avant le match
+            match_time_str = match.get('time', '')
+            time_until_match = None
+            try:
+                from dateutil import parser
+                import pytz
+                match_datetime = parser.parse(match_time_str)
+                now = datetime.now(pytz.UTC)
+                time_until_match = (match_datetime - now).total_seconds() / 3600  # heures
+            except:
+                time_until_match = 999  # Si erreur, supposer match loin
 
             # 1. FORME RÉCENTE (10 derniers matchs au lieu de 5 pour plus de contexte)
             if team_home_id:
@@ -218,41 +238,61 @@ class MatchScraper:
                 if resp_standings.status_code == 200:
                     match['league_standings'] = resp_standings.json().get('response', [])
 
-            # 6. COTES EN TEMPS RÉEL (CRUCIAL pour value bets)
-            url_odds = f"https://v3.football.api-sports.io/odds"
-            params_odds = {'fixture': fixture_id}
-            resp_odds = requests.get(url_odds, headers=headers, params=params_odds, timeout=10)
-            if resp_odds.status_code == 200:
-                match['odds'] = resp_odds.json().get('response', [])
-
-            # 7. PRÉDICTIONS API-FOOTBALL (pour comparaison avec nos analyses)
+            # 6. PRÉDICTIONS API-FOOTBALL (pour comparaison avec nos analyses) - TOUJOURS DISPONIBLE
             url_predictions = f"https://v3.football.api-sports.io/predictions"
             params_predictions = {'fixture': fixture_id}
             resp_predictions = requests.get(url_predictions, headers=headers, params=params_predictions, timeout=10)
             if resp_predictions.status_code == 200:
-                match['api_predictions'] = resp_predictions.json().get('response', [])
+                predictions_data = resp_predictions.json().get('response', [])
+                if predictions_data and len(predictions_data) > 0:  # Vérifier que les données existent
+                    match['api_predictions'] = predictions_data
+                else:
+                    match['api_predictions'] = []
 
-            # 8. STATISTIQUES DÉTAILLÉES DU MATCH (tirs, possession, corners, cartons)
-            # Note: Seulement disponible pour matchs terminés/en cours, pas pour matchs à venir
-            url_match_stats = f"https://v3.football.api-sports.io/fixtures/statistics"
-            params_match_stats = {'fixture': fixture_id}
-            resp_match_stats = requests.get(url_match_stats, headers=headers, params=params_match_stats, timeout=10)
-            if resp_match_stats.status_code == 200:
-                match['match_statistics'] = resp_match_stats.json().get('response', [])
+            # ═══════════════════════════════════════════════════════════════
+            # DONNÉES "MATCH-TIME ONLY" - SEULEMENT si match dans <2 heures
+            # ═══════════════════════════════════════════════════════════════
 
-            # 9. COMPOSITIONS D'ÉQUIPE CONFIRMÉES (lineups, systèmes tactiques)
-            url_lineups = f"https://v3.football.api-sports.io/fixtures/lineups"
-            params_lineups = {'fixture': fixture_id}
-            resp_lineups = requests.get(url_lineups, headers=headers, params=params_lineups, timeout=10)
-            if resp_lineups.status_code == 200:
-                match['lineups'] = resp_lineups.json().get('response', [])
+            if time_until_match is not None and time_until_match < 2:
+                print(f"   ⏰ Match dans {time_until_match:.1f}h - Récupération données temps réel...")
 
-            # 10. ÉVÉNEMENTS DU MATCH (buts, cartons, remplacements)
-            url_events = f"https://v3.football.api-sports.io/fixtures/events"
-            params_events = {'fixture': fixture_id}
-            resp_events = requests.get(url_events, headers=headers, params=params_events, timeout=10)
-            if resp_events.status_code == 200:
-                match['match_events'] = resp_events.json().get('response', [])
+                # 8. COTES EN TEMPS RÉEL (disponible ~2h avant)
+                url_odds = f"https://v3.football.api-sports.io/odds"
+                params_odds = {'fixture': fixture_id}
+                resp_odds = requests.get(url_odds, headers=headers, params=params_odds, timeout=10)
+                if resp_odds.status_code == 200:
+                    odds_data = resp_odds.json().get('response', [])
+                    if odds_data and len(odds_data) > 0:
+                        match['odds'] = odds_data
+
+                # 9. COMPOSITIONS D'ÉQUIPE CONFIRMÉES (disponible ~1-2h avant)
+                url_lineups = f"https://v3.football.api-sports.io/fixtures/lineups"
+                params_lineups = {'fixture': fixture_id}
+                resp_lineups = requests.get(url_lineups, headers=headers, params=params_lineups, timeout=10)
+                if resp_lineups.status_code == 200:
+                    lineups_data = resp_lineups.json().get('response', [])
+                    if lineups_data and len(lineups_data) > 0:
+                        match['lineups'] = lineups_data
+
+                # 10. ÉVÉNEMENTS DU MATCH (seulement si match en cours ou terminé)
+                url_events = f"https://v3.football.api-sports.io/fixtures/events"
+                params_events = {'fixture': fixture_id}
+                resp_events = requests.get(url_events, headers=headers, params=params_events, timeout=10)
+                if resp_events.status_code == 200:
+                    events_data = resp_events.json().get('response', [])
+                    if events_data and len(events_data) > 0:
+                        match['match_events'] = events_data
+
+                # 11. STATISTIQUES DÉTAILLÉES DU MATCH (seulement si match en cours/terminé)
+                url_match_stats = f"https://v3.football.api-sports.io/fixtures/statistics"
+                params_match_stats = {'fixture': fixture_id}
+                resp_match_stats = requests.get(url_match_stats, headers=headers, params=params_match_stats, timeout=10)
+                if resp_match_stats.status_code == 200:
+                    stats_data = resp_match_stats.json().get('response', [])
+                    if stats_data and len(stats_data) > 0:
+                        match['match_statistics'] = stats_data
+            else:
+                print(f"   ⏳ Match dans {time_until_match:.1f}h - Données temps réel non encore disponibles")
 
             # 11. TOP BUTEURS DE LA LIGUE (cache par ligue pour économiser requêtes)
             if league_id and not hasattr(self, f'_topscorers_cache_{league_id}'):

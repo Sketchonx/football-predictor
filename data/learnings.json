@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-24T10:42:50.153548",
-  "total_errors_analyzed": 3,
+  "last_updated": "2025-10-25T11:04:37.947788",
+  "total_errors_analyzed": 4,
   "categories": {
     "contexte_match": {
       "count": 1,
@@ -12,11 +12,15 @@
       ]
     },
     "surestimation_favori": {
-      "count": 1,
+      "count": 2,
       "examples": [
         {
           "match": "AS Roma vs Plzen",
           "conclusion": "Toujours évaluer la forme récente des équipes, leur motivation et le contexte spécifique du match, même face à un adversaire théoriquement plus faible, avant de parier sur un handicap important."
+        },
+        {
+          "match": "Paris FC vs Nantes",
+          "conclusion": "Ne jamais parier sur un promu contre une équipe de division supérieure établie uniquement sur la base du contexte psychologique."
         }
       ]
     },
@@ -45,6 +49,11 @@
       "date": "2025-10-24T10:42:50.147109",
       "category": "forme_recente",
       "conclusion": "Il est crucial d'évaluer la forme récente des équipes, en particulier à l'extérieur, et de ne pas se fier uniquement à leur réputation offensive, surtout en pré-saison où les enjeux sont moindres."
+    },
+    {
+      "date": "2025-10-25T11:04:37.942797",
+      "category": "surestimation_favori",
+      "conclusion": "Ne jamais parier sur un promu contre une équipe de division supérieure établie uniquement sur la base du contexte psychologique."
     }
   ]
 }

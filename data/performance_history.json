@@ -57,30 +57,30 @@
   },
   {
     "prediction_id": "2025-10-24_0",
-    "result": "pending",
-    "actual_score": null,
+    "result": "win",
+    "actual_score": "1-0",
     "recorded_at": "2025-10-24T16:42:02.900335",
-    "updated_at": "2025-10-24T16:42:02.900404"
+    "updated_at": "2025-10-25T11:04:17.937565"
   },
   {
     "prediction_id": "2025-10-24_1",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "1-2",
     "recorded_at": "2025-10-24T16:42:02.900410",
-    "updated_at": "2025-10-24T16:42:02.900413"
+    "updated_at": "2025-10-25T11:04:18.060736"
   },
   {
     "prediction_id": "2025-10-24_2",
-    "result": "pending",
-    "actual_score": null,
+    "result": "win",
+    "actual_score": "2-1",
     "recorded_at": "2025-10-24T16:42:02.900416",
-    "updated_at": "2025-10-24T16:42:02.900418"
+    "updated_at": "2025-10-25T11:04:18.194162"
   },
   {
     "prediction_id": "2025-10-24_3",
-    "result": "pending",
-    "actual_score": null,
+    "result": "win",
+    "actual_score": "2-1",
     "recorded_at": "2025-10-24T16:42:02.900421",
-    "updated_at": "2025-10-24T16:42:02.900423"
+    "updated_at": "2025-10-25T11:04:18.307996"
   }
 ]

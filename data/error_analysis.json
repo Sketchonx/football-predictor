@@ -61,5 +61,26 @@
     "bet_choice": "BTTS - Yes",
     "final_score": "2-0",
     "analysis_date": "2025-10-24T10:42:50.147109"
+  },
+  {
+    "main_cause": "Surestimation de l'impact du facteur psychologique et sous-estimation de la capacité de réaction d'une équipe de Ligue 1 en difficulté face à un promu.",
+    "missed_factors": [
+      "Différence de niveau technique réelle entre une équipe de Ligue 1 établie et un promu, même en crise",
+      "Capacité de sursaut des équipes professionnelles expérimentées dans les moments difficiles",
+      "Pression supplémentaire sur Paris FC de confirmer face à une 'grosse' équipe malgré le discours 'sans pression'"
+    ],
+    "actionable_conclusion": "Ne jamais parier sur un promu contre une équipe de division supérieure établie uniquement sur la base du contexte psychologique.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-10-24_1",
+    "match": {
+      "home_team": "Paris FC",
+      "away_team": "Nantes",
+      "league": "Ligue 1",
+      "date": "18:45"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Paris FC)",
+    "final_score": "1-2",
+    "analysis_date": "2025-10-25T11:04:37.942797"
   }
 ]

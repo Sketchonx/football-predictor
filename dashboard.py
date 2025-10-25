@@ -111,10 +111,22 @@ with tab1:
     )
 
     # Charger les données
-    predictions = tracker.get_all_predictions()
-    stats = tracker.calculate_statistics()
-    stats_by_type = tracker.get_statistics_by_type()
-    stats_by_comp = tracker.get_statistics_by_competition()
+    all_predictions = tracker.get_all_predictions()
+
+    # Filtrer par date
+    if isinstance(date_range, tuple) and len(date_range) == 2:
+        start_date, end_date = date_range
+        predictions = [
+            p for p in all_predictions
+            if start_date <= datetime.strptime(p['date'], '%Y-%m-%d').date() <= end_date
+        ]
+    else:
+        predictions = all_predictions
+
+    # Calculer les stats sur les données filtrées
+    stats = tracker.calculate_statistics_from_list(predictions)
+    stats_by_type = tracker.get_statistics_by_type_from_list(predictions)
+    stats_by_comp = tracker.get_statistics_by_competition_from_list(predictions)
 
     # Section 1: Métriques principales
     st.markdown("## 📊 Vue d'ensemble")

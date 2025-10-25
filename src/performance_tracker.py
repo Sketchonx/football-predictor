@@ -168,6 +168,65 @@ class PerformanceTracker:
     def get_statistics_by_competition(self) -> Dict:
         """Statistiques par compétition"""
         predictions = self.get_all_predictions()
+        return self.get_statistics_by_competition_from_list(predictions)
+
+    def calculate_statistics_from_list(self, predictions: List[Dict]) -> Dict:
+        """Calcule les statistiques à partir d'une liste filtrée de prédictions"""
+        if not predictions:
+            return {
+                'total_predictions': 0,
+                'completed': 0,
+                'win_rate': 0,
+                'total_wins': 0,
+                'total_losses': 0,
+                'pending': 0,
+                'avg_odds': 0,
+                'avg_confidence': 0
+            }
+
+        completed = [p for p in predictions if p['result'] in ['win', 'loss']]
+        wins = [p for p in completed if p['result'] == 'win']
+        losses = [p for p in completed if p['result'] == 'loss']
+        pending = [p for p in predictions if p['result'] not in ['win', 'loss']]
+
+        return {
+            'total_predictions': len(predictions),
+            'completed': len(completed),
+            'win_rate': (len(wins) / len(completed) * 100) if completed else 0,
+            'total_wins': len(wins),
+            'total_losses': len(losses),
+            'pending': len(pending),
+            'avg_odds': sum([p['odds'] for p in predictions]) / len(predictions) if predictions else 0,
+            'avg_confidence': sum([p['confidence'] for p in predictions]) / len(predictions) if predictions else 0,
+        }
+
+    def get_statistics_by_type_from_list(self, predictions: List[Dict]) -> Dict:
+        """Statistiques par type de pari à partir d'une liste filtrée"""
+        completed = [p for p in predictions if p['result'] in ['win', 'loss']]
+
+        by_type = {}
+
+        for pred in completed:
+            bet_type = pred['bet_type']
+            if bet_type not in by_type:
+                by_type[bet_type] = {'wins': 0, 'losses': 0, 'total': 0}
+
+            by_type[bet_type]['total'] += 1
+            if pred['result'] == 'win':
+                by_type[bet_type]['wins'] += 1
+            else:
+                by_type[bet_type]['losses'] += 1
+
+        # Calculer le taux de réussite
+        for bet_type in by_type:
+            total = by_type[bet_type]['total']
+            wins = by_type[bet_type]['wins']
+            by_type[bet_type]['win_rate'] = (wins / total * 100) if total > 0 else 0
+
+        return by_type
+
+    def get_statistics_by_competition_from_list(self, predictions: List[Dict]) -> Dict:
+        """Statistiques par compétition à partir d'une liste filtrée"""
         completed = [p for p in predictions if p['result'] in ['win', 'loss']]
 
         by_comp = {}

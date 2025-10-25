@@ -1,5 +1,18 @@
-# Core dependencies (sans les dépendances non nécessaires pour le dashboard)
+# Core dependencies
 streamlit
 plotly
 pandas
 python-dotenv
+
+# API clients
+anthropic
+requests
+python-telegram-bot
+
+# Web scraping
+beautifulsoup4
+lxml
+
+# Date/time
+python-dateutil
+pytz

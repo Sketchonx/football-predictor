@@ -77,7 +77,7 @@ Réponds en JSON valide."""
                 # Appel API Claude avec streaming désactivé
                 message = self.client.messages.create(
                     model=self.model,
-                    max_tokens=8000,  # Claude peut générer de longues analyses
+                    max_tokens=16000,  # Claude peut générer de longues analyses
                     temperature=0.3,  # Raisonnement rigoureux et cohérent
                     messages=[
                         {

@@ -17,11 +17,17 @@ def main():
     scraper = MatchScraper()
     matches = scraper.get_today_matches()
     print(f"✅ {len(matches)} matchs trouvés")
-    
+
     if not matches:
         print("❌ Aucun match disponible, arrêt.")
         return
-    
+
+    # Limiter à 10 matchs max pour éviter JSON trop long
+    MAX_MATCHES_TO_ANALYZE = 10
+    if len(matches) > MAX_MATCHES_TO_ANALYZE:
+        print(f"⚠️ Limitation à {MAX_MATCHES_TO_ANALYZE} matchs (sur {len(matches)}) pour optimiser l'analyse")
+        matches = matches[:MAX_MATCHES_TO_ANALYZE]
+
     matches_formatted = scraper.format_matches_for_prompt(matches)
     
     # 2. Récupération stats d'apprentissage

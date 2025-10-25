@@ -1,59 +1,22 @@
 {
-  "last_updated": "2025-10-25T11:04:37.947788",
-  "total_errors_analyzed": 4,
+  "last_updated": "2025-10-25T11:14:25.006525",
+  "total_errors_analyzed": 1,
   "categories": {
-    "contexte_match": {
+    "sous_estimation_outsider": {
       "count": 1,
       "examples": [
-        {
-          "match": "SC Braga vs FK Crvena Zvezda",
-          "conclusion": "Il est crucial d'analyser en profondeur les schémas tactiques et la gestion du risque des équipes, en particulier dans les matchs à enjeux, au-delà des simples statistiques de buts."
-        }
-      ]
-    },
-    "surestimation_favori": {
-      "count": 2,
-      "examples": [
-        {
-          "match": "AS Roma vs Plzen",
-          "conclusion": "Toujours évaluer la forme récente des équipes, leur motivation et le contexte spécifique du match, même face à un adversaire théoriquement plus faible, avant de parier sur un handicap important."
-        },
         {
           "match": "Paris FC vs Nantes",
-          "conclusion": "Ne jamais parier sur un promu contre une équipe de division supérieure établie uniquement sur la base du contexte psychologique."
-        }
-      ]
-    },
-    "forme_recente": {
-      "count": 1,
-      "examples": [
-        {
-          "match": "SC Freiburg vs Utrecht",
-          "conclusion": "Il est crucial d'évaluer la forme récente des équipes, en particulier à l'extérieur, et de ne pas se fier uniquement à leur réputation offensive, surtout en pré-saison où les enjeux sont moindres."
+          "conclusion": "Avant de parier sur une équipe de division inférieure contre une équipe en crise de l'élite, vérifier si l'écart de niveau structurel (budget, effectif, expérience) reste supérieur à 30% et analyser les 5 derniers matchs de l'équipe favorite contre des adversaires de niveau similaire."
         }
       ]
     }
   },
   "key_learnings": [
     {
-      "date": "2025-10-24T10:42:45.086969",
-      "category": "contexte_match",
-      "conclusion": "Il est crucial d'analyser en profondeur les schémas tactiques et la gestion du risque des équipes, en particulier dans les matchs à enjeux, au-delà des simples statistiques de buts."
-    },
-    {
-      "date": "2025-10-24T10:42:47.382599",
-      "category": "surestimation_favori",
-      "conclusion": "Toujours évaluer la forme récente des équipes, leur motivation et le contexte spécifique du match, même face à un adversaire théoriquement plus faible, avant de parier sur un handicap important."
-    },
-    {
-      "date": "2025-10-24T10:42:50.147109",
-      "category": "forme_recente",
-      "conclusion": "Il est crucial d'évaluer la forme récente des équipes, en particulier à l'extérieur, et de ne pas se fier uniquement à leur réputation offensive, surtout en pré-saison où les enjeux sont moindres."
-    },
-    {
-      "date": "2025-10-25T11:04:37.942797",
-      "category": "surestimation_favori",
-      "conclusion": "Ne jamais parier sur un promu contre une équipe de division supérieure établie uniquement sur la base du contexte psychologique."
+      "date": "2025-10-25T11:14:25.004192",
+      "category": "sous_estimation_outsider",
+      "conclusion": "Avant de parier sur une équipe de division inférieure contre une équipe en crise de l'élite, vérifier si l'écart de niveau structurel (budget, effectif, expérience) reste supérieur à 30% et analyser les 5 derniers matchs de l'équipe favorite contre des adversaires de niveau similaire."
     }
   ]
 }

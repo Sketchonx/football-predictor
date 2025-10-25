@@ -149,17 +149,31 @@ Raisonnement: {reasoning}
 Score final: {final_score}
 Statut: PERDU
 
+**CONSIGNES IMPORTANTES POUR L'ANALYSE:**
+
+⚠️ ÉVITE les conclusions trop générales et absolues comme:
+- "Ne jamais parier contre une équipe en crise" (TROP GÉNÉRAL)
+- "Toujours éviter les gros handicaps" (TROP VAGUE)
+- "Ne jamais sous-estimer X" (INUTILISABLE)
+
+✅ PRÉFÈRE les conclusions NUANCÉES et ACTIONNABLES:
+- "Vérifier les confrontations directes récentes avant de parier sur un handicap >1.5"
+- "Pour les équipes en crise, analyser si le contexte du match (derby, changement d'entraîneur) peut créer une motivation exceptionnelle"
+- "Augmenter le poids des stats domicile/extérieur pour les équipes avec un écart >20% entre les deux"
+
 **ANALYSE DEMANDÉE:**
 
 1. **Cause principale de l'erreur** (1 phrase concise):
-   - Mauvaise appréciation de quoi exactement?
+   - Quel élément SPÉCIFIQUE a été mal évalué dans CE match?
 
-2. **Facteurs manqués** (2-3 points):
-   - Quels éléments n'ont pas été correctement évalués?
-   - Impact d'absences? Forme récente? Contexte du match?
+2. **Facteurs manqués** (2-3 points PRÉCIS):
+   - Quels INDICATEURS MESURABLES auraient dû alerter?
+   - Exemples: confrontations directes, stats domicile/extérieur, blessures clés, contexte précis
 
-3. **Conclusion actionnable** (1 phrase):
-   - Quelle règle/principe aurait dû être appliqué?
+3. **Conclusion actionnable** (1 phrase NUANCÉE et APPLICABLE):
+   - Quelle VÉRIFICATION ou PONDÉRATION aurait dû être appliquée?
+   - DOIT être utilisable dans une future analyse similaire
+   - DOIT être spécifique, pas un principe général vague
 
 Réponds en JSON:
 {{

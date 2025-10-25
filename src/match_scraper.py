@@ -232,6 +232,91 @@ class MatchScraper:
             if resp_predictions.status_code == 200:
                 match['api_predictions'] = resp_predictions.json().get('response', [])
 
+            # 8. STATISTIQUES DÉTAILLÉES DU MATCH (tirs, possession, corners, cartons)
+            # Note: Seulement disponible pour matchs terminés/en cours, pas pour matchs à venir
+            url_match_stats = f"https://v3.football.api-sports.io/fixtures/statistics"
+            params_match_stats = {'fixture': fixture_id}
+            resp_match_stats = requests.get(url_match_stats, headers=headers, params=params_match_stats, timeout=10)
+            if resp_match_stats.status_code == 200:
+                match['match_statistics'] = resp_match_stats.json().get('response', [])
+
+            # 9. COMPOSITIONS D'ÉQUIPE CONFIRMÉES (lineups, systèmes tactiques)
+            url_lineups = f"https://v3.football.api-sports.io/fixtures/lineups"
+            params_lineups = {'fixture': fixture_id}
+            resp_lineups = requests.get(url_lineups, headers=headers, params=params_lineups, timeout=10)
+            if resp_lineups.status_code == 200:
+                match['lineups'] = resp_lineups.json().get('response', [])
+
+            # 10. ÉVÉNEMENTS DU MATCH (buts, cartons, remplacements)
+            url_events = f"https://v3.football.api-sports.io/fixtures/events"
+            params_events = {'fixture': fixture_id}
+            resp_events = requests.get(url_events, headers=headers, params=params_events, timeout=10)
+            if resp_events.status_code == 200:
+                match['match_events'] = resp_events.json().get('response', [])
+
+            # 11. TOP BUTEURS DE LA LIGUE (cache par ligue pour économiser requêtes)
+            if league_id and not hasattr(self, f'_topscorers_cache_{league_id}'):
+                url_topscorers = f"https://v3.football.api-sports.io/players/topscorers"
+                params_topscorers = {'league': league_id, 'season': season}
+                resp_topscorers = requests.get(url_topscorers, headers=headers, params=params_topscorers, timeout=10)
+                if resp_topscorers.status_code == 200:
+                    setattr(self, f'_topscorers_cache_{league_id}', resp_topscorers.json().get('response', []))
+            match['league_topscorers'] = getattr(self, f'_topscorers_cache_{league_id}', [])
+
+            # 12. TOP PASSEURS DE LA LIGUE (cache par ligue)
+            if league_id and not hasattr(self, f'_topassists_cache_{league_id}'):
+                url_topassists = f"https://v3.football.api-sports.io/players/topassists"
+                params_topassists = {'league': league_id, 'season': season}
+                resp_topassists = requests.get(url_topassists, headers=headers, params=params_topassists, timeout=10)
+                if resp_topassists.status_code == 200:
+                    setattr(self, f'_topassists_cache_{league_id}', resp_topassists.json().get('response', []))
+            match['league_topassists'] = getattr(self, f'_topassists_cache_{league_id}', [])
+
+            # 13. JOUEURS ÉCARTÉS LONG TERME (sidelined)
+            if team_home_id:
+                url_sidelined_home = f"https://v3.football.api-sports.io/sidelined"
+                params_sidelined_home = {'team': team_home_id}
+                resp_sidelined_home = requests.get(url_sidelined_home, headers=headers, params=params_sidelined_home, timeout=10)
+                if resp_sidelined_home.status_code == 200:
+                    match['home_sidelined'] = resp_sidelined_home.json().get('response', [])
+
+            if team_away_id:
+                url_sidelined_away = f"https://v3.football.api-sports.io/sidelined"
+                params_sidelined_away = {'team': team_away_id}
+                resp_sidelined_away = requests.get(url_sidelined_away, headers=headers, params=params_sidelined_away, timeout=10)
+                if resp_sidelined_away.status_code == 200:
+                    match['away_sidelined'] = resp_sidelined_away.json().get('response', [])
+
+            # 14. INFO ENTRAÎNEURS (récent, tactiques)
+            if team_home_id:
+                url_coach_home = f"https://v3.football.api-sports.io/coachs"
+                params_coach_home = {'team': team_home_id}
+                resp_coach_home = requests.get(url_coach_home, headers=headers, params=params_coach_home, timeout=10)
+                if resp_coach_home.status_code == 200:
+                    match['home_coach'] = resp_coach_home.json().get('response', [])
+
+            if team_away_id:
+                url_coach_away = f"https://v3.football.api-sports.io/coachs"
+                params_coach_away = {'team': team_away_id}
+                resp_coach_away = requests.get(url_coach_away, headers=headers, params=params_coach_away, timeout=10)
+                if resp_coach_away.status_code == 200:
+                    match['away_coach'] = resp_coach_away.json().get('response', [])
+
+            # 15. TRANSFERTS RÉCENTS (nouveaux joueurs, adaptations)
+            if team_home_id:
+                url_transfers_home = f"https://v3.football.api-sports.io/transfers"
+                params_transfers_home = {'team': team_home_id}
+                resp_transfers_home = requests.get(url_transfers_home, headers=headers, params=params_transfers_home, timeout=10)
+                if resp_transfers_home.status_code == 200:
+                    match['home_transfers'] = resp_transfers_home.json().get('response', [])[:10]  # 10 derniers transferts
+
+            if team_away_id:
+                url_transfers_away = f"https://v3.football.api-sports.io/transfers"
+                params_transfers_away = {'team': team_away_id}
+                resp_transfers_away = requests.get(url_transfers_away, headers=headers, params=params_transfers_away, timeout=10)
+                if resp_transfers_away.status_code == 200:
+                    match['away_transfers'] = resp_transfers_away.json().get('response', [])[:10]
+
             return match
 
         except Exception as e:
@@ -368,24 +453,35 @@ class MatchScraper:
                 formatted += "└────────────────────────────────────────────────────────┘\n\n"
 
             # 6. COTES EN TEMPS RÉEL
-            if match.get('odds'):
+            if match.get('odds') and len(match['odds']) > 0:
                 formatted += "┌─ 💰 COTES EN TEMPS RÉEL (marchés principaux) ─────────┐\n"
-                for bookmaker in match['odds'][:3]:  # Top 3 bookmakers
-                    bm_name = bookmaker['bookmaker']['name']
-                    for bet in bookmaker['bets']:
-                        if bet['name'] == 'Match Winner':
-                            formatted += f"│ [{bm_name}] 1X2:\n"
-                            for value in bet['values']:
-                                formatted += f"│   - {value['value']}: {value['odd']}\n"
-                        elif bet['name'] == 'Goals Over/Under':
-                            formatted += f"│ [{bm_name}] Over/Under:\n"
-                            for value in bet['values'][:4]:
-                                formatted += f"│   - {value['value']}: {value['odd']}\n"
-                        elif bet['name'] == 'Both Teams Score':
-                            formatted += f"│ [{bm_name}] BTTS:\n"
-                            for value in bet['values']:
-                                formatted += f"│   - {value['value']}: {value['odd']}\n"
-                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+                try:
+                    for odds_data in match['odds'][:3]:  # Top 3 bookmakers
+                        if not isinstance(odds_data, dict):
+                            continue
+                        bm_name = odds_data.get('bookmaker', {}).get('name', 'Unknown')
+                        bets = odds_data.get('bets', [])
+
+                        for bet in bets:
+                            bet_name = bet.get('name', '')
+                            values = bet.get('values', [])
+
+                            if bet_name == 'Match Winner':
+                                formatted += f"│ [{bm_name}] 1X2:\n"
+                                for value in values:
+                                    formatted += f"│   - {value.get('value', 'N/A')}: {value.get('odd', 'N/A')}\n"
+                            elif bet_name == 'Goals Over/Under':
+                                formatted += f"│ [{bm_name}] Over/Under:\n"
+                                for value in values[:4]:
+                                    formatted += f"│   - {value.get('value', 'N/A')}: {value.get('odd', 'N/A')}\n"
+                            elif bet_name == 'Both Teams Score':
+                                formatted += f"│ [{bm_name}] BTTS:\n"
+                                for value in values:
+                                    formatted += f"│   - {value.get('value', 'N/A')}: {value.get('odd', 'N/A')}\n"
+                    formatted += "└────────────────────────────────────────────────────────┘\n\n"
+                except Exception as e:
+                    formatted += "│ ⚠️ Erreur parsing cotes - données non disponibles\n"
+                    formatted += "└────────────────────────────────────────────────────────┘\n\n"
 
             # 7. PRÉDICTIONS API-FOOTBALL (référence)
             if match.get('api_predictions'):
@@ -402,6 +498,161 @@ class MatchScraper:
                         formatted += f"│ Def: {comp.get('def', {}).get('home', 'N/A')} vs {comp.get('def', {}).get('away', 'N/A')}\n"
                     formatted += "│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse\n"
                     formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            # 8. COMPOSITIONS D'ÉQUIPE & SYSTÈMES TACTIQUES
+            if match.get('lineups'):
+                formatted += "┌─ ⚽ COMPOSITIONS & TACTIQUES ──────────────────────────┐\n"
+                for lineup in match['lineups']:
+                    team_name = lineup.get('team', {}).get('name', 'N/A')
+                    formation = lineup.get('formation', 'N/A')
+                    coach_name = lineup.get('coach', {}).get('name', 'N/A')
+
+                    emoji = "🏠" if team_name == match['home'] else "✈️"
+                    formatted += f"│ {emoji} {team_name}: Formation {formation}\n"
+                    formatted += f"│    Entraîneur: {coach_name}\n"
+
+                    # Afficher les 11 titulaires
+                    startXI = lineup.get('startXI', [])
+                    if startXI:
+                        formatted += f"│    Titulaires: "
+                        players_list = [p.get('player', {}).get('name', 'N/A') for p in startXI[:11]]
+                        formatted += f"{', '.join(players_list[:5])}...\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            # 9. TOP BUTEURS DE LA LIGUE (menaces offensives)
+            if match.get('league_topscorers'):
+                formatted += "┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐\n"
+                home_team = match['home']
+                away_team = match['away']
+
+                for idx, scorer in enumerate(match['league_topscorers'][:10], 1):
+                    player_name = scorer.get('player', {}).get('name', 'N/A')
+                    team_name = scorer.get('statistics', [{}])[0].get('team', {}).get('name', 'N/A')
+                    goals = scorer.get('statistics', [{}])[0].get('goals', {}).get('total', 0)
+
+                    marker = ""
+                    if team_name == home_team:
+                        marker = "🏠 "
+                    elif team_name == away_team:
+                        marker = "✈️ "
+
+                    formatted += f"│ {idx:2}. {marker}{player_name} ({team_name}): {goals} buts\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            # 10. TOP PASSEURS DE LA LIGUE (créativité offensive)
+            if match.get('league_topassists'):
+                formatted += "┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐\n"
+                home_team = match['home']
+                away_team = match['away']
+
+                for idx, assister in enumerate(match['league_topassists'][:10], 1):
+                    player_name = assister.get('player', {}).get('name', 'N/A')
+                    team_name = assister.get('statistics', [{}])[0].get('team', {}).get('name', 'N/A')
+                    assists = assister.get('statistics', [{}])[0].get('goals', {}).get('assists', 0)
+
+                    marker = ""
+                    if team_name == home_team:
+                        marker = "🏠 "
+                    elif team_name == away_team:
+                        marker = "✈️ "
+
+                    formatted += f"│ {idx:2}. {marker}{player_name} ({team_name}): {assists} passes\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            # 11. JOUEURS ÉCARTÉS LONG TERME (sidelined)
+            if match.get('home_sidelined'):
+                formatted += "┌─ 🚑 JOUEURS ÉCARTÉS LONG TERME DOMICILE ──────────────┐\n"
+                if len(match['home_sidelined']) == 0:
+                    formatted += "│ ✅ Aucun joueur écarté long terme\n"
+                else:
+                    for sideline in match['home_sidelined'][:5]:
+                        player = sideline.get('player', {}).get('name', 'N/A')
+                        reason = sideline.get('type', 'N/A')
+                        start_date = sideline.get('start', 'N/A')[:10] if sideline.get('start') else 'N/A'
+                        formatted += f"│ ⚠️ {player}: {reason} (depuis {start_date})\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            if match.get('away_sidelined'):
+                formatted += "┌─ 🚑 JOUEURS ÉCARTÉS LONG TERME EXTÉRIEUR ─────────────┐\n"
+                if len(match['away_sidelined']) == 0:
+                    formatted += "│ ✅ Aucun joueur écarté long terme\n"
+                else:
+                    for sideline in match['away_sidelined'][:5]:
+                        player = sideline.get('player', {}).get('name', 'N/A')
+                        reason = sideline.get('type', 'N/A')
+                        start_date = sideline.get('start', 'N/A')[:10] if sideline.get('start') else 'N/A'
+                        formatted += f"│ ⚠️ {player}: {reason} (depuis {start_date})\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            # 12. INFO ENTRAÎNEURS (expérience, arrivée récente)
+            if match.get('home_coach'):
+                formatted += "┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐\n"
+                coach = match['home_coach'][0] if match['home_coach'] else {}
+                if coach:
+                    coach_name = coach.get('name', 'N/A')
+                    coach_age = coach.get('age', 'N/A')
+                    nationality = coach.get('nationality', 'N/A')
+                    formatted += f"│ Nom: {coach_name} ({nationality}, {coach_age} ans)\n"
+
+                    career = coach.get('career', [])
+                    if career:
+                        current_team = career[-1]
+                        start_date = current_team.get('start', 'N/A')[:10] if current_team.get('start') else 'N/A'
+                        formatted += f"│ En poste depuis: {start_date}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            if match.get('away_coach'):
+                formatted += "┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐\n"
+                coach = match['away_coach'][0] if match['away_coach'] else {}
+                if coach:
+                    coach_name = coach.get('name', 'N/A')
+                    coach_age = coach.get('age', 'N/A')
+                    nationality = coach.get('nationality', 'N/A')
+                    formatted += f"│ Nom: {coach_name} ({nationality}, {coach_age} ans)\n"
+
+                    career = coach.get('career', [])
+                    if career:
+                        current_team = career[-1]
+                        start_date = current_team.get('start', 'N/A')[:10] if current_team.get('start') else 'N/A'
+                        formatted += f"│ En poste depuis: {start_date}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            # 13. TRANSFERTS RÉCENTS (nouveaux joueurs, adaptation)
+            if match.get('home_transfers'):
+                formatted += "┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐\n"
+                if len(match['home_transfers']) == 0:
+                    formatted += "│ ℹ️ Aucun transfert récent\n"
+                else:
+                    for transfer in match['home_transfers'][:5]:
+                        player_name = transfer.get('player', {}).get('name', 'N/A')
+                        transfer_type = transfer.get('transfers', [{}])[0].get('type', 'N/A')
+                        from_team = transfer.get('transfers', [{}])[0].get('teams', {}).get('out', {}).get('name', 'N/A')
+                        to_team = transfer.get('transfers', [{}])[0].get('teams', {}).get('in', {}).get('name', 'N/A')
+                        date = transfer.get('transfers', [{}])[0].get('date', 'N/A')[:10] if transfer.get('transfers', [{}])[0].get('date') else 'N/A'
+
+                        if to_team == match['home']:
+                            formatted += f"│ ⬇️ {player_name}: {from_team} → {to_team} ({transfer_type}, {date})\n"
+                        elif from_team == match['home']:
+                            formatted += f"│ ⬆️ {player_name}: {from_team} → {to_team} ({transfer_type}, {date})\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            if match.get('away_transfers'):
+                formatted += "┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐\n"
+                if len(match['away_transfers']) == 0:
+                    formatted += "│ ℹ️ Aucun transfert récent\n"
+                else:
+                    for transfer in match['away_transfers'][:5]:
+                        player_name = transfer.get('player', {}).get('name', 'N/A')
+                        transfer_type = transfer.get('transfers', [{}])[0].get('type', 'N/A')
+                        from_team = transfer.get('transfers', [{}])[0].get('teams', {}).get('out', {}).get('name', 'N/A')
+                        to_team = transfer.get('transfers', [{}])[0].get('teams', {}).get('in', {}).get('name', 'N/A')
+                        date = transfer.get('transfers', [{}])[0].get('date', 'N/A')[:10] if transfer.get('transfers', [{}])[0].get('date') else 'N/A'
+
+                        if to_team == match['away']:
+                            formatted += f"│ ⬇️ {player_name}: {from_team} → {to_team} ({transfer_type}, {date})\n"
+                        elif from_team == match['away']:
+                            formatted += f"│ ⬆️ {player_name}: {from_team} → {to_team} ({transfer_type}, {date})\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
 
             formatted += "\n" + "═" * 60 + "\n\n"
 

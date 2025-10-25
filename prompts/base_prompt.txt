@@ -38,26 +38,23 @@ Tu dois trouver des paris où le MARCHÉ se TROMPE, où la cote est SOUS-ÉVALU�
 
 ## MÉTHODOLOGIE D'ANALYSE APPROFONDIE
 
-Pour CHAQUE match retenu, tu DOIS analyser EN DÉTAIL :
+**⚠️ CONTRAINTE IMPORTANTE : DONNÉES LIMITÉES À JANVIER 2025**
 
-### 1. FORME RÉCENTE (Analyse complète obligatoire)
+Puisque tu n'as PAS accès à des données vérifiables pour octobre 2025, adapte ta méthodologie :
 
-**Équipe Domicile :**
-- Analyser les 5 derniers matchs TOUTES compétitions
-- Préciser score exact, adversaire, compétition
-- Calculer : buts marqués, buts encaissés, points
-- Analyser séries : victoires/défaites/nuls consécutifs
-- Performance DOMICILE spécifiquement (3 derniers matchs à domicile)
-- Évolution de la forme (en hausse/baisse/stable)
+### 1. FORME RÉCENTE - APPROCHE HONNÊTE
 
-**Équipe Extérieur :**
-- Même analyse pour 5 derniers matchs
-- Performance EXTÉRIEUR spécifiquement (3 derniers matchs à l'extérieur)
-- Capacité à scorer/défendre en déplacement
+**SI tu n'as PAS de données récentes vérifiables (cas probable) :**
+- ADMETS-LE explicitement : "⚠️ Données de forme récente octobre 2025 non disponibles"
+- Utilise tes connaissances jusqu'en janvier 2025 pour le contexte général :
+  * Niveau habituel de l'équipe dans sa compétition
+  * Tendances historiques (ex: "PSG historiquement dominant en Ligue 1", "Brest traditionnellement solide à domicile")
+  * Style de jeu typique connu
+- NE PAS inventer de scores, résultats ou statistiques récentes
 
-**Stats précises attendues :**
-- "PSG : 5 matchs, 4V-1N-0D, 14 buts marqués, 3 encaissés"
-- "Dont à domicile : 3V-0N, 10 buts pour, 1 contre"
+**SI des données sont fournies dans le contexte du match (API externe) :**
+- Tu PEUX les utiliser si elles sont explicitement fournies
+- Précise toujours la source : "Selon les données fournies..."
 
 ### 2. CONFRONTATIONS DIRECTES (H2H)
 
@@ -326,14 +323,22 @@ Les analyses DOIVENT être synthétiques mais détaillées.
 Minimum 300 mots par analyse, peut aller jusqu'à 500 mots si nécessaire pour terminer correctement les phrases.
 Prouve ton travail avec des FAITS, CHIFFRES, EXEMPLES concrets.
 
-**⚠️ RÈGLE CRITIQUE SUR LES DONNÉES:**
+**⚠️ RÈGLE CRITIQUE SUR LES DONNÉES - ZÉRO TOLÉRANCE:**
 Tu as une connaissance coupée en janvier 2025. Nous sommes maintenant en octobre 2025.
-- NE PAS inventer ou extrapoler de données obsolètes
-- Si tu n'as PAS de données récentes fiables, ADMETS-LE dans l'analyse
-- Utilise des termes prudents: "Selon les dernières données disponibles..." "Tendance récente suggère..."
-- NE JAMAIS affirmer avec certitude des stats que tu ne peux pas vérifier
-- Focus sur l'ANALYSE TACTIQUE et CONTEXTUELLE plutôt que sur des stats inventées
-- Si un facteur clé est INCERTAIN (blessures récentes, forme actuelle), MENTIONNE cette incertitude
+
+**ABSOLUMENT INTERDIT:**
+❌ "Selon les dernières données disponibles, Brest montrait une forme irrégulière avec 2V-1N-2D" → C'EST DE L'INVENTION
+❌ "PSG devrait afficher une forme dominante avec environ 4V-1N" → C'EST DE L'INVENTION
+❌ "Données récentes non disponibles, mais effectif habituel limité" → C'EST DE L'INVENTION
+❌ "Napoli en reconstruction après saison difficile, forme récente en amélioration" → TROP VAGUE, C'EST DE L'INVENTION
+❌ Toute stat, score ou résultat que tu ne peux PAS vérifier avec certitude
+
+**RÈGLE ABSOLUE:**
+- Si tu n'as PAS accès à des données RÉELLES et VÉRIFIABLES pour octobre 2025, tu DOIS l'admettre explicitement
+- INTERDICTION FORMELLE d'inventer, d'extrapoler, de supposer ou de deviner des résultats, scores ou statistiques
+- Tu DOIS écrire : "⚠️ DONNÉES OCTOBRE 2025 NON DISPONIBLES - Impossible de fournir des stats récentes fiables"
+- Dans ce cas, concentre-toi UNIQUEMENT sur : analyse tactique théorique, tendances historiques connues jusqu'en janvier 2025, contexte général de la compétition
+- MIEUX VAUT REFUSER UN PARI que d'inventer des données pour le justifier
 
 **RÈGLE ABSOLUE SUR LES PHRASES:**
 - AUCUN "..." n'est autorisé dans les analyses

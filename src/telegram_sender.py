@@ -191,8 +191,8 @@ class TelegramSender:
         
         message += "\n━━━━━━━━━━━━━━━━━━━━\n"
         message += "✅ Analyse terminée\n"
-        message += f"🤖 Propulsé par IA Gemini 1.5\n"
-        
+        message += f"🤖 Propulsé par Claude Sonnet 4.5\n"
+
         return message
     
     async def send_message(self, message):

@@ -140,7 +140,7 @@ class MatchScraper:
         return filtered
     
     def _enrich_match_data(self, match):
-        """Enrichit les données d'un match avec stats API-Football"""
+        """Enrichit les données d'un match avec stats API-Football (EXHAUSTIF)"""
         try:
             api_key = os.getenv('API_FOOTBALL_KEY', None)
             if not api_key or match.get('source') != 'api-football':
@@ -148,52 +148,89 @@ class MatchScraper:
 
             headers = {'x-apisports-key': api_key}
             fixture_id = match.get('fixture_id')
+            league_id = match.get('league_id')
+            season = datetime.now().year
 
             if not fixture_id:
                 return match
 
-            # Récupérer les statistiques d'équipe (forme récente)
             team_home_id = match.get('team_home_id')
             team_away_id = match.get('team_away_id')
 
-            # Forme récente équipe domicile (5 derniers matchs)
+            # 1. FORME RÉCENTE (10 derniers matchs au lieu de 5 pour plus de contexte)
             if team_home_id:
                 url_home = f"https://v3.football.api-sports.io/fixtures"
-                params_home = {'team': team_home_id, 'last': 5}
+                params_home = {'team': team_home_id, 'last': 10}
                 resp_home = requests.get(url_home, headers=headers, params=params_home, timeout=10)
                 if resp_home.status_code == 200:
                     match['home_recent_form'] = resp_home.json().get('response', [])
 
-            # Forme récente équipe extérieure
             if team_away_id:
                 url_away = f"https://v3.football.api-sports.io/fixtures"
-                params_away = {'team': team_away_id, 'last': 5}
+                params_away = {'team': team_away_id, 'last': 10}
                 resp_away = requests.get(url_away, headers=headers, params=params_away, timeout=10)
                 if resp_away.status_code == 200:
                     match['away_recent_form'] = resp_away.json().get('response', [])
 
-            # Confrontations directes (H2H)
+            # 2. CONFRONTATIONS DIRECTES (10 derniers H2H pour historique complet)
             if team_home_id and team_away_id:
                 url_h2h = f"https://v3.football.api-sports.io/fixtures/headtohead"
-                params_h2h = {'h2h': f"{team_home_id}-{team_away_id}"}
+                params_h2h = {'h2h': f"{team_home_id}-{team_away_id}", 'last': 10}
                 resp_h2h = requests.get(url_h2h, headers=headers, params=params_h2h, timeout=10)
                 if resp_h2h.status_code == 200:
-                    match['head_to_head'] = resp_h2h.json().get('response', [])[:5]  # 5 derniers
+                    match['head_to_head'] = resp_h2h.json().get('response', [])
 
-            # Blessures et suspensions
+            # 3. BLESSURES ET SUSPENSIONS (données actuelles)
             if team_home_id:
                 url_injuries_home = f"https://v3.football.api-sports.io/injuries"
-                params_injuries_home = {'team': team_home_id, 'fixture': fixture_id}
+                params_injuries_home = {'team': team_home_id, 'season': season}
                 resp_injuries_home = requests.get(url_injuries_home, headers=headers, params=params_injuries_home, timeout=10)
                 if resp_injuries_home.status_code == 200:
                     match['home_injuries'] = resp_injuries_home.json().get('response', [])
 
             if team_away_id:
                 url_injuries_away = f"https://v3.football.api-sports.io/injuries"
-                params_injuries_away = {'team': team_away_id, 'fixture': fixture_id}
+                params_injuries_away = {'team': team_away_id, 'season': season}
                 resp_injuries_away = requests.get(url_injuries_away, headers=headers, params=params_injuries_away, timeout=10)
                 if resp_injuries_away.status_code == 200:
                     match['away_injuries'] = resp_injuries_away.json().get('response', [])
+
+            # 4. STATISTIQUES D'ÉQUIPE SAISON (forme domicile/extérieur, moyenne buts, etc.)
+            if team_home_id and league_id:
+                url_stats_home = f"https://v3.football.api-sports.io/teams/statistics"
+                params_stats_home = {'team': team_home_id, 'league': league_id, 'season': season}
+                resp_stats_home = requests.get(url_stats_home, headers=headers, params=params_stats_home, timeout=10)
+                if resp_stats_home.status_code == 200:
+                    match['home_season_stats'] = resp_stats_home.json().get('response', {})
+
+            if team_away_id and league_id:
+                url_stats_away = f"https://v3.football.api-sports.io/teams/statistics"
+                params_stats_away = {'team': team_away_id, 'league': league_id, 'season': season}
+                resp_stats_away = requests.get(url_stats_away, headers=headers, params=params_stats_away, timeout=10)
+                if resp_stats_away.status_code == 200:
+                    match['away_season_stats'] = resp_stats_away.json().get('response', {})
+
+            # 5. CLASSEMENT DE LA LIGUE (position, points, écart)
+            if league_id:
+                url_standings = f"https://v3.football.api-sports.io/standings"
+                params_standings = {'league': league_id, 'season': season}
+                resp_standings = requests.get(url_standings, headers=headers, params=params_standings, timeout=10)
+                if resp_standings.status_code == 200:
+                    match['league_standings'] = resp_standings.json().get('response', [])
+
+            # 6. COTES EN TEMPS RÉEL (CRUCIAL pour value bets)
+            url_odds = f"https://v3.football.api-sports.io/odds"
+            params_odds = {'fixture': fixture_id}
+            resp_odds = requests.get(url_odds, headers=headers, params=params_odds, timeout=10)
+            if resp_odds.status_code == 200:
+                match['odds'] = resp_odds.json().get('response', [])
+
+            # 7. PRÉDICTIONS API-FOOTBALL (pour comparaison avec nos analyses)
+            url_predictions = f"https://v3.football.api-sports.io/predictions"
+            params_predictions = {'fixture': fixture_id}
+            resp_predictions = requests.get(url_predictions, headers=headers, params=params_predictions, timeout=10)
+            if resp_predictions.status_code == 200:
+                match['api_predictions'] = resp_predictions.json().get('response', [])
 
             return match
 
@@ -202,72 +239,175 @@ class MatchScraper:
             return match
 
     def format_matches_for_prompt(self, matches):
-        """Formate les matchs pour le prompt avec données enrichies"""
+        """Formate les matchs pour le prompt avec TOUTES les données enrichies"""
         if not matches:
             return "Aucun match disponible aujourd'hui."
 
-        formatted = "MATCHS DU JOUR AVEC DONNÉES CONTEXTUELLES:\n\n"
+        formatted = "═══════════════════════════════════════════════════════\n"
+        formatted += "MATCHS DU JOUR - DONNÉES EXHAUSTIVES API-FOOTBALL\n"
+        formatted += "═══════════════════════════════════════════════════════\n\n"
+
         for i, match in enumerate(matches, 1):
-            formatted += f"═══ MATCH #{i} ═══\n"
-            formatted += f"🏆 {match['home']} vs {match['away']}\n"
+            formatted += f"\n{'█' * 60}\n"
+            formatted += f"MATCH #{i}: {match['home']} vs {match['away']}\n"
+            formatted += f"{'█' * 60}\n\n"
             formatted += f"📍 Compétition: {match['competition']}\n"
-            formatted += f"⏰ Heure: {match['time']}\n\n"
+            formatted += f"⏰ Coup d'envoi: {match['time']}\n\n"
 
-            # Forme récente équipe domicile
+            # 1. CLASSEMENT & POSITION
+            if match.get('league_standings'):
+                formatted += "┌─ 📊 CLASSEMENT ACTUEL ─────────────────────────────────┐\n"
+                standings = match['league_standings'][0]['league']['standings'][0] if match['league_standings'] else []
+                home_team_name = match['home']
+                away_team_name = match['away']
+
+                for team in standings:
+                    if team['team']['name'] == home_team_name:
+                        formatted += f"│ 🏠 {home_team_name}: {team['rank']}e place - {team['points']} pts\n"
+                        formatted += f"│    Bilan: {team['all']['win']}V-{team['all']['draw']}N-{team['all']['lose']}D\n"
+                        formatted += f"│    Buts: {team['all']['goals']['for']} pour, {team['all']['goals']['against']} contre (diff: {team['goalsDiff']})\n"
+                        formatted += f"│    Domicile: {team['home']['win']}V-{team['home']['draw']}N-{team['home']['lose']}D\n"
+                    elif team['team']['name'] == away_team_name:
+                        formatted += f"│ ✈️  {away_team_name}: {team['rank']}e place - {team['points']} pts\n"
+                        formatted += f"│    Bilan: {team['all']['win']}V-{team['all']['draw']}N-{team['all']['lose']}D\n"
+                        formatted += f"│    Buts: {team['all']['goals']['for']} pour, {team['all']['goals']['against']} contre (diff: {team['goalsDiff']})\n"
+                        formatted += f"│    Extérieur: {team['away']['win']}V-{team['away']['draw']}N-{team['away']['lose']}D\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            # 2. STATISTIQUES SAISON COMPLÈTES
+            if match.get('home_season_stats'):
+                stats_home = match['home_season_stats']
+                formatted += "┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐\n"
+                if stats_home.get('fixtures'):
+                    formatted += f"│ Matchs joués: {stats_home['fixtures']['played']['total']}\n"
+                    formatted += f"│ Victoires: {stats_home['fixtures']['wins']['total']} ({stats_home['fixtures']['wins']['home']} domicile)\n"
+                    formatted += f"│ Nuls: {stats_home['fixtures']['draws']['total']}\n"
+                    formatted += f"│ Défaites: {stats_home['fixtures']['loses']['total']}\n"
+                if stats_home.get('goals'):
+                    formatted += f"│ Buts marqués: {stats_home['goals']['for']['total']['total']} (moy: {stats_home['goals']['for']['average']['total']})\n"
+                    formatted += f"│ Buts encaissés: {stats_home['goals']['against']['total']['total']} (moy: {stats_home['goals']['against']['average']['total']})\n"
+                if stats_home.get('biggest'):
+                    formatted += f"│ Plus grande victoire: {stats_home['biggest']['wins']['home']}\n"
+                    formatted += f"│ Plus lourde défaite: {stats_home['biggest']['loses']['home']}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            if match.get('away_season_stats'):
+                stats_away = match['away_season_stats']
+                formatted += "┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐\n"
+                if stats_away.get('fixtures'):
+                    formatted += f"│ Matchs joués: {stats_away['fixtures']['played']['total']}\n"
+                    formatted += f"│ Victoires: {stats_away['fixtures']['wins']['total']} ({stats_away['fixtures']['wins']['away']} extérieur)\n"
+                    formatted += f"│ Nuls: {stats_away['fixtures']['draws']['total']}\n"
+                    formatted += f"│ Défaites: {stats_away['fixtures']['loses']['total']}\n"
+                if stats_away.get('goals'):
+                    formatted += f"│ Buts marqués: {stats_away['goals']['for']['total']['total']} (moy: {stats_away['goals']['for']['average']['total']})\n"
+                    formatted += f"│ Buts encaissés: {stats_away['goals']['against']['total']['total']} (moy: {stats_away['goals']['against']['average']['total']})\n"
+                if stats_away.get('biggest'):
+                    formatted += f"│ Plus grande victoire: {stats_away['biggest']['wins']['away']}\n"
+                    formatted += f"│ Plus lourde défaite: {stats_away['biggest']['loses']['away']}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            # 3. FORME RÉCENTE (10 derniers matchs)
             if match.get('home_recent_form'):
-                formatted += "📊 FORME RÉCENTE DOMICILE (5 derniers matchs):\n"
-                for game in match['home_recent_form'][:5]:
+                formatted += "┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐\n"
+                for idx, game in enumerate(match['home_recent_form'][:10], 1):
                     home_team = game['teams']['home']['name']
                     away_team = game['teams']['away']['name']
                     score_home = game['goals']['home']
                     score_away = game['goals']['away']
                     date_game = game['fixture']['date'][:10]
-                    formatted += f"  • {date_game}: {home_team} {score_home}-{score_away} {away_team}\n"
-                formatted += "\n"
+                    result = "V" if (home_team == match['home'] and score_home > score_away) or (away_team == match['home'] and score_away > score_home) else ("N" if score_home == score_away else "D")
+                    formatted += f"│ {idx:2}. [{result}] {date_game}: {home_team} {score_home}-{score_away} {away_team}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
 
-            # Forme récente équipe extérieure
             if match.get('away_recent_form'):
-                formatted += "📊 FORME RÉCENTE EXTÉRIEUR (5 derniers matchs):\n"
-                for game in match['away_recent_form'][:5]:
+                formatted += "┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐\n"
+                for idx, game in enumerate(match['away_recent_form'][:10], 1):
                     home_team = game['teams']['home']['name']
                     away_team = game['teams']['away']['name']
                     score_home = game['goals']['home']
                     score_away = game['goals']['away']
                     date_game = game['fixture']['date'][:10]
-                    formatted += f"  • {date_game}: {home_team} {score_home}-{score_away} {away_team}\n"
-                formatted += "\n"
+                    result = "V" if (home_team == match['away'] and score_home > score_away) or (away_team == match['away'] and score_away > score_home) else ("N" if score_home == score_away else "D")
+                    formatted += f"│ {idx:2}. [{result}] {date_game}: {home_team} {score_home}-{score_away} {away_team}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
 
-            # Confrontations directes
+            # 4. CONFRONTATIONS DIRECTES
             if match.get('head_to_head'):
-                formatted += "🔄 CONFRONTATIONS DIRECTES (5 derniers H2H):\n"
-                for game in match['head_to_head'][:5]:
+                formatted += "┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐\n"
+                for idx, game in enumerate(match['head_to_head'][:10], 1):
                     home_team = game['teams']['home']['name']
                     away_team = game['teams']['away']['name']
                     score_home = game['goals']['home']
                     score_away = game['goals']['away']
                     date_game = game['fixture']['date'][:10]
-                    formatted += f"  • {date_game}: {home_team} {score_home}-{score_away} {away_team}\n"
-                formatted += "\n"
+                    formatted += f"│ {idx:2}. {date_game}: {home_team} {score_home}-{score_away} {away_team}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
 
-            # Blessures équipe domicile
+            # 5. BLESSURES ET SUSPENSIONS
             if match.get('home_injuries'):
-                formatted += "🏥 BLESSURES/SUSPENSIONS DOMICILE:\n"
-                for injury in match['home_injuries'][:5]:
-                    player = injury['player']['name']
-                    reason = injury['player']['reason']
-                    formatted += f"  • {player}: {reason}\n"
-                formatted += "\n"
+                formatted += "┌─ 🏥 BLESSURES/SUSPENSIONS DOMICILE ───────────────────┐\n"
+                if len(match['home_injuries']) == 0:
+                    formatted += "│ ✅ Aucune blessure signalée\n"
+                else:
+                    for injury in match['home_injuries'][:10]:
+                        player = injury['player']['name']
+                        reason = injury['player']['reason']
+                        formatted += f"│ ❌ {player}: {reason}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
 
-            # Blessures équipe extérieure
             if match.get('away_injuries'):
-                formatted += "🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR:\n"
-                for injury in match['away_injuries'][:5]:
-                    player = injury['player']['name']
-                    reason = injury['player']['reason']
-                    formatted += f"  • {player}: {reason}\n"
-                formatted += "\n"
+                formatted += "┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐\n"
+                if len(match['away_injuries']) == 0:
+                    formatted += "│ ✅ Aucune blessure signalée\n"
+                else:
+                    for injury in match['away_injuries'][:10]:
+                        player = injury['player']['name']
+                        reason = injury['player']['reason']
+                        formatted += f"│ ❌ {player}: {reason}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
 
-            formatted += "─" * 50 + "\n\n"
+            # 6. COTES EN TEMPS RÉEL
+            if match.get('odds'):
+                formatted += "┌─ 💰 COTES EN TEMPS RÉEL (marchés principaux) ─────────┐\n"
+                for bookmaker in match['odds'][:3]:  # Top 3 bookmakers
+                    bm_name = bookmaker['bookmaker']['name']
+                    for bet in bookmaker['bets']:
+                        if bet['name'] == 'Match Winner':
+                            formatted += f"│ [{bm_name}] 1X2:\n"
+                            for value in bet['values']:
+                                formatted += f"│   - {value['value']}: {value['odd']}\n"
+                        elif bet['name'] == 'Goals Over/Under':
+                            formatted += f"│ [{bm_name}] Over/Under:\n"
+                            for value in bet['values'][:4]:
+                                formatted += f"│   - {value['value']}: {value['odd']}\n"
+                        elif bet['name'] == 'Both Teams Score':
+                            formatted += f"│ [{bm_name}] BTTS:\n"
+                            for value in bet['values']:
+                                formatted += f"│   - {value['value']}: {value['odd']}\n"
+                formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            # 7. PRÉDICTIONS API-FOOTBALL (référence)
+            if match.get('api_predictions'):
+                pred = match['api_predictions'][0] if match['api_predictions'] else {}
+                if pred:
+                    formatted += "┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐\n"
+                    if pred.get('predictions'):
+                        formatted += f"│ Gagnant probable: {pred['predictions'].get('winner', {}).get('name', 'N/A')}\n"
+                        formatted += f"│ Conseil: {pred['predictions'].get('advice', 'N/A')}\n"
+                    if pred.get('comparison'):
+                        comp = pred['comparison']
+                        formatted += f"│ Forme: {comp.get('form', {}).get('home', 'N/A')} vs {comp.get('form', {}).get('away', 'N/A')}\n"
+                        formatted += f"│ Att: {comp.get('att', {}).get('home', 'N/A')} vs {comp.get('att', {}).get('away', 'N/A')}\n"
+                        formatted += f"│ Def: {comp.get('def', {}).get('home', 'N/A')} vs {comp.get('def', {}).get('away', 'N/A')}\n"
+                    formatted += "│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse\n"
+                    formatted += "└────────────────────────────────────────────────────────┘\n\n"
+
+            formatted += "\n" + "═" * 60 + "\n\n"
+
+        formatted += "\n🎯 INSTRUCTION: Analyse TOUTES ces données réelles pour identifier les VALUE BETS.\n"
+        formatted += "Les cotes fournies sont RÉELLES et EN TEMPS RÉEL.\n"
+        formatted += "NE PAS inventer de données - TOUT est fourni ci-dessus.\n\n"
 
         return formatted
 

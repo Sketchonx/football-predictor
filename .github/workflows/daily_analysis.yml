@@ -43,8 +43,8 @@ jobs:
           # Créer le dossier data s'il n'existe pas
           mkdir -p data
 
-          # Ajouter les changements s'il y en a
-          git add data/ || true
+          # Ajouter les changements s'il y en a (prédictions + performance_history)
+          git add data/predictions/ data/performance_history.json || true
 
           # Commit seulement s'il y a des changements
           if git diff --staged --quiet; then

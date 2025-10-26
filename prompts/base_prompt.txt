@@ -366,6 +366,30 @@ Avant d'écrire TOUTE stat (ex: "3V-3N-1D", "12 points", "6e place"):
 2. Si tu ne la VOIS PAS textuellement dans les données → NE L'ÉCRIS PAS
 3. Mieux vaut dire "Données non fournies" que d'inventer
 
+**🚨 RÈGLE ABSOLUE #4 - ORDRE HOME/AWAY (TRÈS IMPORTANT) 🚨:**
+
+CHAQUE match CI-DESSUS indique clairement avec des emojis:
+- 🏠 = ÉQUIPE À DOMICILE (home_team)
+- ✈️ = ÉQUIPE À L'EXTÉRIEUR (away_team)
+
+**EXEMPLES POUR BIEN COMPRENDRE:**
+
+Si les données montrent:
+```
+████████ MATCH #2: Parma vs Como ████████
+│ 🏠 Parma: 15e place - 6 pts
+│ ✈️ Como: 6e place - 12 pts
+```
+
+Alors dans ton JSON, tu DOIS écrire:
+- "home_team" = Parma (celui avec 🏠)
+- "away_team" = Como (celui avec ✈️)
+
+**❌ ERREUR FRÉQUENTE À ÉVITER:**
+N'inverse PAS home_team et away_team ! Si tu vois "🏠 Parma" et "✈️ Como", alors:
+- ❌ FAUX: home_team = Como, away_team = Parma
+- ✅ CORRECT: home_team = Parma, away_team = Como
+
 **RÈGLE ABSOLUE SUR LES PHRASES:**
 - AUCUN "..." n'est autorisé dans les analyses
 - TOUTES les phrases DOIVENT se terminer correctement avec un point final

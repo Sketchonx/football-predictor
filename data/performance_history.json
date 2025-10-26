@@ -82,5 +82,47 @@
     "actual_score": "2-1",
     "recorded_at": "2025-10-24T16:42:02.900421",
     "updated_at": "2025-10-25T11:04:18.307996"
+  },
+  {
+    "prediction_id": "2025-10-26_0",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-10-26T10:27:25.148140",
+    "updated_at": "2025-10-26T10:27:25.148145"
+  },
+  {
+    "prediction_id": "2025-10-26_1",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-10-26T10:27:25.148148",
+    "updated_at": "2025-10-26T10:27:25.148149"
+  },
+  {
+    "prediction_id": "2025-10-26_2",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-10-26T10:27:25.148150",
+    "updated_at": "2025-10-26T10:27:25.148151"
+  },
+  {
+    "prediction_id": "2025-10-26_3",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-10-26T10:27:25.148152",
+    "updated_at": "2025-10-26T10:27:25.148153"
+  },
+  {
+    "prediction_id": "2025-10-26_4",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-10-26T10:27:25.148154",
+    "updated_at": "2025-10-26T10:27:25.148155"
+  },
+  {
+    "prediction_id": "2025-10-26_5",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-10-26T10:27:25.148156",
+    "updated_at": "2025-10-26T10:27:25.148157"
   }
 ]

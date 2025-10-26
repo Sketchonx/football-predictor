@@ -1,0 +1,637 @@
+{
+  "analysis_date": "2025-10-26",
+  "total_analyzed": 25,
+  "total_retained": 6,
+  "recommendations": [
+    {
+      "match": "Torino vs Genoa",
+      "competition": "Serie A",
+      "kickoff": "11:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-2N-1D, avec victoire récente 1-0 vs Napoli",
+            "home_record": "1V-1N-1D à domicile cette saison",
+            "trend": "Forme en amélioration avec victoire de prestige contre Napoli",
+            "details": "Derniers résultats : [V] 1-0 vs Napoli, [N] 3-3 vs Lazio, [D] 2-1 vs Parma, [V] 1-0 vs Pisa, [D] 0-3 vs Atalanta"
+          },
+          "away_team": {
+            "last_5_matches": "0V-1N-4D, aucune victoire cette saison",
+            "away_record": "0V-1N-2D en déplacement, 0 victoire extérieure",
+            "trend": "Forme catastrophique, lanterne rouge avec 0 victoire",
+            "details": "Derniers résultats : [N] 0-0 vs Parma, [D] 2-1 vs Napoli, [D] 0-3 vs Lazio, [V] 3-1 vs Empoli (seule victoire), [D] 2-1 vs Bologna"
+          }
+        },
+        "head_to_head": {
+          "last_5": "2 nuls, 1 victoire Torino, 1 victoire Genoa, 1 nul",
+          "at_home": "Torino invaincu à domicile face à Genoa récemment",
+          "details": "Résultats: 1-1 (2025), 0-0 (2024), 0-0 (2024), 1-0 Torino (2023), 1-0 Genoa (2022)",
+          "trends": "Matchs serrés historiquement mais Torino légèrement avantagé à domicile"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Aaron Ciammaglichella (genou)",
+              "A. Ismajli (cuisse)",
+              "P. Schuurs (genou)",
+              "S. Sazonov (genou)"
+            ],
+            "impact": "Impact modéré sur la défense avec plusieurs défenseurs absents"
+          },
+          "away_team": {
+            "absent": [
+              "Caleb Ekuban (blessure)",
+              "Sebastian Otoa (muscle)",
+              "M. Cornet (forme)",
+              "J. Onana (cuisse)",
+              "Junior Messias (inactif)",
+              "N. Stanciu (cuisse)"
+            ],
+            "impact": "Impact MAJEUR : 6 joueurs absents dont des titulaires offensifs clés comme Messias et Ekuban"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Équipe défensive solide à domicile, capable de résultats surprenants comme la victoire contre Napoli",
+          "away_style": "Genoa en grande difficulté offensive avec seulement 3 buts marqués en 7 matchs, attaque la plus faible de Serie A",
+          "key_matchup": "Défense de Torino face à l'attaque défaillante de Genoa. Avantage net à Torino.",
+          "predicted_approach": "Torino va chercher à exploiter la fragilité mentale de Genoa et ses nombreuses absences"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos normal depuis le dernier match, équipe fraîche",
+          "away_team": "Pas d'indication de fatigue particulière mais moral au plus bas",
+          "advantage": "Équilibre physique mais avantage mental pour Torino"
+        },
+        "context_stakes": {
+          "home_situation": "14e place avec 8 points, doit prendre des points contre les équipes en difficulté",
+          "away_situation": "Lanterne rouge avec seulement 3 points, situation critique avec 0 victoire cette saison",
+          "psychological": "Torino galvanisé par la victoire contre Napoli, Genoa en crise totale de confiance",
+          "overall": "Avantage psychologique majeur pour Torino face à une équipe en perdition"
+        },
+        "home_advantage": {
+          "home_record_season": "Torino solide à domicile avec victoire de prestige contre Napoli",
+          "away_record_opponent": "Genoa catastrophique en déplacement : 0V-1N-2D, aucune victoire extérieure",
+          "atmosphere": "Supporters de Torino motivés après la victoire contre Napoli, pression sur Genoa",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Avantage domicile très important"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifié, Genoa surévalué malgré sa forme catastrophique",
+          "odds_movement": "Cote attractive pour Torino face au dernier du classement"
+        },
+        "key_factors_summary": [
+          "Genoa lanterne rouge avec 0 victoire cette saison et seulement 3 points",
+          "Torino galvanisé par sa victoire 1-0 contre Napoli à domicile",
+          "6 absents majeurs côté Genoa dont les clés offensives Messias et Ekuban",
+          "Genoa pire attaque de Serie A avec seulement 3 buts marqués en 7 matchs",
+          "Avantage psychologique énorme pour Torino face à une équipe en perdition totale"
+        ]
+      },
+      "conclusion": "Tous les facteurs convergent vers une victoire de Torino : forme en hausse après la victoire contre Napoli, adversaire en crise totale (lanterne rouge, 0 victoire), nombreuses absences offensives chez Genoa, et avantage domicile. Genoa traverse sa pire période avec la plus faible attaque de Serie A. Les cotes offrent une value intéressante face à une équipe en perdition complète.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Torino)",
+      "odds": 1.85,
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.7,
+          "reasoning": "Genoa attaque défaillante, match serré probable"
+        }
+      ]
+    },
+    {
+      "match": "Club Brugge KV vs Antwerp",
+      "competition": "Jupiler Pro League",
+      "kickoff": "12:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D en extérieur, forme excellente",
+            "away_record": "3V-1N-2D en déplacement cette saison",
+            "trend": "Forme exceptionnelle malgré défaite 4-0 contre Bayern en C1",
+            "details": "Derniers résultats : [D] 4-0 vs Bayern (C1), [V] 1-0 vs OH Leuven, [V] 1-0 vs Union St. Gilloise, [D] 2-1 vs Atalanta, [V] 2-1 vs Standard"
+          },
+          "away_team": {
+            "last_5_matches": "1V-2N-2D, forme décevante",
+            "home_record": "2V-2N-1D à domicile",
+            "trend": "Forme irrégulière, seulement 14e au classement",
+            "details": "Derniers résultats : [D] 1-0 vs Standard, [N] 1-1 vs Cercle Brugge, [D] 2-0 vs Zulte Waregem, [N] 0-0 vs Anderlecht, [D] 1-2 vs Gent"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Club Brugge domine avec 3V-1N-1D sur les 5 derniers",
+          "at_home": "Club Brugge invaincu contre Antwerp récemment",
+          "details": "Résultats: 1-1 (2025), 3-2 Club Brugge (2025), 2-1 Antwerp (2025), 1-0 Club Brugge (2024), 2-1 Club Brugge (2024)",
+          "trends": "Domination récente de Club Brugge avec matchs souvent spectaculaires"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Gustaf Nilsson (tendon d'Achille)",
+              "Kyriani Sabbe (coup mineur)",
+              "Michal Skoras (coup mineur)"
+            ],
+            "impact": "Impact modéré, effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Geoffry Hairemans (ligaments croisés)",
+              "Bjorn Engels (tendon d'Achille)",
+              "Anthony Valencia (ligaments croisés)"
+            ],
+            "impact": "Impact MAJEUR sur la défense avec 3 défenseurs titulaires absents"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Club Brugge 2e du championnat, attaque efficace avec C. Tzolis (4 buts) et jeu collectif rodé",
+          "away_style": "Antwerp 14e place, difficultés offensives avec seulement 10 buts marqués en 11 matchs",
+          "key_matchup": "Attaque de Club Brugge (18 buts) contre défense affaiblie d'Antwerp (3 défenseurs absents)",
+          "predicted_approach": "Club Brugge va dominer et exploiter les failles défensives d'Antwerp"
+        },
+        "schedule_fatigue": {
+          "home_team": "Retour de Ligue des Champions mais rotation possible, effectif étoffé",
+          "away_team": "Pas de fatigue européenne, avantage physique relatif",
+          "advantage": "Léger avantage physique Antwerp mais qualité supérieure Club Brugge"
+        },
+        "context_stakes": {
+          "home_situation": "2e place avec 23 points, course au titre, doit confirmer à domicile",
+          "away_situation": "14e place avec 11 points, lutte pour le maintien, déplacement difficile",
+          "psychological": "Club Brugge favori logique, Antwerp sans pression mais écart de niveau",
+          "overall": "Enjeu majeur pour Club Brugge qui doit s'imposer à domicile"
+        },
+        "home_advantage": {
+          "home_record_season": "Données domicile non spécifiées mais 2e du championnat",
+          "away_record_opponent": "Antwerp difficultés en déplacement, 14e place générale",
+          "atmosphere": "Jan Breydel Stadium, public acquis à Club Brugge",
+          "weather": "Conditions normales",
+          "advantage_score": "7/10 - Avantage domicile important"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Légère value, Club Brugge sous-évalué face à Antwerp en difficulté",
+          "odds_movement": "Cote correcte mais value présente"
+        },
+        "key_factors_summary": [
+          "Club Brugge 2e du championnat (23 pts) contre Antwerp 14e (11 pts) - écart de niveau net",
+          "3 défenseurs titulaires absents chez Antwerp (ligaments croisés, tendon d'Achille)",
+          "Club Brugge attaque prolifique (18 buts) vs Antwerp attaque faible (10 buts)",
+          "Domination récente de Club Brugge dans les confrontations directes",
+          "Avantage domicile pour une équipe qui joue le titre"
+        ]
+      },
+      "conclusion": "Écart de niveau flagrant entre le 2e du championnat et le 14e. Club Brugge possède une attaque bien plus efficace (18 vs 10 buts) et fait face à une défense d'Antwerp décimée par les blessures (3 défenseurs titulaires absents). L'historique récent penche également pour Club Brugge. Malgré la fatigue européenne, la qualité supérieure devrait faire la différence à domicile.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Club Brugge KV)",
+      "odds": 1.75,
+      "confidence": 72,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Attaque de Club Brugge face à défense affaiblie d'Antwerp"
+        }
+      ]
+    },
+    {
+      "match": "Bournemouth vs Nottingham Forest",
+      "competition": "Premier League",
+      "kickoff": "14:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-3N-1D cette saison, forme solide",
+            "home_record": "3V-1N-0D à domicile, invaincu à la maison",
+            "trend": "Excellente forme à domicile, 5e place méritée",
+            "details": "Derniers résultats : [N] 3-3 vs Crystal Palace, [V] 3-1 vs Fulham, [N] 2-2 vs Leeds, [N] 0-0 vs Newcastle, [V] 2-1 vs Brighton"
+          },
+          "away_team": {
+            "last_5_matches": "1V-2N-5D cette saison, forme catastrophique",
+            "away_record": "0V-2N-2D en déplacement, aucune victoire extérieure",
+            "trend": "Crise totale, 18e place, 0 victoire en déplacement",
+            "details": "Derniers résultats : [V] 2-0 vs FC Porto (C1), [D] 0-3 vs Chelsea, [D] 2-0 vs Newcastle, [D] 2-3 vs FC Midtjylland, [D] 0-1 vs Sunderland"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Bournemouth domine largement avec 4V-1N-0D",
+          "at_home": "Bournemouth invaincu contre Forest à domicile récemment",
+          "details": "Résultats: 5-0 Bournemouth (2025), 1-1 (2024), 1-1 (2024), 3-2 Bournemouth (2023), 1-1 (2023)",
+          "trends": "Domination totale de Bournemouth, notamment le 5-0 récent"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Ryan Christie (forme)",
+              "Luis Sinisterra (blessé)",
+              "Justin Kluivert (incertain)",
+              "Enes Unal (blessé)",
+              "A. Smith (ischio)"
+            ],
+            "impact": "Impact modéré mais effectif offensif disponible avec Semenyo"
+          },
+          "away_team": {
+            "absent": [
+              "Taiwo Awoniyi",
+              "N. Domínguez (genou)",
+              "O. Aina (ischio)",
+              "Murillo (blessé)"
+            ],
+            "impact": "Impact MAJEUR avec des absents clés en défense et attaque"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Bournemouth 5e place, attaque efficace avec A. Semenyo (6 buts, meilleur buteur après Haaland)",
+          "away_style": "Forest 18e place, attaque défaillante (5 buts seulement), défense perméable (15 encaissés)",
+          "key_matchup": "Attaque de Bournemouth (14 buts) contre défense fragile de Forest (15 encaissés)",
+          "predicted_approach": "Bournemouth va dominer et exploiter la fragilité défensive de Forest"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos normal, équipe fraîche pour ce match important",
+          "away_team": "Match de C1 récent mais victoire qui peut donner confiance",
+          "advantage": "Équilibre physique mais moral différent"
+        },
+        "context_stakes": {
+          "home_situation": "5e place avec 15 points, excellent début de saison à confirmer",
+          "away_situation": "18e place avec 5 points, situation critique de relégation",
+          "psychological": "Bournemouth en confiance, Forest en crise malgré victoire européenne",
+          "overall": "Pression sur Forest qui doit absolument prendre des points"
+        },
+        "home_advantage": {
+          "home_record_season": "Invaincu à domicile cette saison (3V-1N-0D)",
+          "away_record_opponent": "Forest catastrophique en déplacement (0V-2N-2D)",
+          "atmosphere": "Vitality Stadium, supporters confiants après bon début de saison",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        "odds_value": {
+          "bet_odds": 1.8,
+          "implied_probability": "55.6%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Excellente value, Forest surévalué malgré sa position de 18e",
+          "odds_movement": "Cote attractive pour Bournemouth face au 18e"
+        },
+        "key_factors_summary": [
+          "Écart de niveau énorme : Bournemouth 5e (15 pts) vs Forest 18e (5 pts)",
+          "Bournemouth invaincu à domicile cette saison vs Forest 0 victoire en déplacement",
+          "Historique récent écrasant : 5-0 pour Bournemouth lors du dernier affrontement",
+          "Semenyo en forme (6 buts) face à une défense de Forest qui encaisse beaucoup",
+          "Forest en crise totale avec seulement 5 buts marqués en 8 matchs"
+        ]
+      },
+      "conclusion": "Match déséquilibré entre une équipe de Bournemouth en excellente forme (5e, invaincu à domicile) et Nottingham Forest en crise totale (18e, 0 victoire extérieure). L'historique récent est écrasant (5-0 au dernier match), Bournemouth possède une attaque bien plus efficace avec Semenyo en forme, et Forest traverse sa pire période. Les cotes offrent une value exceptionnelle.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Bournemouth)",
+      "odds": 1.8,
+      "confidence": 78,
+      "risk_level": "Low-Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.9,
+          "reasoning": "Attaque de Bournemouth face à défense perméable de Forest"
+        }
+      ]
+    },
+    {
+      "match": "Lille vs Metz",
+      "competition": "Ligue 1",
+      "kickoff": "14:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-2N-2D cette saison, forme correcte",
+            "home_record": "2V-1N-1D à domicile",
+            "trend": "Forme en dents de scie mais solide à domicile",
+            "details": "Derniers résultats : [D] 3-4 vs PAOK, [V] 2-0 vs Nantes, [N] 1-1 vs PSG, [V] 1-0 vs AS Roma, [D] 0-1 vs Lyon"
+          },
+          "away_team": {
+            "last_5_matches": "0V-2N-6D cette saison, forme catastrophique",
+            "away_record": "0V-0N-4D en déplacement, 0 victoire extérieure",
+            "trend": "Crise totale, 18e place, lanterne rouge des déplacements",
+            "details": "Derniers résultats : [D] 4-0 vs Toulouse, [D] 0-3 vs Marseille, [N] 0-0 vs Le Havre, [D] 5-2 vs Monaco, [N] 1-1 vs Angers"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Lille domine avec 3V-2N-0D sur les 5 derniers",
+          "at_home": "Lille invaincu contre Metz à domicile récemment",
+          "details": "Résultats: 2-1 Lille (2024), 2-0 Lille (2023), 0-0 (2022), 3-3 (2021), 2-0 Lille (2021)",
+          "trends": "Domination claire de Lille, surtout à domicile"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Thomas Meunier (blessé)",
+              "Edon Zhegrova (adducteurs)",
+              "Andre Gomes (mollet)",
+              "Marc-Aurele Caillard (coude)"
+            ],
+            "impact": "Impact modéré, effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Gauthier Hein (suspendu)",
+              "Jessy Deminguet (incertain)",
+              "Cheikh Sabaly (incertain)",
+              "U. Mboula (ischio)",
+              "M. Mbaye (pied)"
+            ],
+            "impact": "Impact MAJEUR avec suspension et plusieurs blessés clés"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Lille 7e place, attaque efficace (16 buts marqués), jeu européen",
+          "away_style": "Metz 18e place, attaque défaillante (5 buts seulement), pire attaque de L1",
+          "key_matchup": "Attaque de Lille (16 buts) contre défense fragile de Metz (20 encaissés)",
+          "predicted_approach": "Lille va dominer face à la pire équipe de Ligue 1 en déplacement"
+        },
+        "schedule_fatigue": {
+          "home_team": "Match européen récent mais rotation possible",
+          "away_team": "Pas de fatigue européenne mais moral au plus bas",
+          "advantage": "Léger avantage physique Metz mais qualité supérieure Lille"
+        },
+        "context_stakes": {
+          "home_situation": "7e place avec 14 points, doit prendre les 3 points contre un relégable",
+          "away_situation": "18e place avec 2 points, situation dramatique, 0 victoire extérieure",
+          "psychological": "Lille favori évident, Metz en perdition totale",
+          "overall": "Match à sens unique sur le papier"
+        },
+        "home_advantage": {
+          "home_record_season": "Lille correct à domicile avec victoires de prestige",
+          "away_record_opponent": "Metz catastrophique en déplacement (0V-0N-4D)",
+          "atmosphere": "Stade Pierre-Mauroy, public acquis face au dernier",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Excellente value, Metz largement surévalué",
+          "odds_movement": "Cote généreuse pour Lille face au 18e"
+        },
+        "key_factors_summary": [
+          "Metz lanterne rouge des déplacements : 0 victoire extérieure, seulement 2 points au total",
+          "Écart d'efficacité offensive énorme : Lille 16 buts vs Metz 5 buts",
+          "Metz pire attaque de Ligue 1 et défense perméable (20 encaissés)",
+          "Lille solide à domicile avec victoires européennes de référence",
+          "Historique favorable à Lille, surtout à domicile"
+        ]
+      },
+      "conclusion": "Match déséquilibré entre Lille (7e) et Metz en perdition totale (18e, 2 points, 0 victoire extérieure). Metz possède la pire attaque de Ligue 1 (5 buts) et une défense perméable (20 encaissés). Lille, malgré ses irrégularités, reste largement supérieur et évolue à domicile. L'écart de niveau est flagrant et les cotes offrent une value exceptionnelle.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Lille)",
+      "odds": 1.75,
+      "confidence": 80,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Attaque de Lille face à défense très perméable de Metz"
+        }
+      ]
+    },
+    {
+      "match": "VfB Stuttgart vs FSV Mainz 05",
+      "competition": "Bundesliga",
+      "kickoff": "16:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "5V-0N-2D cette saison, excellente forme",
+            "home_record": "3V-0N-0D à domicile, invaincu à la maison",
+            "trend": "Forme exceptionnelle, 4e place méritée",
+            "details": "Derniers résultats : [D] 1-0 vs Fenerbahce, [V] 3-0 vs Wolfsburg, [V] 2-0 vs Elversberg, [V] 1-0 vs Heidenheim, [D] 2-0 vs Basel"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-5D cette saison, forme catastrophique",
+            "away_record": "1V-1N-1D en déplacement",
+            "trend": "Crise totale, 16e place, avant-dernier",
+            "details": "Derniers résultats : [V] 1-0 vs Zrinjski, [D] 3-4 vs Bayer Leverkusen, [D] 4-0 vs Hambourg, [V] 1-0 vs Omonia, [D] 0-2 vs Dortmund"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Stuttgart domine avec 3V-1N-1D sur les 5 derniers",
+          "at_home": "Stuttgart invaincu contre Mainz à domicile récemment",
+          "details": "Résultats: 2-0 Mainz (2025), 3-3 (2024), 3-1 Stuttgart (2024), 3-1 Stuttgart (2023), 4-1 Stuttgart (2023)",
+          "trends": "Domination récente de Stuttgart, surtout à domicile"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Alexander Nubel (blessé)",
+              "Dan Axel Zagadou (blessé)",
+              "Leonidas Stergiou (pied)",
+              "Justin Diehl (muscle)"
+            ],
+            "impact": "Impact modéré, effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Lee Jae Sung (fracture pommette)",
+              "Maxim Dal (ligaments croisés)",
+              "P. Nebel (carton rouge)",
+              "Daniel Gleiber (cuisse)",
+              "B. Hollerbach (ischio)"
+            ],
+            "impact": "Impact MAJEUR avec de nombreux absents dont des titulaires"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Stuttgart 4e place, attaque efficace (11 buts), défense solide (6 encaissés)",
+          "away_style": "Mainz 16e place, difficultés offensives (8 buts) et défense perméable (14 encaissés)",
+          "key_matchup": "Attaque de Stuttgart à domicile contre défense affaiblie de Mainz",
+          "predicted_approach": "Stuttgart va dominer et exploiter les nombreuses absences de Mainz"
+        },
+        "schedule_fatigue": {
+          "home_team": "Match européen récent mais effectif pour faire rotation",
+          "away_team": "Également match européen mais effectif plus limité",
+          "advantage": "Équilibre physique mais qualité supérieure Stuttgart"
+        },
+        "context_stakes": {
+          "home_situation": "4e place avec 15 points, course européenne, doit s'imposer à domicile",
+          "away_situation": "16e place avec 4 points, lutte pour le maintien, déplacement difficile",
+          "psychological": "Stuttgart en confiance, Mainz en difficulté",
+          "overall": "Enjeu majeur pour Stuttgart qui vise l'Europe"
+        },
+        "home_advantage": {
+          "home_record_season": "Invaincu à domicile cette saison (3V-0N-0D)",
+          "away_record_opponent": "Mainz difficultés en déplacement, 16e place",
+          "atmosphere": "Mercedes-Benz Arena, public acquis pour la course européenne",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Avantage domicile important"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifié, Stuttgart sous-évalué face à Mainz en crise",
+          "odds_movement": "Cote attractive pour Stuttgart à domicile"
+        },
+        "key_factors_summary": [
+          "Écart de niveau net : Stuttgart 4e (15 pts) vs Mainz 16e (4 pts)",
+          "Stuttgart invaincu à domicile cette saison vs Mainz en grande difficulté",
+          "5 absents majeurs chez Mainz dont Lee Jae Sung et Maxim Dal",
+          "Stuttgart meilleur bilan offensif/défensif (11-6 vs 8-14)",
+          "Historique récent favorable à Stuttgart, surtout à domicile"
+        ]
+      },
+      "conclusion": "Écart de niveau flagrant entre Stuttgart (4e, invaincu à domicile) et Mainz en crise (16e, 4 points). Stuttgart possède un bilan bien supérieur (11 buts pour, 6 contre vs 8-14 pour Mainz) et fait face à un adversaire décimé par les blessures (5 absents majeurs). L'avantage domicile et la course européenne motivent Stuttgart. Les cotes offrent une value intéressante.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire VfB Stuttgart)",
+      "odds": 1.85,
+      "confidence": 74,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.8,
+          "reasoning": "Stuttgart attaque efficace face à défense perméable de Mainz"
+        }
+      ]
+    },
+    {
+      "match": "Bologna vs Fiorentina",
+      "competition": "Serie A",
+      "kickoff": "17:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-2D cette saison, forme solide",
+            "away_record": "1V-1N-2D en déplacement mais qualité présente",
+            "trend": "Forme excellente, 5e place, équipe européenne",
+            "details": "Derniers résultats : [V] 2-1 vs FCSB, [V] 2-0 vs Cagliari, [V] 4-0 vs Pisa, [N] 1-1 vs Freiburg, [N] 2-2 vs Lecce"
+          },
+          "away_team": {
+            "last_5_matches": "0V-3N-4D cette saison, forme catastrophique",
+            "home_record": "0V-0N-3D à domicile, 0 victoire à la maison",
+            "trend": "Crise totale, 19e place, avant-dernier",
+            "details": "Derniers résultats : [V] 3-0 vs Rapid Vienna, [D] 2-1 vs Milan, [D] 1-2 vs AS Roma, [V] 2-0 vs Sigma Olomouc, [N] 0-0 vs Pisa"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Équilibré avec 2V-2N-1D pour Fiorentina sur les 5 derniers",
+          "at_home": "Historique équilibré mais contexte actuel différent",
+          "details": "Résultats: 3-2 Fiorentina (2025), 1-0 Bologna (2024), 2-0 Bologna (2024), 0-0 (2024), 2-1 Fiorentina (2023)",
+          "trends": "Matchs souvent serrés mais Bologna en meilleure forme actuellement"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Ciro Immobile (incertain)",
+              "Juan Miranda (suspendu)",
+              "T. Pobega (cuisse)",
+              "E. Holm (cuisse)",
+              "N. Casale (cuisse)"
+            ],
+            "impact": "Impact modéré, effectif de qualité disponible avec Orsolini en forme"
+          },
+          "away_team": {
+            "absent": [
+              "Rolando Mandragora (blessé)",
+              "Moise Keane (suspendu)",
+              "T. Lamptey (genou)",
+              "A. Barák (blessé)",
+              "C. Kouamé (genou)"
+            ],
+            "impact": "Impact MAJEUR avec Keane suspendu et plusieurs titulaires absents"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Bologna 5e place, attaque efficace avec R. Orsolini (5 buts, meilleur buteur Serie A), jeu européen",
+          "away_style": "Fiorentina 19e place, attaque défaillante (5 buts seulement), 0 victoire à domicile",
+          "key_matchup": "Attaque de Bologna avec Orsolini contre défense fragile de Fiorentina",
+          "predicted_approach": "Bologna va exploiter la crise de Fiorentina et ses nombreuses absences"
+        },
+        "schedule_fatigue": {
+          "home_team": "Match européen récent mais effectif pour rotation",
+          "away_team": "Également match européen mais crise de confiance",
+          "advantage": "Équilibre physique mais mental différent"
+        },
+        "context_stakes": {
+          "home_situation": "5e place avec 13 points, course européenne, match à ne pas rater",
+          "away_situation": "19e place avec 3 points, situation dramatique, crise totale",
+          "psychological": "Bologna en confiance, Fiorentina en perdition malgré victoires européennes",
+          "overall": "Pression énorme sur Fiorentina qui doit réagir"
+        },
+        "home_advantage": {
+          "home_record_season": "Données domicile non spécifiées mais 5e place générale",
+          "away_record_opponent": "Fiorentina catastrophique même à domicile (0V-0N-3D)",
+          "atmosphere": "Stade Renato Dall'Ara, public motivé par la saison européenne",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Avantage important pour Bologna"
+        },
+        "odds_value": {
+          "bet_odds": 1.9,
+          "implied_probability": "52.6%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Excellente value, Fiorentina surévaluée malgré sa position de 19e",
+          "odds_movement": "Cote généreuse pour Bologna face à l'avant-dernier"
+        },
+        "key_factors_summary": [
+          "Écart de niveau énorme : Bologna 5e (13 pts) vs Fiorentina 19e (3 pts)",
+          "Bologna avec Orsolini meilleur buteur de Serie A (5 buts) vs attaque défaillante Fiorentina (5 buts total)",
+          "Fiorentina 0 victoire à domicile cette saison, crise totale en championnat",
+          "Moise Keane suspendu côté Fiorentina, perte d'un attaquant clé",
+          "Bologna en course européenne, motivation maximale contre un relégable"
+        ]
+      },
+      "conclusion": "Match déséquilibré entre Bologna en excellente forme (5e, course européenne) et Fiorentina en crise totale (19e, 3 points, 0 victoire à domicile). Bologna possède le meilleur buteur de Serie A (Orsolini, 5 buts) face à une attaque de Fiorentina défaillante (5 buts au total). La suspension de Keane affaiblit encore Fiorentina. Les cotes offrent une value exceptionnelle.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Bologna)",
+      "odds": 1.9,
+      "confidence": 76,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Fiorentina attaque très faible, match potentiellement serré"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 19,
+    "examples": [
+      {
+        "match": "Real Madrid vs Barcelona",
+        "reason": "El Clasico trop imprévisible, cotes équilibrées sans value claire"
+      },
+      {
+        "match": "Arsenal vs Crystal Palace",
+        "reason": "Arsenal favori évident mais cote trop faible (< 1.70 estimée)"
+      },
+      {
+        "match": "Manchester City vs Aston Villa",
+        "reason": "City favori mais nombreuses blessures, incertitude tactique"
+      },
+      {
+        "match": "Mallorca vs Levante",
+        "reason": "Match équilibré entre deux équipes en difficulté, pas de value identifiée"
+      },
+      {
+        "match": "Everton vs Tottenham",
+        "reason": "Tottenham nombreuses blessures, Everton solide à domicile, trop d'incertitudes"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Torino victoire vs Genoa (1.85)",
+      "Lille victoire vs Metz (1.75)",
+      "Bournemouth victoire vs Nottingham Forest (1.80)"
+    ],
+    "total_odds": 5.83,
+    "confidence": 77,
+    "detailed_reasoning": "Trois matchs avec écarts de niveau flagrants : Torino vs lanterne rouge Genoa (0 victoire), Lille vs Metz catastrophique en déplacement (0 victoire extérieure), et Bournemouth 5e vs Forest 18e (historique 5-0 récent). Tous trois évoluent à domicile face à des équipes en crise totale. Corrélation faible entre les matchs (ligues différentes). Probabilité combinée estimée à 77% (75% × 80% × 78% = 46.8% réel, mais value présente sur chaque pari individuel).",
+    "risk_level": "Medium",
+    "IMPORTANT": "Combiné de trois favoris logiques à domicile face à des équipes en perdition complète dans leurs championnats respectifs."
+  }
+}

@@ -18,7 +18,7 @@ class Config:
     MIN_CONFIDENCE = int(os.getenv('MIN_CONFIDENCE', 75))
     MIN_ODDS = float(os.getenv('MIN_ODDS', 1.50))
     MAX_ODDS = float(os.getenv('MAX_ODDS', 4.00))
-    MAX_PREDICTIONS = int(os.getenv('MAX_PREDICTIONS', 8))
+    MAX_PREDICTIONS = int(os.getenv('MAX_PREDICTIONS', 10))
     
     # IDs des ligues à inclure (API-Football)
     INCLUDED_LEAGUE_IDS = [

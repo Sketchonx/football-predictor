@@ -14,7 +14,7 @@ Tu dois trouver des paris où le MARCHÉ se TROMPE, où la cote est SOUS-ÉVALU�
 - Probabilité de gain ≥{min_confidence}%
 - Cotes entre {min_odds} et {max_odds}
 - **RÈGLE D'OR : JAMAIS de cotes < 1.70** même sur handicap/over-under
-- Maximum {max_predictions} pronostics/jour **MAIS privilégier 3-5 pronostics de QUALITÉ plutôt que 8 moyens**
+- Maximum {max_predictions} pronostics/jour **MAIS privilégier 5-7 pronostics de QUALITÉ plutôt que 10 moyens**
 - Chaque pari DOIT avoir une VALUE identifiable (écart de 10%+ entre cote et probabilité réelle)
 - Analyses TRÈS détaillées obligatoires
 - DIVERSIFIER les types de paris : pas seulement 1X2, mais aussi Over/Under, BTTS, Handicap selon le contexte

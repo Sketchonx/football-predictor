@@ -2,7 +2,7 @@ name: Analyse Quotidienne Football
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # 11h UTC = 12h Belgique (hiver), 13h (été)
+    - cron: '0 9 * * *'  # 9h UTC = 11h Belgique (hiver), 10h (été)
   workflow_dispatch:  # Permet déclenchement manuel
 
 permissions:

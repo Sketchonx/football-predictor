@@ -1,0 +1,37 @@
+name: Alerte Pré-Match
+
+on:
+  schedule:
+    # Exécuter à 11h UTC (13h Belgique) pour matchs de 15h+
+    - cron: '0 11 * * *'
+    # Exécuter à 17h UTC (19h Belgique) pour matchs de 20h+
+    - cron: '0 17 * * *'
+  workflow_dispatch:  # Permet déclenchement manuel
+
+permissions:
+  contents: read
+
+jobs:
+  pre-match-alert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Check for pre-match changes
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python src/pre_match_alert.py

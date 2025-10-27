@@ -594,7 +594,8 @@
           "odds": 1.75,
           "reasoning": "Fiorentina attaque très faible, match potentiellement serré"
         }
-      ]
+      ],
+      "analyzed": true
     }
   ],
   "matches_excluded": {

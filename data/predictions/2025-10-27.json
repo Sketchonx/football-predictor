@@ -99,7 +99,8 @@
           "odds": 1.85,
           "reasoning": "Sécurisation avec le nul, Atletico incapable de gagner à l'extérieur"
         }
-      ]
+      ],
+      "analyzed": true
     }
   ],
   "matches_excluded": {

@@ -19,5 +19,47 @@
     "bet_choice": "1 (Victoire Paris FC)",
     "final_score": "1-2",
     "analysis_date": "2025-10-25T11:14:25.004192"
+  },
+  {
+    "main_cause": "Surestimation de l'impact de la forme générale de Bologna sans considérer leur capacité défensive à l'extérieur face à une équipe désespérée.",
+    "missed_factors": [
+      "Analyse insuffisante des stats défensives de Bologna à l'extérieur qui pouvaient révéler une vulnérabilité malgré leur bonne forme générale",
+      "Sous-estimation du facteur désespoir de Fiorentina à domicile (19e position) qui peut générer une intensité exceptionnelle même avec des lacunes techniques",
+      "Négligence des confrontations directes récentes entre ces équipes qui auraient pu montrer une tendance aux matchs serrés ou aux remontées"
+    ],
+    "actionable_conclusion": "Pour les équipes bien classées jouant à l'extérieur contre un relégable à domicile, vérifier systématiquement les stats défensives away et privilégier les paris 'Both Teams to Score' plutôt que la victoire nette.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-10-26_5",
+    "match": {
+      "home_team": "Bologna",
+      "away_team": "Fiorentina",
+      "league": "Serie A",
+      "date": "17:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire Bologna)",
+    "final_score": "2-2",
+    "analysis_date": "2025-10-27T23:13:09.080248"
+  },
+  {
+    "main_cause": "Surestimation de l'impact des absences d'Álvarez et Giménez sans analyser la capacité d'adaptation tactique de Simeone et la profondeur d'effectif d'Atletico.",
+    "missed_factors": [
+      "Historique des confrontations directes récentes montrant potentiellement une domination tactique d'Atletico sur Betis",
+      "Analyse insuffisante de la réaction habituelle des équipes de Simeone après une lourde défaite (effet rebond psychologique)",
+      "Sous-évaluation de la qualité des remplaçants d'Atletico (Sorloth, Correa) par rapport au niveau défensif réel de Betis à domicile"
+    ],
+    "actionable_conclusion": "Avant de parier sur une surprise basée sur les absences, vérifier les 5 dernières confrontations directes et pondérer l'effet rebond des équipes expérimentées après une défaite de 3+ buts d'écart.",
+    "error_category": "absence_joueur",
+    "match_id": "2025-10-27_0",
+    "match": {
+      "home_team": "Real Betis",
+      "away_team": "Atletico Madrid",
+      "league": "La Liga",
+      "date": "20:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Real Betis)",
+    "final_score": "0-2",
+    "analysis_date": "2025-10-27T23:13:17.249398"
   }
 ]

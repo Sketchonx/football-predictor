@@ -127,9 +127,9 @@
   },
   {
     "prediction_id": "2025-10-27_0",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "0-2",
     "recorded_at": "2025-10-27T09:15:29.731587",
-    "updated_at": "2025-10-27T09:15:29.731594"
+    "updated_at": "2025-10-27T23:13:00.030302"
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-25T11:14:25.006525",
-  "total_errors_analyzed": 1,
+  "last_updated": "2025-10-27T23:13:17.250118",
+  "total_errors_analyzed": 3,
   "categories": {
     "sous_estimation_outsider": {
       "count": 1,
@@ -10,6 +10,24 @@
           "conclusion": "Avant de parier sur une équipe de division inférieure contre une équipe en crise de l'élite, vérifier si l'écart de niveau structurel (budget, effectif, expérience) reste supérieur à 30% et analyser les 5 derniers matchs de l'équipe favorite contre des adversaires de niveau similaire."
         }
       ]
+    },
+    "surestimation_favori": {
+      "count": 1,
+      "examples": [
+        {
+          "match": "Bologna vs Fiorentina",
+          "conclusion": "Pour les équipes bien classées jouant à l'extérieur contre un relégable à domicile, vérifier systématiquement les stats défensives away et privilégier les paris 'Both Teams to Score' plutôt que la victoire nette."
+        }
+      ]
+    },
+    "absence_joueur": {
+      "count": 1,
+      "examples": [
+        {
+          "match": "Real Betis vs Atletico Madrid",
+          "conclusion": "Avant de parier sur une surprise basée sur les absences, vérifier les 5 dernières confrontations directes et pondérer l'effet rebond des équipes expérimentées après une défaite de 3+ buts d'écart."
+        }
+      ]
     }
   },
   "key_learnings": [
@@ -17,6 +35,16 @@
       "date": "2025-10-25T11:14:25.004192",
       "category": "sous_estimation_outsider",
       "conclusion": "Avant de parier sur une équipe de division inférieure contre une équipe en crise de l'élite, vérifier si l'écart de niveau structurel (budget, effectif, expérience) reste supérieur à 30% et analyser les 5 derniers matchs de l'équipe favorite contre des adversaires de niveau similaire."
+    },
+    {
+      "date": "2025-10-27T23:13:09.080248",
+      "category": "surestimation_favori",
+      "conclusion": "Pour les équipes bien classées jouant à l'extérieur contre un relégable à domicile, vérifier systématiquement les stats défensives away et privilégier les paris 'Both Teams to Score' plutôt que la victoire nette."
+    },
+    {
+      "date": "2025-10-27T23:13:17.249398",
+      "category": "absence_joueur",
+      "conclusion": "Avant de parier sur une surprise basée sur les absences, vérifier les 5 dernières confrontations directes et pondérer l'effet rebond des équipes expérimentées après une défaite de 3+ buts d'écart."
     }
   ]
 }

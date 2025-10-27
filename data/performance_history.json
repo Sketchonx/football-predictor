@@ -124,5 +124,12 @@
     "actual_score": "2-2",
     "recorded_at": "2025-10-26T10:27:25.148156",
     "updated_at": "2025-10-27T08:28:27.005784"
+  },
+  {
+    "prediction_id": "2025-10-27_0",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-10-27T09:15:29.731587",
+    "updated_at": "2025-10-27T09:15:29.731594"
   }
 ]

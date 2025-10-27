@@ -98,8 +98,21 @@ class AutoResultUpdater:
                     away = fixture['teams']['away']['name']
 
                     # Vérifier si c'est le bon match (avec matching amélioré)
-                    if self.teams_match(home_team, home) and self.teams_match(away_team, away):
+                    # Tester les 2 ordres possibles car les prédictions peuvent avoir Home/Away inversé
+                    match_found = False
+                    is_inverted = False
 
+                    # Ordre normal
+                    if self.teams_match(home_team, home) and self.teams_match(away_team, away):
+                        match_found = True
+                        is_inverted = False
+                    # Ordre inversé (bug dans les prédictions)
+                    elif self.teams_match(home_team, away) and self.teams_match(away_team, home):
+                        match_found = True
+                        is_inverted = True
+                        print(f"   ⚠️  INVERSION DÉTECTÉE: Home/Away corrigé automatiquement")
+
+                    if match_found:
                         status = fixture['fixture']['status']['short']
 
                         # Match terminé ?
@@ -113,7 +126,8 @@ class AutoResultUpdater:
                                 'home_goals': home_goals,
                                 'away_goals': away_goals,
                                 'status': status,
-                                'score': f"{home_goals}-{away_goals}"
+                                'score': f"{home_goals}-{away_goals}",
+                                'was_inverted': is_inverted  # Signaler si inversion corrigée
                             }
 
             return None

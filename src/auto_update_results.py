@@ -18,6 +18,63 @@ class AutoResultUpdater:
         self.config = Config()
         self.api_key = os.getenv('API_FOOTBALL_KEY')
 
+    def normalize_team_name(self, team_name):
+        """
+        Normalise les noms d'équipes pour améliorer le matching
+        Supprime suffixes communs, articles, et caractères spéciaux
+        """
+        name = team_name.lower().strip()
+
+        # Supprimer suffixes courants
+        suffixes = [' kv', ' fc', ' sc', ' sv', ' ac', ' as', ' bv', ' cf', ' afc', ' ssc']
+        for suffix in suffixes:
+            if name.endswith(suffix):
+                name = name[:-len(suffix)]
+
+        # Supprimer préfixes courants
+        prefixes = ['fc ', 'sc ', 'sv ', 'ac ', 'as ', 'bv ', 'cf ', 'afc ', 'ssc ']
+        for prefix in prefixes:
+            if name.startswith(prefix):
+                name = name[len(prefix):]
+
+        # Supprimer numéros (ex: "05" dans "FSV Mainz 05")
+        import re
+        name = re.sub(r'\s*\d+\s*$', '', name)
+
+        return name.strip()
+
+    def teams_match(self, pred_team, api_team):
+        """
+        Vérifie si deux noms d'équipes correspondent
+        Utilise plusieurs stratégies pour gérer les variations de noms
+        """
+        pred_norm = self.normalize_team_name(pred_team)
+        api_norm = self.normalize_team_name(api_team)
+
+        # Matching exact après normalisation
+        if pred_norm == api_norm:
+            return True
+
+        # Matching si l'un contient l'autre (après normalisation)
+        if pred_norm in api_norm or api_norm in pred_norm:
+            return True
+
+        # Matching par mots clés principaux (au moins 2 mots en commun)
+        pred_words = set(pred_norm.split())
+        api_words = set(api_norm.split())
+        common_words = pred_words & api_words
+
+        if len(common_words) >= 2:
+            return True
+
+        # Matching si un seul mot mais significatif (plus de 4 lettres)
+        if len(common_words) == 1:
+            word = list(common_words)[0]
+            if len(word) > 4:
+                return True
+
+        return False
+
     def get_match_result(self, home_team, away_team, match_date):
         """Récupère le résultat d'un match via API-Football"""
         if not self.api_key:
@@ -40,9 +97,8 @@ class AutoResultUpdater:
                     home = fixture['teams']['home']['name']
                     away = fixture['teams']['away']['name']
 
-                    # Vérifier si c'est le bon match
-                    if home in home_team or home_team in home or \
-                       away in away_team or away_team in away:
+                    # Vérifier si c'est le bon match (avec matching amélioré)
+                    if self.teams_match(home_team, home) and self.teams_match(away_team, away):
 
                         status = fixture['fixture']['status']['short']
 

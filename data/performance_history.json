@@ -134,10 +134,10 @@
   },
   {
     "prediction_id": "2025-10-28_0",
-    "result": "pending",
-    "actual_score": null,
+    "result": "win",
+    "actual_score": "0-1",
     "recorded_at": "2025-10-28T09:13:55.454871",
-    "updated_at": "2025-10-28T09:13:55.454879"
+    "updated_at": "2025-10-28T23:13:43.204829"
   },
   {
     "prediction_id": "2025-10-28_1",

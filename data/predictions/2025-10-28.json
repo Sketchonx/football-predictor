@@ -1,0 +1,217 @@
+{
+  "analysis_date": "2025-10-28",
+  "total_analyzed": 2,
+  "total_retained": 2,
+  "recommendations": [
+    {
+      "match": "Lecce vs Napoli",
+      "competition": "Serie A",
+      "kickoff": "17:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-1N-3D, 5 buts pour, 8 contre",
+            "home_record": "À domicile: 0V-2N-2D, 3 buts pour, 5 contre",
+            "trend": "Forme catastrophique, aucune victoire à domicile cette saison",
+            "details": "Derniers résultats : [D] 3-2 vs Udinese, [N] 0-0 vs Sassuolo, [V] 1-0 à Parma, [N] 2-2 vs Bologna, [D] 0-3 vs AC Milan"
+          },
+          "away_team": {
+            "last_5_matches": "4V-0N-1D, 11 buts pour, 5 contre",
+            "away_record": "À l'extérieur: 2V-0N-2D, 5 buts pour, 6 contre",
+            "trend": "Forme excellente avec 4 victoires sur 5, leader de Serie A",
+            "details": "Derniers résultats : [V] 3-1 vs Inter, [D] 2-6 vs PSV, [D] 0-1 vs Torino, [V] 2-1 vs Genoa, [V] 2-1 vs Sporting CP"
+          }
+        },
+        "head_to_head": {
+          "last_5": "4V Napoli, 1N, 0V Lecce",
+          "at_home": "Lecce n'a jamais battu Napoli dans les 10 derniers H2H",
+          "details": "Résultats: 0-1 (2025), 1-0 pour Napoli (2024), 0-0 (2024), 0-4 pour Napoli (2023), 1-2 pour Napoli (2023)",
+          "trends": "Domination totale de Napoli historiquement, moyenne 2.1 buts/match, Lecce très rarement dangereux"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Lameck Banda (suspendu carton rouge)",
+              "F. Marchwiński (blessure genou, répétée 9 fois dans les données)"
+            ],
+            "impact": "Impact modéré : Banda est un ailier important, Marchwiński semble avoir une blessure chronique"
+          },
+          "away_team": {
+            "absent": [
+              "Amir Rrahmani (blessure)",
+              "R. Lukaku (problèmes cuisse, répété 4 fois)",
+              "Miguel Gutiérrez (cheville)",
+              "David Neres (contusion musculaire)",
+              "N. Contini (main)"
+            ],
+            "impact": "Impact MAJEUR : Lukaku (buteur principal) et Rrahmani (défenseur central titulaire) absents. Attaque et défense affaiblies."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Lecce 16e place, attaque la plus faible de Serie A avec 0.9 but/match, défense perméable (1.6 but encaissé/match)",
+          "away_style": "Napoli leader avec 1.9 but/match en attaque, défense solide (1.0 but encaissé/match), style offensif sous Conte",
+          "key_matchup": "Attaque de Napoli (même sans Lukaku) vs défense de Lecce la plus faible du championnat. Avantage énorme Napoli.",
+          "predicted_approach": "Napoli va dominer la possession et créer de nombreuses occasions malgré les absences"
+        },
+        "schedule_fatigue": {
+          "home_team": "3 jours de repos depuis la défaite 3-2 à Udinese. Équipe reposée mais moral en berne.",
+          "away_team": "3 jours de repos depuis la victoire 3-1 contre Inter. Rythme soutenu mais équipe habituée aux gros matchs.",
+          "advantage": "Égalité sur la récupération physique, avantage mental à Napoli après sa victoire de prestige"
+        },
+        "context_stakes": {
+          "home_situation": "Lecce 16e place avec seulement 6 points, en zone de relégation. Besoin urgent de points pour le maintien.",
+          "away_situation": "Napoli leader avec 18 points, veut consolider sa première place et montrer sa force après le succès contre Inter.",
+          "psychological": "Pression énorme sur Lecce qui doit réagir à domicile. Napoli en confiance totale, veut confirmer son statut de leader.",
+          "overall": "Enjeu vital pour Lecce mais Napoli a la mentalité de vainqueur et l'expérience des gros matchs"
+        },
+        "home_advantage": {
+          "home_record_season": "Lecce à domicile : 0V-2N-2D, seulement 3 buts marqués, 5 encaissés. Pas une forteresse.",
+          "away_record_opponent": "Napoli en déplacement : 2V-0N-2D, performances correctes mais deux défaites notables",
+          "atmosphere": "Stade Via del Mare, supporters de Lecce motivés pour soutenir leur équipe en difficulté",
+          "weather": "Conditions normales, pas d'impact météorologique",
+          "advantage_score": "4/10 - Avantage domicile limité vu la faiblesse de Lecce à domicile cette saison"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifié, cote sous-évaluée de 10-15% compte tenu de l'écart de niveau et de la forme",
+          "odds_movement": "Cote attractive pour Napoli malgré son statut de leader, marché sous-estime la différence de niveau"
+        },
+        "key_factors_summary": [
+          "Écart de niveau énorme : Napoli 1er (18 pts) vs Lecce 16e (6 pts) en zone de relégation",
+          "Forme opposée : Napoli 4V-1D sur 5 matchs vs Lecce 1V-4D dont 0 victoire à domicile",
+          "Historique sans appel : Napoli invaincu sur 10 derniers H2H avec 4 victoires sur 5 derniers",
+          "Stats offensives : Napoli 1.9 but/match vs Lecce 0.9 but/match, défense Lecce perméable (1.6 encaissé/match)",
+          "Malgré les absences de Lukaku et Rrahmani, Napoli reste largement supérieur avec De Bruyne et Anguissa en forme"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire nette de Napoli : écart de niveau abyssal (1er vs 16e), forme diamétralement opposée (Napoli en série vs Lecce sans victoire à domicile), historique totalement favorable (10 H2H sans défaite), et supériorité technique évidente malgré les absences. Lecce n'a marqué que 3 buts à domicile cette saison contre 15 pour Napoli au total. La cote 1.85 offre une value intéressante pour un favori aussi net. Risque faible compte tenu de tous les facteurs.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Napoli)",
+      "odds": 1.85,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Napoli -1.5",
+          "odds": 2.4,
+          "reasoning": "Écart de niveau suggère une victoire large, Lecce très faible défensivement"
+        }
+      ]
+    },
+    {
+      "match": "Atalanta vs AC Milan",
+      "competition": "Serie A",
+      "kickoff": "19:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-3N-0D, 7 buts pour, 4 contre",
+            "home_record": "À domicile: 1V-3N-0D, 7 buts pour, 3 contre",
+            "trend": "Forme solide défensivement mais beaucoup de nuls, invaincus depuis 10 matchs",
+            "details": "Derniers résultats : [N] 1-1 vs Cremonese, [N] 0-0 vs Slavia Praha, [N] 0-0 vs Lazio, [N] 1-1 vs Como, [V] 2-1 vs Club Brugge"
+          },
+          "away_team": {
+            "last_5_matches": "4V-1N-0D, 9 buts pour, 4 contre",
+            "away_record": "À l'extérieur: 2V-1N-0D, 5 buts pour, 3 contre",
+            "trend": "Excellente forme avec 4 victoires sur 5, invaincu en déplacement cette saison",
+            "details": "Derniers résultats : [N] 2-2 vs Pisa, [V] 2-1 vs Fiorentina, [N] 0-0 vs Juventus, [V] 2-1 vs Napoli, [V] 3-0 vs Lecce"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Atalanta, 1N, 1V AC Milan",
+          "at_home": "Atalanta domine à domicile : 3 victoires sur 4 derniers matchs ici",
+          "details": "Résultats: 0-1 pour Atalanta (2025), 2-1 pour Atalanta (2024), 1-1 (2024), 1-2 pour Atalanta (2024), 3-2 pour Atalanta (2023)",
+          "trends": "Domination récente d'Atalanta avec 3 victoires sur 5 derniers, matchs souvent serrés et spectaculaires"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Ademola Lookman (inéligible)",
+              "G. Scamacca (genou)",
+              "M. Bakker (genou, répété 3 fois)",
+              "Éderson (genou, répété 2 fois)",
+              "S. Kolašinac (genou, répété 3 fois)"
+            ],
+            "impact": "Impact MAJEUR : Lookman (attaquant clé) inéligible, Scamacca (buteur) blessé, milieu et défense décimés"
+          },
+          "away_team": {
+            "absent": [
+              "L. Torriani (doigt, répété 3 fois)",
+              "A. Jashari (mollet, répété 2 fois)",
+              "Rafael Leão (mollet, répété 4 fois)"
+            ],
+            "impact": "Impact MODÉRÉ : Leão (ailier star) absent mais effectif moins touché qu'Atalanta"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Atalanta 7e place, défense très solide (0.8 but encaissé/match), attaque correcte (1.5 but/match), style compact",
+          "away_style": "AC Milan 3e place, équilibre parfait (1.6 but/match marqué et 0.8 encaissé), efficacité maximale",
+          "key_matchup": "Défense d'Atalanta (meilleure de Serie A) vs attaque de Milan avec Pulišić en forme (4 buts). Duel équilibré.",
+          "predicted_approach": "Match tactique serré, Milan plus technique mais Atalanta solide défensivement à domicile"
+        },
+        "schedule_fatigue": {
+          "home_team": "3 jours de repos depuis le nul 1-1 à Cremonese. Équipe habituée au rythme européen.",
+          "away_team": "4 jours de repos depuis le nul 2-2 contre Pisa. Légèrement plus reposé.",
+          "advantage": "Léger avantage Milan sur la récupération mais différence minime"
+        },
+        "context_stakes": {
+          "home_situation": "Atalanta 7e place avec 12 points, veut se rapprocher du top 6 et confirmer sa solidité défensive.",
+          "away_situation": "AC Milan 3e place avec 17 points, veut maintenir sa place sur le podium et confirmer sa bonne forme.",
+          "psychological": "Deux équipes ambitieuses, Milan légèrement favori mais Atalanta joue sans pression à domicile.",
+          "overall": "Enjeu important pour les deux, match d'égal à égal avec un léger avantage psychologique Milan"
+        },
+        "home_advantage": {
+          "home_record_season": "Atalanta à domicile : 1V-3N-0D, défense imperméable (3 buts encaissés), difficile à battre",
+          "away_record_opponent": "Milan en déplacement : 2V-1N-0D, invaincu mais pas dominateur (5 buts marqués seulement)",
+          "atmosphere": "Gewiss Stadium, ambiance électrique attendue pour ce choc, supporters bergamasques motivés",
+          "weather": "Conditions normales, pas d'impact particulier",
+          "advantage_score": "7/10 - Avantage domicile significatif, Atalanta très difficile à battre chez elle"
+        },
+        "odds_value": {
+          "bet_odds": 2.2,
+          "implied_probability": "45.5%",
+          "estimated_real_probability": "35-40%",
+          "value_analysis": "Cote surévaluée pour Milan, match plus équilibré que ne le suggèrent les cotes",
+          "odds_movement": "Marché semble surestimer Milan malgré l'avantage domicile d'Atalanta et ses absences moindres"
+        },
+        "key_factors_summary": [
+          "Match équilibré entre 3e (Milan) et 7e (Atalanta) avec seulement 5 points d'écart au classement",
+          "Atalanta invaincue depuis 10 matchs, défense de fer à domicile (3 buts encaissés en 4 matchs)",
+          "Milan sans Leão (ailier clé) face à Atalanta privée de Lookman et Scamacca mais moins impactée",
+          "H2H favorable à Atalanta récemment (3V-1N-1D sur 5 derniers) surtout à domicile",
+          "Forme similaire mais styles différents : solidité Atalanta vs efficacité Milan"
+        ]
+      },
+      "conclusion": "Match très équilibré entre deux équipes en forme mais aux profils différents. Atalanta bénéficie de son invincibilité (10 matchs), de sa forteresse défensive à domicile (3 buts encaissés en 4 matchs), et d'un historique récent favorable. Milan, malgré sa meilleure position au classement, joue sans Leão et n'a marqué que 5 buts en 3 déplacements. Les absences sont plus lourdes côté Atalanta mais l'avantage domicile compense. La cote 2.20 pour Milan semble surévaluer ses chances dans ce contexte. Un nul ou une victoire Atalanta paraît plus probable.",
+      "bet_type": "Double Chance",
+      "prediction": "1X (Atalanta ou Nul)",
+      "odds": 1.75,
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.9,
+          "reasoning": "Deux défenses solides, Atalanta spécialiste des matchs serrés à domicile"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 0,
+    "examples": []
+  },
+  "combined_bet": {
+    "matches": [
+      "Napoli victoire vs Lecce",
+      "Atalanta ou Nul vs AC Milan"
+    ],
+    "total_odds": 3.24,
+    "confidence": 78,
+    "detailed_reasoning": "Napoli victoire : probabilité très élevée (82%) compte tenu de l'écart de niveau énorme et de la forme opposée. Atalanta 1X : probabilité élevée (75%) basée sur leur solidité défensive à domicile et l'équilibre du match. Corrélation faible entre les deux paris (compétitions identiques mais contextes différents). Risque combiné calculé : 62% (82% × 75%). Cote totale 3.24 offre une excellente value pour ce niveau de confiance.",
+    "risk_level": "Medium",
+    "IMPORTANT": "Combiné sélectionné avec les deux paris ayant la plus haute confiance et une corrélation minimale."
+  }
+}

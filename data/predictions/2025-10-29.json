@@ -292,7 +292,8 @@
           "odds": 1.9,
           "reasoning": "Attaque efficace de Lens contre défense catastrophique de Metz (2.9 buts encaissés/match)"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Marseille vs Angers",
@@ -392,7 +393,8 @@
           "odds": 1.75,
           "reasoning": "Marseille meilleure attaque de Ligue 1, historique de matchs ouverts contre Angers"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Strasbourg vs Auxerre",

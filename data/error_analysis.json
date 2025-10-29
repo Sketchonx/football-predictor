@@ -61,5 +61,47 @@
     "bet_choice": "1 (Victoire Real Betis)",
     "final_score": "0-2",
     "analysis_date": "2025-10-27T23:13:17.249398"
+  },
+  {
+    "main_cause": "Surestimation de la capacité de Lens à concrétiser sa domination statistique face à une équipe de Metz potentiellement motivée par son statut de lanterne rouge à domicile.",
+    "missed_factors": [
+      "Analyse insuffisante des performances de Lens à l'extérieur contre les équipes du bas de tableau (possibles relâchements face aux 'petites' équipes)",
+      "Négligence du facteur psychologique de Metz jouant à domicile avec la pression de sortir de la dernière place",
+      "Absence de vérification des confrontations directes récentes entre Metz et Lens pour identifier d'éventuels patterns défavorables"
+    ],
+    "actionable_conclusion": "Pour les favoris évoluant à l'extérieur contre une lanterne rouge, vérifier leurs résultats des 3 derniers déplacements face aux équipes classées dans les 3 dernières places avant de miser sur une victoire simple.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-10-29_2",
+    "match": {
+      "home_team": "Metz",
+      "away_team": "Lens",
+      "league": "Ligue 1",
+      "date": "18:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire Lens)",
+    "final_score": "2-0",
+    "analysis_date": "2025-10-29T23:14:02.792968"
+  },
+  {
+    "main_cause": "Surestimation de la capacité de Marseille à concrétiser sa domination statistique face à une équipe d'Angers capable de résister défensivement et de saisir ses rares occasions.",
+    "missed_factors": [
+      "Analyse insuffisante de la capacité défensive d'Angers à limiter les dégâts malgré ses difficultés offensives (possibles matchs serrés récents)",
+      "Négligence du facteur psychologique : Angers en grande difficulté peut adopter une approche ultra-défensive avec contre-attaques, rendant le match plus imprévisible",
+      "Sous-estimation du risque de suffisance de Marseille face à un adversaire théoriquement très faible, pouvant mener à une baisse d'intensité"
+    ],
+    "actionable_conclusion": "Pour les favoris avec cote <1.80 face à des équipes en crise, vérifier systématiquement les écarts de buts moyens des 5 derniers matchs domicile du favori et la capacité de résistance défensive de l'outsider avant de miser sur la victoire simple.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-10-29_3",
+    "match": {
+      "home_team": "Marseille",
+      "away_team": "Angers",
+      "league": "Ligue 1",
+      "date": "20:05"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Marseille)",
+    "final_score": "2-2",
+    "analysis_date": "2025-10-29T23:14:11.234138"
   }
 ]

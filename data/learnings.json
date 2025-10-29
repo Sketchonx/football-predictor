@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-27T23:13:17.250118",
-  "total_errors_analyzed": 3,
+  "last_updated": "2025-10-29T23:14:11.235529",
+  "total_errors_analyzed": 5,
   "categories": {
     "sous_estimation_outsider": {
       "count": 1,
@@ -12,11 +12,19 @@
       ]
     },
     "surestimation_favori": {
-      "count": 1,
+      "count": 3,
       "examples": [
         {
           "match": "Bologna vs Fiorentina",
           "conclusion": "Pour les équipes bien classées jouant à l'extérieur contre un relégable à domicile, vérifier systématiquement les stats défensives away et privilégier les paris 'Both Teams to Score' plutôt que la victoire nette."
+        },
+        {
+          "match": "Metz vs Lens",
+          "conclusion": "Pour les favoris évoluant à l'extérieur contre une lanterne rouge, vérifier leurs résultats des 3 derniers déplacements face aux équipes classées dans les 3 dernières places avant de miser sur une victoire simple."
+        },
+        {
+          "match": "Marseille vs Angers",
+          "conclusion": "Pour les favoris avec cote <1.80 face à des équipes en crise, vérifier systématiquement les écarts de buts moyens des 5 derniers matchs domicile du favori et la capacité de résistance défensive de l'outsider avant de miser sur la victoire simple."
         }
       ]
     },
@@ -45,6 +53,16 @@
       "date": "2025-10-27T23:13:17.249398",
       "category": "absence_joueur",
       "conclusion": "Avant de parier sur une surprise basée sur les absences, vérifier les 5 dernières confrontations directes et pondérer l'effet rebond des équipes expérimentées après une défaite de 3+ buts d'écart."
+    },
+    {
+      "date": "2025-10-29T23:14:02.792968",
+      "category": "surestimation_favori",
+      "conclusion": "Pour les favoris évoluant à l'extérieur contre une lanterne rouge, vérifier leurs résultats des 3 derniers déplacements face aux équipes classées dans les 3 dernières places avant de miser sur une victoire simple."
+    },
+    {
+      "date": "2025-10-29T23:14:11.234138",
+      "category": "surestimation_favori",
+      "conclusion": "Pour les favoris avec cote <1.80 face à des équipes en crise, vérifier systématiquement les écarts de buts moyens des 5 derniers matchs domicile du favori et la capacité de résistance défensive de l'outsider avant de miser sur la victoire simple."
     }
   ]
 }

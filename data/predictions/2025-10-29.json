@@ -1,0 +1,533 @@
+{
+  "analysis_date": "2025-10-29",
+  "total_analyzed": 15,
+  "total_retained": 5,
+  "recommendations": [
+    {
+      "match": "Como vs Verona",
+      "competition": "Serie A",
+      "kickoff": "17:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D selon les 5 derniers: victoire 2-0 vs Juventus, nul 0-0 vs Parma, victoire 3-0 vs Sassuolo, victoire 2-1 vs Fiorentina, nul 1-1 vs Genoa",
+            "home_record": "À domicile: 2V-2N-0D cette saison, invaincu à la maison",
+            "trend": "Forme excellente avec une victoire de prestige contre Juventus 2-0",
+            "details": "Como montre une progression remarquable avec des victoires contre des équipes de qualité comme Juventus et Fiorentina"
+          },
+          "away_team": {
+            "last_5_matches": "0V-4N-1D selon les 5 derniers: nul 2-2 vs Cagliari, nul 0-0 vs Pisa, défaite 0-1 vs Sassuolo, défaite 2-0 vs AS Roma, nul 0-0 vs Venezia",
+            "away_record": "À l'extérieur: 0V-2N-2D cette saison, aucune victoire en déplacement",
+            "trend": "Forme très préoccupante avec 0 victoire cette saison et attaque défaillante",
+            "details": "Verona n'a marqué que 4 buts en 8 matchs cette saison, moyenne de 0.5 but par match"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Historique récent limité: 1 nul 1-1 en 2025, victoire Como 3-2 en 2024",
+          "at_home": "Como invaincu contre Verona à domicile sur les 2 derniers matchs",
+          "details": "Confrontations récentes équilibrées mais Como a montré sa supériorité offensive (3-2)",
+          "trends": "Matchs généralement ouverts avec des buts des deux côtés"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Assane Diao (blessure au genou)",
+              "I. Van der Brempt (blessure)",
+              "A. Dossena (genou)",
+              "J. Ramon (carton rouge)"
+            ],
+            "impact": "Impact modéré: quelques absents mais effectif de qualité disponible avec N. Paz (4 buts, meilleur passeur de Serie A)"
+          },
+          "away_team": {
+            "absent": [
+              "T. Suslov (genou) - absent longue durée"
+            ],
+            "impact": "Impact limité car Verona a déjà des difficultés offensives majeures avec seulement 4 buts marqués en 8 matchs"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Como joue un football offensif sous Cesc Fàbregas avec N. Paz comme meneur de jeu (4 buts, 4 passes décisives)",
+          "away_style": "Verona adopte un jeu défensif mais inefficace avec la pire attaque de Serie A (4 buts en 8 matchs)",
+          "key_matchup": "Créativité de N. Paz (meilleur passeur de Serie A) contre une défense de Verona qui encaisse 1.4 but par match",
+          "predicted_approach": "Como va dominer la possession et créer de nombreuses occasions face à une équipe de Verona contrainte de défendre"
+        },
+        "schedule_fatigue": {
+          "home_team": "Como a joué il y a 4 jours (nul 0-0 vs Parma), temps de récupération correct",
+          "away_team": "Verona a joué il y a 3 jours (nul 2-2 vs Cagliari), récupération similaire",
+          "advantage": "Pas d'avantage significatif au niveau de la fatigue"
+        },
+        "context_stakes": {
+          "home_situation": "Como 6e place avec 13 points, excellent début de saison et ambitions européennes réalistes",
+          "away_situation": "Verona 17e place avec seulement 5 points, dans la zone de relégation et en grande difficulté",
+          "psychological": "Como en confiance après sa victoire contre Juventus, Verona sous pression avec 0 victoire cette saison",
+          "overall": "Écart de motivation et de confiance énorme en faveur de Como"
+        },
+        "home_advantage": {
+          "home_record_season": "Como invaincu à domicile: 2V-2N-0D, avec des victoires contre Juventus et Sassuolo",
+          "away_record_opponent": "Verona catastrophique en déplacement: 0V-2N-2D, aucune victoire à l'extérieur",
+          "atmosphere": "Stade de Como galvanisé par l'excellent début de saison de l'équipe",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile majeur face à une équipe qui ne gagne jamais à l'extérieur"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Excellente value bet: Como largement sous-évalué par le marché malgré sa forme exceptionnelle",
+          "odds_movement": "Cote attractive pour une équipe 6e contre une équipe 17e sans victoire"
+        },
+        "key_factors_summary": [
+          "Como invaincu à domicile (2V-2N) avec victoire de prestige contre Juventus 2-0",
+          "Verona 0 victoire cette saison et pire attaque de Serie A (4 buts en 8 matchs)",
+          "N. Paz de Como est le meilleur buteur ET passeur de Serie A (4 buts, 4 passes)",
+          "Écart de classement énorme: 6e place vs 17e place (zone de relégation)",
+          "Verona 0 victoire en déplacement cette saison contre Como invaincu à domicile"
+        ]
+      },
+      "conclusion": "Como présente tous les atouts pour s'imposer: forme exceptionnelle (victoire contre Juventus), invincibilité à domicile, meilleur joueur de Serie A (N. Paz), face à une équipe de Verona en crise totale (0 victoire, pire attaque du championnat, 17e place). L'écart de niveau est considérable et la cote de 1.85 sous-évalue largement Como. Value bet évidente avec probabilité réelle estimée à 70-75%.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Como)",
+      "odds": 1.85,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Over 1.5 buts",
+          "odds": 1.75,
+          "reasoning": "Como marque régulièrement à domicile, Verona encaisse 1.4 but/match"
+        }
+      ]
+    },
+    {
+      "match": "AS Roma vs Parma",
+      "competition": "Serie A",
+      "kickoff": "17:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-0N-1D selon les 5 derniers: victoire 1-0 vs Sassuolo, défaite 1-2 vs Plzen, défaite 0-1 vs Inter, victoire 2-1 vs Fiorentina, défaite 0-1 vs Lille",
+            "home_record": "À domicile: 2V-0N-2D cette saison, forme mitigée à la maison",
+            "trend": "Forme irrégulière avec alternance victoires/défaites mais solidité défensive",
+            "details": "Roma 2e place avec 18 points, défense très solide (3 buts encaissés en 8 matchs)"
+          },
+          "away_team": {
+            "last_5_matches": "1V-3N-1D selon les 5 derniers: nul 0-0 vs Como, nul 0-0 vs Genoa, défaite 0-1 vs Lecce, victoire 2-1 vs Torino, nul 2-2 vs Spezia",
+            "away_record": "À l'extérieur: 0V-2N-2D cette saison, aucune victoire en déplacement",
+            "trend": "Forme très défensive avec beaucoup de nuls et attaque défaillante",
+            "details": "Parma 15e place avec 7 points, seulement 3 buts marqués en 8 matchs (0.4 par match)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Roma domine largement: 4V-1N-0D sur les 5 derniers, dont victoire 5-0 en 2024",
+          "at_home": "Roma invaincu contre Parma à domicile sur les dernières confrontations",
+          "details": "Historique très favorable à Roma: victoires 1-0, 5-0, 3-0, 2-1, 2-0 sur les derniers matchs",
+          "trends": "Roma marque régulièrement contre Parma, moyenne de 2.5 buts par match"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Lorenzo Pellegrini (blessé)",
+              "L. Bailey (problèmes à la cuisse)",
+              "E. Bove (problèmes cardiaques)"
+            ],
+            "impact": "Impact modéré: quelques absents mais effectif de qualité avec M. Soulé (3 buts, 2 passes)"
+          },
+          "away_team": {
+            "absent": [
+              "J. Ondrejka (blessure à la jambe)",
+              "Hernani (cheville)",
+              "M. Frigan (genou)",
+              "N. Trabucchi (genou)"
+            ],
+            "impact": "Impact significatif: plusieurs absents pour une équipe déjà en difficulté offensive"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Roma joue un football solide défensivement (0.4 but encaissé par match) avec M. Soulé en créateur",
+          "away_style": "Parma adopte un jeu très défensif par nécessité avec la 2e pire attaque de Serie A",
+          "key_matchup": "Défense de Roma (meilleure de Serie A) contre attaque de Parma (avant-dernière du championnat)",
+          "predicted_approach": "Roma va dominer face à un Parma contraint de défendre et cherchant le nul"
+        },
+        "schedule_fatigue": {
+          "home_team": "Roma a joué il y a 3 jours (victoire 1-0 vs Sassuolo), récupération correcte",
+          "away_team": "Parma a joué il y a 4 jours (nul 0-0 vs Como), temps de récupération similaire",
+          "advantage": "Pas d'avantage significatif au niveau de la fatigue"
+        },
+        "context_stakes": {
+          "home_situation": "Roma 2e place avec 18 points, ambitions de titre et qualification européenne",
+          "away_situation": "Parma 15e place avec 7 points, lutte pour le maintien et besoin urgent de points",
+          "psychological": "Roma en confiance malgré quelques défaites récentes, Parma sous pression avec 0 victoire en déplacement",
+          "overall": "Enjeu crucial pour Roma qui doit confirmer sa place de dauphin"
+        },
+        "home_advantage": {
+          "home_record_season": "Roma correcte à domicile: 2V-0N-2D, défense solide mais attaque perfectible",
+          "away_record_opponent": "Parma très faible en déplacement: 0V-2N-2D, aucune victoire à l'extérieur",
+          "atmosphere": "Stade Olympique de Rome, ambiance favorable pour un match important",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Net avantage domicile face à une équipe qui ne gagne jamais à l'extérieur"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Bonne value: Roma sous-évaluée malgré sa 2e place et l'historique favorable",
+          "odds_movement": "Cote intéressante pour une équipe 2e contre une équipe 15e"
+        },
+        "key_factors_summary": [
+          "Roma 2e place avec meilleure défense de Serie A (3 buts encaissés en 8 matchs)",
+          "Parma 15e place avec 2e pire attaque (3 buts marqués en 8 matchs)",
+          "Historique très favorable à Roma: 4V-1N sur les 5 derniers dont victoire 5-0",
+          "Parma 0 victoire en déplacement cette saison contre Roma à domicile",
+          "Écart de niveau considérable: 2e place vs 15e place"
+        ]
+      },
+      "conclusion": "Roma présente un profil idéal pour s'imposer: 2e place au classement, meilleure défense de Serie A, historique très favorable (4V-1N dont 5-0), face à une équipe de Parma en grande difficulté (15e place, 2e pire attaque, 0 victoire en déplacement). L'écart de niveau est net et la cote de 1.75 offre une value correcte pour un favori légitime.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire AS Roma)",
+      "odds": 1.75,
+      "confidence": 78,
+      "risk_level": "Low-Medium",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Défense de Roma très solide, attaque de Parma défaillante"
+        }
+      ]
+    },
+    {
+      "match": "Metz vs Lens",
+      "competition": "Ligue 1",
+      "kickoff": "18:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "0V-1N-4D selon les 5 derniers: défaite 6-1 vs Lille, défaite 4-0 vs Toulouse, défaite 0-3 vs Marseille, nul 0-0 vs Le Havre, défaite 5-2 vs Monaco",
+            "home_record": "À domicile: 0V-2N-2D cette saison, aucune victoire à la maison",
+            "trend": "Forme catastrophique avec 0 victoire cette saison et défense très perméable",
+            "details": "Metz 18e place avec seulement 2 points, pire équipe de Ligue 1 avec 26 buts encaissés"
+          },
+          "away_team": {
+            "last_5_matches": "4V-1N-0D selon les 5 derniers: victoire 2-1 vs Marseille, victoire 2-1 vs Paris FC, victoire 2-1 vs Auxerre, nul 0-0 vs Rennes, victoire 3-0 vs Lille",
+            "away_record": "À l'extérieur: 2V-1N-1D cette saison, forme correcte en déplacement",
+            "trend": "Excellente forme avec 4 victoires sur les 5 derniers matchs",
+            "details": "Lens 2e place avec 19 points, attaque efficace et défense solide"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Historique équilibré récent: 3V Lens, 2V Metz, 2N sur les derniers matchs",
+          "at_home": "Metz a gagné 2-1 en 2024 et 1-0 en 2023 à domicile contre Lens",
+          "details": "Confrontations souvent serrées mais Lens a dominé récemment (2-1 en juillet 2025)",
+          "trends": "Matchs généralement avec peu de buts, souvent décidés par un but d'écart"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Gauthier Hein (carton rouge)",
+              "Jessy Deminguet (blessé)",
+              "Cheikh Tidiane Sabaly (blessé)",
+              "U. Mboula (ischio)",
+              "M. Mbaye (pied)"
+            ],
+            "impact": "Impact majeur: nombreux absents pour une équipe déjà très faible"
+          },
+          "away_team": {
+            "absent": [
+              "Jonathan Gradit (carton rouge)",
+              "Jhoanner Chavez (cheville)",
+              "D. Machado (genou)",
+              "Remy Labeau Lascary (blessé)"
+            ],
+            "impact": "Impact modéré: quelques absents mais effectif de qualité avec A. Thomasson (4 passes décisives)"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Metz joue un football défensif par nécessité mais avec une défense très perméable (2.9 buts encaissés par match)",
+          "away_style": "Lens pratique un jeu offensif efficace avec A. Thomasson comme meneur (co-meilleur passeur de Ligue 1)",
+          "key_matchup": "Attaque de Lens (1.6 but par match) contre défense catastrophique de Metz (2.9 buts encaissés par match)",
+          "predicted_approach": "Lens va dominer et créer de nombreuses occasions face à une défense de Metz très fragile"
+        },
+        "schedule_fatigue": {
+          "home_team": "Metz a joué il y a 3 jours (défaite 6-1 vs Lille), moral au plus bas",
+          "away_team": "Lens a joué il y a 4 jours (victoire 2-1 vs Marseille), confiance au maximum",
+          "advantage": "Net avantage psychologique pour Lens après sa victoire de prestige contre Marseille"
+        },
+        "context_stakes": {
+          "home_situation": "Metz 18e place avec 2 points, dans une situation désespérée de relégation",
+          "away_situation": "Lens 2e place avec 19 points, ambitions de qualification européenne et titre",
+          "psychological": "Metz en crise totale (0 victoire), Lens en pleine confiance (4V sur 5 matchs)",
+          "overall": "Écart de motivation énorme: Lens veut confirmer sa 2e place, Metz cherche sa première victoire"
+        },
+        "home_advantage": {
+          "home_record_season": "Metz catastrophique à domicile: 0V-2N-2D, aucune victoire à la maison",
+          "away_record_opponent": "Lens correct en déplacement: 2V-1N-1D, capable de gagner à l'extérieur",
+          "atmosphere": "Stade de Metz sous pression, supporters inquiets de la situation de l'équipe",
+          "weather": "Conditions normales",
+          "advantage_score": "3/10 - Avantage domicile très limité face à une équipe en crise"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Excellente value: Lens largement sous-évalué face à la pire équipe de Ligue 1",
+          "odds_movement": "Cote très attractive pour une équipe 2e contre la lanterne rouge"
+        },
+        "key_factors_summary": [
+          "Metz lanterne rouge avec 0 victoire cette saison et pire défense (26 buts encaissés)",
+          "Lens 2e place en excellente forme (4V sur 5 matchs) avec victoire de prestige vs Marseille",
+          "Écart de niveau abyssal: 2e place vs 18e place (17 points d'écart)",
+          "Metz 0 victoire à domicile contre Lens qui gagne en déplacement",
+          "A. Thomasson de Lens co-meilleur passeur de Ligue 1 face à une défense catastrophique"
+        ]
+      },
+      "conclusion": "Lens présente tous les atouts pour s'imposer largement: 2e place, excellente forme (4V/5), victoire de prestige contre Marseille, face à la pire équipe de Ligue 1 (Metz 0 victoire, 26 buts encaissés, lanterne rouge). L'écart de niveau est abyssal et la cote de 1.85 sous-évalue considérablement Lens. Value bet évidente avec probabilité réelle de 70-75%.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Lens)",
+      "odds": 1.85,
+      "confidence": 85,
+      "risk_level": "Very Low",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.9,
+          "reasoning": "Attaque efficace de Lens contre défense catastrophique de Metz (2.9 buts encaissés/match)"
+        }
+      ]
+    },
+    {
+      "match": "Marseille vs Angers",
+      "competition": "Ligue 1",
+      "kickoff": "20:05",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-0N-2D selon les 5 derniers: défaite 2-1 vs Lens, défaite 2-1 vs Sporting CP, victoire 6-2 vs Le Havre, victoire 3-0 vs Metz, victoire 4-0 vs Ajax",
+            "home_record": "À domicile: 4V-0N-0D cette saison, invaincu à la maison avec attaque prolifique",
+            "trend": "Forme offensive exceptionnelle à domicile malgré 2 défaites récentes à l'extérieur",
+            "details": "Marseille 3e place avec 18 points, meilleure attaque de Ligue 1 (22 buts en 9 matchs)"
+          },
+          "away_team": {
+            "last_5_matches": "2V-1N-2D selon les 5 derniers: victoire 2-0 vs Lorient, nul 1-1 vs Monaco, défaite 5-0 vs Strasbourg, défaite 0-2 vs Stade Brestois 29, défaite 1-0 vs Lyon",
+            "away_record": "À l'extérieur: 0V-1N-3D cette saison, aucune victoire en déplacement",
+            "trend": "Forme très préoccupante en déplacement avec défaite lourde 5-0 vs Strasbourg",
+            "details": "Angers 15e place avec 9 points, attaque défaillante (6 buts en 9 matchs)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Marseille domine largement: 4V-1N-0D sur les 5 derniers matchs",
+          "at_home": "Marseille invaincu contre Angers à domicile: victoires 2-0, 3-1, 5-2, 3-2 sur les derniers matchs",
+          "details": "Historique très favorable à Marseille avec des victoires souvent larges",
+          "trends": "Matchs généralement ouverts avec beaucoup de buts, moyenne de 3+ buts par match"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Facundo Medina (carton rouge)",
+              "Adrien Rabiot (autre)",
+              "Jonathan Rowe (autre)",
+              "Geoffrey Kondogbia (blessé)",
+              "Amine Harit (blessé)"
+            ],
+            "impact": "Impact modéré: quelques absents mais effectif offensif de qualité avec M. Greenwood (7 buts, meilleur buteur de Ligue 1)"
+          },
+          "away_team": {
+            "absent": [
+              "Louis Mouton (suspendu)",
+              "Himad Abdelli (dos)",
+              "J. Allevinah (mollet)",
+              "E. Biumla (muscle)",
+              "P. Capelle (coup)"
+            ],
+            "impact": "Impact significatif: plusieurs absents pour une équipe déjà en difficulté offensive"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Marseille joue un football offensif spectaculaire avec M. Greenwood (7 buts) et B. Nadir (3 passes)",
+          "away_style": "Angers adopte un jeu défensif mais inefficace avec seulement 6 buts marqués en 9 matchs",
+          "key_matchup": "Attaque de Marseille (meilleure de Ligue 1) contre défense d'Angers qui a pris 5 buts à Strasbourg",
+          "predicted_approach": "Marseille va dominer offensivement face à une équipe d'Angers contrainte de défendre"
+        },
+        "schedule_fatigue": {
+          "home_team": "Marseille a joué il y a 4 jours (défaite 2-1 vs Lens), récupération correcte",
+          "away_team": "Angers a joué il y a 3 jours (victoire 2-0 vs Lorient), première victoire de la saison",
+          "advantage": "Léger avantage psychologique pour Angers après sa première victoire, mais Marseille reste favori"
+        },
+        "context_stakes": {
+          "home_situation": "Marseille 3e place avec 18 points, ambitions de podium et qualification européenne",
+          "away_situation": "Angers 15e place avec 9 points, lutte pour le maintien et besoin de points",
+          "psychological": "Marseille veut se racheter après 2 défaites, Angers en confiance après sa première victoire",
+          "overall": "Match crucial pour Marseille qui doit confirmer sa place sur le podium"
+        },
+        "home_advantage": {
+          "home_record_season": "Marseille parfait à domicile: 4V-0N-0D avec 22 buts marqués, forteresse offensive",
+          "away_record_opponent": "Angers catastrophique en déplacement: 0V-1N-3D, aucune victoire à l'extérieur",
+          "atmosphere": "Stade Vélodrome, ambiance exceptionnelle pour un match important",
+          "weather": "Conditions normales",
+          "advantage_score": "10/10 - Avantage domicile maximal: invincibilité à domicile vs 0 victoire visiteur"
+        },
+        "odds_value": {
+          "bet_odds": 1.7,
+          "implied_probability": "58.8%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Value correcte: Marseille sous-évalué malgré son invincibilité à domicile et l'historique",
+          "odds_movement": "Cote limite mais acceptable pour un favori aussi net"
+        },
+        "key_factors_summary": [
+          "Marseille invaincu à domicile (4V-0N) avec meilleure attaque de Ligue 1 (22 buts)",
+          "Angers 0 victoire en déplacement cette saison et attaque défaillante (6 buts en 9 matchs)",
+          "Historique très favorable: Marseille 4V-1N sur les 5 derniers avec victoires larges",
+          "M. Greenwood meilleur buteur de Ligue 1 (7 buts) face à une défense fragile",
+          "Écart de niveau net: 3e place vs 15e place, invincibilité domicile vs 0 victoire extérieur"
+        ]
+      },
+      "conclusion": "Marseille présente un profil idéal: invaincu à domicile (4V-0N), meilleure attaque de Ligue 1, historique très favorable (4V-1N), M. Greenwood meilleur buteur, face à Angers en grande difficulté (0 victoire en déplacement, 6 buts marqués en 9 matchs). Malgré la cote limite de 1.70, la probabilité réelle de victoire de Marseille est de 75-80%, offrant une value correcte.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Marseille)",
+      "odds": 1.7,
+      "confidence": 80,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Marseille meilleure attaque de Ligue 1, historique de matchs ouverts contre Angers"
+        }
+      ]
+    },
+    {
+      "match": "Strasbourg vs Auxerre",
+      "competition": "Ligue 1",
+      "kickoff": "20:05",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-2N-1D selon les 5 derniers: défaite 2-1 vs Lyon, nul 1-1 vs Jagiellonia, nul 3-3 vs Paris Saint Germain, victoire 5-0 vs Angers, victoire 2-1 vs Slovan Bratislava",
+            "home_record": "À domicile: 3V-0N-1D cette saison, très forte à la maison",
+            "trend": "Forme offensive exceptionnelle avec victoire 5-0 contre Angers et nul 3-3 vs PSG",
+            "details": "Strasbourg 7e place avec 16 points, attaque prolifique avec J. Panichelli meilleur buteur de Ligue 1 (8 buts)"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D selon les 5 derniers: défaite 0-1 vs Le Havre, nul 2-2 vs Rennes, défaite 1-2 vs Lens, défaite 2-0 vs Paris Saint Germain, victoire 1-0 vs Toulouse",
+            "away_record": "À l'extérieur: 0V-1N-3D cette saison, aucune victoire en déplacement",
+            "trend": "Forme très préoccupante avec seulement 1 victoire sur les 5 derniers matchs",
+            "details": "Auxerre 17e place avec 7 points, attaque défaillante (7 buts en 9 matchs)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Strasbourg domine récemment: 3V-0N-1D sur les 4 derniers matchs",
+          "at_home": "Strasbourg invaincu contre Auxerre à domicile: victoires 1-0, 3-1, 2-1 sur les derniers matchs",
+          "details": "Historique favorable à Strasbourg avec des victoires régulières",
+          "trends": "Matchs généralement serrés mais Strasbourg s'impose souvent d'un but d'écart"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Andrew Omobamidele (blessé)",
+              "Mathis Amougou (blessé)",
+              "Diego Moreira (blessé)",
+              "S. Coulibaly (mollet)"
+            ],
+            "impact": "Impact modéré: quelques absents mais J. Panichelli (meilleur buteur de Ligue 1) et G. Doué (3 passes) disponibles"
+          },
+          "away_team": {
+            "absent": [
+              "Sinaly Diomande (carton rouge)",
+              "Nathan Buayi-Kiala (ligaments croisés)",
+              "Donovan Leon (carton rouge)",
+              "Oussama El Azzouzi (cuisse)"
+            ],
+            "impact": "Impact majeur: nombreux absents dont des titulaires importants pour une équipe déjà en difficulté"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Strasbourg joue un football offensif spectaculaire avec J. Panichelli (8 buts) et G. Doué (3 passes)",
+          "away_style": "Auxerre adopte un jeu défensif mais inefficace avec seulement 7 buts marqués en 9 matchs",
+          "key_matchup": "J. Panichelli (meilleur buteur de Ligue 1) contre défense d'Auxerre affaiblie par les absences",
+          "predicted_approach": "Strasbourg va dominer offensivement face à une équipe d'Auxerre contrainte de défendre"
+        },
+        "schedule_fatigue": {
+          "home_team": "Strasbourg a joué il y a 3 jours (défaite 2-1 vs Lyon), récupération correcte",
+          "away_team": "Auxerre a joué il y a 3 jours (défaite 0-1 vs Le Havre), moral affecté",
+          "advantage": "Léger avantage pour Strasbourg qui reste sur de bonnes performances malgré la défaite"
+        },
+        "context_stakes": {
+          "home_situation": "Strasbourg 7e place avec 16 points, ambitions européennes réalistes",
+          "away_situation": "Auxerre 17e place avec 7 points, lutte pour le maintien et situation critique",
+          "psychological": "Strasbourg en confiance avec son attaque prolifique, Auxerre sous pression avec 0 victoire en déplacement",
+          "overall": "Match crucial pour les deux équipes mais Strasbourg a les moyens de ses ambitions"
+        },
+        "home_advantage": {
+          "home_record_season": "Strasbourg très fort à domicile: 3V-0N-1D avec victoire 5-0 vs Angers",
+          "away_record_opponent": "Auxerre catastrophique en déplacement: 0V-1N-3D, aucune victoire à l'extérieur",
+          "atmosphere": "Stade de la Meinau, ambiance favorable pour un match important",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Net avantage domicile: force à domicile vs faiblesse extérieure"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Bonne value: Strasbourg sous-évalué avec son attaque prolifique et l'historique favorable",
+          "odds_movement": "Cote attractive pour une équipe 7e contre une équipe 17e"
+        },
+        "key_factors_summary": [
+          "Strasbourg fort à domicile (3V-0N-1D) avec J. Panichelli meilleur buteur de Ligue 1 (8 buts)",
+          "Auxerre 0 victoire en déplacement cette saison et nombreux absents importants",
+          "Historique favorable: Strasbourg 3V-0N-1D sur les 4 derniers contre Auxerre",
+          "Écart de niveau net: 7e place vs 17e place (9 points d'écart)",
+          "Attaque prolifique de Strasbourg (victoire 5-0 vs Angers) contre défense affaiblie d'Auxerre"
+        ]
+      },
+      "conclusion": "Strasbourg présente tous les atouts pour s'imposer: force à domicile (3V-0N-1D), meilleur buteur de Ligue 1 (J. Panichelli 8 buts), historique favorable (3V-0N-1D), face à Auxerre en grande difficulté (17e place, 0 victoire en déplacement, nombreux absents). L'écart de niveau est net et la cote de 1.75 offre une bonne value pour un favori légitime.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Strasbourg)",
+      "odds": 1.75,
+      "confidence": 79,
+      "risk_level": "Low-Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.8,
+          "reasoning": "Attaque prolifique de Strasbourg avec J. Panichelli (8 buts) face à défense affaiblie"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 10,
+    "examples": [
+      {
+        "match": "Juventus vs Udinese",
+        "reason": "Cote trop faible attendue (<1.70) pour Juventus malgré sa forme irrégulière"
+      },
+      {
+        "match": "Lorient vs Paris Saint Germain",
+        "reason": "PSG trop évident, cote insuffisante pour une value bet"
+      },
+      {
+        "match": "Inter vs Fiorentina",
+        "reason": "Cote Inter attendue <1.70 malgré les absents, pas assez de value"
+      },
+      {
+        "match": "Bologna vs Torino",
+        "reason": "Match trop équilibré, pas de value claire identifiée"
+      },
+      {
+        "match": "Le Havre vs Stade Brestois 29",
+        "reason": "Deux équipes en difficulté, incertitude trop importante"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Como victoire vs Verona",
+      "Lens victoire vs Metz",
+      "Marseille victoire vs Angers"
+    ],
+    "total_odds": 5.53,
+    "confidence": 79,
+    "detailed_reasoning": "Combiné de 3 favoris légitimes: Como invaincu à domicile face à Verona 0 victoire (82% confiance), Lens 2e place face à Metz lanterne rouge (85% confiance), Marseille invaincu à domicile face à Angers 0 victoire extérieur (80% confiance). Corrélation faible entre les matchs (ligues différentes). Risque combiné calculé: 55% (0.82 × 0.85 × 0.80). Cote totale 5.53 offre excellente value vs risque.",
+    "risk_level": "Medium",
+    "IMPORTANT": "Sélection des 3 paris avec la plus haute confiance et écarts de niveau les plus nets."
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "analysis_date": "2025-10-30",
+  "total_analyzed": 2,
+  "total_retained": 1,
+  "recommendations": [
+    {
+      "match": "Pisa vs Lazio",
+      "competition": "Serie A",
+      "kickoff": "19:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "0V-3N-2D, 2 buts pour, 5 contre",
+            "home_record": "À domicile: 0V-2N-2D, 2 buts pour, 4 contre",
+            "trend": "Forme catastrophique, aucune victoire cette saison",
+            "details": "Derniers résultats : [N] 2-2 vs AC Milan, [N] 0-0 vs Verona, [D] 0-4 vs Bologna, [N] 0-0 vs Fiorentina, [D] 0-1 vs Torino"
+          },
+          "away_team": {
+            "last_5_matches": "3V-2N-0D, 8 buts pour, 4 contre",
+            "away_record": "À l'extérieur: 1V-1N-2D, 4 buts pour, 3 contre",
+            "trend": "Forme excellente récente avec 3 victoires sur 5 derniers matchs",
+            "details": "Derniers résultats : [V] 1-0 vs Juventus, [N] 0-0 vs Atalanta, [N] 3-3 vs Torino, [V] 0-3 vs Genoa, [D] 0-1 vs AS Roma"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Données H2H non disponibles dans les informations fournies",
+          "at_home": "Données H2H domicile non disponibles",
+          "details": "Historique des confrontations directes non fourni",
+          "trends": "Impossible d'analyser les tendances H2H sans données"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Henrik Meister (blessure inconnue)",
+              "Mateus Lusuardi (blessé)",
+              "F. Coppola (chirurgie cheville)",
+              "İ. Vural (inflammation)",
+              "D. Denoon (blessure)",
+              "Tomás Esteves (forme physique)"
+            ],
+            "impact": "Impact MAJEUR : 6 joueurs absents dont plusieurs titulaires potentiels, effectif très affaibli pour une équipe déjà en difficulté"
+          },
+          "away_team": {
+            "absent": [
+              "Alessio Romagnoli (pas apte)",
+              "A. Marušić (contusion musculaire)",
+              "S. Gigot (blessure dos)",
+              "M. Lazzari (blessure mollet)",
+              "M. Vecino (problèmes cuisse)",
+              "Patric (entorse cheville)"
+            ],
+            "impact": "Impact MODÉRÉ : 6 absents mais Lazio a un effectif plus profond, défense centrale affaiblie avec Romagnoli et Gigot absents"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Pisa sous Gilardino joue un football défensif par nécessité, cherchant à limiter les dégâts avec un bloc bas organisé",
+          "away_style": "Lazio de Sarri privilégie la possession et le jeu de position, avec V. Castellanos (3 passes décisives) comme référent offensif",
+          "key_matchup": "Attaque technique Lazio face à défense fragile Pisa (1.5 buts encaissés/match). Avantage net Lazio.",
+          "predicted_approach": "Lazio va dominer la possession, Pisa va subir et tenter de résister en bloc compact"
+        },
+        "schedule_fatigue": {
+          "home_team": "Pisa : dernier match le 24/10 (2-2 vs Milan), 6 jours de récupération, équipe reposée",
+          "away_team": "Lazio : dernier match le 26/10 (1-0 vs Juventus), 4 jours de repos, fraîcheur correcte",
+          "advantage": "Léger avantage physique Pisa mais négligeable face à l'écart de niveau"
+        },
+        "context_stakes": {
+          "home_situation": "Pisa : 18e place avec seulement 4 points, situation critique, besoin urgent de points pour éviter la relégation",
+          "away_situation": "Lazio : 12e place avec 11 points, situation correcte, cherche à remonter vers l'Europe",
+          "psychological": "Pisa sous pression maximale avec 0 victoire, Lazio en confiance après victoire vs Juventus",
+          "overall": "Avantage mental net pour Lazio, plus sereine et expérimentée"
+        },
+        "home_advantage": {
+          "home_record_season": "Pisa à domicile : 0V-2N-2D, seulement 2 buts marqués, 4 encaissés. Aucun avantage domicile",
+          "away_record_opponent": "Lazio à l'extérieur : 1V-1N-2D, défense solide avec 0.9 buts encaissés/match",
+          "atmosphere": "Stade Pisa probablement tendu vu les résultats, pression négative sur l'équipe locale",
+          "weather": "Conditions normales, pas d'impact météorologique",
+          "advantage_score": "2/10 - Aucun avantage domicile réel pour Pisa"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Excellente value bet, cote largement sous-évaluée de 15-20%",
+          "odds_movement": "Données d'évolution des cotes non disponibles"
+        },
+        "key_factors_summary": [
+          "Écart de niveau énorme : Lazio 12e (11 pts) vs Pisa 18e (4 pts, 0 victoire)",
+          "Forme opposée : Lazio 3V sur 5 derniers vs Pisa 0V-3N-2D",
+          "Attaque Lazio (1.4 buts/match) face à défense Pisa catastrophique (1.5 encaissés/match)",
+          "Pisa sans victoire cette saison, moral au plus bas",
+          "Lazio en confiance après victoire de prestige vs Juventus (1-0)"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire nette de Lazio. Pisa traverse une crise majeure avec 0 victoire en 8 matchs, une attaque inexistante (0.6 buts/match) et une défense perméable. Lazio arrive en confiance avec 3 victoires sur 5 derniers matchs, dont un succès de prestige contre Juventus. L'écart de niveau est considérable (7 points d'écart au classement), et Pisa ne bénéficie d'aucun avantage domicile réel. Malgré les absences défensives de Lazio, l'effectif reste largement supérieur. La cote à 1.85 offre une value exceptionnelle pour un favori aussi net.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Lazio)",
+      "odds": 1.85,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Lazio -1.5",
+          "odds": 2.8,
+          "reasoning": "Lazio capable de s'imposer largement face à cette défense de Pisa"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 1,
+    "examples": [
+      {
+        "match": "Cagliari vs Sassuolo",
+        "reason": "Match trop équilibré entre deux équipes de milieu de tableau (14e vs 13e), formes similaires, pas de value claire identifiée"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Pisa vs Lazio - Victoire Lazio"
+    ],
+    "total_odds": 1.85,
+    "confidence": 82,
+    "detailed_reasoning": "Un seul pari retenu aujourd'hui mais avec une confiance très élevée (82%). Lazio présente tous les critères d'une value bet solide : écart de niveau important, forme opposée, cote sous-évaluée. Préférable de miser sur une seule certitude plutôt que de forcer des paris moyens. La cote à 1.85 respecte le minimum de 1.70 et offre un excellent rapport risque/rendement.",
+    "risk_level": "Low",
+    "IMPORTANT": "Pari unique mais de très haute qualité, confiance maximale sur cette sélection."
+  }
+}

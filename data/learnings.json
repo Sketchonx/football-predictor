@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-29T23:14:11.235529",
-  "total_errors_analyzed": 5,
+  "last_updated": "2025-10-30T23:14:01.118085",
+  "total_errors_analyzed": 6,
   "categories": {
     "sous_estimation_outsider": {
       "count": 1,
@@ -12,7 +12,7 @@
       ]
     },
     "surestimation_favori": {
-      "count": 3,
+      "count": 4,
       "examples": [
         {
           "match": "Bologna vs Fiorentina",
@@ -25,6 +25,10 @@
         {
           "match": "Marseille vs Angers",
           "conclusion": "Pour les favoris avec cote <1.80 face à des équipes en crise, vérifier systématiquement les écarts de buts moyens des 5 derniers matchs domicile du favori et la capacité de résistance défensive de l'outsider avant de miser sur la victoire simple."
+        },
+        {
+          "match": "Pisa vs Lazio",
+          "conclusion": "Pour les favoris avec un écart de niveau important, vérifier systématiquement leurs performances offensives en déplacement et la capacité de l'outsider à limiter les dégâts à domicile avant de parier sur une victoire nette."
         }
       ]
     },
@@ -63,6 +67,11 @@
       "date": "2025-10-29T23:14:11.234138",
       "category": "surestimation_favori",
       "conclusion": "Pour les favoris avec cote <1.80 face à des équipes en crise, vérifier systématiquement les écarts de buts moyens des 5 derniers matchs domicile du favori et la capacité de résistance défensive de l'outsider avant de miser sur la victoire simple."
+    },
+    {
+      "date": "2025-10-30T23:14:01.117245",
+      "category": "surestimation_favori",
+      "conclusion": "Pour les favoris avec un écart de niveau important, vérifier systématiquement leurs performances offensives en déplacement et la capacité de l'outsider à limiter les dégâts à domicile avant de parier sur une victoire nette."
     }
   ]
 }

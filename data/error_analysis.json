@@ -103,5 +103,26 @@
     "bet_choice": "1 (Victoire Marseille)",
     "final_score": "2-2",
     "analysis_date": "2025-10-29T23:14:11.234138"
+  },
+  {
+    "main_cause": "Sous-estimation de la capacité défensive de Pisa à domicile face à une Lazio en déplacement historiquement moins efficace offensivement.",
+    "missed_factors": [
+      "Stats spécifiques de Lazio en déplacement cette saison (efficacité offensive réduite à l'extérieur vs à domicile)",
+      "Capacité de Pisa à obtenir des nuls défensifs à domicile malgré sa crise (analyse des scores de leurs derniers matchs à domicile)",
+      "Impact réel des absences défensives de Lazio sur leur solidité, particulièrement en déplacement où la compensation est plus difficile"
+    ],
+    "actionable_conclusion": "Pour les favoris avec un écart de niveau important, vérifier systématiquement leurs performances offensives en déplacement et la capacité de l'outsider à limiter les dégâts à domicile avant de parier sur une victoire nette.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-10-30_0",
+    "match": {
+      "home_team": "Pisa",
+      "away_team": "Lazio",
+      "league": "Serie A",
+      "date": "19:45"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire Lazio)",
+    "final_score": "0-0",
+    "analysis_date": "2025-10-30T23:14:01.117245"
   }
 ]

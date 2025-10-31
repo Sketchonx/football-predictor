@@ -187,5 +187,19 @@
     "actual_score": "0-0",
     "recorded_at": "2025-10-30T09:13:31.629146",
     "updated_at": "2025-10-30T23:13:51.581137"
+  },
+  {
+    "prediction_id": "2025-10-31_0",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-10-31T10:20:27.395739",
+    "updated_at": "2025-10-31T10:20:27.395746"
+  },
+  {
+    "prediction_id": "2025-10-31_1",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-10-31T10:20:27.395748",
+    "updated_at": "2025-10-31T10:20:27.395749"
   }
 ]

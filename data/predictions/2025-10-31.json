@@ -1,0 +1,225 @@
+{
+  "analysis_date": "2025-10-31",
+  "total_analyzed": 3,
+  "total_retained": 2,
+  "recommendations": [
+    {
+      "match": "FC Augsburg vs Borussia Dortmund",
+      "competition": "Bundesliga",
+      "kickoff": "19:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-1N-3D, 5 buts pour, 12 contre",
+            "home_record": "À domicile: 1V-0N-3D, 6 buts pour, 11 contre",
+            "trend": "Forme catastrophique, défense perméable",
+            "details": "Derniers résultats : [D] 0-1 vs VfL Bochum, [D] 0-6 vs RB Leipzig, [N] 1-1 vs 1.FC Köln, [N] 1-1 vs SSV Ulm 1846, [V] 3-1 vs VfL Wolfsburg"
+          },
+          "away_team": {
+            "last_5_matches": "3V-2N-0D, 8 buts pour, 4 contre",
+            "away_record": "À l'extérieur: 2V-1N-1D, 6 buts pour, 4 contre",
+            "trend": "Forme excellente, invaincu sur 5 matchs",
+            "details": "Derniers résultats : [N] 1-1 vs Eintracht Frankfurt, [V] 1-0 vs 1.FC Köln, [V] 4-2 vs FC Copenhagen, [D] 1-2 vs Bayern München, [N] 1-1 vs RB Leipzig"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Dortmund, 1N, 1V Augsburg",
+          "at_home": "Augsburg a créé la surprise avec 2 victoires récentes : 1-0 en mars 2025 et 2-1 en octobre 2024",
+          "details": "Résultats: 0-1 Augsburg (2025-03-08), 2-1 Augsburg (2024-10-26), 5-1 Dortmund (2024-05-04), 1-1 (2023-12-16), 0-3 Dortmund (2023-05-21)",
+          "trends": "Augsburg capable de surprendre Dortmund à domicile récemment, mais Dortmund domine historiquement avec des scores élevés"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Samuel Essende (suspendu carton rouge)",
+              "Elvis Rexhbecaj (problèmes genou)",
+              "Elias Saad (blessure musculaire)",
+              "Yusuf Kabadayi (blessure)",
+              "M. Kömür (blessure orteil)"
+            ],
+            "impact": "Impact MAJEUR : 5 joueurs absents dont l'attaquant titulaire Essende suspendu et le milieu clé Rexhbecaj. Effectif très affaibli."
+          },
+          "away_team": {
+            "absent": [
+              "Nico Schlotterbeck (ménisque déchiré)",
+              "Niklas Süle (blessure mollet)",
+              "Emre Can (problèmes adducteurs)",
+              "Julien Duranville (luxation épaule)",
+              "F. Mané (carton rouge)"
+            ],
+            "impact": "Impact modéré : défense centrale affaiblie avec Schlotterbeck et Süle absents, mais remplaçants de qualité disponibles"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Système défensif compact, jeu direct, difficultés à créer du danger offensif avec seulement 1.5 but/match en moyenne",
+          "away_style": "4-3-3 offensif avec Guirassy (4 buts cette saison) en pointe, pressing haut, transitions rapides",
+          "key_matchup": "Attaque prolifique Dortmund (1.8 but/match) vs défense catastrophique Augsburg (2.5 buts encaissés/match). Avantage net Dortmund.",
+          "predicted_approach": "Dortmund va dominer la possession et exploiter les espaces, Augsburg contraint à défendre bas et jouer en contre"
+        },
+        "schedule_fatigue": {
+          "home_team": "3 jours de repos depuis la défaite 0-1 vs Bochum. Équipe reposée physiquement.",
+          "away_team": "3 jours de repos depuis le nul 1-1 à Francfort. Rotation possible après le match européen récent. Fraîcheur correcte.",
+          "advantage": "Égalité sur le plan physique, pas d'avantage particulier"
+        },
+        "context_stakes": {
+          "home_situation": "15e place avec seulement 7 points, zone de relégation proche. Besoin urgent de points pour se rassurer.",
+          "away_situation": "4e place avec 17 points, course à la qualification européenne. Veut maintenir le rythme derrière le Bayern.",
+          "psychological": "Dortmund plus serein et confiant, Augsburg sous pression maximale mais historique récent encourageant à domicile vs BVB.",
+          "overall": "Enjeu vital pour Augsburg mais qualité supérieure de Dortmund"
+        },
+        "home_advantage": {
+          "home_record_season": "1V-0N-3D à domicile, 6 buts pour, 11 contre. Performances domicile très décevantes.",
+          "away_record_opponent": "2V-1N-1D à l'extérieur, 6 buts pour, 4 contre. Solidité en déplacement.",
+          "atmosphere": "Stade plein, supporters fidèles malgré les résultats, ambiance de soutien attendue",
+          "weather": "Conditions normales, pas d'impact météorologique",
+          "advantage_score": "4/10 - Avantage domicile limité vu les performances"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Value bet identifié, cote sous-évaluée de 13-18% compte tenu de l'écart de niveau et de forme",
+          "odds_movement": "Cote stable, marché semble sous-estimer la supériorité de Dortmund"
+        },
+        "key_factors_summary": [
+          "Écart de forme énorme : Dortmund invaincu sur 5 matchs vs Augsburg 1V-1N-3D avec défense catastrophique",
+          "Différence de niveau : 4e place (17 pts) vs 15e place (7 pts), écart de 10 points significatif",
+          "Statistiques offensives/défensives : Dortmund 1.8 but/match vs Augsburg 2.5 buts encaissés/match",
+          "Absences : Augsburg privé de son attaquant titulaire Essende (suspendu) et 4 autres joueurs",
+          "Motivation : Dortmund en course européenne vs Augsburg en lutte pour le maintien mais confiance fragile"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire de Dortmund : forme excellente (invaincu sur 5 matchs) contre Augsburg en crise (1V sur 5), écart de niveau majeur (10 points d'écart au classement), statistiques favorables (attaque BVB vs défense perméable d'Augsburg), et effectif augsbourgeois affaibli par 5 absences dont l'attaquant titulaire. Malgré les 2 victoires récentes d'Augsburg dans ce H2H, le contexte actuel est radicalement différent. La cote 1.75 offre une value intéressante pour un favori aussi net.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Borussia Dortmund)",
+      "odds": 1.75,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Attaque prolifique Dortmund vs défense catastrophique Augsburg (2.5 buts encaissés/match)"
+        }
+      ]
+    },
+    {
+      "match": "Getafe vs Girona",
+      "competition": "La Liga",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-2N-0D, 5 buts pour, 2 contre",
+            "home_record": "À domicile: 1V-2N-1D, 4 buts pour, 3 contre",
+            "trend": "Forme ascendante, invaincu sur 5 matchs avec 3 victoires",
+            "details": "Derniers résultats : [V] 11-0 vs Inter de Valdemoro (Coupe), [V] 1-0 vs Athletic Club, [D] 0-1 vs Real Madrid, [N] 1-1 vs Levante, [N] 1-1 vs Alaves"
+          },
+          "away_team": {
+            "last_5_matches": "2V-2N-1D, 7 buts pour, 7 contre",
+            "away_record": "À l'extérieur: 0V-2N-2D, 2 buts pour, 6 contre",
+            "trend": "Forme mitigée, grandes difficultés en déplacement avec 0 victoire",
+            "details": "Derniers résultats : [V] 3-2 vs Constància (Coupe), [N] 3-3 vs Oviedo, [D] 1-2 vs Barcelona, [V] 2-1 vs Valencia, [N] 0-0 vs Espanyol"
+          }
+        },
+        "head_to_head": {
+          "last_5": "2V Getafe, 2N, 1V Girona",
+          "at_home": "Getafe invaincu à domicile sur les 3 derniers : 2V-1N",
+          "details": "Résultats: 2-1 Getafe (2025-02-14), 0-1 Girona (2024-11-10), 1-0 Getafe (2024-03-16), 0-3 Girona (2023-08-20), 3-2 Getafe (2023-03-04)",
+          "trends": "Confrontations serrées avec léger avantage Getafe récemment, moyenne de 2.2 buts/match"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Domingos Duarte (suspendu carton rouge)",
+              "Alex Sancris (suspendu carton rouge)",
+              "Abdel Abqar (blessure)",
+              "Juanmi (problèmes genou)"
+            ],
+            "impact": "Impact modéré : 2 suspensions en défense centrale mais remplaçants disponibles, Juanmi absent depuis longtemps"
+          },
+          "away_team": {
+            "absent": [
+              "Donny van de Beek (blessure)",
+              "Abel Ruiz (blessure)",
+              "Paulo Gazzaniga (suspension)",
+              "Viktor Tsygankov (blessure jambe)",
+              "Yangel Herrera (blessure ischio)"
+            ],
+            "impact": "Impact MAJEUR : gardien titulaire suspendu, milieu créateur van de Beek et attaquant Ruiz absents, effectif très affaibli"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Système défensif solide de Bordalás, jeu compact, efficacité sur coups de pied arrêtés avec Luis Milla (5 passes décisives)",
+          "away_style": "Jeu offensif de Míchel mais défense très perméable (2.2 buts encaissés/match), pressing haut risqué",
+          "key_matchup": "Solidité défensive Getafe vs attaque affaiblie Girona sans ses cadres. Organisation Getafe vs créativité limitée Girona.",
+          "predicted_approach": "Getafe va jouer compact et exploiter les faiblesses défensives de Girona, qui devra prendre des risques"
+        },
+        "schedule_fatigue": {
+          "home_team": "3 jours de repos depuis la victoire en Coupe. Rotation effectuée, équipe fraîche pour le championnat.",
+          "away_team": "3 jours de repos depuis le match nul en Coupe. Effectif réduit par les blessures, moins de possibilités de rotation.",
+          "advantage": "Léger avantage Getafe avec un effectif plus complet"
+        },
+        "context_stakes": {
+          "home_situation": "10e place avec 14 points, milieu de tableau sécurisé. Peut jouer libéré sans pression particulière.",
+          "away_situation": "20e et dernier avec seulement 7 points, situation critique de relégation. Pression maximale et urgence absolue.",
+          "psychological": "Getafe serein en forme ascendante vs Girona dos au mur mais fragilisé par les absences et les 0 victoires extérieur.",
+          "overall": "Contexte favorable à Getafe face à un Girona en détresse"
+        },
+        "home_advantage": {
+          "home_record_season": "1V-2N-1D à domicile, défense solide avec seulement 3 buts encaissés en 4 matchs",
+          "away_record_opponent": "0V-2N-2D à l'extérieur, seulement 2 buts marqués en 4 déplacements. Attaque inexistante en déplacement.",
+          "atmosphere": "Coliseum Alfonso Pérez, supporters fidèles, ambiance de soutien pour un Getafe en confiance",
+          "weather": "Conditions normales madrilènes, pas d'impact particulier",
+          "advantage_score": "8/10 - Avantage domicile important face à une équipe en crise extérieur"
+        },
+        "odds_value": {
+          "bet_odds": 1.9,
+          "implied_probability": "52.6%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Excellente value bet, cote sous-évaluée de 12-17% compte tenu du contexte et des absences",
+          "odds_movement": "Cote attractive, marché semble sous-estimer l'impact des absences de Girona"
+        },
+        "key_factors_summary": [
+          "Forme opposée : Getafe invaincu sur 5 matchs (3V-2N) vs Girona 0 victoire en déplacement cette saison",
+          "Classement critique : 10e place stable vs lanterne rouge avec 7 points seulement",
+          "Absences majeures Girona : gardien titulaire suspendu, van de Beek et Ruiz blessés, effectif décimé",
+          "Statistiques extérieur : Girona 0V-2N-2D en déplacement avec seulement 2 buts marqués en 4 matchs",
+          "Contexte psychologique : Getafe libéré et confiant vs Girona sous pression maximale de relégation"
+        ]
+      },
+      "conclusion": "Getafe présente un profil idéal pour cette rencontre : forme excellente (invaincu sur 5 matchs), stabilité au classement, et face à un adversaire en crise totale. Girona, lanterne rouge avec 0 victoire en déplacement et un effectif décimé par les absences (gardien suspendu, van de Beek et Ruiz blessés), semble condamné à subir. L'historique récent favorable à Getafe à domicile et la différence de dynamique rendent cette cote 1.90 très attractive. Le contexte de relégation pour Girona ajoute une pression supplémentaire qui peut paralyser une équipe déjà fragile mentalement.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Getafe)",
+      "odds": 1.9,
+      "confidence": 78,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.8,
+          "reasoning": "Getafe défensif solide, Girona attaque inexistante en déplacement (2 buts en 4 matchs)"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 1,
+    "examples": [
+      {
+        "match": "Standard Liege vs Charleroi",
+        "reason": "Match trop incertain entre deux équipes de niveau similaire (11e vs 10e, 14 vs 15 pts). Forme récente équilibrée et H2H très serré (3V-3N-4D sur 10 matchs). Pas de value claire identifiée."
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Borussia Dortmund victoire vs FC Augsburg",
+      "Getafe victoire vs Girona"
+    ],
+    "total_odds": 3.33,
+    "confidence": 80,
+    "detailed_reasoning": "Combiné de qualité avec deux favoris logiques : Dortmund (82% confiance) face à un Augsburg en crise et privé de son attaquant titulaire, et Getafe (78% confiance) contre la lanterne rouge Girona décimée par les absences et 0 victoire en déplacement. Corrélation faible entre Bundesliga et Liga. Risque combiné calculé : 64% (82% × 78%). Cote 3.33 offre une excellente value pour ce niveau de probabilité.",
+    "risk_level": "Medium"
+  }
+}

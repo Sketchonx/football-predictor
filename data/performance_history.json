@@ -204,51 +204,51 @@
   },
   {
     "prediction_id": "2025-11-01_0",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "2-1",
     "recorded_at": "2025-11-01T10:24:35.287574",
-    "updated_at": "2025-11-01T10:24:35.287582"
+    "updated_at": "2025-11-01T23:12:57.675567"
   },
   {
     "prediction_id": "2025-11-01_1",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "1-1",
     "recorded_at": "2025-11-01T10:24:35.287584",
-    "updated_at": "2025-11-01T10:24:35.287585"
+    "updated_at": "2025-11-01T23:12:58.347626"
   },
   {
     "prediction_id": "2025-11-01_2",
-    "result": "pending",
-    "actual_score": null,
+    "result": "win",
+    "actual_score": "3-0",
     "recorded_at": "2025-11-01T10:24:35.287586",
-    "updated_at": "2025-11-01T10:24:35.287587"
+    "updated_at": "2025-11-01T23:12:59.044063"
   },
   {
     "prediction_id": "2025-11-01_3",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "0-2",
     "recorded_at": "2025-11-01T10:24:35.287589",
-    "updated_at": "2025-11-01T10:24:35.287589"
+    "updated_at": "2025-11-01T23:12:59.728044"
   },
   {
     "prediction_id": "2025-11-01_4",
-    "result": "pending",
-    "actual_score": null,
+    "result": "win",
+    "actual_score": "2-1",
     "recorded_at": "2025-11-01T10:24:35.287591",
-    "updated_at": "2025-11-01T10:24:35.287592"
+    "updated_at": "2025-11-01T23:13:00.436899"
   },
   {
     "prediction_id": "2025-11-01_5",
-    "result": "pending",
-    "actual_score": null,
+    "result": "win",
+    "actual_score": "4-0",
     "recorded_at": "2025-11-01T10:24:35.287593",
-    "updated_at": "2025-11-01T10:24:35.287594"
+    "updated_at": "2025-11-01T23:13:01.138995"
   },
   {
     "prediction_id": "2025-11-01_6",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "0-1",
     "recorded_at": "2025-11-01T10:24:35.287595",
-    "updated_at": "2025-11-01T10:24:35.287596"
+    "updated_at": "2025-11-01T23:13:01.847491"
   }
 ]

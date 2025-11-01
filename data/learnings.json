@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-30T23:14:01.118085",
-  "total_errors_analyzed": 6,
+  "last_updated": "2025-11-01T23:13:33.389716",
+  "total_errors_analyzed": 10,
   "categories": {
     "sous_estimation_outsider": {
       "count": 1,
@@ -12,12 +12,8 @@
       ]
     },
     "surestimation_favori": {
-      "count": 4,
+      "count": 6,
       "examples": [
-        {
-          "match": "Bologna vs Fiorentina",
-          "conclusion": "Pour les équipes bien classées jouant à l'extérieur contre un relégable à domicile, vérifier systématiquement les stats défensives away et privilégier les paris 'Both Teams to Score' plutôt que la victoire nette."
-        },
         {
           "match": "Metz vs Lens",
           "conclusion": "Pour les favoris évoluant à l'extérieur contre une lanterne rouge, vérifier leurs résultats des 3 derniers déplacements face aux équipes classées dans les 3 dernières places avant de miser sur une victoire simple."
@@ -29,6 +25,14 @@
         {
           "match": "Pisa vs Lazio",
           "conclusion": "Pour les favoris avec un écart de niveau important, vérifier systématiquement leurs performances offensives en déplacement et la capacité de l'outsider à limiter les dégâts à domicile avant de parier sur une victoire nette."
+        },
+        {
+          "match": "Werder Bremen vs FSV Mainz 05",
+          "conclusion": "Pour les matchs impliquant une équipe en crise mais avec un enjeu maintien, vérifier le ratio buts marqués/occasions créées de l'équipe favorite à domicile avant de parier sur sa victoire sèche."
+        },
+        {
+          "match": "Marseille vs Auxerre",
+          "conclusion": "Quand un favori avec plus de 10 points d'écart a une cote supérieure à 1.80 ET un historique récent défavorable, analyser prioritairement l'impact des absences sur les postes clés avant de valider le pronostic."
         }
       ]
     },
@@ -38,6 +42,24 @@
         {
           "match": "Real Betis vs Atletico Madrid",
           "conclusion": "Avant de parier sur une surprise basée sur les absences, vérifier les 5 dernières confrontations directes et pondérer l'effet rebond des équipes expérimentées après une défaite de 3+ buts d'écart."
+        }
+      ]
+    },
+    "contexte_match": {
+      "count": 1,
+      "examples": [
+        {
+          "match": "Eintracht Frankfurt vs 1. FC Heidenheim",
+          "conclusion": "Pour les matchs impliquant une équipe en lutte pour le maintien à domicile, réduire de 15-20% la probabilité de victoire du favori si celui-ci n'a plus d'enjeu classement significatif."
+        }
+      ]
+    },
+    "statistiques_trompeuses": {
+      "count": 1,
+      "examples": [
+        {
+          "match": "Arsenal vs Burnley",
+          "conclusion": "Avant de parier sur un favori à domicile, vérifier sa moyenne de buts marqués sur les 3 derniers matches à domicile et la forme extérieure spécifique de l'outsider sur les 5 derniers déplacements."
         }
       ]
     }
@@ -72,6 +94,26 @@
       "date": "2025-10-30T23:14:01.117245",
       "category": "surestimation_favori",
       "conclusion": "Pour les favoris avec un écart de niveau important, vérifier systématiquement leurs performances offensives en déplacement et la capacité de l'outsider à limiter les dégâts à domicile avant de parier sur une victoire nette."
+    },
+    {
+      "date": "2025-11-01T23:13:10.440467",
+      "category": "contexte_match",
+      "conclusion": "Pour les matchs impliquant une équipe en lutte pour le maintien à domicile, réduire de 15-20% la probabilité de victoire du favori si celui-ci n'a plus d'enjeu classement significatif."
+    },
+    {
+      "date": "2025-11-01T23:13:17.870351",
+      "category": "surestimation_favori",
+      "conclusion": "Pour les matchs impliquant une équipe en crise mais avec un enjeu maintien, vérifier le ratio buts marqués/occasions créées de l'équipe favorite à domicile avant de parier sur sa victoire sèche."
+    },
+    {
+      "date": "2025-11-01T23:13:25.119002",
+      "category": "statistiques_trompeuses",
+      "conclusion": "Avant de parier sur un favori à domicile, vérifier sa moyenne de buts marqués sur les 3 derniers matches à domicile et la forme extérieure spécifique de l'outsider sur les 5 derniers déplacements."
+    },
+    {
+      "date": "2025-11-01T23:13:33.387940",
+      "category": "surestimation_favori",
+      "conclusion": "Quand un favori avec plus de 10 points d'écart a une cote supérieure à 1.80 ET un historique récent défavorable, analyser prioritairement l'impact des absences sur les postes clés avant de valider le pronostic."
     }
   ]
 }

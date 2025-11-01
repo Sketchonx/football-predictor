@@ -100,7 +100,8 @@
           "odds": 1.75,
           "reasoning": "Attaque prolifique Francfort vs défense faible Heidenheim"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Werder Bremen vs FSV Mainz 05",
@@ -197,7 +198,8 @@
           "odds": 1.35,
           "reasoning": "Sécurité supplémentaire mais cote trop faible"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Bayern München vs Bayer Leverkusen",
@@ -397,7 +399,8 @@
           "odds": 2.4,
           "reasoning": "Arsenal capable de victoire large vu l'écart de niveau"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Club Brugge KV vs Dender",
@@ -692,7 +695,8 @@
           "odds": 1.85,
           "reasoning": "Attaque prolifique Marseille, défenses affaiblies des deux côtés"
         }
-      ]
+      ],
+      "analyzed": true
     }
   ],
   "matches_excluded": {

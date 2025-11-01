@@ -1,0 +1,734 @@
+{
+  "analysis_date": "2025-11-01",
+  "total_analyzed": 26,
+  "total_retained": 7,
+  "recommendations": [
+    {
+      "match": "Eintracht Frankfurt vs 1. FC Heidenheim",
+      "competition": "Bundesliga",
+      "kickoff": "14:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-1N-3D, 8 buts pour, 12 contre",
+            "home_record": "Données non disponibles dans la forme récente",
+            "trend": "Forme préoccupante avec 3 défaites récentes",
+            "details": "Derniers résultats : [N] 1-1 vs Borussia Dortmund, [V] 2-0 vs FC St. Pauli, [D] 1-5 vs Liverpool, [N] 2-2 vs SC Freiburg, [D] 0-3 vs Bayern München"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D, 4 buts pour, 7 contre",
+            "away_record": "Forme catastrophique avec seulement 1 victoire",
+            "trend": "Équipe en grande difficulté, avant-dernière du championnat",
+            "details": "Derniers résultats : [D] 0-1 vs Hamburger SV, [D] 3-1 vs 1899 Hoffenheim, [N] 2-2 vs Werder Bremen, [D] 0-1 vs SpVgg Greuther Fürth, [D] 1-0 vs VfB Stuttgart"
+          }
+        },
+        "head_to_head": {
+          "last_5": "5V Eintracht Frankfurt, 0N, 0D Heidenheim",
+          "at_home": "Domination totale de Francfort dans tous les H2H",
+          "details": "Résultats: 3-0 (2025), 0-4 (2024), 1-2 (2024), 2-0 (2023), 1-2 (2017)",
+          "trends": "Francfort n'a jamais perdu contre Heidenheim, moyenne de 2.4 buts marqués par match"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Nathaniel Brown (blessure ischio-jambiers)",
+              "Ellyes Skhiri (problèmes genou)",
+              "Kaua Santos (rupture ligaments croisés)",
+              "Jessic Ngankam (fracture tibia et péroné)"
+            ],
+            "impact": "Impact modéré : 4 absents mais effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Benedikt Gimber (hernie inguinale)",
+              "Marvin Pieringer (blessure cheville)",
+              "Frank Feller (déchirure ligaments genou)",
+              "Adrian Beck (contusion)",
+              "Thomas Keller (blessure cheville)"
+            ],
+            "impact": "Impact MAJEUR : 5 titulaires absents dont des joueurs clés offensifs et défensifs"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Francfort joue un football offensif avec transitions rapides, possède des buteurs prolifiques comme Burkardt (6 buts) et Uzun (5 buts)",
+          "away_style": "Heidenheim privilégie un jeu défensif compact mais manque cruellement d'efficacité offensive (7 buts marqués en 8 matchs)",
+          "key_matchup": "Attaque de Francfort (21 buts marqués) contre défense fragile d'Heidenheim (16 buts encaissés). Avantage net Francfort.",
+          "predicted_approach": "Francfort va dominer et chercher à marquer rapidement, Heidenheim tentera de limiter les dégâts"
+        },
+        "schedule_fatigue": {
+          "home_team": "4 jours de repos depuis le match contre Borussia Dortmund. Équipe fraîche.",
+          "away_team": "3 jours de repos après la défaite contre Hamburger SV. Fatigue modérée.",
+          "advantage": "Léger avantage physique pour Francfort mais pas déterminant"
+        },
+        "context_stakes": {
+          "home_situation": "Francfort 6e place avec 13 points, vise une qualification européenne. Besoin de points après des résultats mitigés.",
+          "away_situation": "Heidenheim 17e place avec seulement 4 points, en lutte pour le maintien. Situation critique.",
+          "psychological": "Francfort doit se racheter après des performances décevantes, Heidenheim sous pression maximale",
+          "overall": "Enjeu vital pour Heidenheim mais écart de niveau trop important"
+        },
+        "home_advantage": {
+          "home_record_season": "Données domicile spécifiques non fournies mais forme générale correcte",
+          "away_record_opponent": "Heidenheim terrible à l'extérieur : 1V-1N-2D à domicile seulement",
+          "atmosphere": "Stade de Francfort, supporters fidèles, ambiance favorable",
+          "weather": "Conditions normales, pas d'impact",
+          "advantage_score": "7/10 - Avantage domicile significatif"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Value bet identifié, cote sous-évaluée de 15-20%",
+          "odds_movement": "Cote stable, marché sous-estime l'écart de niveau"
+        },
+        "key_factors_summary": [
+          "Écart de niveau énorme : 6e place vs 17e place avec seulement 4 points",
+          "Historique parfait : Francfort invaincu en 5 confrontations directes",
+          "Attaque prolifique Francfort (21 buts) vs défense perméable Heidenheim (16 encaissés)",
+          "5 absents majeurs côté Heidenheim affaiblissent encore l'équipe",
+          "Enjeu maintien pour Heidenheim mais qualité insuffisante"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire nette de Francfort : écart de niveau considérable (6e vs 17e), historique parfait (5V-0N-0D), attaque redoutable face à une défense fragile, et 5 absents majeurs côté Heidenheim. Malgré l'enjeu vital pour le maintien, la qualité technique et l'expérience de Francfort devraient faire la différence. La cote à 1.85 offre une value intéressante pour un pari qui présente 70-75% de chances de réussite.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Eintracht Frankfurt)",
+      "odds": 1.85,
+      "confidence": 78,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Attaque prolifique Francfort vs défense faible Heidenheim"
+        }
+      ]
+    },
+    {
+      "match": "Werder Bremen vs FSV Mainz 05",
+      "competition": "Bundesliga",
+      "kickoff": "14:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D, 5 buts pour, 4 contre",
+            "home_record": "Forme récente positive avec 3 victoires",
+            "trend": "Équipe en progression, 9e place avec 11 points",
+            "details": "Derniers résultats : [V] 1-0 vs Union Berlin, [N] 2-2 vs 1. FC Heidenheim, [V] 1-0 vs FC St. Pauli, [D] 4-0 vs Bayern München, [D] 0-3 vs SC Freiburg"
+          },
+          "away_team": {
+            "last_5_matches": "1V-0N-4D, 5 buts pour, 9 contre",
+            "away_record": "Forme catastrophique : 0V-0N-4D à domicile cette saison",
+            "trend": "Équipe en crise totale, 16e place avec seulement 4 points",
+            "details": "Derniers résultats : [D] 0-2 vs VfB Stuttgart, [D] 2-1 vs VfB Stuttgart, [V] 1-0 vs Zrinjski, [D] 3-4 vs Bayer Leverkusen, [D] 4-0 vs Hamburger SV"
+          }
+        },
+        "head_to_head": {
+          "last_5": "4V Werder Bremen, 1N, 0D Mainz",
+          "at_home": "Domination claire de Bremen dans les confrontations récentes",
+          "details": "Résultats: 1-0 (2025), 1-2 (2024), 0-1 (2024), 4-0 (2023), 2-2 (2023)",
+          "trends": "Bremen invaincu contre Mainz depuis 2022, moyenne de 1.8 buts marqués"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Mitchell Weiser (rupture ligaments croisés)",
+              "Jens Stage (blessure pied)",
+              "Amos Pieper (blessure hanche)"
+            ],
+            "impact": "Impact modéré : 3 absents mais effectif équilibré disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Lee Jae Sung (fracture pommette)",
+              "Maxim Dal (rupture ligaments croisés)",
+              "P. Nebel (carton rouge)",
+              "Daniel Gleiber (problèmes cuisse)"
+            ],
+            "impact": "Impact MAJEUR : 4 absents dont des titulaires, équipe déjà en difficulté encore affaiblie"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Bremen joue un football équilibré, solide défensivement à domicile avec des transitions efficaces",
+          "away_style": "Mainz en grande difficulté tactique, 0 victoire à domicile cette saison, attaque inefficace (9 buts marqués)",
+          "key_matchup": "Solidité défensive Bremen vs attaque défaillante Mainz. Avantage net Bremen.",
+          "predicted_approach": "Bremen va contrôler le match, Mainz tentera de surprendre mais manque de moyens"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos suffisant depuis le dernier match, équipe fraîche",
+          "away_team": "Enchaînement difficile, équipe fatiguée mentalement par les mauvais résultats",
+          "advantage": "Avantage physique et mental pour Bremen"
+        },
+        "context_stakes": {
+          "home_situation": "Bremen 9e place avec 11 points, vise le milieu de tableau. Situation confortable.",
+          "away_situation": "Mainz 16e place avec 4 points, en lutte directe pour le maintien. Situation critique.",
+          "psychological": "Bremen confiant après de bons résultats, Mainz sous pression énorme",
+          "overall": "Pression maximale sur Mainz mais Bremen favori logique"
+        },
+        "home_advantage": {
+          "home_record_season": "Bremen solide à domicile cette saison",
+          "away_record_opponent": "Mainz catastrophique : 0V-0N-4D à domicile, pire bilan de la ligue",
+          "atmosphere": "Weserstadion, supporters derrière l'équipe, ambiance hostile pour Mainz",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Avantage domicile majeur"
+        },
+        "odds_value": {
+          "bet_odds": 1.9,
+          "implied_probability": "52.6%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifié, cote sous-évaluée de 12-17%",
+          "odds_movement": "Cote attractive pour un favori logique"
+        },
+        "key_factors_summary": [
+          "Écart de forme énorme : Bremen 3V récentes vs Mainz 0V à domicile cette saison",
+          "Historique favorable : Bremen invaincu en 5 derniers H2H",
+          "Mainz en crise totale : 16e place, 4 points, 0 victoire domicile",
+          "4 absents supplémentaires affaiblissent encore Mainz",
+          "Avantage domicile significatif pour Bremen"
+        ]
+      },
+      "conclusion": "Match entre une équipe de Bremen en confiance (9e, 11 pts) et un Mainz en crise profonde (16e, 4 pts, 0V domicile). L'historique est favorable à Bremen (invaincu en 5 H2H), la forme récente également (3V vs 1V pour Mainz). Avec 4 absents supplémentaires, Mainz semble condamné malgré l'enjeu maintien. Bremen à domicile devrait logiquement s'imposer. La cote à 1.90 offre une value correcte pour un pari à 65-70% de probabilité.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Werder Bremen)",
+      "odds": 1.9,
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Double Chance 1X",
+          "odds": 1.35,
+          "reasoning": "Sécurité supplémentaire mais cote trop faible"
+        }
+      ]
+    },
+    {
+      "match": "Bayern München vs Bayer Leverkusen",
+      "competition": "Bundesliga",
+      "kickoff": "17:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "5V-0N-0D, 18 buts pour, 4 contre",
+            "home_record": "Invaincu cette saison : 8V-0N-0D, 30 buts pour, 4 contre",
+            "trend": "Forme exceptionnelle, leader incontesté avec 24 points",
+            "details": "Derniers résultats : [V] 1-4 vs 1.FC Köln, [V] 0-3 vs Borussia Mönchengladbach, [V] 4-0 vs Club Brugge KV, [V] 2-1 vs Borussia Dortmund, [V] 0-3 vs Eintracht Frankfurt"
+          },
+          "away_team": {
+            "last_5_matches": "4V-1N-0D, 11 buts pour, 6 contre",
+            "away_record": "Forme solide : 5V-2N-1D cette saison",
+            "trend": "Équipe performante, 5e place avec 17 points",
+            "details": "Derniers résultats : [V] 2-4 vs SC Paderborn 07, [V] 2-0 vs SC Freiburg, [D] 2-7 vs Paris Saint Germain, [V] 3-4 vs FSV Mainz 05, [V] 2-0 vs Union Berlin"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Bayern, 2N, 0D Leverkusen récemment",
+          "at_home": "Bayern dominant à domicile dans les confrontations récentes",
+          "details": "Résultats: 0-2 (2025), 3-0 (2025), 0-0 (2025), 0-1 (2024), 1-1 (2024)",
+          "trends": "Confrontations serrées mais avantage Bayern, moyenne de 2.1 buts/match"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Hiroki Ito (fracture métatarse)",
+              "Kingsley Coman (blessure)",
+              "Alphonso Davies (rupture ligaments croisés)",
+              "Jamal Musiala (fracture péroné)",
+              "Aleksandar Pavlovic (blessure)"
+            ],
+            "impact": "Impact MAJEUR : 5 titulaires absents dont des joueurs clés offensifs et défensifs"
+          },
+          "away_team": {
+            "absent": [
+              "Martin Terrier (rupture tendon d'Achille)",
+              "Victor Boniface (blessure)",
+              "Malik Tillman (blessure mollet)",
+              "Arthur Augusto (blessure cheville)",
+              "Exequiel Palacios (blessure musculaire)"
+            ],
+            "impact": "Impact MAJEUR : 5 absents également dont des attaquants importants"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Bayern joue un football total avec Harry Kane (12 buts) et Luis Díaz (5 buts) en grande forme, attaque la plus prolifique de la ligue",
+          "away_style": "Leverkusen privilégie un jeu technique avec Álex Grimaldo (4 buts, 3 passes), équipe bien organisée",
+          "key_matchup": "Attaque record Bayern (30 buts) contre défense solide Leverkusen (11 buts encaissés). Match ouvert attendu.",
+          "predicted_approach": "Match spectaculaire entre deux équipes offensives, nombreux buts probables"
+        },
+        "schedule_fatigue": {
+          "home_team": "Rotation possible vu l'avance au classement, effectif large",
+          "away_team": "Enchaînement européen difficile, fatigue possible",
+          "advantage": "Léger avantage Bayern avec un effectif plus large"
+        },
+        "context_stakes": {
+          "home_situation": "Bayern leader avec 24 points, invaincu, veut confirmer sa domination",
+          "away_situation": "Leverkusen 5e place avec 17 points, vise le podium, match référence",
+          "psychological": "Bayern en confiance totale, Leverkusen motivé pour créer l'exploit",
+          "overall": "Choc au sommet avec deux équipes ambitieuses"
+        },
+        "home_advantage": {
+          "home_record_season": "Bayern parfait à domicile : 4V-0N-0D cette saison",
+          "away_record_opponent": "Leverkusen correct à l'extérieur : 2V-1N-0D",
+          "atmosphere": "Allianz Arena, 75000 supporters, ambiance électrique",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Avantage domicile significatif"
+        },
+        "odds_value": {
+          "bet_odds": 2.2,
+          "implied_probability": "45.5%",
+          "estimated_real_probability": "55-60%",
+          "value_analysis": "Value bet modérée, match plus ouvert que prévu par le marché",
+          "odds_movement": "Cote intéressante pour un Over dans ce contexte"
+        },
+        "key_factors_summary": [
+          "Deux attaques prolifiques : Bayern 30 buts, Leverkusen 18 buts cette saison",
+          "Défenses affaiblies par les nombreuses absences des deux côtés",
+          "Historique de matchs ouverts entre ces deux équipes",
+          "Enjeu important : leadership pour Bayern, podium pour Leverkusen",
+          "Allianz Arena favorable aux matchs spectaculaires"
+        ]
+      },
+      "conclusion": "Choc au sommet entre le leader invaincu Bayern (30 buts marqués) et un solide Leverkusen (18 buts). Malgré 5 absents de chaque côté, les deux équipes conservent un potentiel offensif énorme avec Kane, Díaz côté Bayern et Grimaldo côté Leverkusen. L'historique montre des confrontations ouvertes, et l'enjeu (leadership vs podium) garantit un match engagé. Plutôt que de parier sur un vainqueur incertain, l'Over 2.5 buts semble plus sûr avec ces deux attaques de qualité.",
+      "bet_type": "Over/Under",
+      "prediction": "Over 2.5 buts",
+      "odds": 2.2,
+      "confidence": 72,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "BTTS",
+          "odds": 1.8,
+          "reasoning": "Deux attaques de qualité, défenses affaiblies"
+        }
+      ]
+    },
+    {
+      "match": "Arsenal vs Burnley",
+      "competition": "Premier League",
+      "kickoff": "15:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D, 9 buts pour, 1 contre",
+            "home_record": "Forme exceptionnelle : leader avec 22 points",
+            "trend": "Invincibilité quasi-totale, défense de fer (3 buts encaissés)",
+            "details": "Derniers résultats : [V] 2-0 vs Brighton, [V] 1-0 vs Crystal Palace, [V] 4-0 vs Atletico Madrid, [V] 0-1 vs Fulham, [N] 1-1 vs Union St. Gilloise"
+          },
+          "away_team": {
+            "last_5_matches": "2V-1N-2D, 8 buts pour, 8 contre",
+            "away_record": "Forme irrégulière : 16e place avec 10 points",
+            "trend": "Équipe en difficulté, lutte pour le maintien",
+            "details": "Derniers résultats : [V] 2-3 vs Wolves, [V] 2-0 vs Leeds, [D] 2-1 vs Aston Villa, [D] 5-1 vs Manchester City, [D] 1-2 vs Cardiff"
+          }
+        },
+        "head_to_head": {
+          "last_5": "4V Arsenal, 1N, 0D Burnley",
+          "at_home": "Arsenal dominant dans les confrontations récentes",
+          "details": "Résultats: 0-5 (2024), 3-1 (2023), 0-0 (2022), 0-1 (2021), 1-1 (2021)",
+          "trends": "Arsenal largement supérieur historiquement, moyenne de 2.8 buts marqués"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Leandro Trossard (incertain)",
+              "Riccardo Calafiori (contusion genou)",
+              "W. Saliba (entorse cheville)",
+              "B. White (blessure)",
+              "B. Saka (problèmes cuisse)"
+            ],
+            "impact": "Impact modéré : 5 absents mais effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Zian Flemming (incertain)",
+              "Axel Tuanzebe (incertain)",
+              "A. Broja (forme physique)",
+              "J. Beyer (blessure ischio-jambiers)",
+              "B. Humphreys (problèmes cuisse)"
+            ],
+            "impact": "Impact MAJEUR : effectif déjà limité encore affaibli par les absences"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Arsenal joue un football de possession avec une défense exceptionnelle (3 buts encaissés), attaque efficace et variée",
+          "away_style": "Burnley privilégie un jeu direct et physique mais manque de qualité technique face aux grosses équipes",
+          "key_matchup": "Défense de fer Arsenal (3 buts encaissés) contre attaque limitée Burnley (12 buts marqués). Avantage énorme Arsenal.",
+          "predicted_approach": "Arsenal va dominer territorialement, Burnley tentera de défendre et jouer en contre"
+        },
+        "schedule_fatigue": {
+          "home_team": "Rotation possible vu la supériorité, effectif large et reposé",
+          "away_team": "Équipe fatiguée par la lutte pour le maintien",
+          "advantage": "Avantage physique et mental net pour Arsenal"
+        },
+        "context_stakes": {
+          "home_situation": "Arsenal leader avec 22 points, vise le titre, doit confirmer sa domination",
+          "away_situation": "Burnley 16e place avec 10 points, lutte pour le maintien, match difficile",
+          "psychological": "Arsenal en confiance totale, Burnley sous pression du maintien",
+          "overall": "Écart de niveau et d'ambition considérable"
+        },
+        "home_advantage": {
+          "home_record_season": "Arsenal exceptionnel à domicile cette saison",
+          "away_record_opponent": "Burnley en difficulté à l'extérieur",
+          "atmosphere": "Emirates Stadium, supporters confiants, ambiance favorable",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Value bet identifié, cote sous-évaluée de 17-22%",
+          "odds_movement": "Cote attractive pour un favori aussi net"
+        },
+        "key_factors_summary": [
+          "Écart de niveau énorme : leader invaincu vs équipe de maintien",
+          "Défense exceptionnelle Arsenal (3 buts encaissés) vs attaque limitée Burnley",
+          "Historique très favorable : Arsenal dominant avec 4V-1N récemment",
+          "Forme récente contrastée : 4V-1N Arsenal vs 2V-3D Burnley",
+          "Enjeu titre pour Arsenal vs maintien pour Burnley"
+        ]
+      },
+      "conclusion": "Match déséquilibré entre le leader Arsenal (22 pts, 3 buts encaissés) et Burnley en lutte pour le maintien (16e, 10 pts). Arsenal présente une défense exceptionnelle et une attaque efficace, tandis que Burnley manque de qualité pour inquiéter les Gunners. L'historique est très favorable (4V-1N), la forme récente également. Malgré quelques absents, Arsenal dispose d'un effectif largement supérieur. La cote à 1.75 offre une excellente value pour un pari à 75-80% de probabilité.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Arsenal)",
+      "odds": 1.75,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Handicap Arsenal -1.5",
+          "odds": 2.4,
+          "reasoning": "Arsenal capable de victoire large vu l'écart de niveau"
+        }
+      ]
+    },
+    {
+      "match": "Club Brugge KV vs Dender",
+      "competition": "Jupiler Pro League",
+      "kickoff": "17:15",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D, 14 buts pour, 6 contre",
+            "home_record": "Forme excellente : 2e place avec 26 points",
+            "trend": "Équipe très performante, 8V-2N-2D cette saison",
+            "details": "Derniers résultats : [V] 6-1 vs Eendracht Aalst, [V] 0-1 vs Antwerp, [D] 4-0 vs Bayern München, [V] 0-1 vs OH Leuven, [V] 1-0 vs Union St. Gilloise"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D, 6 buts pour, 8 contre",
+            "away_record": "Forme catastrophique : 16e place avec 4 points",
+            "trend": "Équipe en grande difficulté, 0V-4N-8D cette saison",
+            "details": "Derniers résultats : [V] 4-2 vs Olympic Charleroi, [N] 1-1 vs KVC Westerlo, [D] 1-3 vs KV Mechelen, [D] 2-1 vs Genk, [N] 0-0 vs RAAL La Louvière"
+          }
+        },
+        "head_to_head": {
+          "last_3": "2V Club Brugge, 1N, 0D Dender",
+          "at_home": "Club Brugge dominant dans les confrontations récentes",
+          "details": "Résultats: 4-1 (2024), 1-2 (2024), 0-0 (2024)",
+          "trends": "Club Brugge supérieur, moyenne de 3 buts marqués par match"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Gustaf Nilsson (problèmes tendon d'Achille)",
+              "Kyriani Sabbe (léger coup)",
+              "Michal Skoras (léger coup)"
+            ],
+            "impact": "Impact modéré : 3 absents mais effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Michael Verrips (blessure muscles abdominaux)",
+              "Ragnar Oratmangoen (infection)",
+              "Joedrick Pupe (blessure muscles abdominaux)",
+              "Noah Mbamba (blessure musculaire)"
+            ],
+            "impact": "Impact MAJEUR : 4 absents dont le gardien titulaire, équipe déjà faible encore affaiblie"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Club Brugge joue un football offensif avec Tzolis (4 buts, 3 passes), équipe bien organisée et expérimentée",
+          "away_style": "Dender privilégie la défense mais manque cruellement d'efficacité offensive (5 buts marqués en 12 matchs)",
+          "key_matchup": "Attaque prolifique Club Brugge (19 buts) contre défense perméable Dender (19 buts encaissés). Avantage énorme Club Brugge.",
+          "predicted_approach": "Club Brugge va dominer et chercher le festival offensif, Dender tentera de limiter les dégâts"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos suffisant, équipe habituée aux enchaînements européens",
+          "away_team": "Équipe fatiguée mentalement par les mauvais résultats",
+          "advantage": "Avantage physique et mental pour Club Brugge"
+        },
+        "context_stakes": {
+          "home_situation": "Club Brugge 2e place avec 26 points, vise le titre, doit confirmer sa forme",
+          "away_situation": "Dender 16e place avec 4 points, en lutte désespérée pour le maintien",
+          "psychological": "Club Brugge en confiance, Dender sous pression énorme du maintien",
+          "overall": "Écart de niveau et d'ambition considérable"
+        },
+        "home_advantage": {
+          "home_record_season": "Club Brugge très fort à domicile : 4V-1N-0D",
+          "away_record_opponent": "Dender catastrophique à l'extérieur : 0V-2N-4D",
+          "atmosphere": "Jan Breydel Stadium, supporters fidèles, ambiance hostile pour Dender",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Value bet important, cote largement sous-évaluée de 20-25%",
+          "odds_movement": "Cote très attractive pour un tel écart de niveau"
+        },
+        "key_factors_summary": [
+          "Écart de niveau énorme : 2e place (26 pts) vs 16e place (4 pts)",
+          "Forme contrastée : Club Brugge 4V récentes vs Dender 0V cette saison",
+          "Attaque prolifique (19 buts) contre défense perméable (19 encaissés)",
+          "Historique favorable : 2V-1N pour Club Brugge récemment",
+          "4 absents majeurs affaiblissent encore Dender"
+        ]
+      },
+      "conclusion": "Match totalement déséquilibré entre le 2e du championnat Club Brugge (26 pts, 8V-2N-2D) et la lanterne rouge Dender (4 pts, 0V-4N-8D). L'écart de niveau est considérable, la forme récente également (4V vs 0V saison). Club Brugge possède une attaque redoutable (19 buts) face à une défense très perméable (19 encaissés). Avec 4 absents supplémentaires dont le gardien, Dender semble condamné. La cote à 1.85 est largement sous-évaluée pour un pari à 75-80% de probabilité.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Club Brugge KV)",
+      "odds": 1.85,
+      "confidence": 85,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Handicap Club Brugge -1.5",
+          "odds": 2.6,
+          "reasoning": "Écart de niveau permettant une victoire large"
+        }
+      ]
+    },
+    {
+      "match": "Real Madrid vs Valencia",
+      "competition": "La Liga",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "5V-0N-0D, 10 buts pour, 4 contre",
+            "home_record": "Forme parfaite : leader avec 27 points, invaincu",
+            "trend": "Domination totale, 9V-0N-1D cette saison",
+            "details": "Derniers résultats : [V] 2-1 vs Barcelona, [V] 1-0 vs Juventus, [V] 0-1 vs Getafe, [V] 3-1 vs Villarreal, [V] 0-5 vs Kairat Almaty"
+          },
+          "away_team": {
+            "last_5_matches": "2V-1N-2D, 8 buts pour, 9 contre",
+            "away_record": "Forme préoccupante : 18e place avec 9 points",
+            "trend": "Équipe en difficulté, 2V-3N-5D cette saison",
+            "details": "Derniers résultats : [V] 0-5 vs Maracena, [D] 0-2 vs Villarreal, [N] 0-0 vs Alaves, [D] 2-1 vs Girona, [D] 1-2 vs Oviedo"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Real Madrid, 1N, 1V Valencia",
+          "at_home": "Real Madrid généralement dominant à domicile",
+          "details": "Résultats: 1-2 (2025), 1-2 (2025), 2-2 (2024), 5-1 (2023), 1-0 (2023)",
+          "trends": "Confrontations souvent ouvertes, Real Madrid favori mais Valencia capable de surprendre"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Antonio Rudiger (suspendu)",
+              "Endrick (blessure ischio-jambiers)",
+              "F. Mendy (blessure ischio-jambiers)",
+              "J. Bellingham (blessure épaule)"
+            ],
+            "impact": "Impact modéré : 4 absents mais effectif de qualité disponible avec Mbappé et Vinicius"
+          },
+          "away_team": {
+            "absent": [
+              "Alberto Mari (blessé)",
+              "André Almeida (entorse cheville)",
+              "F. Ugrinic (contusion)",
+              "Thierry Correia (genou)",
+              "M. Diakhaby (blessure ischio-jambiers)"
+            ],
+            "impact": "Impact MAJEUR : 5 absents affaiblissent une équipe déjà en difficulté"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Real Madrid joue un football spectaculaire avec Mbappé (11 buts) et Vinicius (5 buts), attaque redoutable et expérience européenne",
+          "away_style": "Valencia privilégie un jeu défensif mais manque d'efficacité offensive (10 buts marqués en 10 matchs)",
+          "key_matchup": "Attaque stellaire Real (22 buts) contre défense fragile Valencia (16 buts encaissés). Avantage énorme Real.",
+          "predicted_approach": "Real va dominer et chercher le spectacle, Valencia tentera de défendre et jouer en contre"
+        },
+        "schedule_fatigue": {
+          "home_team": "Rotation possible vu l'avance, effectif large et de qualité",
+          "away_team": "Équipe fatiguée par la lutte pour le maintien",
+          "advantage": "Avantage physique et mental pour Real Madrid"
+        },
+        "context_stakes": {
+          "home_situation": "Real Madrid leader avec 27 points, vise le titre, veut confirmer sa domination",
+          "away_situation": "Valencia 18e place avec 9 points, en lutte pour le maintien, match très difficile",
+          "psychological": "Real en confiance totale, Valencia sous pression du maintien",
+          "overall": "Écart de niveau et d'ambition considérable"
+        },
+        "home_advantage": {
+          "home_record_season": "Real Madrid parfait à domicile : 5V-0N-0D cette saison",
+          "away_record_opponent": "Valencia catastrophique à l'extérieur : 0V-2N-3D",
+          "atmosphere": "Santiago Bernabéu, 80000 supporters, ambiance magique",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        "odds_value": {
+          "bet_odds": 1.7,
+          "implied_probability": "58.8%",
+          "estimated_real_probability": "80-85%",
+          "value_analysis": "Cote limite mais value présente vu l'écart de niveau",
+          "odds_movement": "Cote juste à la limite de nos critères"
+        },
+        "key_factors_summary": [
+          "Écart de niveau énorme : leader invaincu vs équipe de maintien",
+          "Attaque stellaire Real (Mbappé 11 buts) contre défense fragile Valencia",
+          "Forme contrastée : Real parfait (5V) vs Valencia en difficulté (2V-3D)",
+          "Real parfait à domicile (5V) vs Valencia catastrophique à l'extérieur (0V)",
+          "5 absents affaiblissent encore Valencia"
+        ]
+      },
+      "conclusion": "Match très déséquilibré entre le leader Real Madrid (27 pts, invaincu) et Valencia en lutte pour le maintien (18e, 9 pts). Real présente une attaque stellaire avec Mbappé (11 buts) et Vinicius, tandis que Valencia peine offensivement (10 buts en 10 matchs). L'historique récent montre quelques surprises de Valencia, mais l'écart de forme actuel est trop important. Real parfait à domicile contre Valencia catastrophique à l'extérieur. La cote à 1.70 est limite mais acceptable vu la probabilité très élevée (80-85%).",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Real Madrid)",
+      "odds": 1.7,
+      "confidence": 88,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Attaque prolifique Real vs défense faible Valencia"
+        }
+      ]
+    },
+    {
+      "match": "Marseille vs Auxerre",
+      "competition": "Ligue 1",
+      "kickoff": "20:05",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D, 16 buts pour, 7 contre",
+            "home_record": "Forme offensive exceptionnelle : 3e place avec 19 points",
+            "trend": "Attaque redoutable, 6V-1N-3D cette saison",
+            "details": "Derniers résultats : [N] 2-2 vs Angers, [D] 2-1 vs Lens, [D] 2-1 vs Sporting CP, [V] 6-2 vs Le Havre, [V] 0-3 vs Metz"
+          },
+          "away_team": {
+            "last_5_matches": "0V-1N-4D, 3 buts pour, 7 contre",
+            "away_record": "Forme catastrophique : 17e place avec 7 points",
+            "trend": "Équipe en grande difficulté, 2V-1N-7D cette saison",
+            "details": "Derniers résultats : [D] 3-0 vs Strasbourg, [D] 0-1 vs Le Havre, [N] 2-2 vs Rennes, [D] 1-2 vs Lens, [D] 2-0 vs Paris Saint Germain"
+          }
+        },
+        "head_to_head": {
+          "last_4": "2V Auxerre, 1N, 1V Marseille récemment",
+          "at_home": "Historique surprenant avec des victoires d'Auxerre",
+          "details": "Résultats: 3-0 (2025), 1-3 (2024), 2-1 (2023), 0-2 (2022)",
+          "trends": "Confrontations imprévisibles, Auxerre capable de surprendre Marseille"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Facundo Medina (suspendu carton rouge)",
+              "Adrien Rabiot (autre)",
+              "Jonathan Rowe (autre)",
+              "Geoffrey Kondogbia (incertain)",
+              "Amine Harit (incertain)"
+            ],
+            "impact": "Impact MAJEUR : 5 absents dont des titulaires importants au milieu"
+          },
+          "away_team": {
+            "absent": [
+              "Sinaly Diomande (suspendu carton rouge)",
+              "Nathan Buayi-Kiala (rupture ligaments croisés)",
+              "Donovan Leon (suspendu carton rouge)",
+              "Oussama El Azzouzi (blessure cuisse)"
+            ],
+            "impact": "Impact MAJEUR : 4 absents dont le gardien et des défenseurs clés"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Marseille joue un football offensif spectaculaire avec Greenwood (7 buts, 3 passes) et Vaz (4 buts), attaque redoutable",
+          "away_style": "Auxerre privilégie la défense mais manque cruellement d'efficacité offensive (7 buts marqués en 10 matchs)",
+          "key_matchup": "Attaque prolifique Marseille (24 buts) contre défense fragile Auxerre (16 buts encaissés). Avantage net Marseille.",
+          "predicted_approach": "Marseille va dominer offensivement, Auxerre tentera de défendre et jouer en contre"
+        },
+        "schedule_fatigue": {
+          "home_team": "Enchaînement européen difficile, possible fatigue",
+          "away_team": "Équipe fatiguée mentalement par les mauvais résultats",
+          "advantage": "Fatigue partagée mais qualité supérieure pour Marseille"
+        },
+        "context_stakes": {
+          "home_situation": "Marseille 3e place avec 19 points, vise le podium, doit se racheter après des résultats mitigés",
+          "away_situation": "Auxerre 17e place avec 7 points, en lutte pour le maintien, situation critique",
+          "psychological": "Marseille sous pression de résultats, Auxerre désespéré mais historique favorable",
+          "overall": "Match piège pour Marseille malgré l'écart de niveau"
+        },
+        "home_advantage": {
+          "home_record_season": "Marseille correct à domicile mais pas exceptionnel",
+          "away_record_opponent": "Auxerre catastrophique à l'extérieur cette saison",
+          "atmosphere": "Vélodrome, supporters exigeants, pression sur Marseille",
+          "weather": "Conditions normales",
+          "advantage_score": "6/10 - Avantage domicile modéré"
+        },
+        "odds_value": {
+          "bet_odds": 1.9,
+          "implied_probability": "52.6%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet modérée, historique favorable à Auxerre tempère les attentes",
+          "odds_movement": "Cote correcte compte tenu du contexte"
+        },
+        "key_factors_summary": [
+          "Écart de niveau important : 3e place vs 17e place en difficulté",
+          "Attaque prolifique Marseille (24 buts) vs défense fragile Auxerre (16 encaissés)",
+          "Forme contrastée : Marseille 3V récentes vs Auxerre 0V récentes",
+          "ATTENTION : Historique favorable à Auxerre (2V-1N-1D récemment)",
+          "Nombreux absents des deux côtés affaiblissent les équipes"
+        ]
+      },
+      "conclusion": "Match entre Marseille (3e, 19 pts) et Auxerre en difficulté (17e, 7 pts). Malgré l'écart de niveau évident et l'attaque redoutable de Marseille (24 buts avec Greenwood), l'historique récent est surprenant (2V Auxerre). Les nombreuses absences des deux côtés (5 pour Marseille, 4 pour Auxerre) compliquent l'analyse. Marseille reste favori logique avec sa qualité offensive, mais la pression et l'historique défavorable créent une incertitude. La cote à 1.90 reflète bien cette situation de match piège potentiel.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Marseille)",
+      "odds": 1.9,
+      "confidence": 70,
+      "risk_level": "Medium-High",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Attaque prolifique Marseille, défenses affaiblies des deux côtés"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 19,
+    "examples": [
+      {
+        "match": "Villarreal vs Rayo Vallecano",
+        "reason": "Cotes non fournies, impossible d'évaluer la value"
+      },
+      {
+        "match": "Udinese vs Atalanta",
+        "reason": "Match trop incertain, forme récente mitigée des deux côtés"
+      },
+      {
+        "match": "RB Leipzig vs VfB Stuttgart",
+        "reason": "Choc équilibré entre deux équipes de niveau similaire, risque élevé"
+      },
+      {
+        "match": "Tottenham vs Chelsea",
+        "reason": "Derby londonien imprévisible, nombreux absents des deux côtés"
+      },
+      {
+        "match": "Liverpool vs Aston Villa",
+        "reason": "Liverpool en forme décevante récente, match trop incertain"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Arsenal victoire vs Burnley (1.75)",
+      "Club Brugge KV victoire vs Dender (1.85)",
+      "Real Madrid victoire vs Valencia (1.70)"
+    ],
+    "total_odds": 5.51,
+    "confidence": 85,
+    "detailed_reasoning": "Combiné de trois favoris logiques avec des écarts de niveau considérables. Arsenal leader invaincu contre une équipe de maintien, Club Brugge 2e contre la lanterne rouge sans victoire, Real Madrid leader contre Valencia en difficulté. Trois équipes dominantes à domicile face à des adversaires en crise. Probabilité combinée estimée à 85% × 85% × 88% = 63.5%. La cote totale de 5.51 offre une excellente value pour ce niveau de probabilité.",
+    "risk_level": "Medium"
+  }
+}

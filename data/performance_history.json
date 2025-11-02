@@ -250,5 +250,54 @@
     "actual_score": "0-1",
     "recorded_at": "2025-11-01T10:24:35.287595",
     "updated_at": "2025-11-01T23:13:01.847491"
+  },
+  {
+    "prediction_id": "2025-11-02_0",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-02T09:17:52.948582",
+    "updated_at": "2025-11-02T09:17:52.948589"
+  },
+  {
+    "prediction_id": "2025-11-02_1",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-02T09:17:52.948592",
+    "updated_at": "2025-11-02T09:17:52.948593"
+  },
+  {
+    "prediction_id": "2025-11-02_2",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-02T09:17:52.948594",
+    "updated_at": "2025-11-02T09:17:52.948595"
+  },
+  {
+    "prediction_id": "2025-11-02_3",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-02T09:17:52.948596",
+    "updated_at": "2025-11-02T09:17:52.948597"
+  },
+  {
+    "prediction_id": "2025-11-02_4",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-02T09:17:52.948599",
+    "updated_at": "2025-11-02T09:17:52.948599"
+  },
+  {
+    "prediction_id": "2025-11-02_5",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-02T09:17:52.948601",
+    "updated_at": "2025-11-02T09:17:52.948602"
+  },
+  {
+    "prediction_id": "2025-11-02_6",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-02T09:17:52.948603",
+    "updated_at": "2025-11-02T09:17:52.948604"
   }
 ]

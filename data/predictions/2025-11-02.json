@@ -1,0 +1,725 @@
+{
+  "analysis_date": "2025-11-02",
+  "total_analyzed": 23,
+  "total_retained": 7,
+  "recommendations": [
+    {
+      "match": "Verona vs Inter",
+      "competition": "Serie A",
+      "kickoff": "11:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "0V-3N-2D, 4 buts pour, 6 contre",
+            "home_record": "À domicile: 0V-3N-1D selon les données",
+            "trend": "Forme catastrophique, aucune victoire cette saison",
+            "details": "Derniers résultats : [D] Como 3-1 Verona, [N] Verona 2-2 Cagliari, [N] Pisa 0-0 Verona, [D] Verona 0-1 Sassuolo, [D] AS Roma 2-0 Verona"
+          },
+          "away_team": {
+            "last_5_matches": "4V-0N-1D, 11 buts pour, 4 contre",
+            "away_record": "À l'extérieur: 2V-0N-2D selon les données",
+            "trend": "Forme excellente, série de victoires impressionnante",
+            "details": "Derniers résultats : [V] Inter 3-0 Fiorentina, [D] Napoli 3-1 Inter, [V] Union St. Gilloise 0-4 Inter, [V] AS Roma 0-1 Inter, [V] Inter 4-1 Cremonese"
+          }
+        },
+        "head_to_head": {
+          "last_5": "5V Inter, 0N, 0D Verona sur les 5 derniers",
+          "at_home": "Inter domine totalement : 1-0, 0-5, 2-2, 2-1, 0-6 sur les 5 derniers à Verona",
+          "details": "Historique récent : Inter 1-0 Verona (2025), Verona 0-5 Inter (2024), Verona 2-2 Inter (2024), Inter 2-1 Verona (2024), Verona 0-6 Inter (2023)",
+          "trends": "Domination écrasante d'Inter, moyenne de 3+ buts par match en faveur d'Inter"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "T. Suslov (blessure genou répétée)",
+              "Jesús Santiago (contusion musculaire)"
+            ],
+            "impact": "Impact modéré, perte de créativité au milieu avec Suslov absent depuis longtemps"
+          },
+          "away_team": {
+            "absent": [
+              "Hakan Calhanoglu (suspendu carton rouge)",
+              "Federico Dimarco (blessé)",
+              "M. Darmian (blessure dos)",
+              "M. Thuram (blessure cuisse)"
+            ],
+            "impact": "Impact significatif : Calhanoglu (5 buts cette saison) suspendu, Dimarco (3 passes) et Thuram (blessure cuisse) absents, mais effectif large"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Verona joue défensivement, moyenne de 0.6 buts marqués par match, organisation défensive mais inefficacité offensive criante",
+          "away_style": "Inter en 3-5-2 offensif, 2.4 buts de moyenne par match, pressing haut et transitions rapides malgré les absences",
+          "key_matchup": "Attaque Inter (22 buts en 9 matchs) contre défense Verona (14 buts encaissés). Avantage net Inter malgré les absences.",
+          "predicted_approach": "Verona va défendre en bloc bas, Inter va dominer possession et chercher les espaces"
+        },
+        "schedule_fatigue": {
+          "home_team": "Verona : dernier match il y a 4 jours (défaite 3-1 à Como). Équipe reposée physiquement.",
+          "away_team": "Inter : victoire 3-0 contre Fiorentina il y a 3 jours. Rotation possible mais forme excellente maintenue.",
+          "advantage": "Léger avantage physique Verona mais largement compensé par la différence de niveau"
+        },
+        "context_stakes": {
+          "home_situation": "Verona 18e place avec 5 points, situation critique de relégation. Pression énorme mais manque de confiance.",
+          "away_situation": "Inter 3e place avec 18 points, course au titre. Motivation maximale pour maintenir le rythme.",
+          "psychological": "Inter en confiance totale, Verona en crise profonde. Écart psychologique majeur.",
+          "overall": "Enjeu vital pour Verona mais Inter largement favori"
+        },
+        "home_advantage": {
+          "home_record_season": "Verona à domicile : 0V-3N-1D, 5 buts pour, 14 contre. Aucune forteresse.",
+          "away_record_opponent": "Inter à l'extérieur : 2V-0N-2D, performances correctes mais irrégulières en déplacement",
+          "atmosphere": "Stade Bentegodi, supporters Verona fidèles mais moral en berne après la série négative",
+          "weather": "Conditions normales, pas d'impact météo",
+          "advantage_score": "3/10 - Avantage domicile très faible vu la forme de Verona"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Value bet identifié, cote largement sous-évaluée compte tenu de l'écart de niveau et de forme",
+          "odds_movement": "Cote stable, marché sous-estime la domination probable d'Inter"
+        },
+        "key_factors_summary": [
+          "Écart de niveau énorme : Inter 3e (18 pts) vs Verona 18e (5 pts, 0 victoire)",
+          "Forme opposée : Inter 4V-1D sur 5 derniers vs Verona 0V-3N-2D",
+          "Historique écrasant : 5 victoires Inter sur 5 derniers H2H dont 0-5 et 0-6",
+          "Statistiques offensives : Inter 2.4 buts/match vs Verona 0.6 buts/match",
+          "Enjeu titre pour Inter vs lutte désespérée pour Verona sans efficacité"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire nette d'Inter : écart de niveau abyssal (13 points), forme diamétralement opposée, historique récent écrasant (0-5, 0-6), statistiques offensives sans comparaison (22 vs 5 buts). Malgré quelques absences chez Inter, l'effectif reste largement supérieur. Verona n'a aucune victoire cette saison et encaisse beaucoup à domicile. La cote 1.85 sous-évalue largement la probabilité de victoire d'Inter.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Inter)",
+      "odds": 1.85,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Inter marque beaucoup (2.4/match), Verona défense perméable"
+        }
+      ]
+    },
+    {
+      "match": "West Ham vs Newcastle",
+      "competition": "Premier League",
+      "kickoff": "14:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-1N-3D, 5 buts pour, 8 contre",
+            "home_record": "À domicile: 0V-0N-4D selon les données",
+            "trend": "Forme catastrophique, aucune victoire à domicile cette saison",
+            "details": "Derniers résultats : [D] Leeds 2-1 West Ham, [D] West Ham 0-2 Brentford, [D] Arsenal 2-0 West Ham, [N] Everton 1-1 West Ham, [D] West Ham 1-2 Crystal Palace"
+          },
+          "away_team": {
+            "last_5_matches": "5V-0N-0D, 11 buts pour, 3 contre",
+            "away_record": "À l'extérieur: 0V-3N-1D selon les données",
+            "trend": "Forme excellente récente, série de 5 victoires consécutives",
+            "details": "Derniers résultats : [V] Newcastle 2-0 Tottenham, [V] Newcastle 2-1 Fulham, [V] Newcastle 3-0 Benfica, [D] Brighton 2-1 Newcastle, [V] Newcastle 2-0 Nottingham Forest"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Newcastle, 1N, 1V West Ham sur les 5 derniers",
+          "at_home": "Résultats mitigés à West Ham : 0-1, 2-2, 1-5, 1-1 sur les 4 derniers",
+          "details": "Historique récent : West Ham 0-1 Newcastle (2025), Newcastle 0-2 West Ham (2024), Newcastle 4-3 West Ham (2024), West Ham 2-2 Newcastle (2023)",
+          "trends": "Newcastle légèrement dominant mais matchs souvent serrés et spectaculaires"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Callum Wilson (incertain)",
+              "Crysencio Summerville (problèmes cuisse)",
+              "D. Ings (blessure épaule)",
+              "N. Füllkrug (blessure mollet)"
+            ],
+            "impact": "Impact majeur : attaque décimée avec Wilson, Ings et Füllkrug tous absents ou incertains"
+          },
+          "away_team": {
+            "absent": [
+              "Joseph Willock (blessé)",
+              "Alexander Isak (autre)",
+              "Sven Botman (incertain)",
+              "Joelinton (blessure aine)"
+            ],
+            "impact": "Impact significatif : Isak et Joelinton absents, perte de puissance offensive et physique au milieu"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "West Ham en difficulté offensive (0.8 buts/match), défense perméable (2.2 buts encaissés/match), manque de solutions",
+          "away_style": "Newcastle en 4-3-3, équilibre retrouvé (1.0 buts/match pour, 0.9 contre), organisation solide sous Howe",
+          "key_matchup": "Attaque affaiblie West Ham vs défense Newcastle en amélioration. Avantage Newcastle malgré ses absences.",
+          "predicted_approach": "West Ham va tenter de jouer sur l'engagement, Newcastle va contrôler et exploiter les espaces"
+        },
+        "schedule_fatigue": {
+          "home_team": "West Ham : dernier match il y a 9 jours (défaite 2-1 à Leeds). Équipe bien reposée.",
+          "away_team": "Newcastle : victoire 2-0 contre Tottenham il y a 4 jours. Forme physique excellente maintenue.",
+          "advantage": "Léger avantage repos pour West Ham mais Newcastle en rythme"
+        },
+        "context_stakes": {
+          "home_situation": "West Ham 19e place avec 4 points, situation de relégation critique. Pression énorme, besoin urgent de points.",
+          "away_situation": "Newcastle 13e place avec 12 points, situation tranquille. Peut jouer libéré sans pression.",
+          "psychological": "West Ham en crise de confiance totale, Newcastle retrouve sérénité. Avantage mental Newcastle.",
+          "overall": "Match crucial pour West Ham, Newcastle peut en profiter"
+        },
+        "home_advantage": {
+          "home_record_season": "West Ham à domicile : 0V-0N-4D, 7 buts pour, 20 contre. Aucune victoire à domicile.",
+          "away_record_opponent": "Newcastle à l'extérieur : 0V-3N-1D, difficultés en déplacement cette saison",
+          "atmosphere": "London Stadium, supporters West Ham frustrés mais fidèles, ambiance tendue",
+          "weather": "Conditions normales londoniennes",
+          "advantage_score": "4/10 - Avantage domicile limité vu la forme catastrophique de West Ham"
+        },
+        "odds_value": {
+          "bet_odds": 2.1,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "55-60%",
+          "value_analysis": "Légère value sur Newcastle, forme récente excellente sous-estimée par le marché",
+          "odds_movement": "Cote stable, marché hésite entre forme récente Newcastle et avantage domicile West Ham"
+        },
+        "key_factors_summary": [
+          "Forme opposée : Newcastle 5V consécutives vs West Ham 0V à domicile cette saison",
+          "Classement : Newcastle 8 points d'avance, situation plus sereine",
+          "Attaque West Ham décimée : Wilson, Ings, Füllkrug tous absents ou incertains",
+          "Statistiques domicile catastrophiques : West Ham 0V-0N-4D, 7 pour, 20 contre",
+          "Newcastle libéré psychologiquement vs West Ham sous pression énorme"
+        ]
+      },
+      "conclusion": "Newcastle arrive dans une forme excellente (5 victoires consécutives) face à un West Ham en crise profonde (19e, 0 victoire à domicile). Malgré les absences des deux côtés, l'écart de forme et de confiance est énorme. West Ham a une attaque décimée et n'a marqué que 7 buts à domicile. Newcastle, plus serein au classement, peut exploiter cette fragilité. La cote 2.10 offre une value intéressante compte tenu de la dynamique actuelle.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Newcastle)",
+      "odds": 2.1,
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Double Chance X2",
+          "odds": 1.45,
+          "reasoning": "Sécurité avec le nul, West Ham en grande difficulté"
+        }
+      ]
+    },
+    {
+      "match": "Strasbourg vs Rennes",
+      "competition": "Ligue 1",
+      "kickoff": "14:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D, 11 buts pour, 6 contre",
+            "home_record": "Données extérieur fournies : 2V-1N-2D",
+            "trend": "Forme excellente, attaque prolifique avec 21 buts en 10 matchs",
+            "details": "Derniers résultats : [V] Strasbourg 3-0 Auxerre, [D] Lyon 2-1 Strasbourg, [N] Strasbourg 1-1 Jagiellonia, [N] Paris Saint Germain 3-3 Strasbourg, [V] Strasbourg 5-0 Angers"
+          },
+          "away_team": {
+            "last_5_matches": "1V-3N-1D, 8 buts pour, 8 contre",
+            "away_record": "Données domicile fournies : 2V-2N-1D",
+            "trend": "Forme irrégulière, beaucoup de nuls, manque d'efficacité",
+            "details": "Derniers résultats : [N] Toulouse 2-2 Rennes, [D] Rennes 1-2 Nice, [N] Rennes 2-2 Auxerre, [N] Le Havre 2-2 Rennes, [N] Rennes 0-0 Lens"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Rennes, 1N, 1V Strasbourg sur les 5 derniers",
+          "at_home": "À Strasbourg : 3-1 Rennes (2024), 2-0 Rennes (2024), 1-1 (2023)",
+          "details": "Historique récent : Rennes 1-0 Strasbourg (2025), Strasbourg 3-1 Rennes (2024), Strasbourg 2-0 Rennes (2024), Rennes 1-1 Strasbourg (2023)",
+          "trends": "Strasbourg performant à domicile contre Rennes récemment (3-1, 2-0)"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Andrew Omobamidele (incertain)",
+              "Mathis Amougou (incertain)",
+              "Diego Moreira (incertain)",
+              "S. Coulibaly (blessure mollet)"
+            ],
+            "impact": "Impact modéré, quelques incertitudes mais effectif globalement disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Lilian Brassier (blessure cheville)",
+              "Alidu Seidu (incertain)",
+              "Abdelhamid Ait Boudlal (suspendu)",
+              "Mahdi Camara (suspendu)",
+              "Christopher Wooh (suspendu)"
+            ],
+            "impact": "Impact majeur : 3 suspensions importantes dont Camara et Wooh, défense affaiblie avec Brassier blessé"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Strasbourg en 4-3-3 offensif, 2.1 buts de moyenne, attaque redoutable menée par Panichelli (9 buts, meilleur buteur L1)",
+          "away_style": "Rennes en 4-2-3-1, 1.4 buts de moyenne, jeu stéréotypé, trop de nuls (6 en 10 matchs)",
+          "key_matchup": "Attaque Strasbourg (21 buts) vs défense Rennes affaiblie par les suspensions. Net avantage Strasbourg.",
+          "predicted_approach": "Strasbourg va presser haut et exploiter ses ailes, Rennes va tenter de résister"
+        },
+        "schedule_fatigue": {
+          "home_team": "Strasbourg : victoire 3-0 contre Auxerre il y a 4 jours. Équipe en confiance et fraîche.",
+          "away_team": "Rennes : nul 2-2 à Toulouse il y a 4 jours. Frustration de ne pas gagner ces matchs nuls.",
+          "advantage": "Léger avantage Strasbourg, équipe en confiance après la large victoire"
+        },
+        "context_stakes": {
+          "home_situation": "Strasbourg 4e place avec 19 points, excellent début de saison, vise l'Europe. Confiance maximale.",
+          "away_situation": "Rennes 11e place avec 12 points, saison décevante, loin des objectifs européens. Pression sur l'entraîneur.",
+          "psychological": "Strasbourg en pleine réussite vs Rennes en questionnement. Avantage mental net Strasbourg.",
+          "overall": "Strasbourg peut confirmer son excellent début, Rennes doit réagir"
+        },
+        "home_advantage": {
+          "home_record_season": "Données non spécifiquement fournies pour le domicile Strasbourg",
+          "away_record_opponent": "Rennes à l'extérieur : données non spécifiquement fournies",
+          "atmosphere": "Meinau, public strasbourgeois enthousiaste après l'excellent début de saison",
+          "weather": "Conditions normales alsaciennes",
+          "advantage_score": "7/10 - Bon avantage domicile avec le public en confiance"
+        },
+        "odds_value": {
+          "bet_odds": 1.95,
+          "implied_probability": "51.3%",
+          "estimated_real_probability": "60-65%",
+          "value_analysis": "Value bet intéressante, marché sous-estime la forme de Strasbourg et les absences de Rennes",
+          "odds_movement": "Cote attractive compte tenu du contexte"
+        },
+        "key_factors_summary": [
+          "Forme opposée : Strasbourg 4e (19 pts) en pleine confiance vs Rennes 11e (12 pts) décevant",
+          "Attaque prolifique : Strasbourg 21 buts avec Panichelli meilleur buteur L1 (9 buts)",
+          "Absences cruciales Rennes : 3 suspensions (Camara, Wooh, Ait Boudlal) + Brassier blessé",
+          "Historique récent favorable : Strasbourg 3-1 et 2-0 contre Rennes à domicile",
+          "Dynamique : Strasbourg monte, Rennes stagne avec trop de nuls (6/10)"
+        ]
+      },
+      "conclusion": "Strasbourg réalise un excellent début de saison (4e, 19 points) avec la meilleure attaque de L1 (21 buts) menée par Panichelli. Face à un Rennes décevant (11e, 12 points) privé de 4 titulaires importants (3 suspensions + 1 blessure), les conditions sont réunies pour une victoire strasbourgeoise. L'historique récent à domicile est favorable (3-1, 2-0) et la dynamique totalement différente. La cote 1.95 offre une belle value.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Strasbourg)",
+      "odds": 1.95,
+      "confidence": 78,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.8,
+          "reasoning": "Attaque Strasbourg prolifique, défense Rennes affaiblie"
+        }
+      ]
+    },
+    {
+      "match": "Lens vs Lorient",
+      "competition": "Ligue 1",
+      "kickoff": "16:15",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D, 8 buts pour, 3 contre",
+            "home_record": "À domicile: 4V-0N-1D selon les données",
+            "trend": "Excellente forme à domicile, forteresse lensoise",
+            "details": "Derniers résultats : [D] Metz 2-0 Lens, [V] Lens 2-1 Marseille, [V] Lens 2-1 Paris FC, [V] Auxerre 1-2 Lens, [N] Rennes 0-0 Lens"
+          },
+          "away_team": {
+            "last_5_matches": "1V-2N-2D, 7 buts pour, 8 contre",
+            "home_record": "À l'extérieur: 0V-1N-4D selon les données",
+            "trend": "Forme extérieure catastrophique, aucune victoire en déplacement",
+            "details": "Derniers résultats : [N] Lorient 1-1 Paris Saint Germain, [D] Angers 2-0 Lorient, [N] Lorient 3-3 Stade Brestois 29, [D] Paris FC 2-0 Lorient, [V] Lorient 3-1 Monaco"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Lens, 1N, 1V Lorient sur les 5 derniers",
+          "at_home": "À Lens : 2-0 (2024), 5-2 (2022), 2-2 (2021), 4-1 (2021)",
+          "details": "Historique récent : Lens 2-0 Lorient (2024), Lorient 0-0 Lens (2023), Lorient 1-3 Lens (2023), Lorient 1-1 Lens (2023), Lens 5-2 Lorient (2022)",
+          "trends": "Lens dominant à domicile, matchs souvent spectaculaires avec beaucoup de buts"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Jonathan Gradit (suspendu carton rouge)",
+              "Jhoanner Chavez (blessure cheville)",
+              "D. Machado (blessure genou)"
+            ],
+            "impact": "Impact significatif : Gradit suspendu (défenseur titulaire), Chavez et Machado blessés"
+          },
+          "away_team": {
+            "absent": [
+              "Noah Cadiou (blessé)",
+              "P. Katseris (problèmes cuisse)",
+              "P. Pagis (blessure mollet)",
+              "N. Adjei (entorse cheville)"
+            ],
+            "impact": "Impact modéré : plusieurs absents mais effectif de Lorient déjà limité"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Lens en 3-5-2, 1.4 buts de moyenne, jeu direct et physique, solide à domicile (4V-0N-1D)",
+          "away_style": "Lorient en 4-4-2, 1.3 buts de moyenne, défense perméable (2.2 buts encaissés/match), inefficace en déplacement",
+          "key_matchup": "Solidité défensive Lens à domicile vs attaque Lorient en panne à l'extérieur (0 victoire). Avantage net Lens.",
+          "predicted_approach": "Lens va dominer physiquement, Lorient va tenter de résister et jouer en contre"
+        },
+        "schedule_fatigue": {
+          "home_team": "Lens : défaite 2-0 à Metz il y a 4 jours. Frustration mais équipe reposée.",
+          "away_team": "Lorient : nul 1-1 contre PSG il y a 4 jours. Bon résultat mais fatigue du déplacement.",
+          "advantage": "Équilibre, les deux équipes ont joué il y a 4 jours"
+        },
+        "context_stakes": {
+          "home_situation": "Lens 6e place avec 19 points, vise l'Europe. Doit confirmer à domicile après la défaite à Metz.",
+          "away_situation": "Lorient 16e place avec 9 points, lutte pour le maintien. Situation préoccupante, besoin urgent de points.",
+          "psychological": "Lens frustré de la défaite à Metz mais confiant à domicile. Lorient en difficulté mais le nul contre PSG peut donner confiance.",
+          "overall": "Match important pour les deux équipes mais enjeux différents"
+        },
+        "home_advantage": {
+          "home_record_season": "Lens à domicile : 4V-0N-1D, 14 buts pour, 10 contre. Très solide à Bollaert.",
+          "away_record_opponent": "Lorient à l'extérieur : 0V-1N-4D, 13 buts pour, 22 contre. Très faible en déplacement.",
+          "atmosphere": "Bollaert-Delelis, l'une des meilleures ambiances de France, public lensois passionné",
+          "weather": "Conditions normales du Nord",
+          "advantage_score": "8/10 - Avantage domicile majeur avec Bollaert et la forme à domicile"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Excellente value, marché sous-estime largement la différence de forme domicile/extérieur",
+          "odds_movement": "Cote attractive compte tenu des statistiques domicile/extérieur"
+        },
+        "key_factors_summary": [
+          "Forme domicile/extérieur opposée : Lens 4V-0N-1D à domicile vs Lorient 0V-1N-4D à l'extérieur",
+          "Classement : Lens 6e (19 pts) vise l'Europe vs Lorient 16e (9 pts) lutte maintien",
+          "Historique favorable : Lens dominant à domicile (2-0, 5-2, 4-1 récemment)",
+          "Ambiance Bollaert : l'un des meilleurs avantages domicile de Ligue 1",
+          "Statistiques : Lens solide défensivement à domicile vs Lorient inefficace en déplacement"
+        ]
+      },
+      "conclusion": "Lens présente un bilan parfait à domicile cette saison (4V-0N-1D) et reçoit un Lorient qui n'a jamais gagné à l'extérieur (0V-1N-4D). L'écart de niveau est net (10 points au classement) et l'ambiance de Bollaert constitue un atout majeur. Malgré quelques absences, Lens a les moyens de s'imposer face à une équipe lorientaise en grande difficulté loin de ses bases. La cote 1.75 sous-estime largement cette probabilité.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Lens)",
+      "odds": 1.75,
+      "confidence": 80,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Lens -1 Handicap",
+          "odds": 2.4,
+          "reasoning": "Lens très fort à domicile, Lorient très faible à l'extérieur"
+        }
+      ]
+    },
+    {
+      "match": "Manchester City vs Bournemouth",
+      "competition": "Premier League",
+      "kickoff": "16:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D, 10 buts pour, 3 contre",
+            "home_record": "À domicile: 3V-0N-1D selon les données",
+            "trend": "Excellente forme récente, retour au niveau habituel",
+            "details": "Derniers résultats : [V] Swansea 1-3 Manchester City, [D] Aston Villa 1-0 Manchester City, [V] Villarreal 0-2 Manchester City, [V] Manchester City 2-0 Everton, [V] Brentford 0-1 Manchester City"
+          },
+          "away_team": {
+            "last_5_matches": "3V-2N-0D, 8 buts pour, 6 contre",
+            "away_record": "À l'extérieur: 1V-2N-1D selon les données",
+            "trend": "Très bonne forme, invaincu sur 5 matchs",
+            "details": "Derniers résultats : [V] Bournemouth 2-0 Nottingham Forest, [N] Crystal Palace 3-3 Bournemouth, [V] Bournemouth 3-1 Fulham, [N] Leeds 2-2 Bournemouth, [N] Bournemouth 0-0 Newcastle"
+          }
+        },
+        "head_to_head": {
+          "last_5": "4V Manchester City, 0N, 1V Bournemouth sur les 5 derniers",
+          "at_home": "À Manchester : 3-1 (2025), 6-1 (2023), 4-0 (2022), 2-1 (2020), 2-1 (2020)",
+          "details": "Historique récent : Manchester City 3-1 Bournemouth (2025), Bournemouth 1-2 Manchester City (2025), Bournemouth 2-1 Manchester City (2024), Bournemouth 0-1 Manchester City (2024)",
+          "trends": "Manchester City largement dominant, surtout à domicile avec des scores fleuves"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Joshua Wilson Esbrand (blessure mollet)",
+              "Phil Foden (incertain)",
+              "A. Khusanov (blessure mollet)",
+              "J. Gvardiol (contusion)"
+            ],
+            "impact": "Impact modéré : Foden incertain mais effectif City très large, Gvardiol touché mais pas majeur"
+          },
+          "away_team": {
+            "absent": [
+              "Ryan Christie (forme)",
+              "Luis Sinisterra (blessé)",
+              "Justin Kluivert (incertain)",
+              "Enes Unal (blessure)",
+              "A. Smith (blessure ischio)"
+            ],
+            "impact": "Impact significatif : plusieurs titulaires absents dont Sinisterra et Kluivert, attaque affaiblie"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Manchester City en 4-3-3 de Guardiola, 1.9 buts de moyenne, possession et pressing haut, Haaland (11 buts) en pointe",
+          "away_style": "Bournemouth en 4-2-3-1, 1.8 buts de moyenne, jeu rapide en transition, Semenyo (6 buts) en forme",
+          "key_matchup": "Attaque City avec Haaland vs défense Bournemouth. Malgré la bonne forme de Bournemouth, écart de niveau.",
+          "predicted_approach": "City va dominer la possession, Bournemouth va jouer en contre-attaque rapide"
+        },
+        "schedule_fatigue": {
+          "home_team": "Manchester City : victoire 3-1 à Swansea il y a 4 jours. Équipe habituée au rythme intensif.",
+          "away_team": "Bournemouth : victoire 2-0 contre Nottingham Forest il y a 6 jours. Équipe bien reposée.",
+          "advantage": "Léger avantage repos Bournemouth mais City habitué au rythme"
+        },
+        "context_stakes": {
+          "home_situation": "Manchester City 8e place avec 16 points, début de saison irrégulier mais se reprend. Doit confirmer à domicile.",
+          "away_situation": "Bournemouth 2e place avec 18 points, excellent début de saison surprise. Veut confirmer face aux gros.",
+          "psychological": "City retrouve confiance, Bournemouth en pleine réussite mais test difficile à l'Etihad.",
+          "overall": "Test de vérité pour Bournemouth, City doit montrer sa supériorité"
+        },
+        "home_advantage": {
+          "home_record_season": "Manchester City à domicile : 3V-0N-1D, 17 buts pour, 7 contre. Etihad redevient une forteresse.",
+          "away_record_opponent": "Bournemouth à l'extérieur : 1V-2N-1D, plus difficile loin de ses bases",
+          "atmosphere": "Etihad Stadium, public city exigeant mais qui pousse quand l'équipe joue bien",
+          "weather": "Conditions normales mancuniennes",
+          "advantage_score": "7/10 - Bon avantage domicile, surtout avec le retour en forme"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value intéressante, marché respecte trop la forme de Bournemouth face à la classe de City",
+          "odds_movement": "Cote attractive compte tenu de la différence de niveau réelle"
+        },
+        "key_factors_summary": [
+          "Différence de niveau : Manchester City reste une équipe de top niveau malgré le classement",
+          "Historique écrasant : City dominant (6-1, 4-0, 3-1 récemment à domicile)",
+          "Attaque City : Haaland meilleur buteur PL (11 buts) retrouve son efficacité",
+          "Absences Bournemouth : attaque affaiblie avec Sinisterra et Kluivert incertains",
+          "Test de vérité : Bournemouth 2e mais n'a pas encore affronté les très gros à l'extérieur"
+        ]
+      },
+      "conclusion": "Malgré l'excellent début de saison de Bournemouth (2e), Manchester City reste largement supérieur individuellement et collectivement. À domicile, avec Haaland en forme (11 buts) et un historique récent écrasant (6-1, 4-0, 3-1), City a les moyens de s'imposer. Bournemouth, affaibli en attaque par les absences, n'a pas encore été testé face aux très gros à l'extérieur. La cote 1.85 offre une value intéressante.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Manchester City)",
+      "odds": 1.85,
+      "confidence": 76,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.7,
+          "reasoning": "Deux attaques en forme, historique de matchs spectaculaires"
+        }
+      ]
+    },
+    {
+      "match": "Gent vs OH Leuven",
+      "competition": "Jupiler Pro League",
+      "kickoff": "15:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1D-0N, 16 buts pour, 6 contre",
+            "home_record": "À l'extérieur selon données: 2V-1N-3D",
+            "trend": "Excellente forme récente, attaque très prolifique",
+            "details": "Derniers résultats : [V] Gent 5-0 Patro Eisden, [V] Gent 4-0 Standard Liege, [D] Zulte Waregem 4-1 Gent, [V] Gent 2-1 Charleroi, [V] Cercle Brugge 2-4 Gent"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D, 4 buts pour, 6 contre",
+            "away_record": "À domicile selon données: 1V-2N-3D",
+            "trend": "Forme très difficile, attaque en panne",
+            "details": "Derniers résultats : [V] Seraing United 1-3 OH Leuven, [N] KV Mechelen 1-1 OH Leuven, [D] OH Leuven 0-1 Club Brugge KV, [D] KVC Westerlo 2-0 OH Leuven, [N] OH Leuven 1-1 Anderlecht"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Gent, 2N, 0V OH Leuven sur les 5 derniers",
+          "at_home": "Chez Gent : 3-0 (2024), 4-0 (2023), 2-0 (2023), 5-0 (2022)",
+          "details": "Historique récent : OH Leuven 0-0 Gent (2025), Gent 3-0 OH Leuven (2024), Gent 0-1 OH Leuven (2024), OH Leuven 2-1 Gent (2024), Gent 4-0 OH Leuven (2023)",
+          "trends": "Gent très dominant à domicile contre Leuven avec des scores larges"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Daisuke Yokota (pubalgie)",
+              "Stefan Mitrovic (blessure inconnue)",
+              "Max Dean (rupture ligaments croisés)"
+            ],
+            "impact": "Impact modéré : Dean absent longue durée mais effectif Gent étoffé"
+          },
+          "away_team": {
+            "absent": [
+              "Takahiro Akimoto (problèmes cuisse)",
+              "Bryang Kayo (petit coup)",
+              "Manuel Osifo (petit coup)",
+              "Chukwubuikem Ikwuemesi"
+            ],
+            "impact": "Impact significatif : plusieurs joueurs touchés, effectif déjà limité de Leuven affaibli"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Gent en 4-3-3 offensif, 1.8 buts de moyenne, jeu rapide avec Gandelman (6 buts) et les ailes",
+          "away_style": "OH Leuven en 4-4-2 défensif, 0.8 buts de moyenne, grande difficulté à marquer",
+          "key_matchup": "Attaque Gent (22 buts en 12 matchs) vs défense Leuven (21 buts encaissés). Avantage énorme Gent.",
+          "predicted_approach": "Gent va dominer et chercher l'ouverture, Leuven va défendre en bloc"
+        },
+        "schedule_fatigue": {
+          "home_team": "Gent : large victoire 5-0 contre Patro Eisden il y a 3 jours. Confiance au maximum.",
+          "away_team": "OH Leuven : victoire 3-1 à Seraing il y a 3 jours. Rare succès mais contre faible adversaire.",
+          "advantage": "Gent en pleine confiance après la démonstration, Leuven soulagé mais test autrement plus dur"
+        },
+        "context_stakes": {
+          "home_situation": "Gent 4e place avec 20 points, excellent début de saison, vise l'Europe. Ambitions élevées.",
+          "away_situation": "OH Leuven 15e place avec 9 points, lutte pour le maintien. Situation préoccupante.",
+          "psychological": "Gent en pleine réussite et confiance, Leuven soulagé par la victoire mais conscient de la difficulté.",
+          "overall": "Écart d'ambition et de niveau important entre les deux équipes"
+        },
+        "home_advantage": {
+          "home_record_season": "Données domicile Gent non spécifiquement fournies",
+          "away_record_opponent": "OH Leuven à l'extérieur : données non spécifiquement fournies",
+          "atmosphere": "Ghelamco Arena, public gantois enthousiaste après l'excellent début de saison",
+          "weather": "Conditions normales belges",
+          "advantage_score": "8/10 - Avantage domicile important avec la forme et l'ambiance"
+        },
+        "odds_value": {
+          "bet_odds": 1.7,
+          "implied_probability": "58.8%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Excellente value malgré la cote limite, écart de niveau et de forme sous-estimé",
+          "odds_movement": "Cote juste à la limite mais value réelle compte tenu du contexte"
+        },
+        "key_factors_summary": [
+          "Écart de niveau majeur : Gent 4e (20 pts) vs OH Leuven 15e (9 pts)",
+          "Forme opposée : Gent 4V sur 5 avec 16 buts vs Leuven 1V sur 5 avec 4 buts",
+          "Historique écrasant : Gent dominant à domicile (4-0, 5-0, 3-0 récemment)",
+          "Statistiques : Gent 22 buts marqués vs Leuven 9 buts marqués en 12 matchs",
+          "Confiance : Gent au top après le 5-0 vs Leuven soulagé mais test difficile"
+        ]
+      },
+      "conclusion": "Gent réalise un excellent début de saison (4e, 20 points) avec une attaque prolifique (22 buts) et reçoit un OH Leuven en grande difficulté (15e, 9 points, 9 buts marqués seulement). L'historique récent à domicile est écrasant (4-0, 5-0, 3-0) et la forme actuelle totalement différente. Malgré une cote limite à 1.70, la probabilité réelle de victoire gantoise justifie ce pari compte tenu de l'écart de niveau.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Gent)",
+      "odds": 1.7,
+      "confidence": 85,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Gent -1 Handicap",
+          "odds": 2.2,
+          "reasoning": "Historique de victoires larges de Gent à domicile"
+        }
+      ]
+    },
+    {
+      "match": "Barcelona vs Elche",
+      "competition": "La Liga",
+      "kickoff": "17:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-0N-2D, 12 buts pour, 6 contre",
+            "home_record": "À domicile: 4V-0N-0D selon les données",
+            "trend": "Forme récente mitigée mais invaincu à domicile cette saison",
+            "details": "Derniers résultats : [D] Real Madrid 2-1 Barcelona, [V] Barcelona 6-1 Olympiakos Piraeus, [V] Barcelona 2-1 Girona, [D] Sevilla 4-1 Barcelona, [D] Barcelona 1-2 Paris Saint Germain"
+          },
+          "away_team": {
+            "last_5_matches": "2V-2N-1D, 7 buts pour, 4 contre",
+            "away_record": "À l'extérieur: 0V-3N-2D selon les données",
+            "trend": "Forme correcte mais aucune victoire à l'extérieur cette saison",
+            "details": "Derniers résultats : [V] Los Garres 0-4 Elche, [D] Espanyol 1-0 Elche, [N] Elche 0-0 Athletic Club, [D] Alaves 3-1 Elche, [V] Elche 2-1 Celta Vigo"
+          }
+        },
+        "head_to_h": {
+          "last_5": "5V Barcelona, 0N, 0V Elche sur les 5 derniers",
+          "at_home": "À Barcelone : 4-0 (2023), 3-0 (2022), 3-2 (2021), 3-0 (2021), 6-0 (2015)",
+          "details": "Historique récent : Elche 0-4 Barcelona (2023), Barcelona 3-0 Elche (2022), Elche 1-2 Barcelona (2022), Barcelona 3-2 Elche (2021)",
+          "trends": "Domination totale de Barcelona, scores souvent larges au Camp Nou"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Robert Lewandowski (incertain blessure musculaire)",
+              "Daniel Rodriguez (blessé)",
+              "M. ter Stegen (blessure dos)",
+              "Gavi (genou)",
+              "F. de Jong (contusion musculaire)"
+            ],
+            "impact": "Impact majeur : Lewandowski incertain, ter Stegen et de Jong absents, effectif affaibli"
+          },
+          "away_team": {
+            "absent": [
+              "Adam Boayar (blessure)",
+              "Marc Aguado (blessure)",
+              "Yago Alonso (genou)",
+              "A. Pedrosa (doigt)",
+              "A. Rodriguez (genou)"
+            ],
+            "impact": "Impact modéré : plusieurs absents mais effectif Elche déjà limité"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Barcelona en 4-3-3, 2.5 buts de moyenne, possession et pressing, Ferran Torres (4 buts) en forme",
+          "away_style": "Elche en 4-4-2 défensif, 1.1 buts de moyenne, jeu de contre-attaque, difficultés offensives",
+          "key_matchup": "Attaque Barcelona (25 buts) vs défense Elche (10 encaissés). Malgré les absences, avantage Barcelona.",
+          "predicted_approach": "Barcelona va dominer la possession, Elche va défendre et jouer en transition"
+        },
+        "schedule_fatigue": {
+          "home_team": "Barcelona : défaite 2-1 au Clasico il y a 7 jours. Frustration mais temps de récupération.",
+          "away_team": "Elche : victoire 4-0 en Coupe il y a 4 jours. Confiance retrouvée mais contre adversaire faible.",
+          "advantage": "Léger avantage repos Barcelona, mais Elche en confiance"
+        },
+        "context_stakes": {
+          "home_situation": "Barcelona 3e place avec 22 points, course au titre après la défaite au Clasico. Doit réagir à domicile.",
+          "away_situation": "Elche 8e place avec 14 points, milieu de tableau tranquille. Peut jouer libéré.",
+          "psychological": "Barcelona frustré du Clasico mais doit se reprendre, Elche sans pression particulière.",
+          "overall": "Barcelona doit montrer sa supériorité pour relancer sa saison"
+        },
+        "home_advantage": {
+          "home_record_season": "Barcelona à domicile : 4V-0N-0D, 25 buts pour, 12 contre. Forteresse parfaite.",
+          "away_record_opponent": "Elche à l'extérieur : 0V-3N-2D, 11 buts pour, 10 contre. Difficultés en déplacement.",
+          "atmosphere": "Camp Nou, public barcelonais exigeant mais qui pousse après une défaite",
+          "weather": "Conditions parfaites catalanes",
+          "advantage_score": "9/10 - Avantage domicile majeur avec l'invincibilité à domicile"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Excellente value, marché sous-estime l'invincibilité de Barcelona à domicile et l'historique",
+          "odds_movement": "Cote attractive compte tenu de la différence de niveau réelle"
+        },
+        "key_factors_summary": [
+          "Invincibilité domicile : Barcelona 4V-0N-0D à domicile cette saison",
+          "Historique écrasant : 5 victoires Barcelona sur 5 derniers H2H (4-0, 3-0, 6-0)",
+          "Statistiques offensives : Barcelona 25 buts vs Elche 11 buts cette saison",
+          "Forme extérieure : Elche 0V-3N-2D à l'extérieur, aucune victoire en déplacement",
+          "Réaction attendue : Barcelona doit se reprendre après la défaite au Clasico"
+        ]
+      },
+      "conclusion": "Malgré quelques absences importantes (Lewandowski incertain, ter Stegen), Barcelona reste invaincu à domicile cette saison (4V-0N-0D) et reçoit un Elche qui n'a jamais gagné à l'extérieur (0V-3N-2D). L'historique récent est écrasant (4-0, 3-0, 6-0) et l'écart de potentiel offensif énorme (25 vs 11 buts). Après la défaite au Clasico, Barcelona doit réagir devant son public. La cote 1.75 offre une excellente value.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Barcelona)",
+      "odds": 1.75,
+      "confidence": 83,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Barcelona -1 Handicap",
+          "odds": 2.3,
+          "reasoning": "Historique de victoires larges de Barcelona à domicile"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 16,
+    "examples": [
+      {
+        "match": "Levante vs Celta Vigo",
+        "reason": "Deux équipes en difficulté, match trop incertain pour un pari de qualité"
+      },
+      {
+        "match": "Fiorentina vs Lecce",
+        "reason": "Deux équipes en bas de classement, forme irrégulière des deux côtés"
+      },
+      {
+        "match": "VfL Wolfsburg vs 1899 Hoffenheim",
+        "reason": "Wolfsburg trop faible à domicile (0V-2N-2D), même face à Hoffenheim"
+      },
+      {
+        "match": "1.FC Köln vs Hamburger SV",
+        "reason": "Match équilibré sans value claire, deux équipes de niveau similaire"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Verona vs Inter (Victoire Inter)",
+      "Lens vs Lorient (Victoire Lens)",
+      "Barcelona vs Elche (Victoire Barcelona)"
+    ],
+    "total_odds": 2.68,
+    "confidence": 78,
+    "detailed_reasoning": "Trois favoris logiques avec d'excellentes probabilités : Inter face à Verona sans victoire (82% confiance), Lens invaincu à domicile face à Lorient 0 victoire extérieur (80% confiance), Barcelona invaincu à domicile face à Elche 0 victoire extérieur (83% confiance). Corrélation faible entre les matchs (ligues différentes). Risque combiné calculé : 55% (0.82 × 0.80 × 0.83). Cote 2.68 offre une value intéressante vs ce risque.",
+    "risk_level": "Medium"
+  }
+}

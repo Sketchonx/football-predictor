@@ -1,13 +1,21 @@
 {
-  "last_updated": "2025-11-01T23:13:33.389716",
-  "total_errors_analyzed": 10,
+  "last_updated": "2025-11-02T23:13:04.500208",
+  "total_errors_analyzed": 12,
   "categories": {
     "sous_estimation_outsider": {
-      "count": 1,
+      "count": 3,
       "examples": [
         {
           "match": "Paris FC vs Nantes",
           "conclusion": "Avant de parier sur une équipe de division inférieure contre une équipe en crise de l'élite, vérifier si l'écart de niveau structurel (budget, effectif, expérience) reste supérieur à 30% et analyser les 5 derniers matchs de l'équipe favorite contre des adversaires de niveau similaire."
+        },
+        {
+          "match": "West Ham vs Newcastle",
+          "conclusion": "Pour les équipes en crise totale à domicile, vérifier leur historique de réaction dans les 3 derniers matchs à domicile après 4+ défaites consécutives avant de parier contre elles."
+        },
+        {
+          "match": "VfL Wolfsburg vs 1899 Hoffenheim",
+          "conclusion": "Pour les équipes en crise profonde à domicile, vérifier leur bilan dans les matchs à enjeu direct contre des adversaires de niveau similaire au classement avant de miser sur leur défaite."
         }
       ]
     },
@@ -114,6 +122,16 @@
       "date": "2025-11-01T23:13:33.387940",
       "category": "surestimation_favori",
       "conclusion": "Quand un favori avec plus de 10 points d'écart a une cote supérieure à 1.80 ET un historique récent défavorable, analyser prioritairement l'impact des absences sur les postes clés avant de valider le pronostic."
+    },
+    {
+      "date": "2025-11-02T23:12:56.097615",
+      "category": "sous_estimation_outsider",
+      "conclusion": "Pour les équipes en crise totale à domicile, vérifier leur historique de réaction dans les 3 derniers matchs à domicile après 4+ défaites consécutives avant de parier contre elles."
+    },
+    {
+      "date": "2025-11-02T23:13:04.498405",
+      "category": "sous_estimation_outsider",
+      "conclusion": "Pour les équipes en crise profonde à domicile, vérifier leur bilan dans les matchs à enjeu direct contre des adversaires de niveau similaire au classement avant de miser sur leur défaite."
     }
   ]
 }

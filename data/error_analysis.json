@@ -208,5 +208,47 @@
     "bet_choice": "1 (Victoire Marseille)",
     "final_score": "0-1",
     "analysis_date": "2025-11-01T23:13:33.387940"
+  },
+  {
+    "main_cause": "Sous-estimation de l'effet galvanisant que peut avoir un contexte de crise sur une équipe jouant à domicile, particulièrement quand elle affronte un rival géographiquement proche.",
+    "missed_factors": [
+      "L'historique des confrontations directes à domicile pour West Ham dans les 5 derniers matchs contre Newcastle",
+      "L'analyse de la réaction de West Ham lors de ses précédents matchs à domicile après une série de défaites consécutives",
+      "La vérification si Newcastle maintient son niveau de performance face à des équipes désespérées jouant leur survie à domicile"
+    ],
+    "actionable_conclusion": "Pour les équipes en crise totale à domicile, vérifier leur historique de réaction dans les 3 derniers matchs à domicile après 4+ défaites consécutives avant de parier contre elles.",
+    "error_category": "sous_estimation_outsider",
+    "match_id": "2025-11-02_1",
+    "match": {
+      "home_team": "West Ham",
+      "away_team": "Newcastle",
+      "league": "Premier League",
+      "date": "14:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire Newcastle)",
+    "final_score": "3-1",
+    "analysis_date": "2025-11-02T23:12:56.097615"
+  },
+  {
+    "main_cause": "Sous-estimation de la capacité de réaction de Wolfsburg face à la pression de jouer à domicile avec un effectif remanié contre un adversaire direct au classement.",
+    "missed_factors": [
+      "Impact psychologique d'une équipe acculée jouant à domicile contre un concurrent direct pour le maintien/milieu de tableau",
+      "Potentiel effet galvanisant des changements tactiques forcés par les blessures, pouvant surprendre une équipe adverse préparée sur un schéma habituel",
+      "Analyse insuffisante de la solidité défensive réelle de Hoffenheim en déplacement face à des équipes désespérées"
+    ],
+    "actionable_conclusion": "Pour les équipes en crise profonde à domicile, vérifier leur bilan dans les matchs à enjeu direct contre des adversaires de niveau similaire au classement avant de miser sur leur défaite.",
+    "error_category": "sous_estimation_outsider",
+    "match_id": "2025-11-02_3",
+    "match": {
+      "home_team": "VfL Wolfsburg",
+      "away_team": "1899 Hoffenheim",
+      "league": "Bundesliga",
+      "date": "16:30"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire 1899 Hoffenheim)",
+    "final_score": "2-3",
+    "analysis_date": "2025-11-02T23:13:04.498405"
   }
 ]

@@ -197,7 +197,8 @@
           "odds": 1.45,
           "reasoning": "Sécurité supplémentaire face à West Ham en crise"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Lens vs Lorient",
@@ -392,7 +393,8 @@
           "odds": 1.5,
           "reasoning": "Sécurité face à Wolfsburg en crise à domicile"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Barcelona vs Elche",

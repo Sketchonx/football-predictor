@@ -1,0 +1,120 @@
+{
+  "analysis_date": "2025-10-27",
+  "total_analyzed": 1,
+  "total_retained": 1,
+  "recommendations": [
+    {
+      "match": "Real Betis vs Atletico Madrid",
+      "competition": "La Liga",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-2N-0D, 8 buts pour, 4 contre",
+            "home_record": "À domicile: 3V-0N-1D selon classement",
+            "trend": "Forme solide avec invincibilité sur 5 matchs",
+            "details": "Derniers résultats : [N] 0-0 vs Genk, [N] 2-2 vs Villarreal, [V] 2-1 vs Espanyol, [V] 2-0 vs Ludogorets, [V] 2-0 vs Osasuna"
+          },
+          "away_team": {
+            "last_5_matches": "3V-1N-1D, 11 buts pour, 6 contre",
+            "away_record": "À l'extérieur: 0V-3N-1D selon classement",
+            "trend": "Forme offensive excellente mais défaillance totale en déplacement",
+            "details": "Derniers résultats : [D] 0-4 vs Arsenal, [V] 1-0 vs Osasuna, [N] 1-1 vs Celta Vigo, [V] 5-1 vs Eintracht Frankfurt, [V] 5-2 vs Real Madrid"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Atletico Madrid, 1N, 1V Real Betis",
+          "at_home": "1 victoire Betis sur 2 derniers matchs à domicile (1-0 en 2024)",
+          "details": "Résultats: 4-1 Atletico (2025), 1-0 Betis (2024), 2-1 Atletico (2024), 0-0 (2023), 1-0 Atletico (2023)",
+          "trends": "Domination historique Atletico mais Betis capable de résister à domicile, moyenne 2.2 buts/match"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Diego Llorente (défenseur central)",
+              "Marc Roca (milieu défensif)",
+              "Giovani Lo Celso (milieu créatif)",
+              "Iker Losada",
+              "Nelson Deossa"
+            ],
+            "impact": "Impact MAJEUR : 5 joueurs absents dont 3 titulaires potentiels. Défense centrale et milieu créatif affaiblis significativement."
+          },
+          "away_team": {
+            "absent": [
+              "J. Giménez (défenseur central titulaire)",
+              "J. Alvarez (attaquant, 6 buts cette saison)",
+              "T. Almada (milieu offensif)",
+              "Álex Baena"
+            ],
+            "impact": "Impact CRITIQUE : Giménez pilier défensif absent, Alvarez meilleur buteur de l'équipe (6 buts) blessé. Secteurs clés décimés."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "4-2-3-1 sous Pellegrini, possession 58%, jeu de transition rapide, Pablo Fornals créateur (4 passes décisives)",
+          "away_style": "5-3-2 défensif Simeone, contre-attaques létales, dépendance à Alvarez (absent) pour la finition",
+          "key_matchup": "Attaque Betis (C. Hernández 4 buts) vs défense Atletico sans Giménez. Avantage Betis.",
+          "predicted_approach": "Betis va presser haut profitant des absences, Atletico forcé de jouer plus défensif sans ses armes offensives"
+        },
+        "schedule_fatigue": {
+          "home_team": "4 jours de repos depuis le nul 0-0 vs Genk en Conference League. Équipe fraîche.",
+          "away_team": "6 jours depuis la lourde défaite 0-4 vs Arsenal en Champions League. Temps de récupération correct mais moral affecté.",
+          "advantage": "Avantage physique léger pour Betis, mais surtout avantage psychologique après la claque d'Arsenal"
+        },
+        "context_stakes": {
+          "home_situation": "6e place avec 16 points, même total qu'Atletico. Victoire permettrait de passer devant au classement. Motivation élevée.",
+          "away_situation": "5e place avec 16 points, objectif top 4 pour la Champions League. Pression de résultat après la débâcle d'Arsenal.",
+          "psychological": "Betis en confiance avec invincibilité sur 5 matchs. Atletico marqué psychologiquement par le 0-4 subi face à Arsenal.",
+          "overall": "Contexte favorable à Betis : même niveau au classement mais dynamique opposée"
+        },
+        "home_advantage": {
+          "home_record_season": "3V-0N-1D à domicile selon classement, forteresse cette saison",
+          "away_record_opponent": "0V-3N-1D à l'extérieur pour Atletico, incapacité totale à gagner en déplacement",
+          "atmosphere": "Stade Benito Villamarín, ambiance andalouse hostile pour les Madrilènes",
+          "weather": "Conditions normales, pas d'impact météorologique",
+          "advantage_score": "8/10 - Avantage domicile majeur face à une équipe qui ne gagne jamais à l'extérieur"
+        },
+        "odds_value": {
+          "bet_odds": 2.1,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "55-60%",
+          "value_analysis": "Value bet identifiée : Atletico 0 victoire en déplacement cette saison vs Betis invaincu sur 5 matchs. Marché sous-estime l'impact des absences madrilènes.",
+          "odds_movement": "Cote attractive pour un Double Chance compte tenu du bilan extérieur catastrophique d'Atletico"
+        },
+        "key_factors_summary": [
+          "Atletico Madrid 0 victoire en 4 déplacements cette saison (0V-3N-1D) - statistique alarmante",
+          "Absences critiques côté Atletico : Giménez (défense) et Alvarez (6 buts, meilleur buteur)",
+          "Real Betis invaincu sur 5 matchs et parfait à domicile (3V-0N-1D)",
+          "Traumatisme psychologique récent d'Atletico (0-4 vs Arsenal il y a 6 jours)",
+          "Historique récent favorable : Betis a battu Atletico 1-0 à domicile en 2024"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers un pari sur Real Betis ou au minimum éviter la défaite. Atletico Madrid présente un bilan extérieur catastrophique (0 victoire en 4 déplacements) et doit composer sans ses deux joueurs clés Giménez et Alvarez. Face à un Betis invaincu depuis 5 matchs et parfait à domicile, le Double Chance 1X offre une excellente sécurité. Le traumatisme du 0-4 subi face à Arsenal renforce la fragilité mentale des Colchoneros. La cote sous-estime clairement les difficultés d'Atletico loin de Madrid.",
+      "bet_type": "Double Chance",
+      "prediction": "1X (Victoire Real Betis ou Nul)",
+      "odds": 1.75,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Deux équipes avec de nombreux absents offensifs, style défensif de Simeone, moyenne H2H de 2.2 buts"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 0,
+    "examples": []
+  },
+  "combined_bet": {
+    "matches": [
+      "Real Betis 1X (Double Chance) vs Atletico Madrid"
+    ],
+    "total_odds": 1.75,
+    "confidence": 82,
+    "detailed_reasoning": "Un seul match analysé aujourd'hui mais avec une confiance très élevée (82%). Le bilan extérieur catastrophique d'Atletico Madrid (0 victoire en 4 déplacements) combiné aux absences de Giménez et Alvarez face à un Betis invaincu depuis 5 matchs créent une opportunité de value bet exceptionnelle. Le Double Chance 1X à 1.75 offre une sécurité maximale avec un potentiel de gain intéressant.",
+    "risk_level": "Low",
+    "IMPORTANT": "Pari unique mais de très haute qualité avec probabilité de succès estimée à 82% selon l'analyse des facteurs clés."
+  }
+}

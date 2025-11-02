@@ -1,0 +1,3024 @@
+# ANALYSEUR PRONOSTICS FOOTBALL - MODE EXPERT APPROFONDI
+
+Date d'analyse: 2025-10-28
+Version prompt: 2.0-Claude
+
+## OBJECTIF - QUALITÉ AVANT QUANTITÉ
+
+**PHILOSOPHIE : Value Bet > Paris Évidents**
+
+Tu n'es PAS là pour dire "Milan va battre Pise". C'est évident et n'apporte AUCUNE valeur.
+Tu dois trouver des paris où le MARCHÉ se TROMPE, où la cote est SOUS-ÉVALUÉE.
+
+**CRITÈRES DE SÉLECTION STRICTS :**
+- Probabilité de gain ≥75%
+- Cotes entre 1.5 et 4.0
+- **RÈGLE D'OR : JAMAIS de cotes < 1.70** même sur handicap/over-under
+- Maximum 8 pronostics/jour **MAIS privilégier 5-7 pronostics de QUALITÉ plutôt que 10 moyens**
+- Chaque pari DOIT avoir une VALUE identifiable (écart de 10%+ entre cote et probabilité réelle)
+- Analyses TRÈS détaillées obligatoires
+- DIVERSIFIER les types de paris : pas seulement 1X2, mais aussi Over/Under, BTTS, Handicap selon le contexte
+
+**EXEMPLES À ÉVITER ABSOLUMENT :**
+❌ "Milan -1.5 vs Pise" à 1.70 → Trop évident, aucune value
+❌ "PSG victoire vs équipe de D2" → Tout le monde le sait
+❌ "Real Madrid gagne" → Pas assez d'analyse de value
+
+**EXEMPLES À CHERCHER :**
+✅ "Outsider en forme vs favori fatigué" → Market sous-estime outsider
+✅ "Over 2.5 dans match défensif" → Stats montrent autre chose
+✅ "BTTS dans match serré" → Deux attaques sous-évaluées
+
+## COMPÉTITIONS CIBLÉES
+✅ Toutes ligues nationales européennes (top 15)
+✅ Champions League, Europa League, Conference League
+✅ Qualifications Coupe du Monde et Euro
+❌ Matchs amicaux
+❌ Compétitions hors Europe
+
+## MÉTHODOLOGIE D'ANALYSE APPROFONDIE
+
+**🚨 RÈGLE ABSOLUE #0 - PROFONDEUR D'ANALYSE OBLIGATOIRE :**
+
+Tu dois produire des analyses EXCEPTIONNELLEMENT DÉTAILLÉES. Chaque section doit contenir AU MINIMUM:
+
+1. **BLESSURES**: Pour CHAQUE joueur clé absent:
+   - Son nom complet + poste
+   - Son importance dans l'équipe (statistiques de la saison: buts, passes, notes)
+   - L'impact CONCRET de son absence sur le jeu de l'équipe
+   - Le remplaçant prévu et la perte de qualité
+   - **MINIMUM 3-4 PHRASES par joueur important absent**
+
+2. **FORME RÉCENTE**:
+   - Liste des 5 derniers résultats avec SCORES EXACTS
+   - Analyse détaillée de la tendance (hausse, baisse, stabilité)
+   - Différences domicile/extérieur avec statistiques précises
+   - **MINIMUM 4-5 phrases par équipe**
+
+3. **TACTIQUE**:
+   - Système utilisé (4-3-3, 3-5-2, etc.)
+   - Joueurs clés dans ce système
+   - Points forts tactiques avec exemples concrets
+   - Points faibles exploitables
+   - Duel tactique match-up
+   - **MINIMUM 5-6 phrases sur l'aspect tactique**
+
+4. **CONCLUSION**:
+   - Synthèse de TOUS les facteurs analysés
+   - Argumentation EN PROFONDEUR (pas seulement "écart de niveau")
+   - Explication de la value bet identifiée
+   - **MINIMUM 6-8 phrases dans la conclusion**
+
+**❌ INTERDIT:**
+- Phrases courtes superficielles comme "Impact significatif"
+- Phrases non terminées ou tronquées
+- Analyses génériques sans détails concrets
+- Mentionner une blessure sans analyser son impact
+
+**✅ EXEMPLE DE PROFONDEUR ATTENDUE pour une blessure:**
+"Lukaku (attaquant, 12 buts et 5 passes en 15 matchs cette saison) est absent pour problèmes musculaires. C'est le meilleur buteur de Napoli et le point focal de l'attaque. Son absence prive l'équipe de son référent offensif et de sa capacité à fixer les défenses centrales. Raspadori, son remplaçant probable, est un profil différent (plus technique, moins physique) qui nécessite une adaptation tactique. Cette absence réduit significativement la menace offensive napolitaine, notamment sur les ballons aériens et les transitions rapides."
+
+**🚨 RÈGLE ABSOLUE #1 - SOURCE DES DONNÉES :**
+
+Tu reçois ci-dessous des données API-Football RÉELLES et VÉRIFIÉES pour chaque match.
+Ces données incluent :
+- ✅ FORME RÉCENTE avec scores exacts des 10 derniers matchs
+- ✅ CLASSEMENT ACTUEL avec position, points, bilan
+- ✅ STATS SAISON détaillées (buts, moyennes, victoires/défaites)
+- ✅ BLESSURES/SUSPENSIONS confirmées
+- ✅ COMPOSITIONS et tactiques
+- ✅ CONFRONTATIONS DIRECTES (H2H) historiques
+
+**INSTRUCTION CRITIQUE - UTILISE UNIQUEMENT CES DONNÉES :**
+1. ✅ TOUTES les stats que tu mentionnes DOIVENT provenir des données fournies ci-dessous
+2. ✅ SI une donnée est présente → UTILISE-LA textuellement
+3. ❌ SI une donnée est absente → DIS "Donnée non disponible" et NE L'INVENTE PAS
+4. ❌ INTERDICTION TOTALE d'utiliser tes connaissances janvier 2025 pour inventer des stats récentes
+5. ❌ INTERDICTION TOTALE d'inventer des scores, bilans, ou résultats
+
+**EXEMPLES CONCRETS :**
+✅ BON : "Selon les données fournies, Como 6e place avec 12 points, bilan 3V-3N-1D"
+✅ BON : "Forme récente domicile : [V] 2-0 vs Juventus, [N] 1-1 vs Atalanta, [D] 1-2 vs Fiorentina"
+❌ MAUVAIS : "Como montre une forme irrégulière avec environ 3V-3N-1D" → TU AS LES DONNÉES EXACTES, UTILISE-LES !
+❌ MAUVAIS : "Parma en difficulté avec environ 1V-3N-3D" → N'INVENTE PAS, REGARDE LES DONNÉES !
+
+### 1. FORME RÉCENTE - UTILISE LES DONNÉES FOURNIES
+
+### 2. CONFRONTATIONS DIRECTES (H2H)
+
+**Analyser 5 dernières confrontations :**
+- Date, score exact, lieu de chaque match
+- Tendance générale (quelle équipe domine ?)
+- Statistiques : moyenne de buts, cartons, etc.
+- Différence de niveau actuel vs historique
+
+**Exemple attendu :**
+"Historique : 5 derniers H2H : PSG 3V-1N-1D, dont 2 victoires au Parc des Princes (3-0 en 2023, 2-1 en 2024). Bayern n'a pas gagné à Paris depuis 2017."
+
+### 3. BLESSURES & SUSPENSIONS (Impact détaillé)
+
+**🚨 SECTION CRITIQUE - ANALYSE APPROFONDIE OBLIGATOIRE**
+
+**Pour CHAQUE équipe, tu DOIS analyser EN DÉTAIL :**
+
+1. **Lister TOUS les absents** avec:
+   - Nom complet du joueur
+   - Poste exact
+   - Raison de l'absence (blessure type, suspension, etc.)
+
+2. **Pour CHAQUE joueur clé absent (titulaire ou remplaçant important):**
+   - Statistiques de la saison (buts, passes, notes moyennes)
+   - Rôle tactique précis dans l'équipe
+   - Impact CONCRET de son absence sur le jeu collectif
+   - Remplaçant prévu et comparaison de niveau
+   - **MINIMUM 3-4 phrases par joueur important**
+
+3. **Évaluation globale:**
+   - Impact cumulé des absences (faible/modéré/majeur/critique)
+   - Secteurs de jeu affaiblis
+   - Conséquences tactiques
+
+**❌ EXEMPLE INSUFFISANT (INTERDIT):**
+"Lukaku blessé. Impact significatif."
+
+**✅ EXEMPLE PROFONDEUR ATTENDUE:**
+"Romelu Lukaku (attaquant, 27 ans) est forfait pour problèmes musculaires. C'est le meilleur buteur de Napoli avec 12 buts et 5 passes décisives en 15 matchs cette saison, soit une moyenne de 0.8 but/match. Son absence prive Napoli de son point focal offensif et de sa capacité à fixer les défenses centrales adverses. Lukaku est également crucial dans le jeu aérien (85% de duels gagnés) et sur les transitions rapides. Giacomo Raspadori devrait le remplacer, mais c'est un profil totalement différent : plus petit (1m72 vs 1m90), moins physique, plus technique et mobile. Cette absence nécessite une adaptation tactique majeure, avec probablement plus de jeu court et moins de ballons longs. La menace offensive napolitaine est significativement réduite, notamment sur coups de pieds arrêtés et phases de transition."
+
+**Cette section est CRUCIALE pour l'analyse. Ne la bâcle JAMAIS.**
+
+### 4. CALENDRIER & FATIGUE
+
+**Analyser les 7 derniers jours :**
+- Matchs joués dans les 72h précédentes
+- Nombre de matchs sur 7/14/21 jours
+- Temps de récupération
+- Rotations effectuées ou non
+- Impact sur fraîcheur physique
+
+**Exemple attendu :**
+"PSG : Dernier match il y a 4 jours (victoire 2-0, rotation de 5 joueurs). Équipe reposée. Bayern : 3 matchs en 7 jours, dont déplacement en Bundesliga il y a 48h. Fatigue probable."
+
+### 5. TACTIQUE & STYLE DE JEU
+
+**Analyser en profondeur :**
+- Système tactique habituel (4-3-3, 3-5-2, etc.)
+- Style offensif (possession, contre-attaque, jeu direct)
+- Organisation défensive (bloc bas, pressing haut)
+- Points forts tactiques
+- Points faibles exploitables
+- Duels clés (ex: attaque PSG vs défense Bayern)
+
+**Exemple attendu :**
+"PSG joue en 4-3-3 offensif avec 65% possession moyenne. Points forts : ailes rapides (Mbappé, Dembélé), transitions. Bayern en 4-2-3-1, pressing haut mais vulnérable en profondeur sans Kimmich. Duel clé : vitesse PSG vs ligne haute Bayern."
+
+### 6. CONTEXTE & ENJEU
+
+**Analyser :**
+- Position au classement et objectif
+- Importance du match (qualification, titre, maintien)
+- Pression médiatique/supporters
+- Dynamique psychologique
+- Enjeu financier ou sportif
+
+**Exemple attendu :**
+"PSG : 2e du groupe, doit gagner pour se qualifier. Pression maximale après élimination l'an dernier. Bayern : Déjà qualifié mais veut 1ère place. Motivation moyenne. Avantage psychologique PSG."
+
+### 7. AVANTAGE DOMICILE
+
+**Analyser :**
+- Statistiques domicile équipe hôte saison en cours
+- Performance extérieure visiteur
+- Impact supporters (stade plein, ambiance)
+- Conditions météo si pertinent
+- Arbitrage (tendance pour/contre équipe locale)
+
+**Exemple attendu :**
+"PSG au Parc des Princes : 12 matchs, 10V-1N-1D, 32 buts pour, 7 contre. Forteresse cette saison. Stade plein (48k supporters), ambiance hostile pour Bayern. Avantage majeur."
+
+### 8. CHOIX DU TYPE DE PARI
+
+**IMPORTANT : Choisir le type de pari le plus pertinent selon le contexte**
+
+- **1X2** : Quand un favori clair se dégage (écart de niveau, forme)
+- **Over/Under 2.5 buts** : Équipes offensives, défenses faibles, historique de matchs ouverts
+- **BTTS (Both Teams To Score)** : Deux attaques fortes, défenses perméables
+- **Handicap (-1.5)** : Très gros favoris face à une équipe largement inférieure
+- **Double Chance (1X ou X2)** : Match serré, outsider avec potentiel de résistance
+
+**Exemple :**
+"Match ouvert, deux équipes qui marquent beaucoup (moyenne 3+ buts/match). Défenses faibles des deux côtés. → **Over 2.5 buts** plus sûr que 1X2."
+
+### 9. COTES & VALUE BET
+
+**Analyser :**
+- Cote actuelle du pari proposé
+- Évolution récente des cotes (hausse/baisse)
+- Probabilité implicite vs probabilité réelle estimée
+- Value bet (cote intéressante ou non)
+
+**Exemple attendu :**
+"Cote PSG victoire : 2.10 (probabilité implicite 47.6%). Analyse suggère 55-60% de chances réelles. Value bet identifiée (+7-12% edge)."
+
+---
+
+## 🚨 RAPPEL FINAL AVANT FORMAT JSON 🚨
+
+**QUALITÉ D'ANALYSE REQUISE :**
+
+Chaque pronostic retenu DOIT contenir une analyse EXCEPTIONNELLEMENT DÉTAILLÉE avec:
+
+✅ **injuries_suspensions.impact** : MINIMUM 2-3 phrases complètes expliquant l'impact de CHAQUE joueur clé absent
+✅ **tactical_analysis** : MINIMUM 5-6 phrases sur le duel tactique, les forces/faiblesses, les matchups clés
+✅ **conclusion** : MINIMUM 6-8 phrases synthétisant TOUS les facteurs et expliquant la value bet
+✅ **key_factors_summary** : MINIMUM 4-5 points détaillés (pas juste "blessures importantes")
+
+**❌ ABSOLUMENT INTERDIT:**
+- Phrases tronquées ou non terminées
+- "Impact significatif" sans explication
+- Analyses génériques sans détails concrets
+- Mentionner une stat sans la détailler
+
+**Si ton analyse n'atteint pas ce niveau de profondeur, REJETTE le match plutôt que de produire une analyse superficielle.**
+
+---
+
+## FORMAT DE SORTIE JSON DÉTAILLÉ
+```json
+{
+  "analysis_date": "2025-10-28",
+  "total_analyzed": X,
+  "total_retained": Y,
+  
+  "recommendations": [
+    {
+      "match": "Équipe Domicile vs Équipe Extérieur",
+      "competition": "Nom compétition",
+      "kickoff": "HH:MM",
+      
+      "detailed_analysis": {
+        
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D, 14 buts pour, 3 contre",
+            "home_record": "À domicile: 3V-0N, 10 buts pour, 1 contre",
+            "trend": "Forme excellente en hausse",
+            "details": "Derniers résultats : 3-0 vs X, 2-1 vs Y, 4-0 vs Z..."
+          },
+          "away_team": {
+            "last_5_matches": "2V-2N-1D, 8 buts pour, 6 contre",
+            "away_record": "À l'extérieur: 1V-1N-1D, 3 buts pour, 4 contre",
+            "trend": "Forme moyenne, instable en déplacement",
+            "details": "Derniers résultats : 1-2 vs A, 1-1 vs B, 2-0 vs C..."
+          }
+        },
+        
+        "head_to_head": {
+          "last_5": "3V équipe domicile, 1N, 1V équipe extérieur",
+          "at_home": "2 victoires domicile sur 2 derniers matchs ici",
+          "details": "Résultats: 3-0 (2024), 2-1 (2023), 1-1 (2022), 0-2 (2021), 3-1 (2020)",
+          "trends": "Domination claire équipe domicile à la maison, moyenne 2.5 buts/match"
+        },
+        
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": ["Joueur A (blessure, poste clé)", "Joueur B (suspendu)"],
+            "impact": "Impact modéré, remplaçants compétents disponibles"
+          },
+          "away_team": {
+            "absent": ["Joueur X (gardien titulaire)", "Joueur Y (meneur de jeu, 8 buts)", "Joueur Z (suspendu)"],
+            "impact": "Impact MAJEUR : 3 titulaires absents dont 2 postes clés. Défense et création affaiblies."
+          }
+        },
+        
+        "tactical_analysis": {
+          "home_style": "4-3-3 offensif, possession 63%, pressing haut, transitions rapides sur les ailes",
+          "away_style": "4-2-3-1, pressing haut mais vulnérable en profondeur, ligne haute défensive",
+          "key_matchup": "Vitesse des ailiers domicile vs ligne haute extérieur. Avantage domicile.",
+          "predicted_approach": "Domicile va exploiter la profondeur, extérieur forcé défendre plus bas"
+        },
+        
+        "schedule_fatigue": {
+          "home_team": "4 jours repos, rotation effectuée match précédent. Équipe fraîche.",
+          "away_team": "3 matchs en 7 jours, déplacement international il y a 48h. Fatigue probable.",
+          "advantage": "Avantage physique net pour équipe domicile"
+        },
+        
+        "context_stakes": {
+          "home_situation": "2e du groupe, doit gagner pour qualification. Pression maximale mais motivation extrême.",
+          "away_situation": "Déjà qualifié, 1ère place en jeu mais pas crucial. Motivation moyenne.",
+          "psychological": "Équipe domicile plus affamée, veut revanche saison passée. Pression supporters à domicile.",
+          "overall": "Avantage mental et motivationnel équipe domicile"
+        },
+        
+        "home_advantage": {
+          "home_record_season": "10V-1N-1D à domicile, 32 buts pour, 7 contre. Forteresse.",
+          "away_record_opponent": "Résultats extérieur mitigés : 3V-2N-3D, difficulté en déplacement",
+          "atmosphere": "Stade plein, 48000 supporters, ambiance hostile pour visiteurs",
+          "weather": "Conditions normales, pas d'impact",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        
+        "odds_value": {
+          "bet_odds": 2.10,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "55-60%",
+          "value_analysis": "Value bet identifié, cote sous-évaluée de 7-12%",
+          "odds_movement": "Cote en légère baisse depuis hier (était 2.20), marché corrige"
+        },
+        
+        "key_factors_summary": [
+          "Forme exceptionnelle équipe domicile (4V-1N) vs forme instable extérieur en déplacement",
+          "3 titulaires absents côté extérieur dont gardien et meneur de jeu - impact majeur",
+          "Fatigue extérieur (3 matchs/7j) vs équipe domicile reposée",
+          "Enjeu crucial pour domicile (qualification) vs motivation moyenne extérieur",
+          "Historique favorable : 2 victoires domicile sur 2 derniers matchs à domicile"
+        ]
+      },
+      
+      "conclusion": "Tous les facteurs convergent vers une victoire domicile : forme supérieure, avantage physique (fatigue adverse), effectif complet vs 3 absents majeurs côté extérieur, motivation maximale (enjeu qualification), historique favorable à domicile, et avantage tactique (vitesse vs ligne haute). Les cotes offrent une value intéressante (7-12% edge). Risque modéré mais probabilité élevée.",
+      
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Équipe Domicile)",
+      "odds": 2.10,
+      "confidence": 78,
+      "risk_level": "Medium",
+      
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Deux attaques prolifiques, défense extérieur affaiblie"
+        }
+      ]
+    }
+  ],
+  
+  "matches_excluded": {
+    "count": Z,
+    "examples": [
+      {
+        "match": "Match X vs Y",
+        "reason": "Cote trop faible (1.30), gain insuffisant"
+      },
+      {
+        "match": "Match A vs B",
+        "reason": "Incertitude composition (5 blessés non confirmés)"
+      }
+    ]
+  },
+  
+  "combined_bet": {
+    "matches": ["Match 1 avec prédiction", "Match 2 avec prédiction"],
+    "total_odds": 3.89,
+    "confidence": 72,
+    "detailed_reasoning": "Match 1 : forte probabilité (78%). Match 2 : probabilité élevée (76%). Corrélation faible entre les deux (compétitions différentes). Risque combiné calculé : 59% (78% × 76%). Cote offre value vs risque.",
+    "risk_level": "Medium-High",
+    "IMPORTANT": "LE COMBINÉ NE DOIT JAMAIS ÊTRE VIDE. Sélectionne TOUJOURS les 2-3 meilleurs paris à combiner."
+  }
+}
+```
+
+## RÈGLES CRITIQUES
+
+1. **PROFONDEUR OBLIGATOIRE** : Chaque section doit contenir des détails concrets et vérifiables
+2. **STATS PRÉCISES** : Toujours donner chiffres, scores, dates quand mentionnés
+3. **PAS DE GÉNÉRALITÉS** : Bannir phrases vagues type "bonne forme" sans détails
+4. **PREUVES** : Chaque affirmation doit être étayée par des faits
+5. **LONGUEUR** : Une analyse complète = environ 300 mots par match minimum, peut aller jusqu'à 400-500 mots si nécessaire pour compléter les phrases
+6. **CONCLUSION SYNTHÉTIQUE** : Résumer tous les facteurs en fin d'analyse
+7. **PHRASES COMPLÈTES OBLIGATOIRES** : JAMAIS de "..." ou de phrases inachevées. Chaque phrase DOIT se terminer correctement avec un point final
+
+## AUTO-VÉRIFICATION AVANT ENVOI
+
+Pour chaque pronostic, vérifier :
+- [ ] Ai-je analysé les 5 derniers matchs des DEUX équipes ?
+- [ ] Ai-je donné des SCORES exacts et DATES ?
+- [ ] Ai-je listé TOUS les absents avec leur IMPACT ?
+- [ ] Ai-je analysé la TACTIQUE en détail ?
+- [ ] Ai-je expliqué le CONTEXTE et l'ENJEU ?
+- [ ] Ai-je donné des STATS de forme domicile/extérieur ?
+- [ ] Mon analyse fait-elle environ 300 mots (synthétique mais complète) ?
+- [ ] Chaque facteur est-il CONCRET et VÉRIFIABLE ?
+
+---
+
+═══════════════════════════════════════════════════════
+MATCHS DU JOUR - DONNÉES EXHAUSTIVES API-FOOTBALL
+═══════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #1: Lecce vs Napoli
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Serie A
+⏰ Coup d'envoi: 2025-10-28T17:30:00+00:00
+
+┌─ 📊 CLASSEMENT ACTUEL ─────────────────────────────────┐
+│ ✈️  Napoli: 1e place - 18 pts
+│    Bilan: 6V-0N-2D
+│    Buts: 15 pour, 8 contre (diff: 7)
+│    Extérieur: 2V-0N-2D
+│ 🏠 Lecce: 16e place - 6 pts
+│    Bilan: 1V-3N-4D
+│    Buts: 7 pour, 13 contre (diff: -6)
+│    Domicile: 0V-2N-2D
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 8
+│ Victoires: 1 (0 domicile)
+│ Nuls: 3
+│ Défaites: 4
+│ Buts marqués: 7 (moy: 0.9)
+│ Buts encaissés: 13 (moy: 1.6)
+│ Plus grande victoire: None
+│ Plus lourde défaite: 0-2
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 8
+│ Victoires: 6 (2 extérieur)
+│ Nuls: 0
+│ Défaites: 2
+│ Buts marqués: 15 (moy: 1.9)
+│ Buts encaissés: 8 (moy: 1.0)
+│ Plus grande victoire: 1-3
+│ Plus lourde défaite: 2-1
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [D] 2025-10-25: Udinese 3-2 Lecce
+│  2. [N] 2025-10-18: Lecce 0-0 Sassuolo
+│  3. [V] 2025-10-04: Parma 0-1 Lecce
+│  4. [N] 2025-09-28: Lecce 2-2 Bologna
+│  5. [D] 2025-09-23: AC Milan 3-0 Lecce
+│  6. [D] 2025-09-19: Lecce 1-2 Cagliari
+│  7. [D] 2025-09-14: Atalanta 4-1 Lecce
+│  8. [D] 2025-08-29: Lecce 0-2 AC Milan
+│  9. [N] 2025-08-23: Genoa 0-0 Lecce
+│ 10. [V] 2025-08-15: Lecce 2-0 Juve Stabia
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [V] 2025-10-25: Napoli 3-1 Inter
+│  2. [D] 2025-10-21: PSV Eindhoven 6-2 Napoli
+│  3. [D] 2025-10-18: Torino 1-0 Napoli
+│  4. [V] 2025-10-05: Napoli 2-1 Genoa
+│  5. [V] 2025-10-01: Napoli 2-1 Sporting CP
+│  6. [D] 2025-09-28: AC Milan 2-1 Napoli
+│  7. [V] 2025-09-22: Napoli 3-2 Pisa
+│  8. [D] 2025-09-18: Manchester City 2-0 Napoli
+│  9. [V] 2025-09-13: Fiorentina 1-3 Napoli
+│ 10. [V] 2025-08-30: Napoli 1-0 Cagliari
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2025-05-03: Lecce 0-1 Napoli
+│  2. 2024-10-26: Napoli 1-0 Lecce
+│  3. 2024-05-26: Napoli 0-0 Lecce
+│  4. 2023-09-30: Lecce 0-4 Napoli
+│  5. 2023-04-07: Lecce 1-2 Napoli
+│  6. 2022-08-31: Napoli 1-1 Lecce
+│  7. 2020-02-09: Napoli 2-3 Lecce
+│  8. 2019-09-22: Lecce 1-4 Napoli
+│  9. 2012-04-25: Lecce 0-2 Napoli
+│ 10. 2011-12-03: Napoli 4-2 Lecce
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS DOMICILE ───────────────────┐
+│ ❌ Lameck Banda: Red card Suspended
+│ ❌ F. Marchwiński: Jumpers knee
+│ ❌ F. Marchwiński: Jumpers knee
+│ ❌ F. Marchwiński: Jumpers knee
+│ ❌ F. Marchwiński: Jumpers knee
+│ ❌ F. Marchwiński: Jumpers knee
+│ ❌ F. Marchwiński: Jumpers knee
+│ ❌ F. Marchwiński: Jumpers knee
+│ ❌ F. Marchwiński: Jumpers knee
+│ ❌ F. Marchwiński: Jumpers knee
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Amir Rrahmani: Wound
+│ ❌ R. Lukaku: Thigh problems
+│ ❌ R. Lukaku: Thigh problems
+│ ❌ R. Lukaku: Thigh problems
+│ ❌ Miguel Gutiérrez: Sprained ankle
+│ ❌ Miguel Gutiérrez: Sprained ankle
+│ ❌ Miguel Gutiérrez: Sprained ankle
+│ ❌ David Neres: Muscle bruise
+│ ❌ N. Contini: Hand Injury
+│ ❌ R. Lukaku: Thigh Injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: Napoli
+│ Conseil: Double chance : draw or Napoli
+│ Forme: 36% vs 64%
+│ Att: 40% vs 60%
+│ Def: 50% vs 50%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. R. Orsolini (Bologna): 5 buts
+│  2. N. Paz (Como): 4 buts
+│  3. C. Pulišić (AC Milan): 4 buts
+│  4. ✈️ K. De Bruyne (Napoli): 4 buts
+│  5. A. Bonny (Inter): 3 buts
+│  6. M. Soulé (AS Roma): 3 buts
+│  7. Lautaro Martínez (Inter): 3 buts
+│  8. ✈️ A. Zambo Anguissa (Napoli): 3 buts
+│  9. M. Thuram (Inter): 3 buts
+│ 10. G. Simeone (Torino): 3 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. N. Paz (Como): 4 passes
+│  2. A. Bonny (Inter): 3 passes
+│  3. N. Krstović (Atalanta): 3 passes
+│  4. F. Dimarco (Inter): 3 passes
+│  5. V. Castellanos (Lazio): 3 passes
+│  6. K. Yıldız (Juventus): 3 passes
+│  7. J. Vandeputte (Cremonese): 3 passes
+│  8. Giovane (Verona): 3 passes
+│  9. C. Pulišić (AC Milan): 2 passes
+│ 10. M. Soulé (AS Roma): 2 passes
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: E. Di Francesco (Italy, 56 ans)
+│ En poste depuis: 2008-06-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: A. Conte (Italy, 56 ans)
+│ En poste depuis: 2006-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Luigi Gianfreda: Lecce → Virtus Francavilla (Free, 2021-08-08)
+│ ⬆️ Mario Pacilli: Lecce → Viterbese (N/A, 2018-08-30)
+│ ⬆️ A. Tabanelli: Lecce → Frosinone (€ 262.8K, 2020-01-15)
+│ ⬆️ Luca Di Matteo: Lecce → Teramo (Free, 2019-07-12)
+│ ⬆️ Ângelo Mariano De Almeida: Lecce → Parma (Free, 2010-09-01)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Diego Acunzo: Napoli → Fermana (Loan, 2017-07-14)
+│ ⬇️ Raphael Mollet: Dijon W → Napoli (Free, 2020-07-12)
+│ ⬆️ Edoardo Calzola: Napoli → Fermana (N/A, 2018-08-17)
+│ ⬆️ I. Fideleff: Napoli → Tigre (Loan, 2013-08-05)
+│ ⬆️ Pio Schiavi: Napoli → Imolese (Free, 2019-08-26)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #2: Eintracht Frankfurt vs Borussia Dortmund
+████████████████████████████████████████████████████████████
+
+📍 Compétition: DFB Pokal
+⏰ Coup d'envoi: 2025-10-28T17:30:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 1
+│ Victoires: 1 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 5 (moy: 5.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 1
+│ Victoires: 1 (1 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 1 (moy: 1.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: 0-1
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: Eintracht Frankfurt 2-0 FC St. Pauli
+│  2. [D] 2025-10-22: Eintracht Frankfurt 1-5 Liverpool
+│  3. [N] 2025-10-19: SC Freiburg 2-2 Eintracht Frankfurt
+│  4. [D] 2025-10-04: Eintracht Frankfurt 0-3 Bayern München
+│  5. [D] 2025-09-30: Atletico Madrid 5-1 Eintracht Frankfurt
+│  6. [V] 2025-09-27: Borussia Mönchengladbach 4-6 Eintracht Frankfurt
+│  7. [D] 2025-09-21: Eintracht Frankfurt 3-4 Union Berlin
+│  8. [V] 2025-09-18: Eintracht Frankfurt 5-1 Galatasaray
+│  9. [D] 2025-09-12: Bayer Leverkusen 3-1 Eintracht Frankfurt
+│ 10. [V] 2025-08-30: 1899 Hoffenheim 1-3 Eintracht Frankfurt
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [V] 2025-10-25: Borussia Dortmund 1-0 1.FC Köln
+│  2. [V] 2025-10-21: FC Copenhagen 2-4 Borussia Dortmund
+│  3. [D] 2025-10-18: Bayern München 2-1 Borussia Dortmund
+│  4. [N] 2025-10-04: Borussia Dortmund 1-1 RB Leipzig
+│  5. [V] 2025-10-01: Borussia Dortmund 4-1 Athletic Club
+│  6. [V] 2025-09-27: FSV Mainz 05 0-2 Borussia Dortmund
+│  7. [V] 2025-09-21: Borussia Dortmund 1-0 VfL Wolfsburg
+│  8. [N] 2025-09-16: Juventus 4-4 Borussia Dortmund
+│  9. [V] 2025-09-13: 1. FC Heidenheim 0-2 Borussia Dortmund
+│ 10. [V] 2025-08-31: Borussia Dortmund 3-0 Union Berlin
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2025-01-17: Eintracht Frankfurt 2-0 Borussia Dortmund
+│  2. 2024-08-24: Borussia Dortmund 2-0 Eintracht Frankfurt
+│  3. 2024-03-17: Borussia Dortmund 3-1 Eintracht Frankfurt
+│  4. 2023-10-29: Eintracht Frankfurt 3-3 Borussia Dortmund
+│  5. 2023-04-22: Borussia Dortmund 4-0 Eintracht Frankfurt
+│  6. 2022-10-29: Eintracht Frankfurt 1-2 Borussia Dortmund
+│  7. 2022-01-08: Eintracht Frankfurt 2-3 Borussia Dortmund
+│  8. 2021-08-14: Borussia Dortmund 5-2 Eintracht Frankfurt
+│  9. 2021-04-03: Borussia Dortmund 1-2 Eintracht Frankfurt
+│ 10. 2020-12-05: Eintracht Frankfurt 1-1 Borussia Dortmund
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS DOMICILE ───────────────────┐
+│ ❌ Nathaniel Brown: Hamstring Injury
+│ ❌ Ellyes Skhiri: Knee Problems
+│ ❌ Kaua Santos: Ruptured cruciate ligament
+│ ❌ Nathaniel Brown: Injured Doubtful
+│ ❌ Ellyes Skhiri: Injured Doubtful
+│ ❌ Jessic Ngankam: Tibia and Fibula Fracture
+│ ❌ Kauã Santos: Fitness
+│ ❌ Kauã Santos: Fitness
+│ ❌ Kauã Santos: Fitness
+│ ❌ M. Götze: Muscle bruise
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Emre Can: Adductor problems
+│ ❌ Niklas Sule: Muscle Injury
+│ ❌ Nico Schlotterbeck: Torn Meniscus
+│ ❌ Julien Duranville: Acromioclavicular joint disloc
+│ ❌ F. Mané: Red Card
+│ ❌ S. Ostrzinski: Illness
+│ ❌ N. Süle: Calf Injury
+│ ❌ N. Süle: Calf Injury
+│ ❌ N. Süle: Calf Injury
+│ ❌ J. Duranville: Shoulder injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: Borussia Dortmund
+│ Conseil: Combo Double chance : draw or Borussia Dortmund and +2.5 goals
+│ Forme: 50% vs 50%
+│ Att: 83% vs 17%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. S. Appelkamp (Fortuna Düsseldorf): 2 buts
+│  2. Max Moerstedt (1899 Hoffenheim): 2 buts
+│  3. A. Grimaldi (SC Paderborn 07): 2 buts
+│  4. R. Ghrieb (1. FC Magdeburg): 2 buts
+│  5. F. Kaya (SV Wehen): 2 buts
+│  6. 🏠 R. Dōan (Eintracht Frankfurt): 2 buts
+│  7. R. Hack (Borussia Mönchengladbach): 2 buts
+│  8. F. Di Michele Sanchez (Eintracht Braunschweig): 2 buts
+│  9. E. Demirović (VfB Stuttgart): 2 buts
+│ 10. H. Kane (Bayern München): 2 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. R. Ache (1.FC Köln): 2 passes
+│  2. K. Stöger (Borussia Mönchengladbach): 2 passes
+│  3. D. Hausmann (Illertissen): 2 passes
+│  4. S. Appelkamp (Fortuna Düsseldorf): 1 passes
+│  5. 🏠 E. Wahi (Eintracht Frankfurt): 1 passes
+│  6. F. Asllani (1899 Hoffenheim): 1 passes
+│  7. S. Köhler (Eintracht Braunschweig): 1 passes
+│  8. A. Ilić (Union Berlin): 1 passes
+│  9. F. Muslija (Fortuna Düsseldorf): 1 passes
+│ 10. W. Burger (1899 Hoffenheim): 1 passes
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: D. Toppmöller (Germany, 45 ans)
+│ En poste depuis: 2014-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: N. Kovač (Croatia, 54 ans)
+│ En poste depuis: 2013-01-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ V. Demidov: Eintracht Frankfurt → Anzhi (Free, 2013-09-02)
+│ ⬆️ Nelson Antonio Haedo Valdez: Eintracht Frankfurt → Seattle Sounders (N/A, 2015-08-07)
+│ ⬇️ J. Schröder: Eintracht Frankf U19 → Eintracht Frankfurt (N/A, 2022-07-01)
+│ ⬆️ Yusupha Yaffa: Eintracht Frankfurt → Triestina (N/A, 2021-07-20)
+│ ⬆️ A. Meier: Eintracht Frankfurt → FC St. Pauli (N/A, 2019-01-06)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬇️ D. Zagadou: Paris Saint Germain → Borussia Dortmund (Free, 2017-07-01)
+│ ⬆️ Nelson Antonio Haedo Valdez: Borussia Dortmund → Hércules (€ 3.5M, 2010-08-16)
+│ ⬆️ Berkant Güner: Borussia Dortmund → Eintracht Braunschweig (Free, 2016-07-01)
+│ ⬆️ C. van der Gun: Borussia Dortmund → Utrecht (Free, 2006-07-01)
+│ ⬆️ D. Gentenaar: Borussia Dortmund → Ajax (Free, 2006-08-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #3: VfL Wolfsburg vs Holstein Kiel
+████████████████████████████████████████████████████████████
+
+📍 Compétition: DFB Pokal
+⏰ Coup d'envoi: 2025-10-28T17:30:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 1
+│ Victoires: 1 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 9 (moy: 9.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 1
+│ Victoires: 1 (1 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 2 (moy: 2.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: 0-2
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: Hamburger SV 0-1 VfL Wolfsburg
+│  2. [D] 2025-10-18: VfL Wolfsburg 0-3 VfB Stuttgart
+│  3. [D] 2025-10-08: VfL Wolfsburg 0-2 Hertha BSC
+│  4. [D] 2025-10-04: FC Augsburg 3-1 VfL Wolfsburg
+│  5. [D] 2025-09-27: VfL Wolfsburg 0-1 RB Leipzig
+│  6. [D] 2025-09-21: Borussia Dortmund 1-0 VfL Wolfsburg
+│  7. [N] 2025-09-13: VfL Wolfsburg 3-3 1.FC Köln
+│  8. [N] 2025-08-31: VfL Wolfsburg 1-1 FSV Mainz 05
+│  9. [V] 2025-08-23: 1. FC Heidenheim 1-3 VfL Wolfsburg
+│ 10. [V] 2025-08-16: Hemelingen 0-9 VfL Wolfsburg
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [N] 2025-10-25: Holstein Kiel 1-1 VfL Bochum
+│  2. [N] 2025-10-19: 1. FC Nürnberg 1-1 Holstein Kiel
+│  3. [D] 2025-10-09: Holstein Kiel 0-2 Aarhus
+│  4. [N] 2025-10-04: Holstein Kiel 1-1 SV Darmstadt 98
+│  5. [D] 2025-09-27: SV Elversberg 1-0 Holstein Kiel
+│  6. [V] 2025-09-21: Holstein Kiel 3-0 Karlsruher SC
+│  7. [V] 2025-09-13: FC Schalke 04 0-1 Holstein Kiel
+│  8. [D] 2025-08-30: Holstein Kiel 1-2 Hannover 96
+│  9. [V] 2025-08-24: SpVgg Greuther Fürth 0-2 Holstein Kiel
+│ 10. [V] 2025-08-17: FC 08 Homburg 0-2 Holstein Kiel
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2025-01-24: VfL Wolfsburg 2-2 Holstein Kiel
+│  2. 2024-08-31: Holstein Kiel 0-2 VfL Wolfsburg
+│  3. 2021-07-14: VfL Wolfsburg 0-1 Holstein Kiel
+│  4. 2020-08-22: VfL Wolfsburg 2-0 Holstein Kiel
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS DOMICILE ───────────────────┐
+│ ❌ Rogerio: Muscular problems
+│ ❌ Kevin Paredes: Foot surgery
+│ ❌ Jonas Older Wind: Muscular problems
+│ ❌ Mohamed Amoura: Hamstring Injury
+│ ❌ J. Lindstrøm: Groin operation
+│ ❌ J. Lindstrøm: Groin operation
+│ ❌ K. Paredes: Foot injury
+│ ❌ K. Paredes: Foot injury
+│ ❌ K. Paredes: Foot injury
+│ ❌ Rogério: Muscle bruise
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Andu Yobel Kelati: Knee injury
+│ ❌ Mladen Cvjetinovic: Laceration of inferior tibiofi
+│ ❌ P. Erras: Concussion
+│ ❌ P. Erras: Concussion
+│ ❌ P. Erras: Concussion
+│ ❌ P. Erras: Concussion
+│ ❌ P. Erras: Concussion
+│ ❌ P. Erras: Concussion
+│ ❌ P. Erras: Concussion
+│ ❌ P. Erras: Concussion
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: VfL Wolfsburg
+│ Conseil: Combo Winner : VfL Wolfsburg and +6.5 goals
+│ Forme: 50% vs 50%
+│ Att: 82% vs 18%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. S. Appelkamp (Fortuna Düsseldorf): 2 buts
+│  2. Max Moerstedt (1899 Hoffenheim): 2 buts
+│  3. A. Grimaldi (SC Paderborn 07): 2 buts
+│  4. R. Ghrieb (1. FC Magdeburg): 2 buts
+│  5. F. Kaya (SV Wehen): 2 buts
+│  6. R. Dōan (Eintracht Frankfurt): 2 buts
+│  7. R. Hack (Borussia Mönchengladbach): 2 buts
+│  8. F. Di Michele Sanchez (Eintracht Braunschweig): 2 buts
+│  9. E. Demirović (VfB Stuttgart): 2 buts
+│ 10. H. Kane (Bayern München): 2 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. R. Ache (1.FC Köln): 2 passes
+│  2. K. Stöger (Borussia Mönchengladbach): 2 passes
+│  3. D. Hausmann (Illertissen): 2 passes
+│  4. S. Appelkamp (Fortuna Düsseldorf): 1 passes
+│  5. E. Wahi (Eintracht Frankfurt): 1 passes
+│  6. F. Asllani (1899 Hoffenheim): 1 passes
+│  7. S. Köhler (Eintracht Braunschweig): 1 passes
+│  8. A. Ilić (Union Berlin): 1 passes
+│  9. F. Muslija (Fortuna Düsseldorf): 1 passes
+│ 10. W. Burger (1899 Hoffenheim): 1 passes
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: R. Hasenhüttl (Austria, 58 ans)
+│ En poste depuis: 2011-01-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: M. Rapp (Germany, 46 ans)
+│ En poste depuis: 2017-03-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Obafemi Akinwunmi Martins: VfL Wolfsburg → Rubin (€ 9M, 2010-07-01)
+│ ⬆️ Ivica Olić: VfL Wolfsburg → Elazığ Belediyespor SK (1.5M €, 300115)
+│ ⬆️ Cícero: VfL Wolfsburg → Sao Paulo (Free, 2011-07-05)
+│ ⬆️ Maximilian Krüger: VfL Wolfsburg → TSV 1860 Munich (N/A, 2016-07-01)
+│ ⬆️ Felipe Lopes: VfL Wolfsburg → Chaves (Free, 2016-07-04)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬇️ A. Ignjovski: FC Magdeburg → Holstein Kiel (Free, 2019-07-21)
+│ ⬆️ Tjark Alfons Grundmann: Holstein Kiel → Altona 93 (Free, 2017-07-01)
+│ ⬆️ T. Harder: Holstein Kiel → Wiedenbrück (Free, 2018-01-30)
+│ ⬆️ L. Kruse: Holstein Kiel → Eintracht Braunschweig (N/A, 2018-10-02)
+│ ⬆️ Evans Owusu Nyarko: Holstein Kiel → SV Wehen (Free, 2017-01-25)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #4: 1. FC Heidenheim vs Hamburger SV
+████████████████████████████████████████████████████████████
+
+📍 Compétition: DFB Pokal
+⏰ Coup d'envoi: 2025-10-28T17:30:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 1
+│ Victoires: 1 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 5 (moy: 5.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 1
+│ Victoires: 1 (1 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 2 (moy: 2.0)
+│ Buts encaissés: 1 (moy: 1.0)
+│ Plus grande victoire: 1-2
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [D] 2025-10-25: 1899 Hoffenheim 3-1 1. FC Heidenheim
+│  2. [N] 2025-10-18: 1. FC Heidenheim 2-2 Werder Bremen
+│  3. [D] 2025-10-09: 1. FC Heidenheim 0-1 SpVgg Greuther Fürth
+│  4. [D] 2025-10-05: VfB Stuttgart 1-0 1. FC Heidenheim
+│  5. [V] 2025-09-27: 1. FC Heidenheim 2-1 FC Augsburg
+│  6. [D] 2025-09-20: Hamburger SV 2-1 1. FC Heidenheim
+│  7. [D] 2025-09-13: 1. FC Heidenheim 0-2 Borussia Dortmund
+│  8. [D] 2025-08-30: RB Leipzig 2-0 1. FC Heidenheim
+│  9. [D] 2025-08-23: 1. FC Heidenheim 1-3 VfL Wolfsburg
+│ 10. [V] 2025-08-16: Bahlinger SC 0-5 1. FC Heidenheim
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [D] 2025-10-25: Hamburger SV 0-1 VfL Wolfsburg
+│  2. [D] 2025-10-18: RB Leipzig 2-1 Hamburger SV
+│  3. [V] 2025-10-05: Hamburger SV 4-0 FSV Mainz 05
+│  4. [N] 2025-09-28: Union Berlin 0-0 Hamburger SV
+│  5. [V] 2025-09-20: Hamburger SV 2-1 1. FC Heidenheim
+│  6. [D] 2025-09-13: Bayern München 5-0 Hamburger SV
+│  7. [D] 2025-08-29: Hamburger SV 0-2 FC St. Pauli
+│  8. [N] 2025-08-24: Borussia Mönchengladbach 0-0 Hamburger SV
+│  9. [V] 2025-08-16: Pirmasens 1-2 Hamburger SV
+│ 10. [D] 2025-08-09: Mallorca 2-0 Hamburger SV
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2025-09-20: Hamburger SV 2-1 1. FC Heidenheim
+│  2. 2023-02-11: FC Heidenheim 3-3 Hamburger SV
+│  3. 2022-08-06: Hamburger SV 1-0 FC Heidenheim
+│  4. 2022-02-12: Hamburger SV 2-0 FC Heidenheim
+│  5. 2021-08-28: FC Heidenheim 0-0 Hamburger SV
+│  6. 2021-03-20: Hamburger SV 2-0 FC Heidenheim
+│  7. 2020-11-29: FC Heidenheim 3-2 Hamburger SV
+│  8. 2020-06-21: FC Heidenheim 2-1 Hamburger SV
+│  9. 2019-12-06: Hamburger SV 0-1 FC Heidenheim
+│ 10. 2019-02-16: FC Heidenheim 2-2 Hamburger SV
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS DOMICILE ───────────────────┐
+│ ❌ Benedikt Gimber: Inguinal Hernia
+│ ❌ Marvin Pieringer: Ankle Injury
+│ ❌ Frank Feller: Sideband tear in the knee
+│ ❌ Adrian Beck: Bruise
+│ ❌ Thomas Keller: Ankle Injury
+│ ❌ Marvin Pieringer: Ankle Injury
+│ ❌ Frank Feller: Sideband tear in the knee
+│ ❌ F. Feller: Knee Injury
+│ ❌ M. Honsak: Muscle Injury
+│ ❌ T. Keller: Knee Injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Yussuf Yurary Poulsen: Strain
+│ ❌ Jean-Luc Dompe: Ankle Injury
+│ ❌ Immanuel Pherai: Intraarticular ligament crack 
+│ ❌ Yussuf Yurary Poulsen: Injured Doubtful
+│ ❌ Jean-Luc Dompe: Ankle Injury
+│ ❌ Immanuel Pherai: Intraarticular ligament crack 
+│ ❌ S. Hefti: Hip injury
+│ ❌ S. Hefti: Hip injury
+│ ❌ R. Glatzel: Achilles tendon problems
+│ ❌ R. Glatzel: Achilles tendon problems
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: 1. FC Heidenheim
+│ Conseil: Combo Winner : 1. FC Heidenheim and +1.5 goals
+│ Forme: 50% vs 50%
+│ Att: 71% vs 29%
+│ Def: 100% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. S. Appelkamp (Fortuna Düsseldorf): 2 buts
+│  2. Max Moerstedt (1899 Hoffenheim): 2 buts
+│  3. A. Grimaldi (SC Paderborn 07): 2 buts
+│  4. R. Ghrieb (1. FC Magdeburg): 2 buts
+│  5. F. Kaya (SV Wehen): 2 buts
+│  6. R. Dōan (Eintracht Frankfurt): 2 buts
+│  7. R. Hack (Borussia Mönchengladbach): 2 buts
+│  8. F. Di Michele Sanchez (Eintracht Braunschweig): 2 buts
+│  9. E. Demirović (VfB Stuttgart): 2 buts
+│ 10. H. Kane (Bayern München): 2 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. R. Ache (1.FC Köln): 2 passes
+│  2. K. Stöger (Borussia Mönchengladbach): 2 passes
+│  3. D. Hausmann (Illertissen): 2 passes
+│  4. S. Appelkamp (Fortuna Düsseldorf): 1 passes
+│  5. E. Wahi (Eintracht Frankfurt): 1 passes
+│  6. F. Asllani (1899 Hoffenheim): 1 passes
+│  7. S. Köhler (Eintracht Braunschweig): 1 passes
+│  8. A. Ilić (Union Berlin): 1 passes
+│  9. F. Muslija (Fortuna Düsseldorf): 1 passes
+│ 10. W. Burger (1899 Hoffenheim): 1 passes
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: F. Schmidt (Germany, 51 ans)
+│ En poste depuis: 2007-09-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: M. Polzin (Germany, 35 ans)
+│ En poste depuis: 2024-02-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ A. Meier: Hamburger SV → Eintracht Frankfurt (€ 650K, 2004-07-01)
+│ ⬇️ M. Schober: FC Schalke 04 → Hamburger SV (Loan, 2000-07-01)
+│ ⬆️ C. Benjamin: Hamburger SV → TSV 1860 Munich (Free, 2011-07-01)
+│ ⬆️ J. Mathijsen: Hamburger SV → Malaga (€ 2.5M, 2011-07-01)
+│ ⬆️ Eljero George Rinaldo Elia: Hamburger SV → Juventus (€ 9M, 2011-08-31)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #5: Hertha BSC vs SV Elversberg
+████████████████████████████████████████████████████████████
+
+📍 Compétition: DFB Pokal
+⏰ Coup d'envoi: 2025-10-28T17:30:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 1
+│ Victoires: 0 (0 domicile)
+│ Nuls: 1
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 1
+│ Victoires: 1 (1 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 1 (moy: 1.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: 0-1
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: Hertha BSC 1-0 Fortuna Düsseldorf
+│  2. [D] 2025-10-18: VfL Bochum 3-2 Hertha BSC
+│  3. [V] 2025-10-08: VfL Wolfsburg 0-2 Hertha BSC
+│  4. [V] 2025-10-04: Hertha BSC 2-1 Preußen Münster
+│  5. [V] 2025-09-28: 1. FC Nürnberg 0-3 Hertha BSC
+│  6. [D] 2025-09-20: Hertha BSC 0-2 SC Paderborn 07
+│  7. [V] 2025-09-13: Hannover 96 0-3 Hertha BSC
+│  8. [D] 2025-08-29: Hertha BSC 0-2 SV Elversberg
+│  9. [N] 2025-08-24: SV Darmstadt 98 0-0 Hertha BSC
+│ 10. [N] 2025-08-18: Preußen Münster 0-0 Hertha BSC
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [D] 2025-10-25: Arminia Bielefeld 2-0 SV Elversberg
+│  2. [V] 2025-10-19: SV Elversberg 6-0 SpVgg Greuther Fürth
+│  3. [D] 2025-10-09: VfB Stuttgart 2-0 SV Elversberg
+│  4. [V] 2025-10-05: 1. FC Magdeburg 0-4 SV Elversberg
+│  5. [V] 2025-09-27: SV Elversberg 1-0 Holstein Kiel
+│  6. [V] 2025-09-20: Eintracht Braunschweig 1-4 SV Elversberg
+│  7. [N] 2025-09-14: SV Elversberg 2-2 Dynamo Dresden
+│  8. [V] 2025-08-29: Hertha BSC 0-2 SV Elversberg
+│  9. [V] 2025-08-22: SV Elversberg 2-1 1. FC Kaiserslautern
+│ 10. [V] 2025-08-17: SSV Ulm 1846 0-1 SV Elversberg
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2025-08-29: Hertha BSC 0-2 SV Elversberg
+│  2. 2025-03-02: SV Elversberg 4-0 Hertha BSC
+│  3. 2024-09-29: Hertha BSC 1-4 SV Elversberg
+│  4. 2024-05-05: SV Elversberg 4-2 Hertha Berlin
+│  5. 2023-12-03: Hertha Berlin 5-1 SV Elversberg
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS DOMICILE ───────────────────┐
+│ ❌ John Anthony Brooks: Calf muscle tear
+│ ❌ Marius Gersbeck: Shoulder injury
+│ ❌ Kevin Sessa: Muscular problems
+│ ❌ Luca Schuler: fitness
+│ ❌ Pascal Klemens: Ankle Injury
+│ ❌ Tim Goller: Shoulder injury
+│ ❌ John Anthony Brooks: Calf muscle tear
+│ ❌ Marius Gersbeck: Shoulder injury
+│ ❌ Paul Seguin: Calf Injury
+│ ❌ Luca Schuler: fitness
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Luca Pfeiffer: Foot surgery
+│ ❌ Luca Pfeiffer: Foot surgery
+│ ❌ Luca Pfeiffer: Foot surgery
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: SV Elversberg
+│ Conseil: Combo Double chance : draw or SV Elversberg and -2.5 goals
+│ Forme: 25% vs 75%
+│ Att: 0% vs 100%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. S. Appelkamp (Fortuna Düsseldorf): 2 buts
+│  2. Max Moerstedt (1899 Hoffenheim): 2 buts
+│  3. A. Grimaldi (SC Paderborn 07): 2 buts
+│  4. R. Ghrieb (1. FC Magdeburg): 2 buts
+│  5. F. Kaya (SV Wehen): 2 buts
+│  6. R. Dōan (Eintracht Frankfurt): 2 buts
+│  7. R. Hack (Borussia Mönchengladbach): 2 buts
+│  8. F. Di Michele Sanchez (Eintracht Braunschweig): 2 buts
+│  9. E. Demirović (VfB Stuttgart): 2 buts
+│ 10. H. Kane (Bayern München): 2 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. R. Ache (1.FC Köln): 2 passes
+│  2. K. Stöger (Borussia Mönchengladbach): 2 passes
+│  3. D. Hausmann (Illertissen): 2 passes
+│  4. S. Appelkamp (Fortuna Düsseldorf): 1 passes
+│  5. E. Wahi (Eintracht Frankfurt): 1 passes
+│  6. F. Asllani (1899 Hoffenheim): 1 passes
+│  7. S. Köhler (Eintracht Braunschweig): 1 passes
+│  8. A. Ilić (Union Berlin): 1 passes
+│  9. F. Muslija (Fortuna Düsseldorf): 1 passes
+│ 10. W. Burger (1899 Hoffenheim): 1 passes
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Cristian Fiél (Germany, 45 ans)
+│ En poste depuis: 2016-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: V. Wagner (Germany, 39 ans)
+│ En poste depuis: 2021-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬇️ R. Fellhauer: Freiburg II → SV Elversberg (None, 2019-09-02)
+│ ⬆️ Oliver Oschkenat: SV Elversberg → VfR Aalen (Free, 2020-08-24)
+│ ⬇️ S. Bohl: MSV Duisburg → SV Elversberg (Free, 2016-07-01)
+│ ⬇️ L. Grech: VfR Aalen → SV Elversberg (N/A, 2015-07-01)
+│ ⬆️ Mario Cancar: SV Elversberg → FC Astoria Walldorf (Free, 2017-07-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #6: Atlético Tordesillas vs Burgos
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T18:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: La Virgen del Camino 0-1 Atlético Tordesillas
+│  2. [V] 2025-10-19: Atlético Tordesillas 2-0 Atlético Mansillés
+│  3. [V] 2025-10-11: Atlético Tordesillas 1-0 Mirandés II
+│  4. [V] 2025-10-04: Numancia II 0-2 Atlético Tordesillas
+│  5. [D] 2025-09-27: Atlético Tordesillas 0-1 Cristo Atlético
+│  6. [V] 2025-09-20: Villaralbo 0-2 Atlético Tordesillas
+│  7. [N] 2025-09-13: Atlético Tordesillas 0-0 Colegios Diocesanos
+│  8. [N] 2025-09-06: Unionistas II 1-1 Atlético Tordesillas
+│  9. [V] 2025-06-07: Atlético Tordesillas 3-1 Burgos Promesas
+│ 10. [D] 2025-06-01: Burgos Promesas 3-0 Atlético Tordesillas
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [V] 2025-10-25: Burgos 1-0 Real Sociedad II
+│  2. [V] 2025-10-20: Cadiz 1-3 Burgos
+│  3. [D] 2025-10-12: Burgos 0-1 Valladolid
+│  4. [D] 2025-10-04: Huesca 2-1 Burgos
+│  5. [V] 2025-09-28: Burgos 2-1 Malaga
+│  6. [N] 2025-09-22: Burgos 1-1 Granada CF
+│  7. [V] 2025-09-14: Sporting Gijon 2-3 Burgos
+│  8. [N] 2025-09-07: Burgos 0-0 Las Palmas
+│  9. [D] 2025-08-31: FC Andorra 2-1 Burgos
+│ 10. [N] 2025-08-24: Deportivo La Coruna 0-0 Burgos
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Kevin Appin: Ruptured cruciate ligament
+│ ❌ David González: Wound
+│ ❌ Iván Chapela: Wound
+│ ❌ Iñigo Córdoba: Muscle bruise
+│ ❌ Iñigo Córdoba: Muscle bruise
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Jorge Marchena (Spain, None ans)
+│ En poste depuis: 2023-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Luis Miguel Ramis (Spain, 55 ans)
+│ En poste depuis: 2013-09-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Aitor Delgado Arenillas: Atlético Tordesillas → Elazığ Belediyespor SK (None, 2021-07-01)
+│ ⬇️ William da Silva Oliveira: UE Engordany → Atlético Tordesillas (N/A, 2021-10-29)
+│ ⬇️ Santiago Daniel Nicolás Gutiérrez: Cristo Atlético → Atlético Tordesillas (N/A, 2021-07-18)
+│ ⬆️ Sergio Prada Gallego: Atlético Tordesillas → Atlético Astorga (N/A, 2021-07-01)
+│ ⬆️ Daniel Blanco Rodriguez: Atlético Tordesillas → La Granja (N/A, 2020-07-01)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Rodrigo Pérez Romo: Burgos → Atlético Ibañés (N/A, 2018-07-01)
+│ ⬇️ Steylor Christian da Silva Sales: Arandina → Burgos (N/A, 2020-08-04)
+│ ⬆️ José María Zamora Ballabriga: Burgos → Atlético Monzón (N/A, 2019-07-01)
+│ ⬆️ Jorge Martínez de Sept Romano: Burgos → Bupolsa (N/A, 2020-07-01)
+│ ⬆️ Germán Marijuán Sánchez: Burgos → Bupolsa (N/A, 2018-07-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #7: Constància vs Girona
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T18:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [D] 2025-10-25: Alcúdia 1-0 Constància
+│  2. [V] 2025-10-18: Constància 3-0 Binissalem
+│  3. [D] 2025-10-12: Mallorca II 2-0 Constància
+│  4. [V] 2025-10-04: Constància 1-0 Felanitx
+│  5. [D] 2025-09-27: Platges Calvià 3-2 Constància
+│  6. [V] 2025-09-20: Constància 1-0 Peña Deportiva
+│  7. [N] 2025-09-14: Formentera 2-2 Constància
+│  8. [V] 2025-09-06: Constància 4-0 Portmany
+│  9. [D] 2025-05-24: Constància 0-1 Penya Independent
+│ 10. [N] 2025-05-17: Penya Independent 1-1 Constància
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [N] 2025-10-25: Girona 3-3 Oviedo
+│  2. [D] 2025-10-18: Barcelona 2-1 Girona
+│  3. [V] 2025-10-04: Girona 2-1 Valencia
+│  4. [N] 2025-09-26: Girona 0-0 Espanyol
+│  5. [N] 2025-09-23: Athletic Club 1-1 Girona
+│  6. [D] 2025-09-20: Girona 0-4 Levante
+│  7. [N] 2025-09-14: Celta Vigo 1-1 Girona
+│  8. [D] 2025-08-30: Girona 0-2 Sevilla
+│  9. [D] 2025-08-24: Villarreal 5-0 Girona
+│ 10. [D] 2025-08-15: Girona 1-3 Rayo Vallecano
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Donny van de Beek: Injury
+│ ❌ Abel Ruiz: injured
+│ ❌ Miguel Ortega Gutierrez: Ankle surgery
+│ ❌ Paulo Gazzaniga: Suspension
+│ ❌ Donny van de Beek: injured
+│ ❌ Abel Ruiz: injured
+│ ❌ Y. Herrera: Hamstring muscle injury
+│ ❌ Juan Carlos: Jumpers knee
+│ ❌ V. Tsygankov: Leg Injury
+│ ❌ V. Tsygankov: Leg Injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Guillermo Llaneras (Spain, 51 ans)
+│ En poste depuis: 2018-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Míchel (Spain, 50 ans)
+│ En poste depuis: 2017-02-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Juan Manuel Bravo Runno: Constància → Santa Catalina Atlético (N/A, 2021-01-01)
+│ ⬆️ Juan Antonio Romero Moreno: Constància → Esporles (N/A, 2019-07-01)
+│ ⬆️ Juan José Romero Orejudo: Constància → Alcúdia (N/A, 2013-01-01)
+│ ⬆️ Joan Marc Borras Bestard: Constància → Llosetense (N/A, 2019-01-11)
+│ ⬆️ Jose Luis Martinez Quetglas: Constància → Manacor (N/A, 2019-07-01)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Ayub El Harrak Rouas: Girona → Guijuelo (Free, 2018-01-02)
+│ ⬆️ Juan Pablo Sepúlveda Condal: Girona → San Cristóbal (N/A, 2019-04-25)
+│ ⬆️ Marc Rovirola Moreno: Girona → Llagostera (Free, 2015-07-15)
+│ ⬆️ Albert Dorca Masó: Girona → Racing Santander (N/A, 2012-07-01)
+│ ⬆️ Edgar Caparrós Ruiz: Girona → Zaria Balti (Free, 2015-07-24)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #8: Ourense CF vs Oviedo
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T18:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [N] 2025-10-25: Cacereño 0-0 Ourense CF
+│  2. [D] 2025-10-19: Ourense CF 1-3 Real Madrid II
+│  3. [V] 2025-10-15: Atlètic Lleida 3-4 Ourense CF
+│  4. [N] 2025-10-11: Celta de Vigo II 0-0 Ourense CF
+│  5. [N] 2025-10-04: Racing Ferrol 1-1 Ourense CF
+│  6. [V] 2025-10-01: Bergantiños 0-2 Ourense CF
+│  7. [D] 2025-09-27: Ourense CF 1-2 Pontevedra
+│  8. [D] 2025-09-21: Tenerife 3-0 Ourense CF
+│  9. [V] 2025-09-17: Ourense CF 2-1 Zamora
+│ 10. [D] 2025-09-14: Ourense CF 1-2 CF Talavera
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [N] 2025-10-25: Girona 3-3 Oviedo
+│  2. [D] 2025-10-17: Oviedo 0-2 Espanyol
+│  3. [D] 2025-10-04: Oviedo 0-2 Levante
+│  4. [V] 2025-09-30: Valencia 1-2 Oviedo
+│  5. [D] 2025-09-25: Oviedo 1-3 Barcelona
+│  6. [D] 2025-09-21: Elche 1-0 Oviedo
+│  7. [D] 2025-09-13: Getafe 2-0 Oviedo
+│  8. [V] 2025-08-30: Oviedo 1-0 Real Sociedad
+│  9. [D] 2025-08-24: Oviedo 0-3 Real Madrid
+│ 10. [D] 2025-08-15: Villarreal 2-0 Oviedo
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ David Costas: Red card Suspended
+│ ❌ Alvaro Lemos: injured
+│ ❌ Santiago Colombatto: Injured Doubtful
+│ ❌ Alvaro Lemos: injured
+│ ❌ Santiago Colombatto: Injured Doubtful
+│ ❌ Lucas Ahijado: Injured Doubtful
+│ ❌ Alberto Reina: Red card Suspended
+│ ❌ D. Costas: Injury
+│ ❌ O. Ejaria: Injury
+│ ❌ A. Lemos: Knee Injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Rubén Domínguez (Spain, 38 ans)
+│ En poste depuis: 2020-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: V. Paunovic (Serbia, 48 ans)
+│ En poste depuis: 2013-09-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Willian Nascimento Alcántara Pereira: Ourense CF → Unionistas de Salamanca (None, 2021-08-03)
+│ ⬆️ Roberto Fernández Martínez: Ourense CF → Arosa (N/A, 2019-07-01)
+│ ⬇️ Carlos López Sanchez: UD Ourense → Ourense CF (N/A, 2021-07-01)
+│ ⬆️ Pedro Delgado Pérez: Ourense CF → Villalbés (N/A, 2020-01-25)
+│ ⬆️ Pablo Novoa Vila: Ourense CF → Atlético Arnoia (N/A, 2021-07-01)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Jon Erice Domínguez: Oviedo → Albacete (Free, 2017-08-02)
+│ ⬆️ Jorge Valiente: Oviedo → Siero (N/A, 2018-07-01)
+│ ⬆️ Martín Maximiliano Mantovani: Oviedo → Leganes (N/A, 2014-07-01)
+│ ⬇️ Mossa: Gimnastic → Oviedo (N/A, 2017-08-01)
+│ ⬆️ Diego Cervero Otero: Oviedo → Fuenlabrada (Free, 2016-08-12)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #9: Langreo vs Racing Ferrol
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T18:30:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: Langreo 1-0 Atlético Astorga
+│  2. [D] 2025-10-18: UD Ourense 1-0 Langreo
+│  3. [D] 2025-10-11: Deportivo La Coruña II 2-0 Langreo
+│  4. [N] 2025-10-04: Langreo 2-2 Racing Santander II
+│  5. [N] 2025-09-27: Burgos Promesas 1-1 Langreo
+│  6. [D] 2025-09-20: Langreo 1-2 Real Ávila
+│  7. [D] 2025-09-13: Marino de Luanco 2-0 Langreo
+│  8. [N] 2025-09-07: Langreo 1-1 Coruxo
+│  9. [N] 2025-05-04: Langreo 1-1 Laredo
+│ 10. [D] 2025-04-27: Salamanca UDS 3-1 Langreo
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [D] 2025-10-25: Celta de Vigo II 2-1 Racing Ferrol
+│  2. [V] 2025-10-18: Racing Ferrol 3-1 Arenas Getxo
+│  3. [V] 2025-10-12: Osasuna II 1-2 Racing Ferrol
+│  4. [N] 2025-10-08: Racing Ferrol 2-2 Tondela
+│  5. [N] 2025-10-04: Racing Ferrol 1-1 Ourense CF
+│  6. [N] 2025-09-26: Racing Ferrol 0-0 Guadalajara
+│  7. [D] 2025-09-21: Lugo 2-1 Racing Ferrol
+│  8. [V] 2025-09-17: Real Madrid II 0-1 Racing Ferrol
+│  9. [V] 2025-09-14: Racing Ferrol 2-1 Ponferradina
+│ 10. [V] 2025-08-31: Racing Ferrol 2-1 CF Talavera
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2021-04-24: Langreo 2-3 Racing Ferrol
+│  2. 2021-04-04: Racing Ferrol 1-0 Langreo
+│  3. 2020-05-02: Langreo vs Racing Ferrol (à venir)
+│  4. 2019-12-14: Racing Ferrol 3-0 Langreo
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: Racing Ferrol
+│ Conseil: Double chance : draw or Racing Ferrol
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Roberto Robles (Spain, 38 ans)
+│ En poste depuis: 2014-02-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Cristóbal (Spain, 58 ans)
+│ En poste depuis: 2016-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Kevin Castro Choren: Langreo → Caudal (N/A, 2022-01-25)
+│ ⬆️ Diego Méndez García: Langreo → Lealtad (N/A, 2015-07-29)
+│ ⬆️ Daniel Hevia Suárez: Langreo → Tuilla (N/A, 2019-07-01)
+│ ⬆️ Carlos Viesca Cayón: Langreo → Caudal (N/A, 2018-07-01)
+│ ⬆️ Luis Fanjul García: Langreo → Siero (N/A, 2018-07-01)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Leonardo Paulino Marques da Silva: Racing Ferrol → None (N/A, 2019-05-18)
+│ ⬆️ Alejandro Cuende Sanz: Racing Ferrol → Somozas (N/A, 2021-07-13)
+│ ⬇️ Sergio González Rodríguez: Somozas → Racing Ferrol (N/A, 2015-07-08)
+│ ⬆️ Borja Pita Seoane: Racing Ferrol → As Pontes (N/A, 2020-07-01)
+│ ⬆️ Gonzalo Sebastián García: Racing Ferrol → All Boys (Free, 2018-07-31)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #10: SD Logroñés vs Racing Santander
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T18:30:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: Real Zaragoza II 0-1 SD Logroñés
+│  2. [V] 2025-10-19: SD Logroñés 1-0 Alfaro
+│  3. [D] 2025-10-11: Utebo 3-2 SD Logroñés
+│  4. [N] 2025-10-04: SD Logroñés 1-1 Gernika
+│  5. [N] 2025-09-28: SD Logroñés 1-1 Amorebieta
+│  6. [V] 2025-09-21: Deportivo Alavés II 0-1 SD Logroñés
+│  7. [N] 2025-09-13: Basconia 0-0 SD Logroñés
+│  8. [V] 2025-09-07: SD Logroñés 2-0 Eibar II
+│  9. [V] 2025-08-21: La Calzada 0-2 SD Logroñés
+│ 10. [D] 2025-05-18: SD Logroñés 1-2 Estepona
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [V] 2025-10-25: Mirandes 1-3 Racing Santander
+│  2. [V] 2025-10-19: Racing Santander 2-1 Deportivo La Coruna
+│  3. [D] 2025-10-12: Sporting Gijon 2-1 Racing Santander
+│  4. [V] 2025-10-05: Racing Santander 3-0 Malaga
+│  5. [D] 2025-09-27: Racing Santander 1-2 FC Andorra
+│  6. [N] 2025-09-21: Cordoba 2-2 Racing Santander
+│  7. [D] 2025-09-14: Racing Santander 2-4 Cultural Leonesa
+│  8. [V] 2025-09-07: Almeria 2-3 Racing Santander
+│  9. [V] 2025-08-30: Racing Santander 4-1 AD Ceuta FC
+│ 10. [V] 2025-08-25: Albacete 2-3 Racing Santander
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2022-03-27: Racing Santander 1-0 SD Logroñés
+│  2. 2022-01-22: SD Logroñés 0-1 Racing Santander
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: Racing Santander
+│ Conseil: Double chance : draw or Racing Santander
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Carlos Pouso (Spain, 65 ans)
+│ En poste depuis: 2011-08-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: José Alberto López (Spain, 43 ans)
+│ En poste depuis: 2017-06-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Sergio Orte De Santiago: SD Logroñés → Calasancio (N/A, 2019-07-01)
+│ ⬆️ José Luis Recalde Iribarren: SD Logroñés → Cirbonero (N/A, 2019-11-08)
+│ ⬇️ Sergio Becerra Villanueva: Gernika → SD Logroñés (Free, 2021-08-21)
+│ ⬇️ Oriol García Remolar: Comillas → SD Logroñés (N/A, 2021-07-10)
+│ ⬆️ Abdenaceur Tebabes: SD Logroñés → Varea (N/A, 2020-09-04)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Javier Gómez Puebla: Racing Santander → Racing Santander II (N/A, 2018-07-01)
+│ ⬆️ Jerin Marcolino Ramos Santos: Racing Santander → Racing Santander II (N/A, 2018-11-09)
+│ ⬆️ Íñigo Sainz Maza: Racing Santander → Racing Santander II (N/A, 2018-07-01)
+│ ⬇️ Sergio Sánchez: Espanyol → Racing Santander (Loan, 2007-07-01)
+│ ⬆️ Ángel Pardo Sánchez: Racing Santander → Cristo Atlético (N/A, 2018-07-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #11: Ucam Murcia vs Cadiz
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T18:30:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: Ucam Murcia 2-0 Estepona
+│  2. [V] 2025-10-19: Almería II 1-2 Ucam Murcia
+│  3. [V] 2025-10-12: Ucam Murcia 2-1 Xerez Deportivo
+│  4. [N] 2025-10-05: Extremadura 1924 2-2 Ucam Murcia
+│  5. [N] 2025-09-28: Ucam Murcia 0-0 Antoniano
+│  6. [N] 2025-09-21: Puente Genil 1-1 Ucam Murcia
+│  7. [V] 2025-09-14: Ucam Murcia 2-1 Lorca Deportiva
+│  8. [D] 2025-09-07: Melilla 2-0 Ucam Murcia
+│  9. [N] 2025-08-09: Ucam Murcia 2-2 Eldense
+│ 10. [N] 2025-06-01: Ucam Murcia 0-0 Sabadell
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [N] 2025-10-25: Granada CF 0-0 Cadiz
+│  2. [D] 2025-10-20: Cadiz 1-3 Burgos
+│  3. [V] 2025-10-12: Cadiz 1-0 Huesca
+│  4. [D] 2025-10-05: Las Palmas 1-0 Cadiz
+│  5. [N] 2025-09-28: Cadiz 0-0 AD Ceuta FC
+│  6. [V] 2025-09-21: Malaga 0-1 Cadiz
+│  7. [V] 2025-09-13: Cadiz 1-0 Eibar
+│  8. [N] 2025-09-07: Real Sociedad II 3-3 Cadiz
+│  9. [V] 2025-08-31: Cadiz 2-1 Albacete
+│ 10. [N] 2025-08-22: Leganes 1-1 Cadiz
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2017-04-01: Ucam Murcia 1-1 Cadiz
+│  2. 2016-10-23: Cadiz 2-2 Ucam Murcia
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ José de la Rosa: Wound
+│ ❌ Fali: Jumpers knee
+│ ❌ Fali: Jumpers knee
+│ ❌ Fali: Jumpers knee
+│ ❌ Fali: Jumpers knee
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Monteagudo (Spain, 51 ans)
+│ En poste depuis: 2012-04-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Gaizka Garitano (Spain, 50 ans)
+│ En poste depuis: 2012-06-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Daniel Ortigosa Cerezo: Ucam Murcia → Azuqueca (N/A, 2018-07-01)
+│ ⬆️ Sergio Castillo Duarte: Ucam Murcia → La Roda (N/A, 2013-07-01)
+│ ⬆️ Federico Eric Osterwalder: Ucam Murcia → Mazarrón FC (N/A, 2020-07-01)
+│ ⬆️ Jesús María Parra Escribano: Ucam Murcia → Lorca Deportiva (N/A, 2018-07-06)
+│ ⬆️ Ricardo Martín Serrano: Ucam Murcia → Cartagena FC (N/A, 2019-07-01)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬇️ Sergio Sánchez: Albacete → Cadiz (N/A, 2020-08-04)
+│ ⬆️ Chico Flores: Cadiz → Almeria (€ 700K, 2008-08-01)
+│ ⬇️ Jon Erice Domínguez: Osasuna → Cadiz (N/A, 2009-01-27)
+│ ⬇️ Pablo Vázquez Blanco: Celta Vigo → Cadiz (N/A, 2017-07-03)
+│ ⬆️ Joaquín Calderón Vicente: Cadiz → Alcoyano (Free, 2013-07-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #12: CD Guadalajara vs Cacereño
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T19:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [D] 2025-10-25: Real Potosí 4-0 CD Guadalajara
+│  2. [N] 2025-10-18: CD Guadalajara 1-1 Barakaldo
+│  3. [V] 2025-10-12: CD Guadalajara 2-0 Real Potosí
+│  4. [N] 2025-10-12: Arenteiro 0-0 CD Guadalajara
+│  5. [D] 2025-09-28: Primero Mayo 2-0 CD Guadalajara
+│  6. [V] 2025-09-21: CD Guadalajara 2-0 Ingenieros
+│  7. [D] 2025-09-14: CD Guadalajara 0-1 Unión Tarija
+│  8. [V] 2025-09-08: Ingenieros 1-2 CD Guadalajara
+│  9. [V] 2025-08-31: Unión Tarija 2-3 CD Guadalajara
+│ 10. [D] 2025-08-24: CD Guadalajara 0-2 Primero Mayo
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [N] 2025-10-25: Cacereño 0-0 Ourense CF
+│  2. [V] 2025-10-19: Athletic Club II 1-3 Cacereño
+│  3. [N] 2025-10-12: Cacereño 0-0 Tenerife
+│  4. [D] 2025-10-04: Lugo 1-0 Cacereño
+│  5. [N] 2025-09-27: Barakaldo 1-1 Cacereño
+│  6. [V] 2025-09-20: Cacereño 2-1 Mérida AD
+│  7. [D] 2025-09-14: Cacereño 0-2 Arenteiro
+│  8. [N] 2025-09-06: Arenas Getxo 2-2 Cacereño
+│  9. [N] 2025-08-30: Pontevedra 1-1 Cacereño
+│ 10. [N] 2025-08-09: Alcorcon 1-1 Cacereño
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Julio Cobos (Spain, 54 ans)
+│ En poste depuis: 2012-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬇️ Christian Díaz: Villanovense → CD Guadalajara (Free Transfer, 2025-01-03)
+│ ⬆️ Sergio Nanclares: CD Guadalajara → Ursaria (Free, 2024-01-25)
+│ ⬆️ L. Caprile: CD Guadalajara → Rajasthan United (Transfer, 2025-01-07)
+│ ⬇️ Juan Rodríguez: RSC Internacional → CD Guadalajara (None, 2023-01-31)
+│ ⬇️ Samuel Mayo: Pontevedra → CD Guadalajara (Free Transfer, 2025-07-01)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Marc Adán Juárez Campos: Cacereño → Platges Calvià (N/A, 2018-07-01)
+│ ⬆️ Sergio Oliva Hornero: Cacereño → Moralo (N/A, 2014-08-20)
+│ ⬆️ Carlos Martínez: Cacereño → Olímpic Xàtiva (N/A, 2019-07-01)
+│ ⬆️ Alberto Carbonell Gomáriz: Cacereño → Jove Español (N/A, 2019-10-25)
+│ ⬆️ David Jiménez Bravo: Cacereño → Arroyo (N/A, 2018-07-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #13: Inter de Valdemoro vs Getafe
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T19:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 2
+│ Victoires: 1 (0 domicile)
+│ Nuls: 1
+│ Défaites: 0
+│ Buts marqués: 4 (moy: 2.0)
+│ Buts encaissés: 2 (moy: 1.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-04: Universitario FC 1-3 Inter de Valdemoro
+│  2. [N] 2025-09-27: Inter de Valdemoro 1-1 Universitario FC
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [V] 2025-10-25: Athletic Club 0-1 Getafe
+│  2. [D] 2025-10-19: Getafe 0-1 Real Madrid
+│  3. [D] 2025-10-03: Osasuna 2-1 Getafe
+│  4. [N] 2025-09-27: Getafe 1-1 Levante
+│  5. [N] 2025-09-24: Getafe 1-1 Alaves
+│  6. [D] 2025-09-21: Barcelona 3-0 Getafe
+│  7. [V] 2025-09-13: Getafe 2-0 Oviedo
+│  8. [D] 2025-08-29: Valencia 3-0 Getafe
+│  9. [V] 2025-08-25: Sevilla 1-2 Getafe
+│ 10. [V] 2025-08-17: Celta Vigo 0-2 Getafe
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Domingos Duarte: Red card Suspended
+│ ❌ Abdel Abqar: Injury
+│ ❌ Alex Sancris: Red card Suspended
+│ ❌ Alex Sancris: Red card Suspended
+│ ❌ Juanmi: Jumpers knee
+│ ❌ Juanmi: Jumpers knee
+│ ❌ Juanmi: Jumpers knee
+│ ❌ Juanmi: Jumpers knee
+│ ❌ Juanmi: Knee Injury
+│ ❌ Juanmi: Knee Injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 100% vs 0%
+│ Att: 100% vs 0%
+│ Def: 0% vs 100%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: José Bordalás (Spain, 61 ans)
+│ En poste depuis: 2009-10-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Víctor Hugo Sánchez Fernández: Getafe → Pozuelo Alarcón (N/A, 2018-07-01)
+│ ⬆️ Sergio Rodríguez Valero: Getafe → Internacional de Madrid (N/A, 2019-08-01)
+│ ⬆️ Jorge Molina: Getafe → Granada CF (N/A, 2020-08-25)
+│ ⬆️ Alberto Carbonell Gomáriz: Getafe → Novelda (N/A, 2016-09-28)
+│ ⬆️ Hugo Fraile Martín: Getafe → Sporting Gijon (N/A, 2013-07-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #14: Maracena vs Valencia
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T19:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 2
+│ Victoires: 1 (1 domicile)
+│ Nuls: 1
+│ Défaites: 0
+│ Buts marqués: 3 (moy: 1.5)
+│ Buts encaissés: 1 (moy: 0.5)
+│ Plus grande victoire: 2-0
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-04: Maracena 2-0 Sporting Ceuta
+│  2. [N] 2025-09-27: Sporting Ceuta 1-1 Maracena
+│  3. [N] 2024-05-12: Maracena 1-1 Torreperogil
+│  4. [N] 2024-05-05: Motril 1-1 Maracena
+│  5. [D] 2024-05-01: Maracena 0-1 Huétor Vega
+│  6. [N] 2024-04-27: Huétor Tájar 0-0 Maracena
+│  7. [D] 2024-04-21: Maracena 1-2 Arenas Armilla
+│  8. [V] 2024-04-14: Rincón 0-3 Maracena
+│  9. [N] 2024-04-07: Maracena 2-2 Málaga II
+│ 10. [N] 2024-03-31: Maracena 1-1 El Ejido
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [D] 2025-10-25: Valencia 0-2 Villarreal
+│  2. [N] 2025-10-20: Alaves 0-0 Valencia
+│  3. [D] 2025-10-04: Girona 2-1 Valencia
+│  4. [D] 2025-09-30: Valencia 1-2 Oviedo
+│  5. [N] 2025-09-23: Espanyol 2-2 Valencia
+│  6. [V] 2025-09-20: Valencia 2-0 Athletic Club
+│  7. [D] 2025-09-14: Barcelona 6-0 Valencia
+│  8. [V] 2025-08-29: Valencia 3-0 Getafe
+│  9. [D] 2025-08-24: Osasuna 1-0 Valencia
+│ 10. [N] 2025-08-16: Valencia 1-1 Real Sociedad
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Alberto Mari: injured
+│ ❌ Alberto Mari: injured
+│ ❌ André Almeida: Sprained ankle
+│ ❌ F. Ugrinic: Contusion
+│ ❌ Thierry Correia: Jumpers knee
+│ ❌ Thierry Correia: Jumpers knee
+│ ❌ Thierry Correia: Jumpers knee
+│ ❌ M. Diakhaby: Hamstring Injury
+│ ❌ D. Foulquier: Injury
+│ ❌ L. Ramazani: Muscle Injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 100% vs 0%
+│ Att: 100% vs 0%
+│ Def: 0% vs 100%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Jaime Morente (Spain, 39 ans)
+│ En poste depuis: 2018-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Celades (Spain, 50 ans)
+│ En poste depuis: 2014-05-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Rubén Haro Fernandez: Maracena → Huétor Vega (N/A, 2021-07-01)
+│ ⬆️ Khalid Abi: Maracena → Rapid de Murillo (N/A, 2021-11-19)
+│ ⬇️ David López López: Motril → Maracena (N/A, 2020-07-20)
+│ ⬇️ Fernando Santamarina Martínez: Huétor Vega → Maracena (N/A, 2021-01-23)
+│ ⬇️ Jorge Ruiz Álvarez: Motril → Maracena (N/A, 2021-01-23)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Data not available: Valencia → Espanyol W (None, 2020-01-31)
+│ ⬆️ Alejandro Damián Domínguez: Valencia → Rayo Vallecano (Free, 2012-08-16)
+│ ⬆️ Nelson Antonio Haedo Valdez: Valencia → Al-Jazira (€ 3M, 2013-07-17)
+│ ⬆️ Jacques Parfait Cedric Mandjeck: Valencia → Veria (N/A, 2014-08-01)
+│ ⬆️ Barragán: Valencia → Middlesbrough (€ 2.7M, 2016-07-15)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #15: Rayo Majadahonda vs CF Talavera
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T19:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: Rayo Majadahonda 4-2 Elche II
+│  2. [V] 2025-10-19: Socuéllamos 1-2 Rayo Majadahonda
+│  3. [N] 2025-10-12: Rayo Majadahonda 0-0 CD Coria
+│  4. [D] 2025-10-05: Getafe II 2-0 Rayo Majadahonda
+│  5. [V] 2025-09-28: Rayo Majadahonda 2-1 SS Reyes
+│  6. [D] 2025-09-21: Las Palmas II 1-0 Rayo Majadahonda
+│  7. [N] 2025-09-14: Rayo Majadahonda 0-0 Orihuela
+│  8. [V] 2025-09-07: Conquense 0-1 Rayo Majadahonda
+│  9. [D] 2025-05-31: Real Avilés 4-0 Rayo Majadahonda
+│ 10. [D] 2025-05-25: Rayo Majadahonda 0-2 Real Avilés
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [V] 2025-10-25: CF Talavera 2-0 Osasuna II
+│  2. [N] 2025-10-19: Real Avilés 1-1 CF Talavera
+│  3. [D] 2025-10-11: CF Talavera 0-1 Ponferradina
+│  4. [D] 2025-10-05: Pontevedra 2-1 CF Talavera
+│  5. [V] 2025-09-26: CF Talavera 1-0 Lugo
+│  6. [N] 2025-09-21: CF Talavera 1-1 Barakaldo
+│  7. [V] 2025-09-14: Ourense CF 1-2 CF Talavera
+│  8. [N] 2025-09-07: CF Talavera 1-1 Athletic Club II
+│  9. [D] 2025-08-31: Racing Ferrol 2-1 CF Talavera
+│ 10. [V] 2025-08-09: CF Talavera 1-0 Real Ávila
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2025-03-23: CF Talavera 0-1 Rayo Majadahonda
+│  2. 2024-11-10: Rayo Majadahonda 0-1 CF Talavera
+│  3. 2023-02-26: Rayo Majadahonda 2-1 Talavera
+│  4. 2022-10-15: Talavera 0-2 Rayo Majadahonda
+│  5. 2022-04-10: Rayo Majadahonda 1-2 CF Talavera
+│  6. 2021-11-28: CF Talavera 0-0 Rayo Majadahonda
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: Rayo Majadahonda
+│ Conseil: Double chance : Rayo Majadahonda or draw
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Armando de la Morena (Spain, 48 ans)
+│ En poste depuis: 2014-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Toni Carrillo (Spain, None ans)
+│ En poste depuis: 2018-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ José Ignacio Gómez Ocaña: Rayo Majadahonda → Alcobendas Sport (N/A, 2017-01-05)
+│ ⬆️ Alejandro Carcoba Gutiérrez: Rayo Majadahonda → Racing Santander (N/A, 2016-07-20)
+│ ⬆️ José Antonio García Rabasco: Rayo Majadahonda → FC Cartagena (N/A, 2019-07-19)
+│ ⬆️ Óscar Jiménez Vidal: Rayo Majadahonda → Xerez Deportivo (N/A, 2021-07-11)
+│ ⬇️ Néstor Susaeta Jaurrieta: Albacete → Rayo Majadahonda (N/A, 2020-08-04)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Enrique José Sánchez Aragón: CF Talavera → Mora (N/A, 2018-07-01)
+│ ⬆️ José Israel Villasevil Gálvez: CF Talavera → Torrijos (N/A, 2021-07-24)
+│ ⬆️ Jorge Daniel Beltrán Candela: CF Talavera → Torrellano (N/A, 2021-07-01)
+│ ⬆️ Iker Rodellar Fernández: CF Talavera → Racing Ferrol (N/A, 2019-07-08)
+│ ⬆️ Jesús García Cuquerella: CF Talavera → Socuéllamos (N/A, 2018-07-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #16: Roda vs Granada CF
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T19:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [N] 2025-10-25: Roda 0-0 Torrellano
+│  2. [D] 2025-10-18: Levante II 5-1 Roda
+│  3. [D] 2025-10-10: Roda 1-2 Atzeneta
+│  4. [D] 2025-10-04: Hércules II 1-0 Roda
+│  5. [D] 2025-09-27: Roda 0-3 Castellonense
+│  6. [V] 2025-09-21: Ontinyent 1931 1-2 Roda
+│  7. [N] 2025-09-12: Roda 0-0 Villarreal III
+│  8. [N] 2025-09-06: La Nucía 1-1 Roda
+│  9. [N] 2025-05-24: Roda 0-0 Utiel
+│ 10. [D] 2025-05-18: Utiel 2-1 Roda
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [N] 2025-10-25: Granada CF 0-0 Cadiz
+│  2. [N] 2025-10-17: FC Andorra 0-0 Granada CF
+│  3. [N] 2025-10-10: Granada CF 0-0 Las Palmas
+│  4. [V] 2025-10-04: Granada CF 5-2 Real Sociedad II
+│  5. [V] 2025-09-28: Huesca 0-1 Granada CF
+│  6. [N] 2025-09-22: Burgos 1-1 Granada CF
+│  7. [D] 2025-09-14: Granada CF 0-2 Leganes
+│  8. [N] 2025-09-06: Malaga 2-2 Granada CF
+│  9. [D] 2025-08-31: Granada CF 1-2 Mirandes
+│ 10. [D] 2025-08-22: Eibar 3-0 Granada CF
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ B. Diallo: Wound
+│ ❌ B. Diallo: Wound
+│ ❌ B. Diallo: Wound
+│ ❌ B. Diallo: Wound
+│ ❌ M. Bouldini: Ankle injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: David Cifuentes (Spain, 41 ans)
+│ En poste depuis: 2020-11-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Fran Escribá (Spain, 60 ans)
+│ En poste depuis: 2012-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Aitor Gelardo Vegara: Roda → Villarreal III (N/A, 2020-07-01)
+│ ⬆️ Esaú Rojo Martínez: Roda → Torrejón (N/A, 2019-07-01)
+│ ⬇️ Ramón Pallarés Soler: Almansa → Roda (N/A, 2017-07-01)
+│ ⬇️ Alejandro Zagalá Lázaro: Castellón → Roda (N/A, 2019-07-01)
+│ ⬆️ José Castillejo Belinchón: Roda → None (N/A, 2019-01-19)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Chico Flores: Granada CF → Rubin (Free, 2018-06-28)
+│ ⬆️ Pamela GonzÃ¡lez: Granada CF → Sevilla W (None, 2023-07-04)
+│ ⬇️ None: Rayo Vallecano W → Granada CF (None, 2023-02-02)
+│ ⬇️ Jorge Molina: Getafe → Granada CF (N/A, 2020-08-25)
+│ ⬆️ Jon Garrido: Granada CF → Cadiz (Free, 2014-07-21)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #17: San Fernando CD vs Albacete
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T19:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [D] 2025-05-04: Cádiz II 2-0 San Fernando CD
+│  2. [D] 2025-04-27: San Fernando CD 0-1 Juventud Torremolinos
+│  3. [D] 2025-04-19: Estepona 2-0 San Fernando CD
+│  4. [N] 2025-04-12: San Fernando CD 1-1 Ucam Murcia
+│  5. [N] 2025-04-06: Xerez Deportivo 0-0 San Fernando CD
+│  6. [D] 2025-03-30: San Fernando CD 0-1 Don Benito
+│  7. [D] 2025-03-23: Deportiva Minera 2-0 San Fernando CD
+│  8. [D] 2025-03-16: Xerez 2-0 San Fernando CD
+│  9. [V] 2025-03-09: San Fernando CD 4-1 Almería II
+│ 10. [N] 2025-03-02: Antoniano 0-0 San Fernando CD
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [D] 2025-10-25: Albacete 1-3 Cordoba
+│  2. [V] 2025-10-19: Castellón 0-1 Albacete
+│  3. [N] 2025-10-12: Albacete 0-0 AD Ceuta FC
+│  4. [N] 2025-10-06: Cultural Leonesa 0-0 Albacete
+│  5. [V] 2025-09-28: Sporting Gijon 3-4 Albacete
+│  6. [V] 2025-09-21: Albacete 2-0 Valladolid
+│  7. [N] 2025-09-15: Zaragoza 0-0 Albacete
+│  8. [D] 2025-09-05: Albacete 1-4 Mirandes
+│  9. [D] 2025-08-31: Cadiz 2-1 Albacete
+│ 10. [D] 2025-08-25: Albacete 2-3 Racing Santander
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2022-03-05: San Fernando CD 3-3 Albacete
+│  2. 2021-10-30: Albacete 1-0 San Fernando CD
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Pepe Sánchez: Wound
+│ ❌ Pepe Sánchez: Wound
+│ ❌ Pepe Sánchez: Wound
+│ ❌ Pepe Sánchez: Wound
+│ ❌ Pepe Sánchez: Wound
+│ ❌ Lorenzo Aguado: Shoulder injury
+│ ❌ Lorenzo Aguado: Shoulder injury
+│ ❌ Lorenzo Aguado: Shoulder injury
+│ ❌ Lorenzo Aguado: Shoulder injury
+│ ❌ Antonio Pacheco: Elbow Injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: Albacete
+│ Conseil: Double chance : draw or Albacete
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Antonio Iriondo (Spain, 72 ans)
+│ En poste depuis: 2012-08-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Alberto González (Spain, 46 ans)
+│ En poste depuis: 2015-06-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Sergio Castillo Duarte: San Fernando CD → El Palo (N/A, 2017-07-08)
+│ ⬆️ Francisco Javier Gómez Romero: San Fernando CD → Ibiza Islas Pitiusas (N/A, 2020-01-31)
+│ ⬆️ Juan Antonio Ureba Ramos: San Fernando CD → None (N/A, 2018-07-09)
+│ ⬆️ Iván Bazán Solís: San Fernando CD → Orihuela (N/A, 2017-07-29)
+│ ⬆️ Jorge Herrero Arias: San Fernando CD → Xerez Deportivo (N/A, 2017-07-03)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Data not available: Albacete → Real Sociedad W (None, 2020-07-01)
+│ ⬆️ Sergio Sánchez: Albacete → Cadiz (N/A, 2020-08-04)
+│ ⬆️ Jon Erice Domínguez: Albacete → Hércules (N/A, 2020-08-22)
+│ ⬆️ Iván Cifuentes Román: Albacete → Valencia (N/A, 2016-08-09)
+│ ⬆️ Marc Rovirola Moreno: Albacete → Atlético Baleares (Free, 2018-02-20)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #18: Tropezón vs Cultural Leonesa
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T19:00:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [D] 2025-10-25: Tropezón 0-3 Guarnizo
+│  2. [N] 2025-10-19: Colindres 1-1 Tropezón
+│  3. [V] 2025-10-11: Tropezón 1-0 Selaya
+│  4. [V] 2025-10-04: Laredo 1-2 Tropezón
+│  5. [N] 2025-09-28: Tropezón 0-0 Bezana
+│  6. [V] 2025-09-21: Torina 0-1 Tropezón
+│  7. [V] 2025-09-13: Tropezón 3-1 Barquereño
+│  8. [V] 2025-09-07: Noja 0-2 Tropezón
+│  9. [D] 2025-06-07: Tropezón 1-2 Cayón
+│ 10. [N] 2025-05-31: Cayón 1-1 Tropezón
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [D] 2025-10-25: Cultural Leonesa 0-1 AD Ceuta FC
+│  2. [V] 2025-10-18: Zaragoza 0-5 Cultural Leonesa
+│  3. [D] 2025-10-13: Cordoba 1-0 Cultural Leonesa
+│  4. [N] 2025-10-06: Cultural Leonesa 0-0 Albacete
+│  5. [V] 2025-09-28: Valladolid 0-1 Cultural Leonesa
+│  6. [D] 2025-09-20: Cultural Leonesa 1-3 Castellón
+│  7. [V] 2025-09-14: Racing Santander 2-4 Cultural Leonesa
+│  8. [N] 2025-09-07: Cultural Leonesa 0-0 Leganes
+│  9. [D] 2025-08-29: Sporting Gijon 1-0 Cultural Leonesa
+│ 10. [D] 2025-08-24: Cultural Leonesa 0-1 Almeria
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Eneko Satrústegui: Jumpers knee
+│ ❌ Eneko Satrústegui: Jumpers knee
+│ ❌ Eneko Satrústegui: Jumpers knee
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: José Gómez (Spain, 66 ans)
+│ En poste depuis: 2011-08-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Eduardo Docampo (Spain, 51 ans)
+│ En poste depuis: 2019-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Víctor Sánchez Díaz: Tropezón → Torina (N/A, 2019-12-20)
+│ ⬆️ Diego Viadero Cabrillo: Tropezón → Atlético Albericia (N/A, 2022-01-01)
+│ ⬆️ Kevin Alonso Jiménez: Tropezón → Vianés (N/A, 2019-07-01)
+│ ⬆️ Diego Dosal Rivero: Tropezón → Llanes (N/A, 2020-07-01)
+│ ⬇️ Ángel Pardo Sánchez: Cristo Atlético → Tropezón (N/A, 2019-09-13)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ Rubén Pardo López: Cultural Leonesa → Pontevedra (N/A, 2011-01-31)
+│ ⬆️ Jordan Blaise: Cultural Leonesa → Gran Tarajal (N/A, 2021-07-01)
+│ ⬆️ Gonzalo González Fernández: Cultural Leonesa → None (N/A, 2016-08-01)
+│ ⬆️ Martín Maximiliano Mantovani: Cultural Leonesa → Atlético Baleares (N/A, 2011-08-01)
+│ ⬆️ Sergio Simón López: Cultural Leonesa → Vera (N/A, 2019-07-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #19: RSD Alcalá vs Tenerife
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T19:30:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: RSD Alcalá 1-0 Tenerife II
+│  2. [D] 2025-10-19: Las Palmas II 2-0 RSD Alcalá
+│  3. [V] 2025-10-12: RSD Alcalá 1-0 Quintanar del Rey
+│  4. [N] 2025-09-28: RSD Alcalá 1-1 Getafe II
+│  5. [N] 2025-09-20: Colonia Moscardó 1-1 RSD Alcalá
+│  6. [V] 2025-09-14: RSD Alcalá 2-1 Conquense
+│  7. [D] 2025-09-06: SS Reyes 1-0 RSD Alcalá
+│  8. [N] 2025-08-13: RSD Alcalá 2-2 Guadalajara Chivas
+│  9. [V] 2025-05-11: RSD Alcalá 3-1 Las Rozas
+│ 10. [V] 2025-05-04: Canillas 2-5 RSD Alcalá
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [D] 2025-10-24: Barakaldo 2-0 Tenerife
+│  2. [D] 2025-10-18: Tenerife 0-2 Unionistas de Salamanca
+│  3. [N] 2025-10-12: Cacereño 0-0 Tenerife
+│  4. [V] 2025-10-04: Tenerife 3-1 Zamora
+│  5. [V] 2025-09-27: Real Madrid II 1-3 Tenerife
+│  6. [V] 2025-09-21: Tenerife 3-0 Ourense CF
+│  7. [V] 2025-09-14: Pontevedra 0-2 Tenerife
+│  8. [V] 2025-09-06: Tenerife 3-0 Mérida AD
+│  9. [V] 2025-08-31: Guadalajara 0-2 Tenerife
+│ 10. [N] 2025-08-02: Tenerife 1-1 Las Palmas
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: None
+│ Conseil: No predictions available
+│ Forme: 0% vs 0%
+│ Att: 0% vs 0%
+│ Def: 0% vs 0%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: Jorge (Spain, 50 ans)
+│ En poste depuis: 2018-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: Pepe Mel (Spain, 62 ans)
+│ En poste depuis: 2000-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Alberto Perea Henche: RSD Alcalá → San Fernando Henares (N/A, 2020-07-01)
+│ ⬆️ José Ignacio Gómez Ocaña: RSD Alcalá → None (Free, 2013-07-01)
+│ ⬆️ Sergio Jerez Balaguer: RSD Alcalá → Villaverde-Boetticher (N/A, 2021-07-01)
+│ ⬆️ Timoteo Mba Edu Masa: RSD Alcalá → Villaverde-Boetticher (N/A, 2021-07-01)
+│ ⬆️ Lucas Ezequiel Nitz Mayo: RSD Alcalá → Marchamalo (N/A, 2018-07-01)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬆️ José Antonio Rodríguez Rodríguez: Tenerife → Las Zocas (N/A, 2018-07-01)
+│ ⬆️ Alejandro Cruz Hernández: Tenerife → Las Zocas (N/A, 2021-07-01)
+│ ⬆️ Juan Ramón Luis García: Tenerife → Zamora (N/A, 2011-08-01)
+│ ⬆️ Rubén Rosquete Abreu: Tenerife → None (N/A, 2012-09-26)
+│ ⬇️ Iriome: Huesca → Tenerife (N/A, 2010-07-01)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #20: Utebo vs Huesca
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T19:30:00+00:00
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 domicile)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 0
+│ Victoires: 0 (0 extérieur)
+│ Nuls: 0
+│ Défaites: 0
+│ Buts marqués: 0 (moy: 0.0)
+│ Buts encaissés: 0 (moy: 0.0)
+│ Plus grande victoire: None
+│ Plus lourde défaite: None
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [V] 2025-10-25: Utebo 3-1 Amorebieta
+│  2. [V] 2025-10-19: Náxara 0-2 Utebo
+│  3. [V] 2025-10-11: Utebo 3-2 SD Logroñés
+│  4. [D] 2025-10-05: Alfaro 1-0 Utebo
+│  5. [V] 2025-09-28: Utebo 3-1 Tudelano
+│  6. [V] 2025-09-21: Real Zaragoza II 0-3 Utebo
+│  7. [V] 2025-09-13: Utebo 3-1 Gernika
+│  8. [N] 2025-09-07: Utebo 2-2 Basconia
+│  9. [D] 2025-08-06: Utebo 1-3 Guadalajara Chivas
+│ 10. [D] 2025-05-18: CF Talavera 5-2 Utebo
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [N] 2025-10-24: Huesca 1-1 Las Palmas
+│  2. [D] 2025-10-12: Cadiz 1-0 Huesca
+│  3. [V] 2025-10-04: Huesca 2-1 Burgos
+│  4. [D] 2025-09-28: Huesca 0-1 Granada CF
+│  5. [D] 2025-09-19: Deportivo La Coruna 4-0 Huesca
+│  6. [V] 2025-09-13: Huesca 1-0 Malaga
+│  7. [D] 2025-09-07: AD Ceuta FC 2-1 Huesca
+│  8. [V] 2025-09-01: Huesca 2-1 Eibar
+│  9. [V] 2025-08-23: Mirandes 0-1 Huesca
+│ 10. [N] 2025-08-17: Huesca 1-1 Leganes
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ Jordi Martín: Jumpers knee
+│ ❌ Jordi Martín: Jumpers knee
+│ ❌ Jordi Martín: Jumpers knee
+│ ❌ Jordi Martín: Jumpers knee
+│ ❌ Jordi Martín: Jumpers knee
+│ ❌ Jordi Martín: Jumpers knee
+│ ❌ Jordi Martín: Jumpers knee
+│ ❌ Jordi Martín: Jumpers knee
+│ ❌ Jordi Martín: Jumpers knee
+│ ❌ Jordi Martín: Jumpers knee
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #21: Atalanta vs AC Milan
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Serie A
+⏰ Coup d'envoi: 2025-10-28T19:45:00+00:00
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. R. Orsolini (Bologna): 5 buts
+│  2. N. Paz (Como): 4 buts
+│  3. ✈️ C. Pulišić (AC Milan): 4 buts
+│  4. K. De Bruyne (Napoli): 4 buts
+│  5. A. Bonny (Inter): 3 buts
+│  6. M. Soulé (AS Roma): 3 buts
+│  7. Lautaro Martínez (Inter): 3 buts
+│  8. A. Zambo Anguissa (Napoli): 3 buts
+│  9. M. Thuram (Inter): 3 buts
+│ 10. G. Simeone (Torino): 3 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. N. Paz (Como): 4 passes
+│  2. A. Bonny (Inter): 3 passes
+│  3. 🏠 N. Krstović (Atalanta): 3 passes
+│  4. F. Dimarco (Inter): 3 passes
+│  5. V. Castellanos (Lazio): 3 passes
+│  6. K. Yıldız (Juventus): 3 passes
+│  7. J. Vandeputte (Cremonese): 3 passes
+│  8. Giovane (Verona): 3 passes
+│  9. ✈️ C. Pulišić (AC Milan): 2 passes
+│ 10. M. Soulé (AS Roma): 2 passes
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #22: Energie Cottbus vs RB Leipzig
+████████████████████████████████████████████████████████████
+
+📍 Compétition: DFB Pokal
+⏰ Coup d'envoi: 2025-10-28T19:45:00+00:00
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. S. Appelkamp (Fortuna Düsseldorf): 2 buts
+│  2. Max Moerstedt (1899 Hoffenheim): 2 buts
+│  3. A. Grimaldi (SC Paderborn 07): 2 buts
+│  4. R. Ghrieb (1. FC Magdeburg): 2 buts
+│  5. F. Kaya (SV Wehen): 2 buts
+│  6. R. Dōan (Eintracht Frankfurt): 2 buts
+│  7. R. Hack (Borussia Mönchengladbach): 2 buts
+│  8. F. Di Michele Sanchez (Eintracht Braunschweig): 2 buts
+│  9. E. Demirović (VfB Stuttgart): 2 buts
+│ 10. H. Kane (Bayern München): 2 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. R. Ache (1.FC Köln): 2 passes
+│  2. K. Stöger (Borussia Mönchengladbach): 2 passes
+│  3. D. Hausmann (Illertissen): 2 passes
+│  4. S. Appelkamp (Fortuna Düsseldorf): 1 passes
+│  5. E. Wahi (Eintracht Frankfurt): 1 passes
+│  6. F. Asllani (1899 Hoffenheim): 1 passes
+│  7. S. Köhler (Eintracht Braunschweig): 1 passes
+│  8. A. Ilić (Union Berlin): 1 passes
+│  9. F. Muslija (Fortuna Düsseldorf): 1 passes
+│ 10. W. Burger (1899 Hoffenheim): 1 passes
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #23: Borussia Mönchengladbach vs Karlsruher SC
+████████████████████████████████████████████████████████████
+
+📍 Compétition: DFB Pokal
+⏰ Coup d'envoi: 2025-10-28T19:45:00+00:00
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. S. Appelkamp (Fortuna Düsseldorf): 2 buts
+│  2. Max Moerstedt (1899 Hoffenheim): 2 buts
+│  3. A. Grimaldi (SC Paderborn 07): 2 buts
+│  4. R. Ghrieb (1. FC Magdeburg): 2 buts
+│  5. F. Kaya (SV Wehen): 2 buts
+│  6. R. Dōan (Eintracht Frankfurt): 2 buts
+│  7. 🏠 R. Hack (Borussia Mönchengladbach): 2 buts
+│  8. F. Di Michele Sanchez (Eintracht Braunschweig): 2 buts
+│  9. E. Demirović (VfB Stuttgart): 2 buts
+│ 10. H. Kane (Bayern München): 2 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. R. Ache (1.FC Köln): 2 passes
+│  2. 🏠 K. Stöger (Borussia Mönchengladbach): 2 passes
+│  3. D. Hausmann (Illertissen): 2 passes
+│  4. S. Appelkamp (Fortuna Düsseldorf): 1 passes
+│  5. E. Wahi (Eintracht Frankfurt): 1 passes
+│  6. F. Asllani (1899 Hoffenheim): 1 passes
+│  7. S. Köhler (Eintracht Braunschweig): 1 passes
+│  8. A. Ilić (Union Berlin): 1 passes
+│  9. F. Muslija (Fortuna Düsseldorf): 1 passes
+│ 10. W. Burger (1899 Hoffenheim): 1 passes
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #24: FC Augsburg vs VfL Bochum
+████████████████████████████████████████████████████████████
+
+📍 Compétition: DFB Pokal
+⏰ Coup d'envoi: 2025-10-28T19:45:00+00:00
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. S. Appelkamp (Fortuna Düsseldorf): 2 buts
+│  2. Max Moerstedt (1899 Hoffenheim): 2 buts
+│  3. A. Grimaldi (SC Paderborn 07): 2 buts
+│  4. R. Ghrieb (1. FC Magdeburg): 2 buts
+│  5. F. Kaya (SV Wehen): 2 buts
+│  6. R. Dōan (Eintracht Frankfurt): 2 buts
+│  7. R. Hack (Borussia Mönchengladbach): 2 buts
+│  8. F. Di Michele Sanchez (Eintracht Braunschweig): 2 buts
+│  9. E. Demirović (VfB Stuttgart): 2 buts
+│ 10. H. Kane (Bayern München): 2 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. R. Ache (1.FC Köln): 2 passes
+│  2. K. Stöger (Borussia Mönchengladbach): 2 passes
+│  3. D. Hausmann (Illertissen): 2 passes
+│  4. S. Appelkamp (Fortuna Düsseldorf): 1 passes
+│  5. E. Wahi (Eintracht Frankfurt): 1 passes
+│  6. F. Asllani (1899 Hoffenheim): 1 passes
+│  7. S. Köhler (Eintracht Braunschweig): 1 passes
+│  8. A. Ilić (Union Berlin): 1 passes
+│  9. F. Muslija (Fortuna Düsseldorf): 1 passes
+│ 10. W. Burger (1899 Hoffenheim): 1 passes
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #25: FC St. Pauli vs 1899 Hoffenheim
+████████████████████████████████████████████████████████████
+
+📍 Compétition: DFB Pokal
+⏰ Coup d'envoi: 2025-10-28T19:45:00+00:00
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. S. Appelkamp (Fortuna Düsseldorf): 2 buts
+│  2. ✈️ Max Moerstedt (1899 Hoffenheim): 2 buts
+│  3. A. Grimaldi (SC Paderborn 07): 2 buts
+│  4. R. Ghrieb (1. FC Magdeburg): 2 buts
+│  5. F. Kaya (SV Wehen): 2 buts
+│  6. R. Dōan (Eintracht Frankfurt): 2 buts
+│  7. R. Hack (Borussia Mönchengladbach): 2 buts
+│  8. F. Di Michele Sanchez (Eintracht Braunschweig): 2 buts
+│  9. E. Demirović (VfB Stuttgart): 2 buts
+│ 10. H. Kane (Bayern München): 2 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. R. Ache (1.FC Köln): 2 passes
+│  2. K. Stöger (Borussia Mönchengladbach): 2 passes
+│  3. D. Hausmann (Illertissen): 2 passes
+│  4. S. Appelkamp (Fortuna Düsseldorf): 1 passes
+│  5. E. Wahi (Eintracht Frankfurt): 1 passes
+│  6. ✈️ F. Asllani (1899 Hoffenheim): 1 passes
+│  7. S. Köhler (Eintracht Braunschweig): 1 passes
+│  8. A. Ilić (Union Berlin): 1 passes
+│  9. F. Muslija (Fortuna Düsseldorf): 1 passes
+│ 10. ✈️ W. Burger (1899 Hoffenheim): 1 passes
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #26: Wycombe vs Fulham
+████████████████████████████████████████████████████████████
+
+📍 Compétition: League Cup
+⏰ Coup d'envoi: 2025-10-28T19:45:00+00:00
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #27: Grimsby vs Brentford
+████████████████████████████████████████████████████████████
+
+📍 Compétition: League Cup
+⏰ Coup d'envoi: 2025-10-28T19:45:00+00:00
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #28: Wrexham vs Cardiff
+████████████████████████████████████████████████████████████
+
+📍 Compétition: League Cup
+⏰ Coup d'envoi: 2025-10-28T20:00:00+00:00
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #29: Extremadura 1924 vs Las Palmas
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T20:00:00+00:00
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #30: SD Negreira vs Real Sociedad
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T20:00:00+00:00
+
+
+════════════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #31: Toledo vs Sevilla
+████████████████████████████████████████████████████████████
+
+📍 Compétition: Copa del Rey
+⏰ Coup d'envoi: 2025-10-28T20:00:00+00:00
+
+
+════════════════════════════════════════════════════════════
+
+
+🎯 INSTRUCTION: Analyse TOUTES ces données réelles pour identifier les VALUE BETS.
+Les cotes fournies sont RÉELLES et EN TEMPS RÉEL.
+NE PAS inventer de données - TOUT est fourni ci-dessus.
+
+
+
+---
+
+**🚨🚨🚨 INSTRUCTION FINALE CRITIQUE - LIRE AVANT TOUTE ANALYSE 🚨🚨🚨**
+
+**TU DOIS MAINTENANT ANALYSER LES MATCHS CI-DESSUS.**
+
+Les données API-Football COMPLÈTES pour chaque match sont fournies CI-DESSUS entre les lignes "████████████████ MATCH #X" et "════════════════".
+
+**AVANT D'ÉCRIRE CHAQUE STATISTIQUE, VÉRIFIE QU'ELLE APPARAÎT TEXTUELLEMENT DANS LES DONNÉES CI-DESSUS :**
+
+1. ✅ Tu vois "Como: 6e place - 12 pts" dans "┌─ 📊 CLASSEMENT ACTUEL ─┐" ? → Tu PEUX écrire "Como 6e place avec 12 points"
+2. ✅ Tu vois "[V] 2025-10-18: Como 2-0 Parma" dans "┌─ 🔥 FORME RÉCENTE ─┐" ? → Tu PEUX écrire "Como a battu Parma 2-0 le 2025-10-18"
+3. ❌ Tu ne vois PAS de bilan "3V-3N-1D" écrit textuellement ? → TU NE PEUX PAS l'inventer, COMPTE les [V]/[N]/[D] dans la forme récente
+4. ❌ Une section est VIDE (ex: "┌─ 💰 COTES ─┐" vide) ? → ÉCRIS "Cotes non disponibles", N'INVENTE PAS de chiffres
+
+**⚠️ ZÉRO TOLÉRANCE POUR LES INVENTIONS :**
+
+Tu as une connaissance coupée en janvier 2025. Nous sommes en octobre 2025. Tu NE CONNAIS PAS les résultats récents.
+
+**EXEMPLES D'INVENTIONS INTERDITES (basées sur tes erreurs passées) :**
+❌ "Como 6e place avec 12 points, bilan positif 3V-3N-1D" → SI tu ne vois PAS "3V-3N-1D" écrit dans les données, NE L'ÉCRIS PAS
+❌ "Parma attaque défaillante: 3 buts marqués en 7 matchs" → SI tu ne vois PAS ce chiffre exact, NE L'ÉCRIS PAS
+❌ "Brest forme irrégulière avec 2V-1N-2D" → SI tu dois COMPTER les résultats, FAIS-LE à partir des données fournies
+❌ "PSG forme dominante environ 4V-1N" → "environ" = INVENTION, utilise les chiffres EXACTS des données
+
+**RÈGLE ABSOLUE #1 - UTILISE UNIQUEMENT LES DONNÉES FOURNIES:**
+✅ Si les données fournies montrent "FORME RÉCENTE DOMICILE (10 derniers)" avec des scores RÉELS → UTILISE-LES
+✅ Si les données montrent "CLASSEMENT ACTUEL" avec position et points → UTILISE-LES
+✅ Si les données montrent "TOP 10 BUTEURS" avec noms et stats → UTILISE-LES
+❌ Si une section est VIDE ou ABSENTE → N'INVENTE PAS, DIS-LE
+
+**RÈGLE ABSOLUE #2 - REFUSER UN PARI PLUTÔT QUE D'INVENTER:**
+Si les données CRITIQUES manquent (forme récente RÉELLE, classement, H2H), tu DOIS:
+1. L'ADMETTRE explicitement: "⚠️ Données de forme récente non fournies pour ce match"
+2. NE PAS proposer de pari pour ce match
+3. Passer au match suivant qui a des données complètes
+
+**RÈGLE ABSOLUE #3 - VÉRIFICATION AVANT CHAQUE STAT:**
+Avant d'écrire TOUTE stat (ex: "3V-3N-1D", "12 points", "6e place"):
+1. VÉRIFIE qu'elle est EXPLICITEMENT dans les données fournies ci-dessus
+2. Si tu ne la VOIS PAS textuellement dans les données → NE L'ÉCRIS PAS
+3. Mieux vaut dire "Données non fournies" que d'inventer
+
+**🚨 RÈGLE ABSOLUE #4 - ORDRE HOME/AWAY (TRÈS IMPORTANT) 🚨:**
+
+CHAQUE match CI-DESSUS indique clairement avec des emojis:
+- 🏠 = ÉQUIPE À DOMICILE (home_team)
+- ✈️ = ÉQUIPE À L'EXTÉRIEUR (away_team)
+
+**EXEMPLES POUR BIEN COMPRENDRE:**
+
+Si les données montrent:
+```
+████████ MATCH #2: Parma vs Como ████████
+│ 🏠 Parma: 15e place - 6 pts
+│ ✈️ Como: 6e place - 12 pts
+```
+
+Alors dans ton JSON, tu DOIS écrire:
+- "home_team" = Parma (celui avec 🏠)
+- "away_team" = Como (celui avec ✈️)
+
+**❌ ERREUR FRÉQUENTE À ÉVITER:**
+N'inverse PAS home_team et away_team ! Si tu vois "🏠 Parma" et "✈️ Como", alors:
+- ❌ FAUX: home_team = Como, away_team = Parma
+- ✅ CORRECT: home_team = Parma, away_team = Como
+
+**RÈGLE ABSOLUE SUR LES PHRASES:**
+- AUCUN "..." n'est autorisé dans les analyses
+- TOUTES les phrases DOIVENT se terminer correctement avec un point final
+- Si une analyse dépasse 400-500 mots pour compléter les phrases, c'est acceptable
+- Préférer une analyse complète de 500 mots qu'une analyse tronquée de 300 mots avec des "..."
+
+**RÈGLE ABSOLUE SUR LES COTES:**
+- MINIMUM ABSOLU: 1.70 pour TOUTE recommandation
+- Si un pari a une cote < 1.70, même avec 95% de confiance, NE PAS LE RECOMMANDER
+- Chercher des paris avec VALUE (cote sous-évaluée par le marché)
+- Mieux vaut 3 paris de qualité à 2.00+ qu'un 8 paris dont 5 à <1.70
+
+**RÈGLE ABSOLUE SUR LE COMBINÉ:**
+- Le combiné NE DOIT JAMAIS être vide
+- Sélectionne TOUJOURS les 2-3 meilleurs paris (confiance la plus élevée)
+- Calcule la cote totale en multipliant les cotes individuelles
+- Explique pourquoi ces paris vont ensemble
+
+IMPORTANT: Assure-toi que le JSON est parfaitement formaté et valide.
+
+**DIVERSITÉ DES PARIS:**
+- VARIE les types de paris (1X2, Over/Under, BTTS, Handicap)
+- Choisis le type le PLUS PERTINENT et SÛRE selon le contexte du match
+- Évite d'avoir 100% de paris 1X2
+- Objectif: 40% 1X2, 30% Over/Under, 20% BTTS, 10% Handicap/Double Chance

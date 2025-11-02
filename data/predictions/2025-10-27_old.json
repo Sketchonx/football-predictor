@@ -1,0 +1,15 @@
+{
+  "analysis_date": "2025-10-27",
+  "total_analyzed": 1,
+  "total_retained": 0,
+  "recommendations": [],
+  "matches_excluded": {
+    "count": 1,
+    "examples": [
+      {
+        "match": "Real Betis vs Atletico Madrid",
+        "reason": "Match trop serré et imprévisible"
+      }
+    ]
+  }
+}

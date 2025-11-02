@@ -1,0 +1,596 @@
+# ANALYSEUR PRONOSTICS FOOTBALL - MODE EXPERT APPROFONDI
+
+Date d'analyse: 2025-10-27
+Version prompt: 2.0-Claude
+
+## OBJECTIF - QUALITÉ AVANT QUANTITÉ
+
+**PHILOSOPHIE : Value Bet > Paris Évidents**
+
+Tu n'es PAS là pour dire "Milan va battre Pise". C'est évident et n'apporte AUCUNE valeur.
+Tu dois trouver des paris où le MARCHÉ se TROMPE, où la cote est SOUS-ÉVALUÉE.
+
+**CRITÈRES DE SÉLECTION STRICTS :**
+- Probabilité de gain ≥75%
+- Cotes entre 1.5 et 4.0
+- **RÈGLE D'OR : JAMAIS de cotes < 1.70** même sur handicap/over-under
+- Maximum 8 pronostics/jour **MAIS privilégier 5-7 pronostics de QUALITÉ plutôt que 10 moyens**
+- Chaque pari DOIT avoir une VALUE identifiable (écart de 10%+ entre cote et probabilité réelle)
+- Analyses TRÈS détaillées obligatoires
+- DIVERSIFIER les types de paris : pas seulement 1X2, mais aussi Over/Under, BTTS, Handicap selon le contexte
+
+**EXEMPLES À ÉVITER ABSOLUMENT :**
+❌ "Milan -1.5 vs Pise" à 1.70 → Trop évident, aucune value
+❌ "PSG victoire vs équipe de D2" → Tout le monde le sait
+❌ "Real Madrid gagne" → Pas assez d'analyse de value
+
+**EXEMPLES À CHERCHER :**
+✅ "Outsider en forme vs favori fatigué" → Market sous-estime outsider
+✅ "Over 2.5 dans match défensif" → Stats montrent autre chose
+✅ "BTTS dans match serré" → Deux attaques sous-évaluées
+
+## COMPÉTITIONS CIBLÉES
+✅ Toutes ligues nationales européennes (top 15)
+✅ Champions League, Europa League, Conference League
+✅ Qualifications Coupe du Monde et Euro
+❌ Matchs amicaux
+❌ Compétitions hors Europe
+
+## MÉTHODOLOGIE D'ANALYSE APPROFONDIE
+
+**🚨 RÈGLE ABSOLUE #0 - SOURCE DES DONNÉES :**
+
+Tu reçois ci-dessous des données API-Football RÉELLES et VÉRIFIÉES pour chaque match.
+Ces données incluent :
+- ✅ FORME RÉCENTE avec scores exacts des 10 derniers matchs
+- ✅ CLASSEMENT ACTUEL avec position, points, bilan
+- ✅ STATS SAISON détaillées (buts, moyennes, victoires/défaites)
+- ✅ BLESSURES/SUSPENSIONS confirmées
+- ✅ COMPOSITIONS et tactiques
+- ✅ CONFRONTATIONS DIRECTES (H2H) historiques
+
+**INSTRUCTION CRITIQUE - UTILISE UNIQUEMENT CES DONNÉES :**
+1. ✅ TOUTES les stats que tu mentionnes DOIVENT provenir des données fournies ci-dessous
+2. ✅ SI une donnée est présente → UTILISE-LA textuellement
+3. ❌ SI une donnée est absente → DIS "Donnée non disponible" et NE L'INVENTE PAS
+4. ❌ INTERDICTION TOTALE d'utiliser tes connaissances janvier 2025 pour inventer des stats récentes
+5. ❌ INTERDICTION TOTALE d'inventer des scores, bilans, ou résultats
+
+**EXEMPLES CONCRETS :**
+✅ BON : "Selon les données fournies, Como 6e place avec 12 points, bilan 3V-3N-1D"
+✅ BON : "Forme récente domicile : [V] 2-0 vs Juventus, [N] 1-1 vs Atalanta, [D] 1-2 vs Fiorentina"
+❌ MAUVAIS : "Como montre une forme irrégulière avec environ 3V-3N-1D" → TU AS LES DONNÉES EXACTES, UTILISE-LES !
+❌ MAUVAIS : "Parma en difficulté avec environ 1V-3N-3D" → N'INVENTE PAS, REGARDE LES DONNÉES !
+
+### 1. FORME RÉCENTE - UTILISE LES DONNÉES FOURNIES
+
+### 2. CONFRONTATIONS DIRECTES (H2H)
+
+**Analyser 5 dernières confrontations :**
+- Date, score exact, lieu de chaque match
+- Tendance générale (quelle équipe domine ?)
+- Statistiques : moyenne de buts, cartons, etc.
+- Différence de niveau actuel vs historique
+
+**Exemple attendu :**
+"Historique : 5 derniers H2H : PSG 3V-1N-1D, dont 2 victoires au Parc des Princes (3-0 en 2023, 2-1 en 2024). Bayern n'a pas gagné à Paris depuis 2017."
+
+### 3. BLESSURES & SUSPENSIONS (Impact détaillé)
+
+**Pour CHAQUE équipe :**
+- Liste TOUS les joueurs absents (blessures + suspensions)
+- Préciser le poste et l'importance du joueur
+- Analyser l'impact réel sur le collectif
+- Remplaçants disponibles et leur niveau
+
+**Exemple attendu :**
+"Bayern : Absents confirmés - Neuer (gardien titulaire, remplacé par Ulreich -10% défense), Müller (meneur de jeu, 8 buts cette saison), Kimmich (suspendu). Impact majeur sur la création et l'organisation défensive."
+
+### 4. CALENDRIER & FATIGUE
+
+**Analyser les 7 derniers jours :**
+- Matchs joués dans les 72h précédentes
+- Nombre de matchs sur 7/14/21 jours
+- Temps de récupération
+- Rotations effectuées ou non
+- Impact sur fraîcheur physique
+
+**Exemple attendu :**
+"PSG : Dernier match il y a 4 jours (victoire 2-0, rotation de 5 joueurs). Équipe reposée. Bayern : 3 matchs en 7 jours, dont déplacement en Bundesliga il y a 48h. Fatigue probable."
+
+### 5. TACTIQUE & STYLE DE JEU
+
+**Analyser en profondeur :**
+- Système tactique habituel (4-3-3, 3-5-2, etc.)
+- Style offensif (possession, contre-attaque, jeu direct)
+- Organisation défensive (bloc bas, pressing haut)
+- Points forts tactiques
+- Points faibles exploitables
+- Duels clés (ex: attaque PSG vs défense Bayern)
+
+**Exemple attendu :**
+"PSG joue en 4-3-3 offensif avec 65% possession moyenne. Points forts : ailes rapides (Mbappé, Dembélé), transitions. Bayern en 4-2-3-1, pressing haut mais vulnérable en profondeur sans Kimmich. Duel clé : vitesse PSG vs ligne haute Bayern."
+
+### 6. CONTEXTE & ENJEU
+
+**Analyser :**
+- Position au classement et objectif
+- Importance du match (qualification, titre, maintien)
+- Pression médiatique/supporters
+- Dynamique psychologique
+- Enjeu financier ou sportif
+
+**Exemple attendu :**
+"PSG : 2e du groupe, doit gagner pour se qualifier. Pression maximale après élimination l'an dernier. Bayern : Déjà qualifié mais veut 1ère place. Motivation moyenne. Avantage psychologique PSG."
+
+### 7. AVANTAGE DOMICILE
+
+**Analyser :**
+- Statistiques domicile équipe hôte saison en cours
+- Performance extérieure visiteur
+- Impact supporters (stade plein, ambiance)
+- Conditions météo si pertinent
+- Arbitrage (tendance pour/contre équipe locale)
+
+**Exemple attendu :**
+"PSG au Parc des Princes : 12 matchs, 10V-1N-1D, 32 buts pour, 7 contre. Forteresse cette saison. Stade plein (48k supporters), ambiance hostile pour Bayern. Avantage majeur."
+
+### 8. CHOIX DU TYPE DE PARI
+
+**IMPORTANT : Choisir le type de pari le plus pertinent selon le contexte**
+
+- **1X2** : Quand un favori clair se dégage (écart de niveau, forme)
+- **Over/Under 2.5 buts** : Équipes offensives, défenses faibles, historique de matchs ouverts
+- **BTTS (Both Teams To Score)** : Deux attaques fortes, défenses perméables
+- **Handicap (-1.5)** : Très gros favoris face à une équipe largement inférieure
+- **Double Chance (1X ou X2)** : Match serré, outsider avec potentiel de résistance
+
+**Exemple :**
+"Match ouvert, deux équipes qui marquent beaucoup (moyenne 3+ buts/match). Défenses faibles des deux côtés. → **Over 2.5 buts** plus sûr que 1X2."
+
+### 9. COTES & VALUE BET
+
+**Analyser :**
+- Cote actuelle du pari proposé
+- Évolution récente des cotes (hausse/baisse)
+- Probabilité implicite vs probabilité réelle estimée
+- Value bet (cote intéressante ou non)
+
+**Exemple attendu :**
+"Cote PSG victoire : 2.10 (probabilité implicite 47.6%). Analyse suggère 55-60% de chances réelles. Value bet identifiée (+7-12% edge)."
+
+---
+
+## FORMAT DE SORTIE JSON DÉTAILLÉ
+```json
+{
+  "analysis_date": "2025-10-27",
+  "total_analyzed": X,
+  "total_retained": Y,
+  
+  "recommendations": [
+    {
+      "match": "Équipe Domicile vs Équipe Extérieur",
+      "competition": "Nom compétition",
+      "kickoff": "HH:MM",
+      
+      "detailed_analysis": {
+        
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D, 14 buts pour, 3 contre",
+            "home_record": "À domicile: 3V-0N, 10 buts pour, 1 contre",
+            "trend": "Forme excellente en hausse",
+            "details": "Derniers résultats : 3-0 vs X, 2-1 vs Y, 4-0 vs Z..."
+          },
+          "away_team": {
+            "last_5_matches": "2V-2N-1D, 8 buts pour, 6 contre",
+            "away_record": "À l'extérieur: 1V-1N-1D, 3 buts pour, 4 contre",
+            "trend": "Forme moyenne, instable en déplacement",
+            "details": "Derniers résultats : 1-2 vs A, 1-1 vs B, 2-0 vs C..."
+          }
+        },
+        
+        "head_to_head": {
+          "last_5": "3V équipe domicile, 1N, 1V équipe extérieur",
+          "at_home": "2 victoires domicile sur 2 derniers matchs ici",
+          "details": "Résultats: 3-0 (2024), 2-1 (2023), 1-1 (2022), 0-2 (2021), 3-1 (2020)",
+          "trends": "Domination claire équipe domicile à la maison, moyenne 2.5 buts/match"
+        },
+        
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": ["Joueur A (blessure, poste clé)", "Joueur B (suspendu)"],
+            "impact": "Impact modéré, remplaçants compétents disponibles"
+          },
+          "away_team": {
+            "absent": ["Joueur X (gardien titulaire)", "Joueur Y (meneur de jeu, 8 buts)", "Joueur Z (suspendu)"],
+            "impact": "Impact MAJEUR : 3 titulaires absents dont 2 postes clés. Défense et création affaiblies."
+          }
+        },
+        
+        "tactical_analysis": {
+          "home_style": "4-3-3 offensif, possession 63%, pressing haut, transitions rapides sur les ailes",
+          "away_style": "4-2-3-1, pressing haut mais vulnérable en profondeur, ligne haute défensive",
+          "key_matchup": "Vitesse des ailiers domicile vs ligne haute extérieur. Avantage domicile.",
+          "predicted_approach": "Domicile va exploiter la profondeur, extérieur forcé défendre plus bas"
+        },
+        
+        "schedule_fatigue": {
+          "home_team": "4 jours repos, rotation effectuée match précédent. Équipe fraîche.",
+          "away_team": "3 matchs en 7 jours, déplacement international il y a 48h. Fatigue probable.",
+          "advantage": "Avantage physique net pour équipe domicile"
+        },
+        
+        "context_stakes": {
+          "home_situation": "2e du groupe, doit gagner pour qualification. Pression maximale mais motivation extrême.",
+          "away_situation": "Déjà qualifié, 1ère place en jeu mais pas crucial. Motivation moyenne.",
+          "psychological": "Équipe domicile plus affamée, veut revanche saison passée. Pression supporters à domicile.",
+          "overall": "Avantage mental et motivationnel équipe domicile"
+        },
+        
+        "home_advantage": {
+          "home_record_season": "10V-1N-1D à domicile, 32 buts pour, 7 contre. Forteresse.",
+          "away_record_opponent": "Résultats extérieur mitigés : 3V-2N-3D, difficulté en déplacement",
+          "atmosphere": "Stade plein, 48000 supporters, ambiance hostile pour visiteurs",
+          "weather": "Conditions normales, pas d'impact",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        
+        "odds_value": {
+          "bet_odds": 2.10,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "55-60%",
+          "value_analysis": "Value bet identifié, cote sous-évaluée de 7-12%",
+          "odds_movement": "Cote en légère baisse depuis hier (était 2.20), marché corrige"
+        },
+        
+        "key_factors_summary": [
+          "Forme exceptionnelle équipe domicile (4V-1N) vs forme instable extérieur en déplacement",
+          "3 titulaires absents côté extérieur dont gardien et meneur de jeu - impact majeur",
+          "Fatigue extérieur (3 matchs/7j) vs équipe domicile reposée",
+          "Enjeu crucial pour domicile (qualification) vs motivation moyenne extérieur",
+          "Historique favorable : 2 victoires domicile sur 2 derniers matchs à domicile"
+        ]
+      },
+      
+      "conclusion": "Tous les facteurs convergent vers une victoire domicile : forme supérieure, avantage physique (fatigue adverse), effectif complet vs 3 absents majeurs côté extérieur, motivation maximale (enjeu qualification), historique favorable à domicile, et avantage tactique (vitesse vs ligne haute). Les cotes offrent une value intéressante (7-12% edge). Risque modéré mais probabilité élevée.",
+      
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Équipe Domicile)",
+      "odds": 2.10,
+      "confidence": 78,
+      "risk_level": "Medium",
+      
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Deux attaques prolifiques, défense extérieur affaiblie"
+        }
+      ]
+    }
+  ],
+  
+  "matches_excluded": {
+    "count": Z,
+    "examples": [
+      {
+        "match": "Match X vs Y",
+        "reason": "Cote trop faible (1.30), gain insuffisant"
+      },
+      {
+        "match": "Match A vs B",
+        "reason": "Incertitude composition (5 blessés non confirmés)"
+      }
+    ]
+  },
+  
+  "combined_bet": {
+    "matches": ["Match 1 avec prédiction", "Match 2 avec prédiction"],
+    "total_odds": 3.89,
+    "confidence": 72,
+    "detailed_reasoning": "Match 1 : forte probabilité (78%). Match 2 : probabilité élevée (76%). Corrélation faible entre les deux (compétitions différentes). Risque combiné calculé : 59% (78% × 76%). Cote offre value vs risque.",
+    "risk_level": "Medium-High",
+    "IMPORTANT": "LE COMBINÉ NE DOIT JAMAIS ÊTRE VIDE. Sélectionne TOUJOURS les 2-3 meilleurs paris à combiner."
+  }
+}
+```
+
+## RÈGLES CRITIQUES
+
+1. **PROFONDEUR OBLIGATOIRE** : Chaque section doit contenir des détails concrets et vérifiables
+2. **STATS PRÉCISES** : Toujours donner chiffres, scores, dates quand mentionnés
+3. **PAS DE GÉNÉRALITÉS** : Bannir phrases vagues type "bonne forme" sans détails
+4. **PREUVES** : Chaque affirmation doit être étayée par des faits
+5. **LONGUEUR** : Une analyse complète = environ 300 mots par match minimum, peut aller jusqu'à 400-500 mots si nécessaire pour compléter les phrases
+6. **CONCLUSION SYNTHÉTIQUE** : Résumer tous les facteurs en fin d'analyse
+7. **PHRASES COMPLÈTES OBLIGATOIRES** : JAMAIS de "..." ou de phrases inachevées. Chaque phrase DOIT se terminer correctement avec un point final
+
+## AUTO-VÉRIFICATION AVANT ENVOI
+
+Pour chaque pronostic, vérifier :
+- [ ] Ai-je analysé les 5 derniers matchs des DEUX équipes ?
+- [ ] Ai-je donné des SCORES exacts et DATES ?
+- [ ] Ai-je listé TOUS les absents avec leur IMPACT ?
+- [ ] Ai-je analysé la TACTIQUE en détail ?
+- [ ] Ai-je expliqué le CONTEXTE et l'ENJEU ?
+- [ ] Ai-je donné des STATS de forme domicile/extérieur ?
+- [ ] Mon analyse fait-elle environ 300 mots (synthétique mais complète) ?
+- [ ] Chaque facteur est-il CONCRET et VÉRIFIABLE ?
+
+---
+
+═══════════════════════════════════════════════════════
+MATCHS DU JOUR - DONNÉES EXHAUSTIVES API-FOOTBALL
+═══════════════════════════════════════════════════════
+
+
+████████████████████████████████████████████████████████████
+MATCH #1: Real Betis vs Atletico Madrid
+████████████████████████████████████████████████████████████
+
+📍 Compétition: La Liga
+⏰ Coup d'envoi: 2025-10-27T20:00:00+00:00
+
+┌─ 📊 CLASSEMENT ACTUEL ─────────────────────────────────┐
+│ ✈️  Atletico Madrid: 5e place - 16 pts
+│    Bilan: 4V-4N-1D
+│    Buts: 16 pour, 10 contre (diff: 6)
+│    Extérieur: 0V-3N-1D
+│ 🏠 Real Betis: 6e place - 16 pts
+│    Bilan: 4V-4N-1D
+│    Buts: 15 pour, 10 contre (diff: 5)
+│    Domicile: 3V-0N-1D
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE DOMICILE ──────────────────────┐
+│ Matchs joués: 9
+│ Victoires: 4 (3 domicile)
+│ Nuls: 4
+│ Défaites: 1
+│ Buts marqués: 15 (moy: 1.7)
+│ Buts encaissés: 10 (moy: 1.1)
+│ Plus grande victoire: 3-1
+│ Plus lourde défaite: 1-2
+└────────────────────────────────────────────────────────┘
+
+┌─ 📈 STATS SAISON ÉQUIPE EXTÉRIEURE ────────────────────┐
+│ Matchs joués: 9
+│ Victoires: 4 (0 extérieur)
+│ Nuls: 4
+│ Défaites: 1
+│ Buts marqués: 16 (moy: 1.8)
+│ Buts encaissés: 10 (moy: 1.1)
+│ Plus grande victoire: None
+│ Plus lourde défaite: 2-1
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE DOMICILE (10 derniers) ─────────────┐
+│  1. [N] 2025-10-23: Genk 0-0 Real Betis
+│  2. [N] 2025-10-18: Villarreal 2-2 Real Betis
+│  3. [V] 2025-10-05: Espanyol 1-2 Real Betis
+│  4. [V] 2025-10-02: Ludogorets 0-2 Real Betis
+│  5. [V] 2025-09-28: Real Betis 2-0 Osasuna
+│  6. [N] 2025-09-24: Real Betis 2-2 Nottingham Forest
+│  7. [V] 2025-09-19: Real Betis 3-1 Real Sociedad
+│  8. [N] 2025-09-14: Levante 2-2 Real Betis
+│  9. [D] 2025-08-31: Real Betis 1-2 Athletic Club
+│ 10. [N] 2025-08-27: Celta Vigo 1-1 Real Betis
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔥 FORME RÉCENTE EXTÉRIEUR (10 derniers) ────────────┐
+│  1. [D] 2025-10-21: Arsenal 4-0 Atletico Madrid
+│  2. [V] 2025-10-18: Atletico Madrid 1-0 Osasuna
+│  3. [N] 2025-10-05: Celta Vigo 1-1 Atletico Madrid
+│  4. [V] 2025-09-30: Atletico Madrid 5-1 Eintracht Frankfurt
+│  5. [V] 2025-09-27: Atletico Madrid 5-2 Real Madrid
+│  6. [V] 2025-09-24: Atletico Madrid 3-2 Rayo Vallecano
+│  7. [N] 2025-09-21: Mallorca 1-1 Atletico Madrid
+│  8. [D] 2025-09-17: Liverpool 3-2 Atletico Madrid
+│  9. [V] 2025-09-13: Atletico Madrid 2-0 Villarreal
+│ 10. [N] 2025-08-30: Alaves 1-1 Atletico Madrid
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 CONFRONTATIONS DIRECTES (10 derniers H2H) ────────┐
+│  1. 2025-05-18: Atletico Madrid 4-1 Real Betis
+│  2. 2024-10-27: Real Betis 1-0 Atletico Madrid
+│  3. 2024-03-03: Atletico Madrid 2-1 Real Betis
+│  4. 2023-08-20: Real Betis 0-0 Atletico Madrid
+│  5. 2023-04-02: Atletico Madrid 1-0 Real Betis
+│  6. 2022-10-23: Real Betis 1-2 Atletico Madrid
+│  7. 2022-03-06: Real Betis 1-3 Atletico Madrid
+│  8. 2021-10-31: Atletico Madrid 3-0 Real Betis
+│  9. 2021-04-11: Real Betis 1-1 Atletico Madrid
+│ 10. 2020-10-24: Atletico Madrid 2-0 Real Betis
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS DOMICILE ───────────────────┐
+│ ❌ Diego Javier Llorente Rios: Injured Doubtful
+│ ❌ Marc Roca: Injured Doubtful
+│ ❌ Iker Losada: Injured Doubtful
+│ ❌ Nelson Alexander Deossa Suarez: Injured Doubtful
+│ ❌ Diego Javier Llorente Rios: Injured Doubtful
+│ ❌ Giovani Lo Celso: Muscular problems
+│ ❌ Marc Roca: Foot injury
+│ ❌ Nelson Alexander Deossa Suarez: injured
+│ ❌ Diego Javier Llorente Rios: Injured Doubtful
+│ ❌ Marc Roca: Foot injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🏥 BLESSURES/SUSPENSIONS EXTÉRIEUR ──────────────────┐
+│ ❌ J. Giménez: Thigh problems
+│ ❌ J. Giménez: Thigh problems
+│ ❌ J. Giménez: Thigh problems
+│ ❌ J. Giménez: Thigh problems
+│ ❌ Álex Baena: Muscle bruise
+│ ❌ Álex Baena: Muscle bruise
+│ ❌ Álex Baena: Muscle bruise
+│ ❌ T. Almada: Muscle bruise
+│ ❌ T. Almada: Muscle Injury
+│ ❌ J. Alvarez: Knee Injury
+└────────────────────────────────────────────────────────┘
+
+┌─ 🤖 PRÉDICTION API-FOOTBALL (référence) ──────────────┐
+│ Gagnant probable: Atletico Madrid
+│ Conseil: Double chance : draw or Atletico Madrid
+│ Forme: 50% vs 50%
+│ Att: 50% vs 50%
+│ Def: 50% vs 50%
+│ ⚠️ IMPORTANT: Ces prédictions sont INDICATIVES, tu dois faire ta propre analyse
+└────────────────────────────────────────────────────────┘
+
+┌─ ⚽ TOP 10 BUTEURS DE LA LIGUE ────────────────────────┐
+│  1. Kylian Mbappé (Real Madrid): 11 buts
+│  2. ✈️ J. Álvarez (Atletico Madrid): 6 buts
+│  3. Etta Eyong (Levante): 5 buts
+│  4. Vinícius Júnior (Real Madrid): 5 buts
+│  5. V. Muriqi (Mallorca): 5 buts
+│  6. Ferran Torres (Barcelona): 4 buts
+│  7. Jorge de Frutos (Rayo Vallecano): 4 buts
+│  8. 🏠 C. Hernández (Real Betis): 4 buts
+│  9. T. Buchanan (Villarreal): 4 buts
+│ 10. André Silva (Elche): 4 buts
+└────────────────────────────────────────────────────────┘
+
+┌─ 🎯 TOP 10 PASSEURS DE LA LIGUE ──────────────────────┐
+│  1. Luis Milla (Getafe): 5 passes
+│  2. Vinícius Júnior (Real Madrid): 4 passes
+│  3. A. Güler (Real Madrid): 4 passes
+│  4. R. Vargas (Sevilla): 4 passes
+│  5. 🏠 Pablo Fornals (Real Betis): 4 passes
+│  6. Lamine Yamal (Barcelona): 4 passes
+│  7. M. Rashford (Barcelona): 4 passes
+│  8. Barrenetxea (Real Sociedad): 3 passes
+│  9. ✈️ G. Simeone (Atletico Madrid): 3 passes
+│ 10. José Ángel Carmona (Sevilla): 3 passes
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR DOMICILE ───────────────────────────────┐
+│ Nom: M. Pellegrini (Chile, 72 ans)
+│ En poste depuis: 1994-07-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 👔 ENTRAÎNEUR EXTÉRIEUR ──────────────────────────────┐
+│ Nom: D. Simeone (Argentina, 55 ans)
+│ En poste depuis: 2006-02-01
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS DOMICILE (derniers) ───────────┐
+│ ⬆️ Alberto López Serralta: Real Betis → El Ejido (N/A, 2018-07-01)
+│ ⬆️ Barragán: Real Betis → Elche (Free, 2020-10-04)
+│ ⬆️ Jorge Molina: Real Betis → Getafe (Free, 2016-07-01)
+│ ⬆️ Adrián Tellado Robles: Real Betis → Córdoba II (N/A, 2020-08-01)
+│ ⬆️ Dani Giménez: Real Betis → Deportivo La Coruna (N/A, 2018-07-02)
+└────────────────────────────────────────────────────────┘
+
+┌─ 🔄 TRANSFERTS RÉCENTS EXTÉRIEUR (derniers) ──────────┐
+│ ⬇️ Andy Escudero Jara: SS Reyes → Atletico Madrid (None, 2019-07-01)
+│ ⬆️ Alejandro Díaz Vasco: Atletico Madrid → Pozuelo Alarcón (N/A, 2018-07-01)
+│ ⬆️ Alberto Rentero Barbera: Atletico Madrid → Alaves (N/A, 2018-07-21)
+│ ⬆️ Javier González Nieto: Atletico Madrid → Noja (N/A, 2013-07-24)
+│ ⬆️ Víctor Pascual Jaramillo: Atletico Madrid → Navalcarnero (N/A, 2017-08-11)
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════
+
+
+🎯 INSTRUCTION: Analyse TOUTES ces données réelles pour identifier les VALUE BETS.
+Les cotes fournies sont RÉELLES et EN TEMPS RÉEL.
+NE PAS inventer de données - TOUT est fourni ci-dessus.
+
+
+
+---
+
+**🚨🚨🚨 INSTRUCTION FINALE CRITIQUE - LIRE AVANT TOUTE ANALYSE 🚨🚨🚨**
+
+**TU DOIS MAINTENANT ANALYSER LES MATCHS CI-DESSUS.**
+
+Les données API-Football COMPLÈTES pour chaque match sont fournies CI-DESSUS entre les lignes "████████████████ MATCH #X" et "════════════════".
+
+**AVANT D'ÉCRIRE CHAQUE STATISTIQUE, VÉRIFIE QU'ELLE APPARAÎT TEXTUELLEMENT DANS LES DONNÉES CI-DESSUS :**
+
+1. ✅ Tu vois "Como: 6e place - 12 pts" dans "┌─ 📊 CLASSEMENT ACTUEL ─┐" ? → Tu PEUX écrire "Como 6e place avec 12 points"
+2. ✅ Tu vois "[V] 2025-10-18: Como 2-0 Parma" dans "┌─ 🔥 FORME RÉCENTE ─┐" ? → Tu PEUX écrire "Como a battu Parma 2-0 le 2025-10-18"
+3. ❌ Tu ne vois PAS de bilan "3V-3N-1D" écrit textuellement ? → TU NE PEUX PAS l'inventer, COMPTE les [V]/[N]/[D] dans la forme récente
+4. ❌ Une section est VIDE (ex: "┌─ 💰 COTES ─┐" vide) ? → ÉCRIS "Cotes non disponibles", N'INVENTE PAS de chiffres
+
+**⚠️ ZÉRO TOLÉRANCE POUR LES INVENTIONS :**
+
+Tu as une connaissance coupée en janvier 2025. Nous sommes en octobre 2025. Tu NE CONNAIS PAS les résultats récents.
+
+**EXEMPLES D'INVENTIONS INTERDITES (basées sur tes erreurs passées) :**
+❌ "Como 6e place avec 12 points, bilan positif 3V-3N-1D" → SI tu ne vois PAS "3V-3N-1D" écrit dans les données, NE L'ÉCRIS PAS
+❌ "Parma attaque défaillante: 3 buts marqués en 7 matchs" → SI tu ne vois PAS ce chiffre exact, NE L'ÉCRIS PAS
+❌ "Brest forme irrégulière avec 2V-1N-2D" → SI tu dois COMPTER les résultats, FAIS-LE à partir des données fournies
+❌ "PSG forme dominante environ 4V-1N" → "environ" = INVENTION, utilise les chiffres EXACTS des données
+
+**RÈGLE ABSOLUE #1 - UTILISE UNIQUEMENT LES DONNÉES FOURNIES:**
+✅ Si les données fournies montrent "FORME RÉCENTE DOMICILE (10 derniers)" avec des scores RÉELS → UTILISE-LES
+✅ Si les données montrent "CLASSEMENT ACTUEL" avec position et points → UTILISE-LES
+✅ Si les données montrent "TOP 10 BUTEURS" avec noms et stats → UTILISE-LES
+❌ Si une section est VIDE ou ABSENTE → N'INVENTE PAS, DIS-LE
+
+**RÈGLE ABSOLUE #2 - REFUSER UN PARI PLUTÔT QUE D'INVENTER:**
+Si les données CRITIQUES manquent (forme récente RÉELLE, classement, H2H), tu DOIS:
+1. L'ADMETTRE explicitement: "⚠️ Données de forme récente non fournies pour ce match"
+2. NE PAS proposer de pari pour ce match
+3. Passer au match suivant qui a des données complètes
+
+**RÈGLE ABSOLUE #3 - VÉRIFICATION AVANT CHAQUE STAT:**
+Avant d'écrire TOUTE stat (ex: "3V-3N-1D", "12 points", "6e place"):
+1. VÉRIFIE qu'elle est EXPLICITEMENT dans les données fournies ci-dessus
+2. Si tu ne la VOIS PAS textuellement dans les données → NE L'ÉCRIS PAS
+3. Mieux vaut dire "Données non fournies" que d'inventer
+
+**🚨 RÈGLE ABSOLUE #4 - ORDRE HOME/AWAY (TRÈS IMPORTANT) 🚨:**
+
+CHAQUE match CI-DESSUS indique clairement avec des emojis:
+- 🏠 = ÉQUIPE À DOMICILE (home_team)
+- ✈️ = ÉQUIPE À L'EXTÉRIEUR (away_team)
+
+**EXEMPLES POUR BIEN COMPRENDRE:**
+
+Si les données montrent:
+```
+████████ MATCH #2: Parma vs Como ████████
+│ 🏠 Parma: 15e place - 6 pts
+│ ✈️ Como: 6e place - 12 pts
+```
+
+Alors dans ton JSON, tu DOIS écrire:
+- "home_team" = Parma (celui avec 🏠)
+- "away_team" = Como (celui avec ✈️)
+
+**❌ ERREUR FRÉQUENTE À ÉVITER:**
+N'inverse PAS home_team et away_team ! Si tu vois "🏠 Parma" et "✈️ Como", alors:
+- ❌ FAUX: home_team = Como, away_team = Parma
+- ✅ CORRECT: home_team = Parma, away_team = Como
+
+**RÈGLE ABSOLUE SUR LES PHRASES:**
+- AUCUN "..." n'est autorisé dans les analyses
+- TOUTES les phrases DOIVENT se terminer correctement avec un point final
+- Si une analyse dépasse 400-500 mots pour compléter les phrases, c'est acceptable
+- Préférer une analyse complète de 500 mots qu'une analyse tronquée de 300 mots avec des "..."
+
+**RÈGLE ABSOLUE SUR LES COTES:**
+- MINIMUM ABSOLU: 1.70 pour TOUTE recommandation
+- Si un pari a une cote < 1.70, même avec 95% de confiance, NE PAS LE RECOMMANDER
+- Chercher des paris avec VALUE (cote sous-évaluée par le marché)
+- Mieux vaut 3 paris de qualité à 2.00+ qu'un 8 paris dont 5 à <1.70
+
+**RÈGLE ABSOLUE SUR LE COMBINÉ:**
+- Le combiné NE DOIT JAMAIS être vide
+- Sélectionne TOUJOURS les 2-3 meilleurs paris (confiance la plus élevée)
+- Calcule la cote totale en multipliant les cotes individuelles
+- Explique pourquoi ces paris vont ensemble
+
+IMPORTANT: Assure-toi que le JSON est parfaitement formaté et valide.
+
+**DIVERSITÉ DES PARIS:**
+- VARIE les types de paris (1X2, Over/Under, BTTS, Handicap)
+- Choisis le type le PLUS PERTINENT et SÛRE selon le contexte du match
+- Évite d'avoir 100% de paris 1X2
+- Objectif: 40% 1X2, 30% Over/Under, 20% BTTS, 10% Handicap/Double Chance

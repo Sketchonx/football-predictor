@@ -1,0 +1,228 @@
+{
+  "analysis_date": "2025-11-03",
+  "total_analyzed": 4,
+  "total_retained": 2,
+  "recommendations": [
+    {
+      "match": "Sassuolo vs Genoa",
+      "competition": "Serie A",
+      "kickoff": "17:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D selon les 5 derniers matchs analysés",
+            "home_record": "À domicile: 2V-0N-2D cette saison",
+            "trend": "Forme positive récente avec victoire extérieur à Cagliari 2-1 le 30/10",
+            "details": "Derniers résultats : [V] Cagliari 1-2 Sassuolo, [D] Sassuolo 0-1 AS Roma, [N] Lecce 0-0 Sassuolo, [V] Verona 0-1 Sassuolo, [V] Sassuolo 3-1 Udinese"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D selon les 5 derniers matchs analysés",
+            "away_record": "À l'extérieur: 0V-1N-3D cette saison - aucune victoire en déplacement",
+            "trend": "Forme catastrophique avec 2 défaites consécutives récentes",
+            "details": "Derniers résultats : [D] Genoa 0-2 Cremonese, [D] Torino 2-1 Genoa, [N] Genoa 0-0 Parma, [D] Napoli 2-1 Genoa, [D] Genoa 0-3 Lazio"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Historique équilibré sur 10 derniers H2H : 4V Genoa, 2N, 4V Sassuolo",
+          "at_home": "À domicile, Sassuolo a gagné 3 des 5 derniers dont une large victoire 5-0 en 2020",
+          "details": "Résultats récents: Genoa 2-1 Sassuolo (2024), Sassuolo 1-2 Genoa (2023), Sassuolo 1-1 Genoa (2022), mais Sassuolo 5-0 Genoa (2020) et 2-1 (2021) à domicile",
+          "trends": "Matchs généralement serrés avec avantage léger au terrain qui reçoit, moyenne 2.2 buts/match"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "K. Thorstvedt (milieu, douleur talon)",
+              "Y. Paz (attaquant, blessure mollet)",
+              "S. Walukiewicz (défenseur, blessure hanche)",
+              "D. Boloca (milieu, blessure musculaire)"
+            ],
+            "impact": "Impact modéré : 4 absents mais secteurs défensif et offensif encore fournis avec des remplaçants"
+          },
+          "away_team": {
+            "absent": [
+              "Caleb Ekuban (attaquant)",
+              "M. Cornet (ailier, manque forme)",
+              "J. Onana (milieu, blessure cuisse)",
+              "Junior Messias (ailier, inactif)",
+              "N. Stanciu (milieu, blessure cuisse)"
+            ],
+            "impact": "Impact MAJEUR : 5 absents dont 3 créateurs offensifs clés (Cornet, Messias, Stanciu). Attaque déjà faible (4 buts en 9 matchs) encore plus affaiblie."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Sassuolo joue un football offensif traditionnel avec construction depuis l'arrière, 10 buts marqués en 9 matchs (moyenne correcte de 1.1/match)",
+          "away_style": "Genoa en grande difficulté offensive avec seulement 4 buts marqués en 9 matchs (0.4/match), défense perméable (13 encaissés)",
+          "key_matchup": "Attaque Sassuolo (10 buts pour) contre défense Genoa (13 buts encaissés). Net avantage Sassuolo.",
+          "predicted_approach": "Sassuolo va dominer territorialement face à un Genoa contraint de défendre et cherchant le contre, mais sans ses créateurs habituels"
+        },
+        "schedule_fatigue": {
+          "home_team": "4 jours de repos depuis la victoire à Cagliari 2-1. Équipe fraîche pour ce match à domicile.",
+          "away_team": "5 jours de repos depuis la défaite 0-2 contre Cremonese à domicile. Repos suffisant mais moral en berne.",
+          "advantage": "Égalité sur le plan physique, mais avantage psychologique net pour Sassuolo après sa victoire extérieure"
+        },
+        "context_stakes": {
+          "home_situation": "Sassuolo 10e avec 13 points, bilan équilibré 4V-1N-4D. Objectif milieu de tableau, match important pour confirmer la dynamique positive.",
+          "away_situation": "Genoa dernier avec seulement 3 points et 0 victoire. Situation critique de relégation, pression énorme mais équipe résignée.",
+          "psychological": "Sassuolo en confiance après 3 victoires sur 5 derniers matchs. Genoa en crise totale, aucune victoire cette saison.",
+          "overall": "Avantage psychologique et motivationnel massif pour Sassuolo face à une équipe de Genoa en perdition"
+        },
+        "home_advantage": {
+          "home_record_season": "Sassuolo à domicile : 2V-0N-2D, bilan mitigé mais récente victoire 3-1 contre Udinese montre le potentiel",
+          "away_record_opponent": "Genoa à l'extérieur : 0V-1N-3D, aucune victoire en déplacement cette saison, terrible bilan",
+          "atmosphere": "Stade Sassuolo, supporters motivés par la forme récente positive de l'équipe",
+          "weather": "Conditions normales, pas d'impact météorologique",
+          "advantage_score": "8/10 - Avantage domicile important face à une équipe incapable de gagner à l'extérieur"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Value bet identifiée : cote sous-évaluée de 13-18% compte tenu de l'écart de forme et de niveau",
+          "odds_movement": "Cote stable, marché n'a pas encore intégré la gravité de la crise de Genoa"
+        },
+        "key_factors_summary": [
+          "Écart de classement majeur : Sassuolo 10e (13 pts) vs Genoa dernier (3 pts, 0 victoire)",
+          "Forme récente opposée : Sassuolo 3V sur 5 derniers vs Genoa 1V sur 10 derniers",
+          "Bilan extérieur catastrophique de Genoa : 0V-1N-3D, incapable de gagner en déplacement",
+          "Absences offensives majeures chez Genoa : Cornet, Messias, Stanciu (créateurs principaux)",
+          "Statistiques offensives alarmantes : Genoa seulement 4 buts marqués en 9 matchs (0.4/match)"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire nette de Sassuolo. L'équipe locale, 10e au classement avec une forme récente positive (3V sur 5), reçoit la lanterne rouge Genoa qui n'a toujours pas gagné cette saison et reste sur 2 défaites consécutives. L'écart de niveau est flagrant : 13 points d'écart au classement, Genoa incapable de gagner à l'extérieur (0V-1N-3D), et surtout une attaque inexistante (4 buts en 9 matchs) encore affaiblie par les absences de Cornet, Messias et Stanciu. La cote à 1.75 offre une value intéressante de 13-18% compte tenu de la probabilité réelle estimée à 70-75%. Risque faible avec un rapport gain/risque excellent.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Sassuolo)",
+      "odds": 1.75,
+      "confidence": 78,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Sassuolo -1.5",
+          "odds": 2.8,
+          "reasoning": "Écart de niveau important, Genoa très faible offensivement"
+        }
+      ]
+    },
+    {
+      "match": "Sunderland vs Everton",
+      "competition": "Premier League",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-1N-0D selon les 5 derniers matchs analysés",
+            "home_record": "À domicile: 3V-1N-0D cette saison, invaincu à domicile",
+            "trend": "Excellente forme avec victoire de prestige à Chelsea 2-1 le 25/10",
+            "details": "Derniers résultats : [V] Chelsea 1-2 Sunderland, [V] Sunderland 2-0 Wolves, [D] Manchester United 2-0 Sunderland, [V] Nottingham Forest 0-1 Sunderland, [N] Sunderland 1-1 Aston Villa"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D selon les 5 derniers matchs analysés",
+            "away_record": "À l'extérieur: 1V-0N-3D cette saison, difficultés en déplacement",
+            "trend": "Forme décevante avec 2 défaites consécutives lourdes",
+            "details": "Derniers résultats : [D] Everton 0-3 Tottenham, [D] Manchester City 2-0 Everton, [V] Everton 2-1 Crystal Palace, [N] Everton 1-1 West Ham, [D] Wolves 2-0 Everton"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Historique favorable à Everton : 6V Everton, 1N, 1V Sunderland sur 8 derniers H2H",
+          "at_home": "À domicile, Sunderland a gagné 2 fois dont une large victoire 3-0 en 2016, mais Everton a dominé récemment",
+          "details": "Résultats récents: Everton 3-0 Sunderland (2017), Everton 2-0 Sunderland (2017), mais Sunderland 3-0 Everton (2016) et 1-0 (2013) à domicile",
+          "trends": "Historique favorable à Everton mais matchs datant d'avant la relégation/remontée de Sunderland. Contexte actuel différent."
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Wilson Isidor (attaquant, blessé)",
+              "Niall Huggins (défenseur, chirurgie genou)",
+              "Marc Guiu (attaquant, incertain)",
+              "Nordi Mukiele (défenseur, déchirure musculaire)"
+            ],
+            "impact": "Impact modéré : 4 absents mais W. Isidor (4 buts cette saison) est un titulaire offensif important. Défense affaiblie."
+          },
+          "away_team": {
+            "absent": [
+              "Vitaliy Mykolenko (défenseur, blessure aine)",
+              "N. Patterson (défenseur, contusion musculaire)",
+              "J. Branthwaite (défenseur central, blessure ischio)",
+              "Harrison Armstrong (milieu)"
+            ],
+            "impact": "Impact MAJEUR : 4 absents dont 3 défenseurs titulaires (Mykolenko, Patterson, Branthwaite). Défense décimée face à une attaque de Sunderland en forme."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Sunderland sous Le Bris joue un football offensif moderne, 11 buts marqués en 9 matchs, pressing haut et transitions rapides",
+          "away_style": "Everton de Dyche privilégie la solidité défensive mais défense affaiblie par les absences, 9 buts marqués seulement",
+          "key_matchup": "Attaque Sunderland (11 buts, invaincu à domicile) contre défense Everton décimée par les blessures de 3 titulaires arrière",
+          "predicted_approach": "Sunderland va presser haut et exploiter les faiblesses défensives d'Everton. Everton contraint de défendre avec une arrière-garde de fortune."
+        },
+        "schedule_fatigue": {
+          "home_team": "9 jours de repos depuis la victoire à Chelsea. Équipe parfaitement reposée et préparée pour ce match crucial à domicile.",
+          "away_team": "8 jours de repos depuis la défaite 0-3 contre Tottenham. Temps suffisant mais moral affecté par 2 défaites lourdes consécutives.",
+          "advantage": "Léger avantage Sunderland sur le plan physique et surtout mental après sa performance de prestige à Chelsea"
+        },
+        "context_stakes": {
+          "home_situation": "Sunderland 7e avec 17 points, excellent début de saison. Objectif maintien largement en vue, peut viser plus haut. Confiance maximale.",
+          "away_situation": "Everton 15e avec 11 points, début de saison décevant. Pression pour s'éloigner de la zone de relégation, besoin de points urgents.",
+          "psychological": "Sunderland en totale confiance après sa victoire à Stamford Bridge. Everton sous pression après 2 défaites lourdes consécutives.",
+          "overall": "Avantage psychologique net pour Sunderland, équipe libérée face à un Everton sous pression"
+        },
+        "home_advantage": {
+          "home_record_season": "Sunderland à domicile : 3V-1N-0D, invaincu avec 7 buts pour et 3 contre. Véritable forteresse.",
+          "away_record_opponent": "Everton à l'extérieur : 1V-0N-3D, seulement 1 victoire en 4 déplacements, bilan négatif",
+          "atmosphere": "Stadium of Light, 49000 supporters attendus, ambiance électrique après la victoire à Chelsea",
+          "weather": "Conditions normales pour novembre en Angleterre",
+          "advantage_score": "9/10 - Avantage domicile majeur : invaincu à domicile vs visiteur en difficulté à l'extérieur"
+        },
+        "odds_value": {
+          "bet_odds": 2.1,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "60-65%",
+          "value_analysis": "Value bet claire : cote sous-évaluée de 12-17% compte tenu de la forme, des absences adverses et de l'avantage domicile",
+          "odds_movement": "Cote attractive, marché n'a pas suffisamment pris en compte l'impact des blessures défensives d'Everton"
+        },
+        "key_factors_summary": [
+          "Forme opposée : Sunderland invaincu à domicile (3V-1N) vs Everton 1 seule victoire en 4 déplacements",
+          "Dynamique récente : victoire de prestige Sunderland à Chelsea vs 2 défaites lourdes consécutives Everton",
+          "Défense Everton décimée : 3 défenseurs titulaires absents (Mykolenko, Patterson, Branthwaite)",
+          "Classement : Sunderland 7e (17 pts) en confiance vs Everton 15e (11 pts) sous pression",
+          "Attaque vs défense : 11 buts marqués Sunderland vs défense Everton affaiblie (12 encaissés)"
+        ]
+      },
+      "conclusion": "Sunderland présente un profil de value bet excellent dans ce contexte. L'équipe est invaincue à domicile cette saison (3V-1N) et vient de réaliser un exploit à Chelsea, démontrant sa montée en puissance. Face à eux, Everton traverse une période difficile avec 2 défaites lourdes consécutives et surtout une défense décimée par les absences de 3 titulaires (Mykolenko, Patterson, Branthwaite). L'écart de forme est flagrant : Sunderland 7e avec 17 points contre Everton 15e avec 11 points. La cote à 2.10 offre une value de 12-17% compte tenu de tous ces facteurs favorables. L'ambiance du Stadium of Light après l'exploit de Chelsea sera un atout supplémentaire. Risque modéré pour un gain potentiel intéressant.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Sunderland)",
+      "odds": 2.1,
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Attaque Sunderland en forme face à défense Everton affaiblie"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 2,
+    "examples": [
+      {
+        "match": "Lazio vs Cagliari",
+        "reason": "Cote Lazio victoire trop faible (estimée <1.70), gain insuffisant malgré favori clair"
+      },
+      {
+        "match": "Oviedo vs Osasuna",
+        "reason": "Match trop incertain entre deux équipes en difficulté, pas de value bet identifiable avec confiance suffisante"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Sassuolo victoire vs Genoa",
+      "Sunderland victoire vs Everton"
+    ],
+    "total_odds": 3.68,
+    "confidence": 72,
+    "detailed_reasoning": "Combiné de qualité associant deux favoris logiques avec value. Sassuolo (78% confiance) face à la lanterne rouge Genoa sans victoire, et Sunderland (75% confiance) invaincu à domicile face à un Everton affaibli défensivement. Corrélation faible entre les deux matchs (ligues différentes, horaires décalés). Risque combiné calculé : 58% (78% × 75%). La cote totale 3.68 offre un excellent rapport risque/rendement pour ce niveau de confiance.",
+    "risk_level": "Medium",
+    "IMPORTANT": "Deux paris solides avec des fondamentaux clairs : équipes favorites en forme face à adversaires en crise avec des faiblesses structurelles identifiées."
+  }
+}

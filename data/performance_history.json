@@ -299,5 +299,19 @@
     "actual_score": "3-0",
     "recorded_at": "2025-11-02T09:17:52.948603",
     "updated_at": "2025-11-02T23:12:48.292933"
+  },
+  {
+    "prediction_id": "2025-11-03_0",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-03T09:16:04.380677",
+    "updated_at": "2025-11-03T09:16:04.380684"
+  },
+  {
+    "prediction_id": "2025-11-03_1",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-03T09:16:04.380687",
+    "updated_at": "2025-11-03T09:16:04.380688"
   }
 ]

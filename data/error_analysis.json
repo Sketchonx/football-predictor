@@ -250,5 +250,47 @@
     "bet_choice": "2 (Victoire 1899 Hoffenheim)",
     "final_score": "2-3",
     "analysis_date": "2025-11-02T23:13:04.498405"
+  },
+  {
+    "main_cause": "Sous-estimation de la capacité de réaction d'une équipe en crise face à un adversaire supposé accessible, malgré les multiples absences offensives.",
+    "missed_factors": [
+      "Impact psychologique potentiel d'un match crucial pour Genoa contre un adversaire à portée, pouvant déclencher une réaction d'orgueil malgré la crise",
+      "Analyse insuffisante de l'efficacité défensive de Genoa qui, malgré ses problèmes offensifs, pourrait avoir maintenu une solidité relative",
+      "Surévaluation de la régularité de Sassuolo à domicile sans vérifier leur capacité à concrétiser leur domination face aux équipes défensives"
+    ],
+    "actionable_conclusion": "Pour les paris sur des favoris face à des lanternes rouges, vérifier systématiquement les stats de buts encaissés de l'outsider et l'efficacité offensive réelle du favori sur ses 3 derniers matchs à domicile.",
+    "error_category": "sous_estimation_outsider",
+    "match_id": "2025-11-03_0",
+    "match": {
+      "home_team": "Sassuolo",
+      "away_team": "Genoa",
+      "league": "Serie A",
+      "date": "17:30"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Sassuolo)",
+    "final_score": "1-2",
+    "analysis_date": "2025-11-03T23:14:05.002278"
+  },
+  {
+    "main_cause": "Surestimation de l'impact des absences défensives d'Everton sans vérifier leur capacité d'adaptation tactique et la solidité de leurs remplaçants.",
+    "missed_factors": [
+      "Everton a obtenu un match nul malgré ses difficultés récentes, suggérant une résilience sous-estimée en déplacement",
+      "L'euphorie post-exploit de Sunderland à Chelsea a pu créer une pression de confirmation difficile à gérer à domicile",
+      "Le profil défensif d'Everton en déplacement avec les remplaçants n'a pas été analysé spécifiquement"
+    ],
+    "actionable_conclusion": "Avant de miser sur une victoire basée sur les absences adverses, vérifier les performances des remplaçants sur les 3 derniers matchs et pondérer l'effet 'gueule de bois' après un exploit majeur.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-11-03_1",
+    "match": {
+      "home_team": "Sunderland",
+      "away_team": "Everton",
+      "league": "Premier League",
+      "date": "20:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Sunderland)",
+    "final_score": "1-1",
+    "analysis_date": "2025-11-03T23:14:13.134565"
   }
 ]

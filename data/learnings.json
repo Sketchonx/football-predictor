@@ -1,9 +1,9 @@
 {
-  "last_updated": "2025-11-02T23:13:04.500208",
-  "total_errors_analyzed": 12,
+  "last_updated": "2025-11-03T23:14:13.135804",
+  "total_errors_analyzed": 14,
   "categories": {
     "sous_estimation_outsider": {
-      "count": 3,
+      "count": 4,
       "examples": [
         {
           "match": "Paris FC vs Nantes",
@@ -16,16 +16,16 @@
         {
           "match": "VfL Wolfsburg vs 1899 Hoffenheim",
           "conclusion": "Pour les équipes en crise profonde à domicile, vérifier leur bilan dans les matchs à enjeu direct contre des adversaires de niveau similaire au classement avant de miser sur leur défaite."
+        },
+        {
+          "match": "Sassuolo vs Genoa",
+          "conclusion": "Pour les paris sur des favoris face à des lanternes rouges, vérifier systématiquement les stats de buts encaissés de l'outsider et l'efficacité offensive réelle du favori sur ses 3 derniers matchs à domicile."
         }
       ]
     },
     "surestimation_favori": {
-      "count": 6,
+      "count": 7,
       "examples": [
-        {
-          "match": "Metz vs Lens",
-          "conclusion": "Pour les favoris évoluant à l'extérieur contre une lanterne rouge, vérifier leurs résultats des 3 derniers déplacements face aux équipes classées dans les 3 dernières places avant de miser sur une victoire simple."
-        },
         {
           "match": "Marseille vs Angers",
           "conclusion": "Pour les favoris avec cote <1.80 face à des équipes en crise, vérifier systématiquement les écarts de buts moyens des 5 derniers matchs domicile du favori et la capacité de résistance défensive de l'outsider avant de miser sur la victoire simple."
@@ -41,6 +41,10 @@
         {
           "match": "Marseille vs Auxerre",
           "conclusion": "Quand un favori avec plus de 10 points d'écart a une cote supérieure à 1.80 ET un historique récent défavorable, analyser prioritairement l'impact des absences sur les postes clés avant de valider le pronostic."
+        },
+        {
+          "match": "Sunderland vs Everton",
+          "conclusion": "Avant de miser sur une victoire basée sur les absences adverses, vérifier les performances des remplaçants sur les 3 derniers matchs et pondérer l'effet 'gueule de bois' après un exploit majeur."
         }
       ]
     },
@@ -132,6 +136,16 @@
       "date": "2025-11-02T23:13:04.498405",
       "category": "sous_estimation_outsider",
       "conclusion": "Pour les équipes en crise profonde à domicile, vérifier leur bilan dans les matchs à enjeu direct contre des adversaires de niveau similaire au classement avant de miser sur leur défaite."
+    },
+    {
+      "date": "2025-11-03T23:14:05.002278",
+      "category": "sous_estimation_outsider",
+      "conclusion": "Pour les paris sur des favoris face à des lanternes rouges, vérifier systématiquement les stats de buts encaissés de l'outsider et l'efficacité offensive réelle du favori sur ses 3 derniers matchs à domicile."
+    },
+    {
+      "date": "2025-11-03T23:14:13.134565",
+      "category": "surestimation_favori",
+      "conclusion": "Avant de miser sur une victoire basée sur les absences adverses, vérifier les performances des remplaçants sur les 3 derniers matchs et pondérer l'effet 'gueule de bois' après un exploit majeur."
     }
   ]
 }

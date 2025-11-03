@@ -100,7 +100,8 @@
           "odds": 2.8,
           "reasoning": "Écart de niveau important, Genoa très faible offensivement"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Sunderland vs Everton",
@@ -198,7 +199,8 @@
           "odds": 1.85,
           "reasoning": "Attaque Sunderland en forme face à défense Everton affaiblie"
         }
-      ]
+      ],
+      "analyzed": true
     }
   ],
   "matches_excluded": {

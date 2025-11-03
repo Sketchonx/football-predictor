@@ -302,16 +302,16 @@
   },
   {
     "prediction_id": "2025-11-03_0",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "1-2",
     "recorded_at": "2025-11-03T09:16:04.380677",
-    "updated_at": "2025-11-03T09:16:04.380684"
+    "updated_at": "2025-11-03T23:13:55.477756"
   },
   {
     "prediction_id": "2025-11-03_1",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "1-1",
     "recorded_at": "2025-11-03T09:16:04.380687",
-    "updated_at": "2025-11-03T09:16:04.380688"
+    "updated_at": "2025-11-03T23:13:55.721218"
   }
 ]

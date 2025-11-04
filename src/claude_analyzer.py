@@ -76,16 +76,19 @@ Réponds en JSON valide."""
         if learnings_summary:
             prompt = prompt + "\n\n" + learnings_summary
 
-        # Système de retry pour Claude
-        max_retries = 2
+        # Système de retry pour Claude avec backoff exponentiel
+        max_retries = 5  # Augmenté de 2 à 5 pour gérer les surcharges
+        import time
+
         for attempt in range(max_retries):
             try:
                 print(f"🤖 Analyse avec Claude (tentative {attempt + 1}/{max_retries})...")
 
-                # Appel API Claude avec streaming désactivé
-                message = self.client.messages.create(
+                # Appel API Claude avec streaming activé pour longues requêtes
+                result_text = ""
+                with self.client.messages.stream(
                     model=self.model,
-                    max_tokens=16000,  # Claude peut générer de longues analyses
+                    max_tokens=32000,  # AUGMENTÉ: permet des analyses beaucoup plus détaillées sans troncature
                     temperature=0.3,  # Raisonnement rigoureux et cohérent
                     messages=[
                         {
@@ -93,10 +96,11 @@ Réponds en JSON valide."""
                             "content": prompt
                         }
                     ]
-                )
+                ) as stream:
+                    for text in stream.text_stream:
+                        result_text += text
 
-                # Extraire le texte de la réponse
-                result_text = message.content[0].text.strip()
+                result_text = result_text.strip()
 
                 # Nettoyer markdown si présent
                 if '```json' in result_text:
@@ -128,7 +132,10 @@ Réponds en JSON valide."""
             except json.JSONDecodeError as e:
                 print(f"⚠️ Tentative {attempt + 1}/{max_retries} - Erreur parsing JSON: {e}")
                 if attempt < max_retries - 1:
-                    print("🔄 Nouvelle tentative avec Claude...")
+                    # Attendre avant de retry (backoff exponentiel)
+                    wait_time = 2 ** attempt  # 1s, 2s, 4s, 8s, 16s
+                    print(f"⏳ Attente {wait_time}s avant nouvelle tentative...")
+                    time.sleep(wait_time)
                     continue
                 else:
                     print(f"❌ Échec après {max_retries} tentatives")
@@ -136,14 +143,42 @@ Réponds en JSON valide."""
                     return None
 
             except anthropic.APIError as e:
+                error_str = str(e)
                 print(f"❌ Erreur API Claude: {e}")
-                if attempt < max_retries - 1:
-                    print("🔄 Nouvelle tentative...")
-                    continue
+
+                # Si c'est une erreur de surcharge (529) ou rate limit (429), attendre plus longtemps
+                if '529' in error_str or 'overloaded' in error_str.lower():
+                    if attempt < max_retries - 1:
+                        # Attendre plus longtemps pour les surcharges (backoff exponentiel agressif)
+                        wait_time = 5 * (2 ** attempt)  # 5s, 10s, 20s, 40s, 80s
+                        print(f"⏳ Serveurs Claude surchargés. Attente {wait_time}s avant nouvelle tentative...")
+                        time.sleep(wait_time)
+                        continue
+                elif '429' in error_str:
+                    if attempt < max_retries - 1:
+                        # Rate limit - attendre encore plus longtemps
+                        wait_time = 10 * (2 ** attempt)  # 10s, 20s, 40s, 80s, 160s
+                        print(f"⏳ Rate limit atteint. Attente {wait_time}s avant nouvelle tentative...")
+                        time.sleep(wait_time)
+                        continue
+                else:
+                    # Autre erreur API - retry avec délai normal
+                    if attempt < max_retries - 1:
+                        wait_time = 2 ** attempt
+                        print(f"⏳ Attente {wait_time}s avant nouvelle tentative...")
+                        time.sleep(wait_time)
+                        continue
+
+                print(f"❌ Échec après {max_retries} tentatives")
                 return None
 
             except Exception as e:
                 print(f"❌ Erreur inattendue: {e}")
+                if attempt < max_retries - 1:
+                    wait_time = 2 ** attempt
+                    print(f"⏳ Attente {wait_time}s avant nouvelle tentative...")
+                    time.sleep(wait_time)
+                    continue
                 return None
 
         return None

@@ -1,0 +1,526 @@
+{
+  "analysis_date": "2025-11-05",
+  "total_analyzed": 9,
+  "total_retained": 5,
+  "recommendations": [
+    {
+      "match": "Qarabag vs Chelsea",
+      "competition": "UEFA Champions League",
+      "kickoff": "17:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D, 6 buts pour, 3 contre",
+            "home_record": "Selon les données : 1V-0N-0D à domicile en C1, 7V-0N-2D toutes compétitions",
+            "trend": "Forme solide avec victoire récente 2-0 vs Mil-Muğan",
+            "details": "Derniers résultats : 2-0 vs Mil-Muğan, 0-0 vs Keshla FC, défaite 3-1 à Bilbao, victoire 2-1 à Turan"
+          },
+          "away_team": {
+            "last_5_matches": "3V-1D-1D, 9 buts pour, 6 contre",
+            "away_record": "0V-0N-1D à l'extérieur en C1 cette saison",
+            "trend": "Forme récente excellente avec victoires contre Tottenham et Wolves",
+            "details": "Derniers résultats : 1-0 à Tottenham, 4-3 à Wolves, défaite 2-1 vs Sunderland, 5-1 vs Ajax"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Chelsea domine historiquement : 2 victoires nettes",
+          "at_home": "Qarabag n'a jamais battu Chelsea",
+          "details": "Résultats historiques: Chelsea 6-0 Qarabag (2017), Chelsea 4-0 à Qarabag (2017)",
+          "trends": "Domination totale de Chelsea avec 10 buts marqués et 0 encaissé sur 2 matchs"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Amin Ramazanov (rupture ligaments croisés)",
+              "Joni Montiel (problèmes cuisse)"
+            ],
+            "impact": "Impact modéré, deux joueurs absents mais effectif globalement disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Nicolas Jackson (suspension)",
+              "M. Mudryk (suspension)",
+              "Dário Essugo (problèmes cuisse)",
+              "B. Badiashile (contusion)"
+            ],
+            "impact": "Impact MAJEUR : Jackson (attaquant titulaire) et Mudryk (ailier clé) suspendus, défense affaiblie"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Équipe défensive solide à domicile, moyenne 1.1 but encaissé par match",
+          "away_style": "Chelsea offensif mais privé de ses deux attaquants principaux Jackson et Mudryk",
+          "key_matchup": "Défense organisée de Qarabag vs attaque de Chelsea privée de ses titulaires",
+          "predicted_approach": "Qarabag va défendre bas et chercher les contres, Chelsea forcé d'improviser en attaque"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos correct avec dernier match il y a 5 jours contre Mil-Muğan",
+          "away_team": "Match récent il y a 4 jours à Tottenham, mais rotation possible",
+          "advantage": "Léger avantage physique pour Qarabag"
+        },
+        "context_stakes": {
+          "home_situation": "15e place avec 6 points, même total que Chelsea mais différence de buts défavorable",
+          "away_situation": "13e place avec 6 points, qualification encore possible mais situation tendue",
+          "psychological": "Qarabag sans pression à domicile, Chelsea sous pression après parcours décevant",
+          "overall": "Enjeu équilibré mais pression plus forte sur Chelsea"
+        },
+        "home_advantage": {
+          "home_record_season": "1V-0N-0D à domicile en C1, forteresse avec seulement 10 buts encaissés en 9 matchs toutes compétitions",
+          "away_record_opponent": "Chelsea 0V-0N-1D à l'extérieur en C1, difficultés en déplacement européen",
+          "atmosphere": "Stade à domicile, soutien local important pour Qarabag",
+          "weather": "Conditions normales",
+          "advantage_score": "7/10 - Avantage domicile significatif"
+        },
+        "odds_value": {
+          "bet_odds": 2.8,
+          "implied_probability": "35.7%",
+          "estimated_real_probability": "45-50%",
+          "value_analysis": "Value bet identifié, Chelsea surévalué malgré ses absences majeures",
+          "odds_movement": "Cote attractive pour Qarabag compte tenu du contexte"
+        },
+        "key_factors_summary": [
+          "Chelsea privé de ses deux attaquants titulaires Jackson et Mudryk (suspensions)",
+          "Qarabag solide à domicile avec seulement 10 buts encaissés en 9 matchs",
+          "Historique favorable à Chelsea mais contexte actuel différent",
+          "Même nombre de points au classement (6), situation équilibrée",
+          "Pression psychologique plus forte sur Chelsea, Qarabag libéré"
+        ]
+      },
+      "conclusion": "Les suspensions de Jackson et Mudryk privent Chelsea de sa force offensive principale. Qarabag, très solide défensivement à domicile (1.1 but/match), peut créer la surprise face à une équipe de Chelsea sous pression et diminuée. L'historique favorable à Chelsea date de 2017, le contexte actuel est différent. La cote offre une value intéressante pour un pari sur l'outsider.",
+      "bet_type": "Double Chance",
+      "prediction": "1X (Qarabag victoire ou nul)",
+      "odds": 1.85,
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.9,
+          "reasoning": "Qarabag défensif, Chelsea sans ses attaquants principaux"
+        }
+      ]
+    },
+    {
+      "match": "Ajax vs Galatasaray",
+      "competition": "UEFA Champions League",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-1N-3D, forme catastrophique",
+            "home_record": "0V-0N-3D en C1, 0V-0N-1D à domicile",
+            "trend": "Crise profonde : 0 point en C1, 11 buts encaissés pour 1 marqué",
+            "details": "Derniers résultats : 1-1 vs Heerenveen, défaite 5-1 à Chelsea, défaite 0-2 vs AZ"
+          },
+          "away_team": {
+            "last_5_matches": "3V-2N-0D, forme excellente",
+            "away_record": "2V-0N-1D en C1, 0V-0N-1D à l'extérieur",
+            "trend": "Très bonne forme avec victoire 1-0 vs Liverpool en C1",
+            "details": "Derniers résultats : 0-0 vs Trabzonspor, 3-1 vs Goztepe, 3-1 vs Bodo/Glimt"
+          }
+        },
+        "head_to_head": {
+          "last_5": "1 seul précédent récent : Ajax 2-1 Galatasaray en janvier 2025",
+          "at_home": "Ajax avait gagné le dernier affrontement à domicile",
+          "details": "Historique très limité entre ces équipes",
+          "trends": "Peu de références historiques, contexte actuel primordial"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Brian Brobbey (cheville)",
+              "Josip Sutalo (cheville)",
+              "Bertrand Traore (blessure)",
+              "Mika Godts (blessure)"
+            ],
+            "impact": "Impact MAJEUR : Brobbey (attaquant principal) et plusieurs titulaires absents"
+          },
+          "away_team": {
+            "absent": [
+              "Mauro Icardi (forme physique)",
+              "Victor Osimhen (cheville)",
+              "Mario Lemina (blessure)"
+            ],
+            "impact": "Impact significatif mais Galatasaray a plus de profondeur d'effectif"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Ajax en crise totale, défense perméable (3.7 buts encaissés/match en C1)",
+          "away_style": "Galatasaray solide défensivement et efficace, victoire de prestige vs Liverpool",
+          "key_matchup": "Défense catastrophique d'Ajax vs attaque organisée de Galatasaray",
+          "predicted_approach": "Galatasaray peut dominer un Ajax en pleine déroute"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos correct mais moral au plus bas",
+          "away_team": "Équipe en confiance après de bons résultats",
+          "advantage": "Net avantage psychologique pour Galatasaray"
+        },
+        "context_stakes": {
+          "home_situation": "36e place, 0 point, élimination quasi-certaine, plus rien à perdre",
+          "away_situation": "16e place avec 6 points, qualification encore possible",
+          "psychological": "Ajax sans pression mais démoralisé, Galatasaray motivé",
+          "overall": "Galatasaray a tout à gagner face à un Ajax résigné"
+        },
+        "home_advantage": {
+          "home_record_season": "0V-0N-3D en C1, catastrophique avec 1 but pour et 11 contre",
+          "away_record_opponent": "Galatasaray 0V-0N-1D à l'extérieur en C1 mais forme générale excellente",
+          "atmosphere": "Supporters d'Ajax déçus, ambiance tendue",
+          "weather": "Conditions normales",
+          "advantage_score": "3/10 - Avantage domicile inexistant"
+        },
+        "odds_value": {
+          "bet_odds": 2.1,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "60-65%",
+          "value_analysis": "Excellente value sur Galatasaray, Ajax surévalué malgré sa crise",
+          "odds_movement": "Cote attractive compte tenu de l'état des deux équipes"
+        },
+        "key_factors_summary": [
+          "Ajax en crise totale : 0 point, 1 but marqué, 11 encaissés en C1",
+          "Galatasaray en excellente forme avec victoire de prestige vs Liverpool",
+          "Absences importantes chez Ajax (Brobbey, Sutalo, Traore)",
+          "Différence de niveau et de confiance énorme entre les deux équipes",
+          "Ajax n'a plus rien à jouer, Galatasaray peut encore se qualifier"
+        ]
+      },
+      "conclusion": "Ajax traverse la pire crise de son histoire récente en C1 avec 0 point et un ratio de 1 but marqué pour 11 encaissés. Galatasaray, en excellente forme et auréolé de sa victoire contre Liverpool, peut largement s'imposer face à une équipe d'Ajax démoralisée et privée de ses cadres. La cote offre une value exceptionnelle.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Galatasaray)",
+      "odds": 2.1,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Défense d'Ajax catastrophique, Galatasaray peut marquer plusieurs buts"
+        }
+      ]
+    },
+    {
+      "match": "Newcastle vs Athletic Club",
+      "competition": "UEFA Champions League",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-0N-2D, forme correcte malgré défaite récente",
+            "home_record": "2V-0N-1D en C1, 1V-0N-1D à domicile",
+            "trend": "Solide à domicile avec victoire 3-0 vs Benfica en C1",
+            "details": "Derniers résultats : défaite 3-1 à West Ham, 2-0 vs Tottenham, 2-1 vs Fulham, 3-0 vs Benfica"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D, forme préoccupante",
+            "away_record": "1V-0N-2D en C1, 0V-0N-1D à l'extérieur",
+            "trend": "Difficultés en déplacement et forme générale décevante",
+            "details": "Derniers résultats : défaite 3-2 vs Real Sociedad, défaite 1-0 vs Getafe, victoire 3-1 vs Qarabag"
+          }
+        },
+        "head_to_head": {
+          "last_5": "1 seul précédent : Newcastle 2-1 Athletic Club en 2022",
+          "at_home": "Newcastle avait gagné à domicile",
+          "details": "Historique très limité mais favorable à Newcastle",
+          "trends": "Peu de références, match ouvert"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Joseph Willock (blessé)",
+              "Alexander Isak (autre)",
+              "Sven Botman (incertain)",
+              "Lewis Hall (incertain)",
+              "Joelinton (aine)"
+            ],
+            "impact": "Impact MAJEUR : Isak (buteur principal) et plusieurs titulaires absents"
+          },
+          "away_team": {
+            "absent": [
+              "Yeray Alvarez (suspendu carton rouge)",
+              "Oihan Sancet (ligaments)",
+              "Benat Prados (ischio)",
+              "Unai Gomez (incertain)"
+            ],
+            "impact": "Impact significatif avec plusieurs absents dont Yeray en défense"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Newcastle offensif à domicile, 2.7 buts marqués par match en C1",
+          "away_style": "Athletic défensif mais fragile en déplacement (2.3 buts encaissés/match)",
+          "key_matchup": "Attaque de Newcastle vs défense affaiblie d'Athletic sans Yeray",
+          "predicted_approach": "Newcastle va pousser à domicile, Athletic en difficulté défensive"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos correct après défaite à West Ham",
+          "away_team": "Déplacement récent et forme physique correcte",
+          "advantage": "Équilibré"
+        },
+        "context_stakes": {
+          "home_situation": "11e place avec 6 points, qualification encore possible",
+          "away_situation": "25e place avec 3 points, situation critique",
+          "psychological": "Newcastle confiant à domicile, Athletic sous pression",
+          "overall": "Enjeu crucial pour Athletic, Newcastle favori logique"
+        },
+        "home_advantage": {
+          "home_record_season": "2V-0N-1D en C1 à domicile, solide avec 8 buts pour et 2 contre",
+          "away_record_opponent": "Athletic 0V-0N-1D à l'extérieur en C1, difficultés en déplacement",
+          "atmosphere": "St James' Park, ambiance favorable à Newcastle",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Fort avantage domicile"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value modérée sur Newcastle, cote correcte mais intéressante",
+          "odds_movement": "Cote stable reflétant la logique du match"
+        },
+        "key_factors_summary": [
+          "Newcastle solide à domicile en C1 : 8 buts pour, 2 contre",
+          "Athletic en difficulté avec seulement 3 points et 0 victoire à l'extérieur",
+          "Absences importantes des deux côtés mais Newcastle plus profond",
+          "Enjeu crucial pour Athletic qui doit absolument gagner",
+          "Avantage domicile significatif à St James' Park"
+        ]
+      },
+      "conclusion": "Newcastle, solide à domicile en C1 avec un excellent ratio offensif (8 buts pour, 2 contre), reçoit un Athletic Club en grande difficulté (3 points, 0 victoire à l'extérieur). Malgré les absences d'Isak et autres, Newcastle a la profondeur d'effectif et l'avantage du terrain pour s'imposer face à des Basques sous pression et affaiblis défensivement.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Newcastle)",
+      "odds": 1.75,
+      "confidence": 78,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Newcastle offensif à domicile, Athletic doit prendre des risques"
+        }
+      ]
+    },
+    {
+      "match": "Inter vs Kairat Almaty",
+      "competition": "UEFA Champions League",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-0N-1D, excellente forme",
+            "home_record": "3V-0N-0D en C1, parfait avec 9 buts pour et 0 contre",
+            "trend": "Invincible en C1, défense imperméable",
+            "details": "Derniers résultats : 2-1 à Vérone, 3-0 vs Fiorentina, 4-0 vs Union St. Gilloise"
+          },
+          "away_team": {
+            "last_5_matches": "2V-2N-1D en forme récente mais 0V-1N-2D en C1",
+            "away_record": "0V-1N-2D en C1, 1 point seulement",
+            "trend": "Correct en championnat local mais dépassé en C1",
+            "details": "En C1 : 0-0 vs Pafos, défaite 5-0 vs Real Madrid, défaite 4-1 vs Sporting"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Aucun précédent entre ces équipes",
+          "at_home": "Première confrontation",
+          "details": "Pas d'historique disponible",
+          "trends": "Match inédit, différence de niveau énorme"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Hakan Calhanoglu (suspendu)",
+              "Federico Dimarco (blessé)",
+              "M. Darmian (dos)",
+              "M. Thuram (cuisse)"
+            ],
+            "impact": "Impact modéré, Inter a la profondeur pour compenser"
+          },
+          "away_team": {
+            "absent": [
+              "Joao Paulo da Silva Araujo (ligaments croisés)",
+              "Elder Santana Conceicao (ligaments croisés)"
+            ],
+            "impact": "Impact significatif mais équipe déjà largement inférieure"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Inter parfait défensivement (0 but encaissé en C1), attaque efficace (3 buts/match)",
+          "away_style": "Kairat dépassé par le niveau européen, seulement 1 but marqué en 3 matchs C1",
+          "key_matchup": "Défense imperméable d'Inter vs attaque inexistante de Kairat",
+          "predicted_approach": "Inter va dominer totalement, Kairat en mode survie"
+        },
+        "schedule_fatigue": {
+          "home_team": "Rotation possible, équipe fraîche",
+          "away_team": "Long déplacement depuis le Kazakhstan",
+          "advantage": "Net avantage pour Inter"
+        },
+        "context_stakes": {
+          "home_situation": "4e place avec 9 points, qualification assurée, peut tourner",
+          "away_situation": "34e place avec 1 point, élimination quasi-certaine",
+          "psychological": "Inter serein, Kairat résigné",
+          "overall": "Match sans enjeu pour Inter, désespoir pour Kairat"
+        },
+        "home_advantage": {
+          "home_record_season": "3V-0N-0D en C1 à domicile, forteresse absolue",
+          "away_record_opponent": "Kairat 0V-0N-1D à l'extérieur en C1, niveau amateur européen",
+          "atmosphere": "San Siro, ambiance favorable",
+          "weather": "Conditions normales",
+          "advantage_score": "10/10 - Avantage domicile maximal"
+        },
+        "odds_value": {
+          "bet_odds": 1.15,
+          "implied_probability": "87%",
+          "estimated_real_probability": "95%+",
+          "value_analysis": "AUCUNE VALUE - Cote trop faible malgré probabilité très élevée",
+          "odds_movement": "Cote logique mais non rentable"
+        },
+        "key_factors_summary": [
+          "Inter parfait en C1 : 9 points, 9 buts pour, 0 contre",
+          "Kairat dépassé : 1 point, 1 but pour, 9 contre en C1",
+          "Différence de niveau abyssale entre les deux équipes",
+          "Inter peut faire tourner, reste largement favori",
+          "Cote trop faible pour être rentable malgré certitude quasi-totale"
+        ]
+      },
+      "conclusion": "Match déséquilibré entre Inter, parfait en C1 (9 points, 0 but encaissé) et Kairat Almaty, complètement dépassé (1 point, 1 but marqué). Malgré une probabilité de victoire d'Inter proche de 100%, la cote de 1.15 ne respecte pas notre seuil minimum de 1.70. Aucune value betting possible sur ce match.",
+      "bet_type": "EXCLU",
+      "prediction": "Cote trop faible (<1.70)",
+      "odds": 1.15,
+      "confidence": 95,
+      "risk_level": "Excluded",
+      "alternative_bets": [
+        {
+          "type": "Over 3.5 buts",
+          "odds": 1.9,
+          "reasoning": "Inter peut marquer beaucoup face à cette défense amateur"
+        }
+      ]
+    },
+    {
+      "match": "Marseille vs Atalanta",
+      "competition": "UEFA Champions League",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D, forme correcte",
+            "home_record": "1V-0N-2D en C1, 1V-0N-0D à domicile",
+            "trend": "Solide à domicile avec victoire 4-0 vs Ajax en C1",
+            "details": "Derniers résultats : 1-0 à Auxerre, 2-2 vs Angers, défaite 2-1 à Lens, défaite 2-1 vs Sporting"
+          },
+          "away_team": {
+            "last_5_matches": "1V-3N-1D, forme décevante",
+            "away_record": "1V-1N-1D en C1, 0V-0N-1D à l'extérieur",
+            "trend": "Série de nuls préoccupante, manque d'efficacité",
+            "details": "Derniers résultats : défaite 1-0 à Udinese, 1-1 vs Milan, 1-1 vs Cremonese, 0-0 vs Slavia"
+          }
+        },
+        "head_to_head": {
+          "last_5": "1 victoire Atalanta, 1 nul sur les 2 derniers matchs",
+          "at_home": "Marseille 1-1 Atalanta en mai 2024",
+          "details": "Atalanta 3-0 Marseille (mai 2024), Marseille 1-1 Atalanta (mai 2024)",
+          "trends": "Léger avantage historique à Atalanta mais matchs serrés"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Facundo Medina (suspendu carton rouge)",
+              "Adrien Rabiot (autre)",
+              "Jonathan Rowe (autre)",
+              "Amine Harit (incertain)"
+            ],
+            "impact": "Impact significatif avec Medina suspendu en défense"
+          },
+          "away_team": {
+            "absent": [
+              "Ademola Lookman (inéligible)",
+              "G. Scamacca (genou)",
+              "M. Bakker (genou)",
+              "Éderson (genou)",
+              "S. Kolašinac (genou)"
+            ],
+            "impact": "Impact MAJEUR : Lookman inéligible, Scamacca (buteur) blessé, défense décimée"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Marseille offensif à domicile, 2.0 buts marqués par match en C1",
+          "away_style": "Atalanta en panne offensive, seulement 0.7 but par match en C1",
+          "key_matchup": "Attaque marseillaise vs défense d'Atalanta privée de plusieurs titulaires",
+          "predicted_approach": "Marseille va pousser à domicile, Atalanta affaiblie défensivement"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos correct après victoire à Auxerre",
+          "away_team": "Déplacement récent et série de matchs nuls fatiguante",
+          "advantage": "Léger avantage pour Marseille"
+        },
+        "context_stakes": {
+          "home_situation": "22e place avec 3 points, situation critique mais espoir à domicile",
+          "away_situation": "19e place avec 4 points, légèrement mieux mais toujours en danger",
+          "psychological": "Marseille motivé à domicile, Atalanta frustrée par ses nuls",
+          "overall": "Match crucial pour les deux équipes, avantage psychologique à Marseille"
+        },
+        "home_advantage": {
+          "home_record_season": "1V-0N-0D à domicile en C1, victoire nette 4-0 vs Ajax",
+          "away_record_opponent": "Atalanta 0V-0N-1D à l'extérieur en C1, difficultés en déplacement",
+          "atmosphere": "Vélodrome, ambiance électrique attendue",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Fort avantage domicile"
+        },
+        "odds_value": {
+          "bet_odds": 1.95,
+          "implied_probability": "51.3%",
+          "estimated_real_probability": "60-65%",
+          "value_analysis": "Bonne value sur Marseille, Atalanta surévaluée malgré ses absences",
+          "odds_movement": "Cote attractive compte tenu du contexte"
+        },
+        "key_factors_summary": [
+          "Marseille invaincu à domicile en C1 avec victoire 4-0 vs Ajax",
+          "Atalanta en panne offensive : 0.7 but/match en C1, série de nuls",
+          "Absences majeures chez Atalanta : Lookman, Scamacca, défense décimée",
+          "Avantage du Vélodrome et motivation marseillaise",
+          "Enjeu crucial pour les deux équipes mais contexte favorable à Marseille"
+        ]
+      },
+      "conclusion": "Marseille, invaincu à domicile en C1 et auréolé de sa victoire 4-0 contre Ajax, reçoit une Atalanta en grande difficulté offensive (0.7 but/match) et privée de joueurs clés comme Lookman et Scamacca. L'ambiance du Vélodrome et la motivation marseillaise face à une équipe d'Atalanta frustrée par ses nuls répétés offrent une excellente opportunité de value bet.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Marseille)",
+      "odds": 1.95,
+      "confidence": 76,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "BTTS Non",
+          "odds": 1.8,
+          "reasoning": "Atalanta en panne offensive, Marseille solide à domicile"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 4,
+    "examples": [
+      {
+        "match": "Inter vs Kairat Almaty",
+        "reason": "Cote trop faible (1.15), ne respecte pas le seuil minimum de 1.70"
+      },
+      {
+        "match": "Pafos vs Villarreal",
+        "reason": "Trop d'incertitudes sur les compositions et forme réelle"
+      },
+      {
+        "match": "Manchester City vs Borussia Dortmund",
+        "reason": "Match équilibré sans value claire identifiée"
+      },
+      {
+        "match": "Club Brugge KV vs Barcelona",
+        "reason": "Incertitudes sur la motivation de Barcelone et composition"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Ajax vs Galatasaray (Victoire Galatasaray)",
+      "Newcastle vs Athletic Club (Victoire Newcastle)",
+      "Marseille vs Atalanta (Victoire Marseille)"
+    ],
+    "total_odds": 6.41,
+    "confidence": 79,
+    "detailed_reasoning": "Combiné de trois favoris logiques avec de bonnes values : Galatasaray face à un Ajax en crise totale (82% confiance), Newcastle solide à domicile contre Athletic en difficulté (78% confiance), et Marseille motivé au Vélodrome face à une Atalanta affaiblie (76% confiance). Corrélation faible entre les matchs, tous en Champions League mais contextes différents. Cote combinée attractive de 6.41 pour un risque calculé.",
+    "risk_level": "Medium-High"
+  }
+}

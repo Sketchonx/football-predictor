@@ -194,7 +194,8 @@
           "odds": 1.75,
           "reasoning": "Défense d'Ajax catastrophique, Galatasaray peut marquer plusieurs buts"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Newcastle vs Athletic Club",
@@ -293,7 +294,8 @@
           "odds": 1.85,
           "reasoning": "Newcastle offensif à domicile, Athletic doit prendre des risques"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Inter vs Kairat Almaty",
@@ -488,7 +490,8 @@
           "odds": 1.8,
           "reasoning": "Atalanta en panne offensive, Marseille solide à domicile"
         }
-      ]
+      ],
+      "analyzed": true
     }
   ],
   "matches_excluded": {

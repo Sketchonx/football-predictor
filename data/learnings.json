@@ -1,9 +1,9 @@
 {
-  "last_updated": "2025-11-03T23:14:13.135804",
-  "total_errors_analyzed": 14,
+  "last_updated": "2025-11-05T23:14:44.104788",
+  "total_errors_analyzed": 17,
   "categories": {
     "sous_estimation_outsider": {
-      "count": 4,
+      "count": 5,
       "examples": [
         {
           "match": "Paris FC vs Nantes",
@@ -20,16 +20,16 @@
         {
           "match": "Sassuolo vs Genoa",
           "conclusion": "Pour les paris sur des favoris face à des lanternes rouges, vérifier systématiquement les stats de buts encaissés de l'outsider et l'efficacité offensive réelle du favori sur ses 3 derniers matchs à domicile."
+        },
+        {
+          "match": "Newcastle vs Athletic Club",
+          "conclusion": "Pour les équipes en crise recevant moins de 1 but par match en moyenne, vérifier leur xG offensif et les buts encaissés par le favori à domicile avant de miser sur une victoire nette."
         }
       ]
     },
     "surestimation_favori": {
-      "count": 7,
+      "count": 8,
       "examples": [
-        {
-          "match": "Marseille vs Angers",
-          "conclusion": "Pour les favoris avec cote <1.80 face à des équipes en crise, vérifier systématiquement les écarts de buts moyens des 5 derniers matchs domicile du favori et la capacité de résistance défensive de l'outsider avant de miser sur la victoire simple."
-        },
         {
           "match": "Pisa vs Lazio",
           "conclusion": "Pour les favoris avec un écart de niveau important, vérifier systématiquement leurs performances offensives en déplacement et la capacité de l'outsider à limiter les dégâts à domicile avant de parier sur une victoire nette."
@@ -45,6 +45,10 @@
         {
           "match": "Sunderland vs Everton",
           "conclusion": "Avant de miser sur une victoire basée sur les absences adverses, vérifier les performances des remplaçants sur les 3 derniers matchs et pondérer l'effet 'gueule de bois' après un exploit majeur."
+        },
+        {
+          "match": "Marseille vs Atalanta",
+          "conclusion": "Avant de parier sur une victoire nette d'une équipe française contre une formation italienne en C1, vérifier le ratio buts marqués/attendus sur les 5 derniers matchs européens et privilégier les paris 'résultat nul possible' si l'écart offensif réel est <1 but/match."
         }
       ]
     },
@@ -58,11 +62,15 @@
       ]
     },
     "contexte_match": {
-      "count": 1,
+      "count": 2,
       "examples": [
         {
           "match": "Eintracht Frankfurt vs 1. FC Heidenheim",
           "conclusion": "Pour les matchs impliquant une équipe en lutte pour le maintien à domicile, réduire de 15-20% la probabilité de victoire du favori si celui-ci n'a plus d'enjeu classement significatif."
+        },
+        {
+          "match": "Ajax vs Galatasaray",
+          "conclusion": "Pour les équipes en crise historique, vérifier leur bilan domicile/extérieur sur les 5 derniers matchs européens et pondérer davantage l'effet psychologique du dernier match à domicile d'une compétition."
         }
       ]
     },
@@ -146,6 +154,21 @@
       "date": "2025-11-03T23:14:13.134565",
       "category": "surestimation_favori",
       "conclusion": "Avant de miser sur une victoire basée sur les absences adverses, vérifier les performances des remplaçants sur les 3 derniers matchs et pondérer l'effet 'gueule de bois' après un exploit majeur."
+    },
+    {
+      "date": "2025-11-05T23:14:27.343274",
+      "category": "contexte_match",
+      "conclusion": "Pour les équipes en crise historique, vérifier leur bilan domicile/extérieur sur les 5 derniers matchs européens et pondérer davantage l'effet psychologique du dernier match à domicile d'une compétition."
+    },
+    {
+      "date": "2025-11-05T23:14:35.316092",
+      "category": "sous_estimation_outsider",
+      "conclusion": "Pour les équipes en crise recevant moins de 1 but par match en moyenne, vérifier leur xG offensif et les buts encaissés par le favori à domicile avant de miser sur une victoire nette."
+    },
+    {
+      "date": "2025-11-05T23:14:44.103258",
+      "category": "surestimation_favori",
+      "conclusion": "Avant de parier sur une victoire nette d'une équipe française contre une formation italienne en C1, vérifier le ratio buts marqués/attendus sur les 5 derniers matchs européens et privilégier les paris 'résultat nul possible' si l'écart offensif réel est <1 but/match."
     }
   ]
 }

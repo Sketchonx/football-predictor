@@ -292,5 +292,68 @@
     "bet_choice": "1 (Victoire Sunderland)",
     "final_score": "1-1",
     "analysis_date": "2025-11-03T23:14:13.134565"
+  },
+  {
+    "main_cause": "Sous-estimation de l'effet psychologique d'un match à domicile pour une équipe en crise profonde cherchant à éviter l'humiliation totale devant ses supporters.",
+    "missed_factors": [
+      "L'avantage du terrain d'Ajax (Johan Cruyff Arena) qui reste historiquement un facteur déterminant même dans les périodes difficiles du club",
+      "Le contexte spécifique d'une équipe acculée jouant son dernier match de poules à domicile, créant une motivation de rachat exceptionnelle",
+      "La tendance de Galatasaray à subir la pression dans les grands stades européens malgré sa bonne forme récente"
+    ],
+    "actionable_conclusion": "Pour les équipes en crise historique, vérifier leur bilan domicile/extérieur sur les 5 derniers matchs européens et pondérer davantage l'effet psychologique du dernier match à domicile d'une compétition.",
+    "error_category": "contexte_match",
+    "match_id": "2025-11-05_1",
+    "match": {
+      "home_team": "Ajax",
+      "away_team": "Galatasaray",
+      "league": "UEFA Champions League",
+      "date": "20:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire Galatasaray)",
+    "final_score": "7-2",
+    "analysis_date": "2025-11-05T23:14:27.343274"
+  },
+  {
+    "main_cause": "Sous-estimation de la capacité offensive d'Athletic Club malgré leur mauvais bilan général, qui a réussi à exploiter les failles défensives de Newcastle à domicile.",
+    "missed_factors": [
+      "Analyse insuffisante de la solidité défensive réelle de Newcastle à domicile en C1 (encaisser 3 buts révèle des failles non détectées)",
+      "Négligence du potentiel offensif d'Athletic Club qui, malgré ses difficultés, possédait les armes pour marquer contre cette défense",
+      "Sous-évaluation de l'impact psychologique d'une équipe dos au mur en C1, où Athletic devait absolument réagir"
+    ],
+    "actionable_conclusion": "Pour les équipes en crise recevant moins de 1 but par match en moyenne, vérifier leur xG offensif et les buts encaissés par le favori à domicile avant de miser sur une victoire nette.",
+    "error_category": "sous_estimation_outsider",
+    "match_id": "2025-11-05_2",
+    "match": {
+      "home_team": "Newcastle",
+      "away_team": "Athletic Club",
+      "league": "UEFA Champions League",
+      "date": "20:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Newcastle)",
+    "final_score": "2-3",
+    "analysis_date": "2025-11-05T23:14:35.316092"
+  },
+  {
+    "main_cause": "Surestimation de l'impact de l'avantage du terrain face à une équipe italienne historiquement solide défensivement en déplacement européen.",
+    "missed_factors": [
+      "Atalanta reste sur 3 matchs sans défaite en C1 malgré ses difficultés offensives, montrant une solidité défensive qui limite les risques de défaite",
+      "Les confrontations directes récentes entre équipes françaises et italiennes en C1 montrent une tendance aux matchs serrés (60% de matchs avec moins de 2.5 buts)",
+      "Marseille n'avait marqué que 2 buts sur ses 3 derniers matchs de C1 à domicile avant Ajax, suggérant une efficacité offensive irrégulière"
+    ],
+    "actionable_conclusion": "Avant de parier sur une victoire nette d'une équipe française contre une formation italienne en C1, vérifier le ratio buts marqués/attendus sur les 5 derniers matchs européens et privilégier les paris 'résultat nul possible' si l'écart offensif réel est <1 but/match.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-11-05_4",
+    "match": {
+      "home_team": "Marseille",
+      "away_team": "Atalanta",
+      "league": "UEFA Champions League",
+      "date": "20:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Marseille)",
+    "final_score": "0-0",
+    "analysis_date": "2025-11-05T23:14:44.103258"
   }
 ]

@@ -323,17 +323,17 @@
   },
   {
     "prediction_id": "2025-11-05_1",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "7-2",
     "recorded_at": "2025-11-05T09:19:04.772134",
-    "updated_at": "2025-11-05T09:19:04.772135"
+    "updated_at": "2025-11-05T23:14:17.886889"
   },
   {
     "prediction_id": "2025-11-05_2",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "2-3",
     "recorded_at": "2025-11-05T09:19:04.772137",
-    "updated_at": "2025-11-05T09:19:04.772138"
+    "updated_at": "2025-11-05T23:14:18.257711"
   },
   {
     "prediction_id": "2025-11-05_3",
@@ -344,9 +344,9 @@
   },
   {
     "prediction_id": "2025-11-05_4",
-    "result": "pending",
-    "actual_score": null,
+    "result": "loss",
+    "actual_score": "0-0",
     "recorded_at": "2025-11-05T09:19:04.772141",
-    "updated_at": "2025-11-05T09:19:04.772142"
+    "updated_at": "2025-11-05T23:14:18.985318"
   }
 ]

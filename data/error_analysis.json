@@ -355,5 +355,68 @@
     "bet_choice": "1 (Victoire Marseille)",
     "final_score": "0-0",
     "analysis_date": "2025-11-05T23:14:44.103258"
+  },
+  {
+    "main_cause": "Sous-estimation de la capacité de réaction de Nice en match couperet européen malgré leur mauvais début de campagne.",
+    "missed_factors": [
+      "Nice restait sur une série de 4 victoires consécutives en Ligue 1 avant ce match, montrant une forme domestique solide contrastant avec leurs performances européennes",
+      "L'obligation de résultat pour Nice (0 point) créait une pression positive maximale contrairement à Freiburg qui pouvait se contenter d'un nul pour se qualifier",
+      "Les confrontations directes récentes entre équipes françaises et allemandes en coupes européennes montraient un avantage aux équipes françaises dans les matchs à enjeu"
+    ],
+    "actionable_conclusion": "Pondérer différemment la forme en championnat vs coupe européenne quand une équipe joue sa survie continentale, en analysant spécifiquement les 3-4 derniers matchs domestiques pour évaluer le niveau réel.",
+    "error_category": "sous_estimation_outsider",
+    "match_id": "2025-11-06_0",
+    "match": {
+      "home_team": "SC Freiburg",
+      "away_team": "Nice",
+      "league": "UEFA Europa League",
+      "date": "17:45"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire SC Freiburg)",
+    "final_score": "1-3",
+    "analysis_date": "2025-11-06T23:14:18.516519"
+  },
+  {
+    "main_cause": "Surestimation de l'impact de la crise d'Utrecht sans analyser leur capacité défensive à limiter les dégâts à l'extérieur en Europa League.",
+    "missed_factors": [
+      "Utrecht, malgré 0 but marqué, n'avait encaissé que 2 buts en 2 matchs d'Europa League, montrant une solidité défensive",
+      "Porto à domicile en Europa League cette saison avait des performances irrégulières avec seulement 1 victoire nette sur ses derniers matchs européens",
+      "Les équipes à 0 point en phase de groupes développent souvent une mentalité défensive qui peut frustrer les favoris, surtout quand la pression est sur l'adversaire"
+    ],
+    "actionable_conclusion": "Pour les équipes 'en crise' avec 0 point, analyser séparément leurs stats offensives et défensives - une attaque inefficace n'implique pas forcément une défense perméable.",
+    "error_category": "statistiques_trompeuses",
+    "match_id": "2025-11-06_2",
+    "match": {
+      "home_team": "FC Porto",
+      "away_team": "Utrecht",
+      "league": "UEFA Europa League",
+      "date": "17:45"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire FC Porto)",
+    "final_score": "1-1",
+    "analysis_date": "2025-11-06T23:14:26.306440"
+  },
+  {
+    "main_cause": "Surestimation de l'impact de la forme récente sans considérer la capacité défensive d'Aberdeen à limiter les dégâts malgré sa crise offensive.",
+    "missed_factors": [
+      "Aberdeen avait montré une solidité défensive relative à l'extérieur en Coupe d'Europe malgré ses difficultés offensives",
+      "AEK Larnaca n'avait pas encore été testé contre une équipe pratiquant un jeu défensif compact et organisé",
+      "Le contexte de match couperet pour Aberdeen pouvait favoriser une approche ultra-défensive plutôt qu'un effondrement"
+    ],
+    "actionable_conclusion": "Pour les équipes en crise face à des formations invaincues, vérifier si l'équipe en difficulté a montré des capacités défensives à l'extérieur et considérer le pari 'Under buts' ou 'Double Chance' plutôt qu'une victoire nette.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-11-06_3",
+    "match": {
+      "home_team": "AEK Larnaca",
+      "away_team": "Aberdeen",
+      "league": "UEFA Europa Conference League",
+      "date": "17:45"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire AEK Larnaca)",
+    "final_score": "0-0",
+    "analysis_date": "2025-11-06T23:14:34.440869"
   }
 ]

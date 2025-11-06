@@ -101,7 +101,8 @@
           "odds": 2.4,
           "reasoning": "Avec les absences niçoises, victoire nette possible"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "GO Ahead Eagles vs Red Bull Salzburg",
@@ -303,7 +304,8 @@
           "odds": 2.6,
           "reasoning": "Avec l'attaque inexistante d'Utrecht, victoire nette possible"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "AEK Larnaca vs Aberdeen",
@@ -397,7 +399,8 @@
           "odds": 3.1,
           "reasoning": "Avec la forme parfaite de Larnaca et la crise d'Aberdeen, victoire nette possible"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Samsunspor vs Hamrun Spartans",

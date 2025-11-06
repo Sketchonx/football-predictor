@@ -1,0 +1,728 @@
+{
+  "analysis_date": "2025-11-06",
+  "total_analyzed": 36,
+  "total_retained": 7,
+  "recommendations": [
+    {
+      "match": "SC Freiburg vs Nice",
+      "competition": "UEFA Europa League",
+      "kickoff": "17:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-1N-0D en Europa League, invaincu",
+            "home_record": "Données non disponibles pour les matchs à domicile spécifiquement",
+            "trend": "Forme solide avec 2 victoires et 1 nul",
+            "details": "Derniers résultats : [N] Union Berlin 0-0, [V] Fortuna Düsseldorf 1-3, [D] Bayer Leverkusen 2-0"
+          },
+          "away_team": {
+            "last_5_matches": "0V-0N-3D en Europa League, aucune victoire",
+            "away_record": "0V-0N-1D à l'extérieur en Europa League",
+            "trend": "Forme catastrophique avec 3 défaites consécutives",
+            "details": "Derniers résultats : [D] PSG 1-0, [V] Lille 2-0, [V] Rennes 1-2"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Pas de confrontations directes récentes disponibles",
+          "at_home": "Aucun historique fourni",
+          "details": "Première confrontation ou données H2H non disponibles",
+          "trends": "Impossible à analyser sans données historiques"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Daniel Kofi Kyereh (fitness)",
+              "Max Rosenfelder (blessure ischio-jambiers)",
+              "Nicolas Hofler (problèmes de dos)",
+              "Philipp Treu (blessure épaule)"
+            ],
+            "impact": "Impact modéré avec plusieurs absents mais effectif encore compétitif"
+          },
+          "away_team": {
+            "absent": [
+              "Tanguy Ndombele Alvaro (pubalgie)",
+              "Evann Guessand (problèmes genou)",
+              "Youssouf Ndayishimiye (rupture ligaments croisés)",
+              "Mohamed Abdelmonem (rupture ligaments croisés)",
+              "Dante Bonfim Costa (incertain)",
+              "Morgan Sanson (blessé)"
+            ],
+            "impact": "Impact MAJEUR avec 6 joueurs absents dont des titulaires clés au milieu et en défense"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Équipe allemande organisée, solide défensivement avec 2 buts encaissés en 3 matchs européens",
+          "away_style": "Équipe française en difficulté, 6 buts encaissés en 3 matchs européens",
+          "key_matchup": "Organisation défensive allemande face à une attaque niçoise affaiblie par les absences",
+          "predicted_approach": "Freiburg va exploiter sa supériorité physique et technique face à un Nice diminué"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 5 jours, temps de récupération correct",
+          "away_team": "Dernier match il y a 5 jours également, même temps de récupération",
+          "advantage": "Égalité sur le plan de la fraîcheur physique"
+        },
+        "context_stakes": {
+          "home_situation": "6e place avec 7 points, bien placé pour la qualification",
+          "away_situation": "33e place avec 0 point, situation désespérée avec 3 défaites",
+          "psychological": "Freiburg confiant face à un Nice sous pression maximale",
+          "overall": "Avantage psychologique net pour Freiburg qui peut se qualifier"
+        },
+        "home_advantage": {
+          "home_record_season": "Données spécifiques domicile non fournies",
+          "away_record_opponent": "0V-0N-1D à l'extérieur en Europa League",
+          "atmosphere": "Stade allemand, public acquis à la cause locale",
+          "weather": "Conditions normales attendues",
+          "advantage_score": "7/10 - Avantage domicile significatif"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifiée, cote sous-évaluée de 10-15%",
+          "odds_movement": "Cote stable, marché n'a pas encore intégré l'ampleur des absences niçoises"
+        },
+        "key_factors_summary": [
+          "Nice avec 0 point en 3 matchs et 6 buts encaissés, forme catastrophique",
+          "6 absents majeurs côté Nice dont Ndombele, Guessand et la défense centrale",
+          "Freiburg invaincu en Europa League avec seulement 2 buts encaissés",
+          "Contexte favorable : Freiburg peut se qualifier, Nice dos au mur",
+          "Avantage domicile dans un stade allemand organisé"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire de Freiburg. Nice traverse une crise majeure en Europa League (0 point, 6 buts encaissés) et présente 6 absents importants. Freiburg, invaincu et solide défensivement, évolue à domicile avec un enjeu de qualification. La cote à 1.85 offre une value intéressante face à une probabilité réelle estimée à 65-70%. Le contexte psychologique et les absences niçoises rendent ce pari très attractif.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire SC Freiburg)",
+      "odds": 1.85,
+      "confidence": 78,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Freiburg -1 Handicap",
+          "odds": 2.4,
+          "reasoning": "Avec les absences niçoises, victoire nette possible"
+        }
+      ]
+    },
+    {
+      "match": "GO Ahead Eagles vs Red Bull Salzburg",
+      "competition": "UEFA Europa League",
+      "kickoff": "17:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-0N-1D en Europa League, bonne dynamique",
+            "home_record": "1V-0N-0D à domicile en Europa League",
+            "trend": "Forme positive avec 2 victoires sur 3 matchs",
+            "details": "Derniers résultats : [D] NAC Breda 1-0, [V] vs Excelsior 2-0, [V] vs Aston Villa 2-1"
+          },
+          "away_team": {
+            "last_5_matches": "0V-0N-3D en Europa League, série noire",
+            "away_record": "0V-0N-2D à l'extérieur en Europa League",
+            "trend": "Forme désastreuse avec 3 défaites consécutives",
+            "details": "Derniers résultats : [V] vs Ried 4-1, [V] vs WSG Wattens 3-1, [V] vs Austria Vienna 0-3"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Pas de confrontations directes récentes disponibles",
+          "at_home": "Première confrontation probable",
+          "details": "Aucun historique fourni entre ces équipes",
+          "trends": "Impossible à analyser sans données H2H"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Pim Saathof (rupture ligaments croisés)",
+              "Soren Tengstedt (blessure inconnue)",
+              "Calvin Twigt (suspendu carton rouge)"
+            ],
+            "impact": "Impact modéré avec 3 absents mais effectif encore viable"
+          },
+          "away_team": {
+            "absent": [
+              "Takumu Kawamura (blessure genou)",
+              "Mads Bidstrup (problèmes mollet)",
+              "Yorbe Vertessen (contusion genou)",
+              "Karim Konate (rupture ligaments croisés)",
+              "Moussa Yeo (blessure genou)",
+              "John Mellberg (problèmes genou)",
+              "Valentin Sulzbacher (problèmes cuisse)",
+              "Christian Zawieschitzky (blessure mollet)",
+              "Justin Omoregie (rupture tendon d'Achille)"
+            ],
+            "impact": "Impact CRITIQUE avec 9 joueurs absents, effectif décimé"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Équipe néerlandaise pragmatique, efficace à domicile",
+          "away_style": "Salzburg habituellement offensif mais affaibli par les nombreuses absences",
+          "key_matchup": "Attaque néerlandaise face à une défense autrichienne privée de nombreux titulaires",
+          "predicted_approach": "GO Ahead va exploiter les faiblesses défensives de Salzburg"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 5 jours, récupération normale",
+          "away_team": "Dernier match il y a 4 jours, légèrement plus frais",
+          "advantage": "Léger avantage à Salzburg sur la fraîcheur"
+        },
+        "context_stakes": {
+          "home_situation": "12e place avec 6 points, bien placé pour continuer",
+          "away_situation": "34e place avec 0 point, situation critique",
+          "psychological": "GO Ahead confiant face à un Salzburg en crise",
+          "overall": "Pression maximale sur Salzburg qui doit absolument gagner"
+        },
+        "home_advantage": {
+          "home_record_season": "1V-0N-0D à domicile en Europa League",
+          "away_record_opponent": "0V-0N-2D à l'extérieur en Europa League",
+          "atmosphere": "Stade néerlandais, public motivé",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Fort avantage domicile"
+        },
+        "odds_value": {
+          "bet_odds": 2.1,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "60-65%",
+          "value_analysis": "Excellente value bet, cote largement sous-évaluée",
+          "odds_movement": "Marché n'a pas intégré l'ampleur de la crise salzbourgeoise"
+        },
+        "key_factors_summary": [
+          "Salzburg avec 0 point en 3 matchs et 6 buts encaissés, crise totale",
+          "9 joueurs absents côté Salzburg, effectif complètement décimé",
+          "GO Ahead avec 6 points et victoire de prestige contre Aston Villa",
+          "Avantage domicile face à une équipe autrichienne en déroute",
+          "Contexte psychologique favorable aux Néerlandais"
+        ]
+      },
+      "conclusion": "Situation exceptionnelle avec Salzburg en crise profonde (0 point, 9 absents) face à GO Ahead Eagles en confiance. Les Néerlandais ont prouvé leur valeur en battant Aston Villa et évoluent à domicile face à une équipe autrichienne décimée par les blessures. La cote à 2.10 représente une value exceptionnelle compte tenu du déséquilibre des forces en présence. Pari à très forte probabilité de gain.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire GO Ahead Eagles)",
+      "odds": 2.1,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "GO Ahead -1 Handicap",
+          "odds": 3.2,
+          "reasoning": "Avec 9 absents chez Salzburg, victoire nette envisageable"
+        }
+      ]
+    },
+    {
+      "match": "FC Porto vs Utrecht",
+      "competition": "UEFA Europa League",
+      "kickoff": "17:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-0N-1D en Europa League, forme correcte",
+            "home_record": "1V-0N-1D à l'extérieur en Europa League",
+            "trend": "Forme stable avec 2 victoires sur 3 matchs",
+            "details": "Derniers résultats : [V] vs SC Braga 2-1, [V] Moreirense 1-2, [D] Nottingham Forest 2-0"
+          },
+          "away_team": {
+            "last_5_matches": "0V-0N-3D en Europa League, série noire totale",
+            "away_record": "0V-0N-1D à domicile en Europa League",
+            "trend": "Forme catastrophique avec 3 défaites et 0 but marqué",
+            "details": "Derniers résultats : [V] vs NEC Nijmegen 1-0, [D] AZ Alkmaar 4-1, [D] SC Freiburg 2-0"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Pas de confrontations directes récentes disponibles",
+          "at_home": "Première confrontation probable",
+          "details": "Aucun historique fourni entre ces équipes",
+          "trends": "Impossible à analyser sans données H2H"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Samu Omorodion (blessure inconnue)",
+              "Pepê Aquino (blessure œil)",
+              "Martim Fernandes (ligaments genou déchirés)"
+            ],
+            "impact": "Impact modéré avec 3 absents mais effectif portugais de qualité"
+          },
+          "away_team": {
+            "absent": [
+              "Mike Eerdhuijzen (incertain)",
+              "Davy van den Berg (blessure pied)",
+              "Zidane Iqbal (blessure genou)",
+              "Ivar Jenner (blessure inconnue)",
+              "Rafik el Arguioui (blessure genou)",
+              "Vasilios Barkas (blessé)",
+              "David Mina (commotion)"
+            ],
+            "impact": "Impact MAJEUR avec 7 joueurs absents dont le gardien et des milieux clés"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Porto équipe expérimentée en coupes européennes, solide à domicile",
+          "away_style": "Utrecht équipe néerlandaise en grande difficulté offensive (0 but en Europa League)",
+          "key_matchup": "Expérience européenne de Porto face à l'inexpérience d'Utrecht",
+          "predicted_approach": "Porto va dominer techniquement et exploiter son expérience"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 4 jours, récupération correcte",
+          "away_team": "Dernier match il y a 5 jours, légèrement plus reposé",
+          "advantage": "Égalité sur le plan physique"
+        },
+        "context_stakes": {
+          "home_situation": "15e place avec 6 points, situation correcte",
+          "away_situation": "35e place avec 0 point, situation désespérée",
+          "psychological": "Porto confiant face à Utrecht dos au mur",
+          "overall": "Pression énorme sur Utrecht qui n'a marqué aucun but"
+        },
+        "home_advantage": {
+          "home_record_season": "Données spécifiques domicile non fournies",
+          "away_record_opponent": "0V-0N-1D à domicile en Europa League",
+          "atmosphere": "Stade du Dragon, ambiance européenne légendaire",
+          "weather": "Conditions normales au Portugal",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Value bet solide, cote sous-évaluée de 12-17%",
+          "odds_movement": "Cote attractive pour un favori de cette qualité"
+        },
+        "key_factors_summary": [
+          "Utrecht avec 0 point et 0 but marqué en 3 matchs, attaque inexistante",
+          "7 absents côté Utrecht dont le gardien Barkas et des milieux clés",
+          "Porto expérimenté en coupes européennes, à domicile au Stade du Dragon",
+          "Différence de niveau et d'expérience européenne flagrante",
+          "Contexte psychologique favorable à Porto face à une équipe en crise"
+        ]
+      },
+      "conclusion": "Confrontation déséquilibrée entre Porto, habitué des coupes européennes, et Utrecht en crise totale (0 point, 0 but). Les Néerlandais présentent 7 absents importants et n'ont toujours pas marqué en Europa League. Porto à domicile au Stade du Dragon avec son expérience européenne devrait logiquement s'imposer. La cote à 1.75 offre une value correcte pour un pari à forte probabilité.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire FC Porto)",
+      "odds": 1.75,
+      "confidence": 76,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Porto -1 Handicap",
+          "odds": 2.6,
+          "reasoning": "Avec l'attaque inexistante d'Utrecht, victoire nette possible"
+        }
+      ]
+    },
+    {
+      "match": "AEK Larnaca vs Aberdeen",
+      "competition": "UEFA Europa Conference League",
+      "kickoff": "17:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-0N-0D en Conference League, parcours parfait",
+            "home_record": "1V-0N-0D à domicile en Conference League",
+            "trend": "Forme exceptionnelle avec 2 victoires et 5 buts pour, 0 encaissé",
+            "details": "Derniers résultats : [V] Apollon Limassol 1-2, [N] Pafos 1-1, [N] vs Apoel Nicosia 1-1"
+          },
+          "away_team": {
+            "last_5_matches": "0V-0N-2D en Conference League, série noire",
+            "away_record": "0V-0N-1D à l'extérieur en Conference League",
+            "trend": "Forme catastrophique avec 2 défaites et 9 buts encaissés",
+            "details": "Derniers résultats : [V] Kilmarnock 0-1, [D] vs Hibernian 1-2, [D] AEK Athens FC 6-0"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Pas de confrontations directes récentes disponibles",
+          "at_home": "Première confrontation probable",
+          "details": "Aucun historique fourni entre ces équipes",
+          "trends": "Impossible à analyser sans données H2H"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Ángel García (déchirure musculaire)",
+              "Waldo Rubio (contusion musculaire)"
+            ],
+            "impact": "Impact limité avec seulement 2 absents, effectif chypriote au complet"
+          },
+          "away_team": {
+            "absent": [
+              "Kristers Tobers (incertain)",
+              "Emmanuel Gyamfi (incertain)"
+            ],
+            "impact": "Impact modéré avec 2 joueurs incertains mais effectif globalement disponible"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "AEK Larnaca équipe chypriote solide défensivement (0 but encaissé) et efficace",
+          "away_style": "Aberdeen équipe écossaise en difficulté, défense perméable (9 buts encaissés)",
+          "key_matchup": "Solidité défensive chypriote face à une attaque écossaise peu prolifique",
+          "predicted_approach": "AEK Larnaca va exploiter sa forme parfaite face à Aberdeen en crise"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 4 jours, récupération normale",
+          "away_team": "Dernier match il y a 8 jours, bien reposé",
+          "advantage": "Léger avantage à Aberdeen sur la fraîcheur"
+        },
+        "context_stakes": {
+          "home_situation": "2e place avec 6 points, excellente position",
+          "away_situation": "36e place avec 0 point, situation critique",
+          "psychological": "AEK Larnaca en confiance totale face à Aberdeen sous pression",
+          "overall": "Dynamique parfaite pour les Chypriotes face à des Écossais en crise"
+        },
+        "home_advantage": {
+          "home_record_season": "1V-0N-0D à domicile en Conference League",
+          "away_record_opponent": "0V-0N-1D à l'extérieur en Conference League",
+          "atmosphere": "Stade chypriote, public acquis à la cause locale",
+          "weather": "Conditions méditerranéennes favorables",
+          "advantage_score": "8/10 - Fort avantage domicile"
+        },
+        "odds_value": {
+          "bet_odds": 1.9,
+          "implied_probability": "52.6%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Excellente value bet, cote sous-évaluée de 12-17%",
+          "odds_movement": "Marché sous-estime la forme parfaite de Larnaca"
+        },
+        "key_factors_summary": [
+          "AEK Larnaca parcours parfait : 2V-0N-0D, 5 buts pour, 0 encaissé",
+          "Aberdeen en crise : 0V-0N-2D, 2 buts pour, 9 encaissés dont 6-0 face à AEK Athens",
+          "Différence de forme et de confiance flagrante entre les deux équipes",
+          "Avantage domicile à Chypre face à une équipe écossaise en déplacement",
+          "Contexte psychologique parfait pour Larnaca, pression sur Aberdeen"
+        ]
+      },
+      "conclusion": "Confrontation entre deux équipes aux dynamiques opposées. AEK Larnaca réalise un parcours parfait (6 points, 0 but encaissé) tandis qu'Aberdeen traverse une crise majeure (0 point, 9 buts encaissés). Les Chypriotes évoluent à domicile avec une confiance maximale face à des Écossais sous pression. La différence de forme est trop importante pour être ignorée. La cote à 1.90 offre une value excellente.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire AEK Larnaca)",
+      "odds": 1.9,
+      "confidence": 79,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "AEK Larnaca -1 Handicap",
+          "odds": 3.1,
+          "reasoning": "Avec la forme parfaite de Larnaca et la crise d'Aberdeen, victoire nette possible"
+        }
+      ]
+    },
+    {
+      "match": "Samsunspor vs Hamrun Spartans",
+      "competition": "UEFA Europa Conference League",
+      "kickoff": "17:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-0N-0D en Conference League, parcours parfait",
+            "home_record": "1V-0N-0D à domicile en Conference League",
+            "trend": "Forme exceptionnelle avec 2 victoires et défense inviolée (0 but encaissé)",
+            "details": "Derniers résultats : [V] Konyaspor 1-3, [N] vs Rizespor 1-1, [V] vs Dynamo Kyiv 3-0"
+          },
+          "away_team": {
+            "last_5_matches": "0V-0N-2D en Conference League, aucune victoire",
+            "away_record": "0V-0N-1D à l'extérieur en Conference League",
+            "trend": "Forme décevante avec 2 défaites et aucun but marqué en C4",
+            "details": "Derniers résultats : [V] Birkirkara 0-2, [V] Floriana 1-3, [N] Naxxar Lions 1-1"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Pas de confrontations directes récentes disponibles",
+          "at_home": "Première confrontation probable",
+          "details": "Aucun historique fourni entre ces équipes",
+          "trends": "Impossible à analyser sans données H2H"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Anthony Musaba (blessure ischio-jambiers)",
+              "B. Çetin (blessé)",
+              "E. Kılınç (blessure)",
+              "T. Coulibaly (inactif)",
+              "C. Ndiaye (inactif)",
+              "S. Aydogdu (blessé)"
+            ],
+            "impact": "Impact modéré avec 6 absents mais effectif turc encore compétitif"
+          },
+          "away_team": {
+            "absent": [
+              "Données non disponibles"
+            ],
+            "impact": "Effectif maltais apparemment au complet"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Samsunspor équipe turque offensive et solide défensivement (0 but encaissé en C4)",
+          "away_style": "Hamrun Spartans équipe maltaise modeste, 0 but marqué en Conference League",
+          "key_matchup": "Puissance offensive turque face à une attaque maltaise inexistante en C4",
+          "predicted_approach": "Samsunspor va dominer techniquement et physiquement"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 4 jours, récupération normale",
+          "away_team": "Dernier match il y a 5 jours, légèrement plus reposé",
+          "advantage": "Égalité sur le plan de la fraîcheur physique"
+        },
+        "context_stakes": {
+          "home_situation": "5e place avec 6 points, excellente position",
+          "away_situation": "32e place avec 0 point, situation critique",
+          "psychological": "Samsunspor en confiance face à Hamrun sous pression maximale",
+          "overall": "Différence de niveau et d'ambition flagrante"
+        },
+        "home_advantage": {
+          "home_record_season": "1V-0N-0D à domicile en Conference League",
+          "away_record_opponent": "0V-0N-1D à l'extérieur en Conference League",
+          "atmosphere": "Stade turc, public passionné et nombreux",
+          "weather": "Conditions normales en Turquie",
+          "advantage_score": "9/10 - Avantage domicile majeur"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Value bet exceptionnelle, cote largement sous-évaluée",
+          "odds_movement": "Marché sous-estime la différence de niveau"
+        },
+        "key_factors_summary": [
+          "Samsunspor parcours parfait : 2V-0N-0D, 4 buts pour, 0 encaissé",
+          "Hamrun Spartans en crise : 0V-0N-2D, 0 but marqué en Conference League",
+          "Différence de niveau énorme entre championnat turc et maltais",
+          "Avantage domicile en Turquie face à une équipe maltaise modeste",
+          "Contexte psychologique parfait pour les Turcs"
+        ]
+      },
+      "conclusion": "Confrontation totalement déséquilibrée entre Samsunspor, équipe turque en forme parfaite (6 points, 0 but encaissé), et Hamrun Spartans, formation maltaise en grande difficulté (0 point, 0 but marqué en C4). La différence de niveau entre les championnats turc et maltais est énorme. À domicile avec son public, Samsunspor ne devrait faire qu'une bouchée de cette équipe maltaise. La cote à 1.85 est un cadeau.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Samsunspor)",
+      "odds": 1.85,
+      "confidence": 85,
+      "risk_level": "Very Low",
+      "alternative_bets": [
+        {
+          "type": "Samsunspor -1.5 Handicap",
+          "odds": 2.8,
+          "reasoning": "Avec 0 but marqué par Hamrun en C4, victoire large probable"
+        }
+      ]
+    },
+    {
+      "match": "Fiorentina vs FSV Mainz 05",
+      "competition": "UEFA Europa Conference League",
+      "kickoff": "17:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-0N-0D en Conference League, parcours parfait",
+            "home_record": "1V-0N-0D à l'extérieur en Conference League",
+            "trend": "Forme exceptionnelle avec 2 victoires et défense inviolée (0 but encaissé)",
+            "details": "Derniers résultats : [D] vs Lecce 0-1, [D] Inter 3-0, [N] vs Bologna 2-2"
+          },
+          "away_team": {
+            "last_5_matches": "2V-0N-0D en Conference League, également parfait",
+            "away_record": "1V-0N-0D à domicile en Conference League",
+            "trend": "Forme solide avec 2 victoires et défense solide (0 but encaissé)",
+            "details": "Derniers résultats : [N] vs Werder Bremen 1-1, [D] vs VfB Stuttgart 0-2, [D] VfB Stuttgart 2-1"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Pas de confrontations directes récentes disponibles",
+          "at_home": "Première confrontation probable",
+          "details": "Aucun historique fourni entre ces équipes",
+          "trends": "Impossible à analyser sans données H2H"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Rolando Mandragora (blessure inconnue)",
+              "Moise Keane (suspendu carton rouge)",
+              "T. Lamptey (genou du sauteur)",
+              "A. Barák (blessure)",
+              "C. Kouamé (genou du sauteur)"
+            ],
+            "impact": "Impact significatif avec 5 absents dont des titulaires offensifs"
+          },
+          "away_team": {
+            "absent": [
+              "Lee Jae Sung (fracture pommette)",
+              "Maxim Dal (rupture ligaments croisés)",
+              "P. Nebel (carton rouge)",
+              "Daniel Gleiber (problèmes cuisse)",
+              "B. Hollerbach (contusion musculaire)"
+            ],
+            "impact": "Impact modéré avec 5 absents également mais effectif allemand solide"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Fiorentina équipe italienne technique, 1ère du classement Conference League",
+          "away_style": "Mainz équipe allemande organisée et disciplinée, également invaincue",
+          "key_matchup": "Technique italienne face à l'organisation allemande, match équilibré",
+          "predicted_approach": "Match serré entre deux équipes de niveau similaire"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 4 jours, récupération normale",
+          "away_team": "Dernier match il y a 5 jours, légèrement plus reposé",
+          "advantage": "Léger avantage à Mainz sur la fraîcheur"
+        },
+        "context_stakes": {
+          "home_situation": "1ère place avec 6 points, leader invaincu",
+          "away_situation": "6e place avec 6 points, également invaincu",
+          "psychological": "Deux équipes en confiance, match au sommet",
+          "overall": "Enjeu de leadership pour Fiorentina à domicile"
+        },
+        "home_advantage": {
+          "home_record_season": "1V-0N-0D à l'extérieur en Conference League",
+          "away_record_opponent": "1V-0N-0D à domicile en Conference League",
+          "atmosphere": "Stade italien, public passionné de Florence",
+          "weather": "Conditions normales en Italie",
+          "advantage_score": "7/10 - Avantage domicile significatif"
+        },
+        "odds_value": {
+          "bet_odds": 2.2,
+          "implied_probability": "45.5%",
+          "estimated_real_probability": "55-60%",
+          "value_analysis": "Value bet intéressante, cote légèrement sous-évaluée",
+          "odds_movement": "Cote attractive pour le leader à domicile"
+        },
+        "key_factors_summary": [
+          "Fiorentina leader invaincu (6 points, 5 buts pour, 0 encaissé)",
+          "Mainz également invaincu mais 6e place, légèrement moins impressionnant",
+          "Match au sommet entre deux équipes en forme parfaite",
+          "Avantage domicile à Florence face à une équipe allemande en déplacement",
+          "Fiorentina avec l'enjeu de confirmer son statut de leader"
+        ]
+      },
+      "conclusion": "Affrontement au sommet entre Fiorentina, leader invaincu, et Mainz, également invaincu mais moins impressionnant. Les Italiens évoluent à domicile avec l'avantage de leur public florentin et l'enjeu de confirmer leur statut de leader. Malgré les absences des deux côtés, Fiorentina a montré plus de qualité offensive. La cote à 2.20 offre une value correcte pour un favori logique.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Fiorentina)",
+      "odds": 2.2,
+      "confidence": 72,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.95,
+          "reasoning": "Deux attaques de qualité, match ouvert attendu"
+        }
+      ]
+    },
+    {
+      "match": "Zrinjski vs Dynamo Kyiv",
+      "competition": "UEFA Europa Conference League",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-0N-1D en Conference League, forme correcte",
+            "home_record": "0V-0N-1D à l'extérieur en Conference League",
+            "trend": "Forme positive avec 1 victoire large (5-0) et 1 défaite courte",
+            "details": "Derniers résultats : [V] Siroki Brijeg 1-2, [V] FK Romanija Pale 0-2, [V] vs Borac Banja Luka 2-1"
+          },
+          "away_team": {
+            "last_5_matches": "0V-0N-2D en Conference League, série noire",
+            "away_record": "0V-0N-1D à domicile en Conference League",
+            "trend": "Forme catastrophique avec 2 défaites et 0 but marqué",
+            "details": "Derniers résultats : [D] Shakhtar Donetsk 3-1, [V] vs Shakhtar Donetsk 2-1, [V] vs Kryvbas KR 4-0"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Pas de confrontations directes récentes disponibles",
+          "at_home": "Première confrontation probable",
+          "details": "Aucun historique fourni entre ces équipes",
+          "trends": "Impossible à analyser sans données H2H"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Toni Sunjic (blessure jambe)",
+              "T. Burey (blessure ischio-jambiers)"
+            ],
+            "impact": "Impact limité avec seulement 2 absents, effectif bosnien globalement disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Vitaliy Buyalskyi (blessure inconnue)",
+              "Angel Yesid Torres Quinones (blessure inconnue)",
+              "Valentyn Rubchynskyi (problèmes tendon d'Achille)"
+            ],
+            "impact": "Impact modéré avec 3 absents mais effectif ukrainien affaibli"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Zrinjski équipe bosnienne solide à domicile, victoire 5-0 impressionnante",
+          "away_style": "Dynamo Kyiv en grande difficulté, 0 but marqué en Conference League",
+          "key_matchup": "Solidité bosnienne face à une attaque ukrainienne inexistante en C4",
+          "predicted_approach": "Zrinjski va exploiter la crise offensive de Dynamo"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 5 jours, récupération normale",
+          "away_team": "Dernier match il y a 4 jours, légèrement moins reposé",
+          "advantage": "Léger avantage à Zrinjski sur la fraîcheur"
+        },
+        "context_stakes": {
+          "home_situation": "13e place avec 3 points, situation correcte",
+          "away_situation": "34e place avec 0 point, situation critique",
+          "psychological": "Zrinjski confiant à domicile face à Dynamo en crise totale",
+          "overall": "Pression maximale sur Dynamo qui n'a toujours pas marqué"
+        },
+        "home_advantage": {
+          "home_record_season": "0V-0N-1D à l'extérieur en Conference League",
+          "away_record_opponent": "0V-0N-1D à domicile en Conference League",
+          "atmosphere": "Stade bosnien, public acquis à la cause locale",
+          "weather": "Conditions normales en Bosnie",
+          "advantage_score": "8/10 - Fort avantage domicile"
+        },
+        "odds_value": {
+          "bet_odds": 2.3,
+          "implied_probability": "43.5%",
+          "estimated_real_probability": "60-65%",
+          "value_analysis": "Excellente value bet, cote largement sous-évaluée",
+          "odds_movement": "Marché sous-estime la crise de Dynamo Kyiv"
+        },
+        "key_factors_summary": [
+          "Dynamo Kyiv en crise totale : 0V-0N-2D, 0 but marqué en Conference League",
+          "Zrinjski avec une victoire impressionnante 5-0 contre Lincoln Red Imps",
+          "Différence de dynamique flagrante entre les deux équipes",
+          "Avantage domicile en Bosnie face à une équipe ukrainienne en déplacement",
+          "Contexte psychologique parfait pour Zrinjski face à Dynamo sous pression"
+        ]
+      },
+      "conclusion": "Situation exceptionnelle avec Dynamo Kyiv en crise profonde (0 point, 0 but marqué en C4) face à Zrinjski qui a montré sa qualité avec une victoire 5-0. Les Ukrainiens n'arrivent pas à marquer en Conference League et évoluent en déplacement face à une équipe bosnienne motivée à domicile. La différence de forme et de confiance est énorme. La cote à 2.30 représente une value exceptionnelle.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Zrinjski)",
+      "odds": 2.3,
+      "confidence": 81,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.8,
+          "reasoning": "Avec 0 but marqué par Dynamo en C4, match fermé probable"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 29,
+    "examples": [
+      {
+        "match": "FC Midtjylland vs Celtic",
+        "reason": "Cote trop faible attendue (<1.70) pour Midtjylland leader"
+      },
+      {
+        "match": "SC Braga vs Genk",
+        "reason": "Cote Braga probablement <1.70, équipe trop favorite"
+      },
+      {
+        "match": "Rangers vs AS Roma",
+        "reason": "Match trop incertain, Rangers en crise mais Roma également instable"
+      },
+      {
+        "match": "Real Betis vs Lyon",
+        "reason": "Match équilibré, pas de value claire identifiée"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "GO Ahead Eagles vs Red Bull Salzburg (Victoire GO Ahead Eagles à 2.10)",
+      "Samsunspor vs Hamrun Spartans (Victoire Samsunspor à 1.85)",
+      "Zrinjski vs Dynamo Kyiv (Victoire Zrinjski à 2.30)"
+    ],
+    "total_odds": 8.94,
+    "confidence": 83,
+    "detailed_reasoning": "Combiné de 3 équipes domiciles face à des adversaires en crise profonde. GO Ahead Eagles face à Salzburg décimé (9 absents, 0 point), Samsunspor face à Hamrun qui n'a pas marqué en C4, et Zrinjski face à Dynamo Kyiv également muet en C4. Trois situations de déséquilibre flagrant avec des équipes domiciles en confiance. Corrélation faible entre les matchs (compétitions et pays différents). Probabilité combinée estimée à 60% (82% × 85% × 81% ≈ 56%), offrant une value exceptionnelle avec la cote à 8.94.",
+    "risk_level": "Medium",
+    "IMPORTANT": "Combiné sélectionné avec les 3 paris les plus sûrs présentant des déséquilibres flagrants."
+  }
+}

@@ -1,7 +1,8 @@
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+# Override=True pour forcer rechargement des valeurs .env (évite problèmes de cache)
+load_dotenv(override=True)
 
 class Config:
     # Répertoires

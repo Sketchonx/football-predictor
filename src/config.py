@@ -17,7 +17,7 @@ class Config:
     # Paramètres Analyse
     TIMEZONE = os.getenv('TIMEZONE', 'Europe/Brussels')
     MIN_CONFIDENCE = int(os.getenv('MIN_CONFIDENCE', 75))
-    MIN_ODDS = float(os.getenv('MIN_ODDS', 1.50))
+    MIN_ODDS = float(os.getenv('MIN_ODDS', 1.60))
     MAX_ODDS = float(os.getenv('MAX_ODDS', 4.00))
     MAX_PREDICTIONS = int(os.getenv('MAX_PREDICTIONS', 10))
     

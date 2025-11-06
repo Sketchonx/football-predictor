@@ -162,6 +162,12 @@ Ces données incluent :
 ---
 
 ## FORMAT DE SORTIE JSON DÉTAILLÉ
+
+**🚨 RAPPEL IMMÉDIAT AVANT JSON - ORDRE HOME/AWAY:**
+- 🏠 dans les données = home_team dans le JSON
+- ✈️ dans les données = away_team dans le JSON
+- VÉRIFIE 3 FOIS avant de générer chaque section
+
 ```json
 {{
   "analysis_date": "{date}",
@@ -366,29 +372,65 @@ Avant d'écrire TOUTE stat (ex: "3V-3N-1D", "12 points", "6e place"):
 2. Si tu ne la VOIS PAS textuellement dans les données → NE L'ÉCRIS PAS
 3. Mieux vaut dire "Données non fournies" que d'inventer
 
-**🚨 RÈGLE ABSOLUE #4 - ORDRE HOME/AWAY (TRÈS IMPORTANT) 🚨:**
+**🚨🚨🚨 RÈGLE ABSOLUE #4 - ORDRE HOME/AWAY (CRITIQUE - ERREURS RÉPÉTÉES) 🚨🚨🚨:**
+
+**⚠️ TU AS FAIT DES ERREURS HOME/AWAY DANS 100% DES ANALYSES PRÉCÉDENTES.**
+**⚠️ CETTE RÈGLE EST LA PLUS IMPORTANTE DE TOUTES.**
+**⚠️ LIS-LA 3 FOIS AVANT DE COMMENCER L'ANALYSE.**
 
 CHAQUE match CI-DESSUS indique clairement avec des emojis:
-- 🏠 = ÉQUIPE À DOMICILE (home_team)
-- ✈️ = ÉQUIPE À L'EXTÉRIEUR (away_team)
+- 🏠 = ÉQUIPE À DOMICILE (home_team) - JOUE CHEZ ELLE
+- ✈️ = ÉQUIPE À L'EXTÉRIEUR (away_team) - JOUE EN DÉPLACEMENT
 
-**EXEMPLES POUR BIEN COMPRENDRE:**
+**INSTRUCTION ABSOLUE:**
+Dans TOUTES tes descriptions d'analyse (recent_form, tactical_analysis, conclusion, etc.):
+- Quand tu parles de l'équipe avec 🏠 → DIS "équipe à domicile", "les locaux", "jouant chez eux"
+- Quand tu parles de l'équipe avec ✈️ → DIS "équipe en déplacement", "les visiteurs", "jouant à l'extérieur"
 
-Si les données montrent:
+**❌ ERREURS GRAVES QUE TU AS FAITES (À NE PLUS JAMAIS REFAIRE):**
+
+Exemple de tes erreurs passées:
 ```
-████████ MATCH #2: Parma vs Como ████████
-│ 🏠 Parma: 15e place - 6 pts
-│ ✈️ Como: 6e place - 12 pts
+Match: Red Bull Salzburg vs GO Ahead Eagles
+🏠 Red Bull Salzburg (équipe à DOMICILE)
+✈️ GO Ahead Eagles (équipe en DÉPLACEMENT)
+
+TU AS ÉCRIT (FAUX):
+- "home_team": "Forme catastrophique avec 3 défaites..."
+- "away_team": "Forme excellente avec 2 victoires..."
 ```
 
-Alors dans ton JSON, tu DOIS écrire:
-- "home_team" = Parma (celui avec 🏠)
-- "away_team" = Como (celui avec ✈️)
+**❌ POURQUOI C'EST FAUX:**
+Red Bull Salzburg (🏠) joue À DOMICILE, donc si Salzburg a une forme catastrophique, tu dois l'écrire dans home_team, PAS dans away_team!
 
-**❌ ERREUR FRÉQUENTE À ÉVITER:**
-N'inverse PAS home_team et away_team ! Si tu vois "🏠 Parma" et "✈️ Como", alors:
-- ❌ FAUX: home_team = Como, away_team = Parma
-- ✅ CORRECT: home_team = Parma, away_team = Como
+**✅ CE QUE TU AURAIS DÛ ÉCRIRE:**
+```json
+"recent_form": {
+  "home_team": {
+    "last_5_matches": "0V-0N-3D (Salzburg forme catastrophique)",
+    "trend": "Forme catastrophique avec 3 défaites consécutives"
+  },
+  "away_team": {
+    "last_5_matches": "2V-0N-1D (GO Ahead Eagles forme excellente)",
+    "trend": "Forme excellente avec 2 victoires"
+  }
+}
+```
+
+**VÉRIFICATION OBLIGATOIRE AVANT CHAQUE SECTION:**
+1. Regarde l'emoji: 🏠 = domicile, ✈️ = extérieur
+2. Quand tu écris "home_team" → Vérifie que tu parles de l'équipe avec 🏠
+3. Quand tu écris "away_team" → Vérifie que tu parles de l'équipe avec ✈️
+4. Dans "conclusion" et descriptions textuelles → Utilise "équipe à domicile" et "équipe en déplacement"
+
+**TRIPLE VÉRIFICATION:**
+Avant de générer le JSON final:
+1. ✅ Le nom dans "match": correspond-il à "🏠 Team A vs ✈️ Team B" ?
+2. ✅ Dans recent_form.home_team: parles-tu bien de Team A (🏠) ?
+3. ✅ Dans recent_form.away_team: parles-tu bien de Team B (✈️) ?
+4. ✅ Dans tactical_analysis.home_style: décris-tu Team A (🏠) ?
+5. ✅ Dans tactical_analysis.away_style: décris-tu Team B (✈️) ?
+6. ✅ Dans conclusion: utilises-tu "équipe à domicile" pour Team A et "équipe en déplacement" pour Team B ?
 
 **RÈGLE ABSOLUE SUR LES PHRASES:**
 - AUCUN "..." n'est autorisé dans les analyses

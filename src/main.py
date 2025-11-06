@@ -6,6 +6,8 @@ from match_scraper import MatchScraper
 from claude_analyzer import ClaudeAnalyzer  # Remplacé Gemini par Claude
 from telegram_sender import TelegramSender
 from learning_engine import LearningEngine
+from prediction_validator import PredictionValidator  # Validateur pour corriger inversions Home/Away
+from config import Config
 
 def main():
     print("🚀 Démarrage analyse football...")
@@ -39,7 +41,19 @@ def main():
         return
     
     print(f"✅ Analyse terminée: {len(result.get('recommendations', []))} pronostics")
-    
+
+    # 3b. VALIDATION ET CORRECTION AUTOMATIQUE (Home/Away inversions + cotes trop basses)
+    print("🔍 Validation et correction automatique...")
+    config = Config()
+    validator = PredictionValidator(matches)
+    result = validator.validate_and_fix_predictions(result, min_odds=config.MIN_ODDS)
+
+    # Afficher rapport de validation
+    validation_report = validator.generate_validation_report(result)
+    print(validation_report)
+
+    print(f"✅ Après validation: {len(result.get('recommendations', []))} pronostics retenus")
+
     # 4. Sauvegarde prédictions
     learning.save_predictions(result, today)
     

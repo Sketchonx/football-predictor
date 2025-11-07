@@ -1,0 +1,335 @@
+{
+  "analysis_date": "2025-11-07",
+  "total_analyzed": 5,
+  "total_retained": 3,
+  "recommendations": [
+    {
+      "match": "Werder Bremen vs VfL Wolfsburg",
+      "competition": "Bundesliga",
+      "kickoff": "19:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-2N-1D selon les 5 derniers matchs",
+            "home_record": "À domicile: 2V-1N-1D cette saison, avec victoires 1-0 vs Union Berlin et 1-0 vs FC St. Pauli",
+            "trend": "Forme stable à domicile avec défense solide",
+            "details": "Derniers résultats : [N] 1-1 vs FSV Mainz, [V] 1-0 vs Union Berlin, [N] 2-2 à Heidenheim, [V] 1-0 vs FC St. Pauli, [D] 0-4 au Bayern"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D selon les 5 derniers matchs",
+            "away_record": "À l'extérieur: 2V-0N-2D cette saison, mais forme récente catastrophique",
+            "trend": "Crise profonde avec 7 défaites sur 10 derniers matchs",
+            "details": "Derniers résultats : [D] 2-3 vs Hoffenheim, [D] 0-1 vs Holstein Kiel, [V] 0-1 à Hambourg (Coupe), [D] 0-3 vs Stuttgart, [D] 0-2 vs Hertha (Coupe)"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Équilibré : 2V Wolfsburg, 2N, 1V Bremen sur 5 derniers",
+          "at_home": "Bremen invaincu à domicile : 1V-1N sur 2 derniers matchs chez eux",
+          "details": "Résultats: Bremen 1-2 Wolfsburg (2025), Wolfsburg 2-4 Bremen (2024), Bremen 0-2 Wolfsburg (2024), Wolfsburg 2-2 Bremen (2023), Bremen 2-1 Wolfsburg (2023)",
+          "trends": "Matchs ouverts avec moyenne 2.8 buts/match, mais Bremen plus solide à domicile récemment"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Mitchell Weiser (ruptured cruciate ligament)",
+              "Jens Stage (foot injury)",
+              "Amos Pieper (hip injury)",
+              "M. Friedl (inner ligament injury)",
+              "M. Wöber (thigh problems)"
+            ],
+            "impact": "Impact modéré : 5 absents mais défense centrale préservée, milieu affaibli par l'absence de Stage"
+          },
+          "away_team": {
+            "absent": [
+              "Kevin Paredes (foot surgery)",
+              "Mohamed Amoura (hamstring injury)",
+              "Jonas Older Wind (muscular problems)",
+              "J. Lindstrøm (groin operation)",
+              "Rogerio (muscular problems)"
+            ],
+            "impact": "Impact MAJEUR : 5 titulaires absents dont Amoura (attaquant clé) et Paredes (ailier). Secteur offensif décimé."
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Jeu compact et discipliné sous Werner, défense organisée en 4-2-3-1, transitions rapides mais attaque limitée (1.4 buts/match)",
+          "away_style": "4-3-3 offensif sous Hasenhüttl mais inefficace cette saison (1.2 buts/match), défense fragile (1.8 buts encaissés/match)",
+          "key_matchup": "Solidité défensive Bremen vs attaque décimée Wolfsburg. Avantage net Bremen.",
+          "predicted_approach": "Bremen va jouer compact et exploiter les erreurs, Wolfsburg forcé de prendre des risques avec un effectif amoindri"
+        },
+        "schedule_fatigue": {
+          "home_team": "6 jours de repos depuis le nul à Mainz, équipe fraîche et préparée",
+          "away_team": "4 jours de repos après la défaite vs Hoffenheim, mais équipe démoralisée",
+          "advantage": "Léger avantage physique Bremen, surtout avantage mental considérable"
+        },
+        "context_stakes": {
+          "home_situation": "9e place avec 12 points, objectif maintien confortable. Besoin de points pour s'éloigner de la zone rouge.",
+          "away_situation": "12e place avec seulement 8 points, dans le dur. Pression énorme, crise de confiance totale.",
+          "psychological": "Bremen peut jouer libéré à domicile, Wolfsburg sous pression maximale avec une série noire",
+          "overall": "Avantage psychologique majeur pour Bremen qui reçoit une équipe en pleine crise"
+        },
+        "home_advantage": {
+          "home_record_season": "2V-1N-1D à domicile, défense solide avec seulement 2 buts encaissés en 4 matchs à domicile",
+          "away_record_opponent": "Wolfsburg catastrophique : 7 défaites sur 10 derniers matchs toutes compétitions",
+          "atmosphere": "Weserstadion sera un soutien précieux face à une équipe en crise",
+          "weather": "Conditions normales, pas d'impact météorologique",
+          "advantage_score": "8/10 - Avantage domicile très important face à une équipe en perdition"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet claire : Bremen sous-évalué face à un Wolfsburg en crise totale",
+          "odds_movement": "Cote stable, marché n'a pas encore intégré l'ampleur de la crise Wolfsburg"
+        },
+        "key_factors_summary": [
+          "Wolfsburg en crise totale : 7 défaites sur 10 derniers matchs, moral au plus bas",
+          "5 titulaires absents chez Wolfsburg dont attaquants clés Amoura et Paredes",
+          "Bremen solide à domicile : 2V-1N-1D, seulement 2 buts encaissés en 4 matchs",
+          "Différence de dynamique énorme : Bremen stable vs Wolfsburg en chute libre",
+          "Contexte favorable : équipe en confiance recevant une formation démoralisée"
+        ]
+      },
+      "conclusion": "Tous les facteurs convergent vers une victoire de l'équipe à domicile : Bremen affiche une solidité défensive remarquable à domicile (2 buts encaissés en 4 matchs) face à un Wolfsburg en crise profonde (7 défaites sur 10 matchs). L'absence de 5 titulaires chez les visiteurs, notamment les attaquants Amoura et Paredes, aggrave leur situation offensive déjà défaillante (1.2 buts/match). La différence psychologique est énorme entre une équipe stable qui joue chez elle et des visiteurs en pleine déroute. Les cotes à 1.85 offrent une value intéressante pour un scénario très probable.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Werder Bremen)",
+      "odds": 1.85,
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.9,
+          "reasoning": "Deux attaques limitées, défense Bremen solide à domicile"
+        }
+      ]
+    },
+    {
+      "match": "Dender vs Zulte Waregem",
+      "competition": "Jupiler Pro League",
+      "kickoff": "19:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-1N-3D selon les 5 derniers matchs",
+            "home_record": "À domicile: 0V-2N-4D cette saison, aucune victoire en 6 matchs à domicile",
+            "trend": "Forme catastrophique, lanterne rouge avec 0 victoire en 13 matchs",
+            "details": "Derniers résultats : [D] 1-2 vs Club Brugge, [V] 4-2 vs Charleroi (seule victoire récente), [N] 1-1 à Westerlo, [D] 1-3 vs Mechelen, [D] 1-2 à Genk"
+          },
+          "away_team": {
+            "last_5_matches": "2V-1N-2D selon les 5 derniers matchs",
+            "away_record": "À l'extérieur: 2V-2N-2D cette saison, capable de gagner en déplacement",
+            "trend": "Forme correcte avec capacité à marquer (1.5 buts/match)",
+            "details": "Derniers résultats : [D] 1-4 vs Union St-Gilloise, [V] 1-4 à Spouwen (Coupe), [N] 1-1 à Cercle Brugge, [V] 4-1 vs Gent, [N] 0-0 à La Louvière"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Domination totale Zulte Waregem : 2V-1N-0D sur 3 derniers",
+          "at_home": "Dender n'a jamais battu Zulte à domicile récemment",
+          "details": "Résultats: Zulte 2-1 Dender (2024), Dender 1-4 Zulte (2024), Zulte 1-1 Dender (2023)",
+          "trends": "Zulte Waregem nettement supérieur, moyenne 2.3 buts/match en faveur des visiteurs"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Michael Verrips (abdominal injury)",
+              "Ragnar Oratmangoen (infection)",
+              "Joedrick Pupe (abdominal injury)",
+              "Noah Mbamba (muscle injury)",
+              "M. Berte (muscle bruise)"
+            ],
+            "impact": "Impact MAJEUR : 5 absents dont le gardien titulaire Verrips et plusieurs titulaires. Effectif très amoindri."
+          },
+          "away_team": {
+            "absent": [
+              "Atli Barkarson (shoulder injury)"
+            ],
+            "impact": "Impact minimal : un seul absent, effectif quasi au complet avec J. Erenbjerg (8 buts, meilleur buteur du championnat) disponible"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Jeu défensif par nécessité, très faible production offensive (0.5 buts/match), défense perméable (1.6 buts encaissés/match)",
+          "away_style": "Jeu plus offensif avec Erenbjerg en pointe (8 buts), capable de marquer mais défense perfectible (1.5 buts encaissés/match)",
+          "key_matchup": "Attaque Zulte (Erenbjerg 8 buts) vs défense Dender affaiblie. Avantage énorme visiteurs.",
+          "predicted_approach": "Dender va subir et tenter de limiter les dégâts, Zulte va dominer et chercher à exploiter sa supériorité offensive"
+        },
+        "schedule_fatigue": {
+          "home_team": "6 jours de repos depuis la défaite vs Club Brugge, mais moral au plus bas",
+          "away_team": "6 jours de repos également, équipe en confiance après la victoire 4-1 vs Gent",
+          "advantage": "Égalité physique mais avantage mental énorme pour Zulte"
+        },
+        "context_stakes": {
+          "home_situation": "16e place avec 4 points seulement, lutte désespérée pour le maintien. Pression énorme.",
+          "away_situation": "8e place avec 18 points, saison correcte sans pression particulière. Peut jouer libéré.",
+          "psychological": "Dender en panique totale (0 victoire), Zulte peut jouer sans pression face au dernier",
+          "overall": "Contexte idéal pour Zulte : équipe libérée face à une formation en perdition totale"
+        },
+        "home_advantage": {
+          "home_record_season": "0V-2N-4D à domicile, aucune victoire en 6 matchs, seulement 6 buts marqués en 13 matchs",
+          "away_record_opponent": "Zulte correct en déplacement : 2V-2N-2D, capable de s'imposer à l'extérieur",
+          "atmosphere": "Stade peu rempli, supporters démoralisés, pas d'avantage réel",
+          "weather": "Conditions normales",
+          "advantage_score": "2/10 - Avantage domicile inexistant face à cette crise"
+        },
+        "odds_value": {
+          "bet_odds": 2.1,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "60-65%",
+          "value_analysis": "Excellente value : Zulte sous-évalué face au dernier du championnat sans victoire",
+          "odds_movement": "Cote attractive, marché surestime les chances de Dender à domicile"
+        },
+        "key_factors_summary": [
+          "Dender lanterne rouge avec 0 victoire en 13 matchs, crise totale",
+          "5 absents majeurs chez Dender dont le gardien titulaire, effectif décimé",
+          "Zulte avec Erenbjerg, meilleur buteur du championnat (8 buts), attaque redoutable",
+          "Historique favorable : Zulte invaincu sur 3 derniers H2H (2V-1N)",
+          "Différence de niveau énorme : 8e place (18 pts) vs 16e place (4 pts)"
+        ]
+      },
+      "conclusion": "Situation idéale pour un pari sur l'équipe en déplacement : Zulte Waregem, 8e avec 18 points, affronte la lanterne rouge Dender qui n'a remporté aucune victoire en 13 matchs. L'équipe à domicile est décimée par 5 absences majeures dont son gardien titulaire, tandis que les visiteurs disposent du meilleur buteur du championnat (Erenbjerg, 8 buts) et d'un effectif quasi au complet. L'historique récent est sans appel (2V-1N pour Zulte sur 3 derniers H2H), et la différence de niveau actuelle est abyssale. Les cotes à 2.10 représentent une value exceptionnelle pour ce qui devrait être une victoire logique des visiteurs.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Zulte Waregem)",
+      "odds": 2.1,
+      "confidence": 80,
+      "risk_level": "Low-Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 2.0,
+          "reasoning": "Attaque Zulte face à défense Dender très perméable, potentiel match ouvert"
+        }
+      ]
+    },
+    {
+      "match": "Elche vs Real Sociedad",
+      "competition": "La Liga",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-1N-2D selon les 5 derniers matchs",
+            "home_record": "À domicile: 3V-2N-0D cette saison, invaincu à domicile avec 3 victoires",
+            "trend": "Excellente forme à domicile, forteresse cette saison",
+            "details": "Derniers résultats : [D] 1-3 au Barcelona, [V] 0-4 à Los Garres (Coupe), [D] 0-1 à Espanyol, [N] 0-0 vs Athletic Club, [D] 1-3 à Alaves"
+          },
+          "away_team": {
+            "last_5_matches": "4V-1N-0D selon les 5 derniers matchs",
+            "away_record": "À l'extérieur: 0V-2N-3D cette saison, aucune victoire en déplacement",
+            "trend": "Forme récente excellente mais problème chronique à l'extérieur",
+            "details": "Derniers résultats : [V] 3-2 vs Athletic Club, [V] 0-3 à Negreira (Coupe), [V] 2-1 vs Sevilla, [N] 1-1 à Celta Vigo, [V] 2-0 vs Osasuna"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Domination totale Real Sociedad : 4V-1N-0D sur 5 derniers",
+          "at_home": "Elche n'a battu la Real Sociedad qu'une fois sur 10 derniers H2H",
+          "details": "Résultats: Real Sociedad 2-0 Elche (2023), Elche 0-1 Real Sociedad (2022), Elche 1-2 Real Sociedad (2022), Real Sociedad 1-0 Elche (2021), Real Sociedad 2-0 Elche (2021)",
+          "trends": "Historique très défavorable à Elche, Real Sociedad domine largement cette confrontation"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Adam Boayar (wound)",
+              "Marc Aguado (wound)",
+              "Yago Alonso (jumpers knee)",
+              "A. Pedrosa (finger injury)",
+              "A. Rodriguez (knee injury)"
+            ],
+            "impact": "Impact modéré : 5 absents mais effectif encore compétitif pour recevoir"
+          },
+          "away_team": {
+            "absent": [
+              "Jon Gorrotxategi (doubtful)",
+              "Rupérez (jumpers knee)",
+              "Y. Herrera (hamstring injury)",
+              "O. Oskarsson (thigh injury)",
+              "I. Ruperez (knee injury)",
+              "A. Elustondo (contusion)"
+            ],
+            "impact": "Impact MAJEUR : 6 absents dont plusieurs titulaires, effectif très amoindri pour ce déplacement difficile"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Jeu compact et organisé à domicile sous Sarabia, défense solide (invaincu à domicile), attaque modeste mais efficace (1.1 buts/match)",
+          "away_style": "Jeu offensif sous Francisco mais très fragile en déplacement, incapable de gagner à l'extérieur cette saison (0V-2N-3D)",
+          "key_matchup": "Solidité défensive Elche à domicile vs fragilité Real Sociedad en déplacement. Avantage net Elche.",
+          "predicted_approach": "Elche va jouer compact et exploiter les faiblesses défensives de la Real en déplacement, visiteurs obligés de prendre des risques"
+        },
+        "schedule_fatigue": {
+          "home_team": "5 jours de repos depuis la défaite au Barcelona, équipe reposée pour recevoir",
+          "away_team": "6 jours de repos après la victoire vs Athletic, mais déplacement toujours difficile",
+          "advantage": "Léger avantage physique pour Elche qui joue à domicile"
+        },
+        "context_stakes": {
+          "home_situation": "9e place avec 14 points, saison correcte. Veut confirmer sa bonne forme à domicile.",
+          "away_situation": "14e place avec 12 points, position décevante. Doit absolument gagner en déplacement pour remonter.",
+          "psychological": "Elche en confiance à domicile (invaincu), Real Sociedad sous pression avec 0 victoire en déplacement",
+          "overall": "Pression sur la Real Sociedad qui doit enfin gagner à l'extérieur, Elche peut jouer libéré chez lui"
+        },
+        "home_advantage": {
+          "home_record_season": "3V-2N-0D à domicile, invaincu avec une défense solide",
+          "away_record_opponent": "Real Sociedad catastrophique en déplacement : 0V-2N-3D, aucune victoire à l'extérieur",
+          "atmosphere": "Stade Martinez Valero sera un atout face à une équipe en difficulté en déplacement",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Avantage domicile majeur face à une équipe incapable de gagner à l'extérieur"
+        },
+        "odds_value": {
+          "bet_odds": 1.95,
+          "implied_probability": "51.3%",
+          "estimated_real_probability": "60-65%",
+          "value_analysis": "Value bet intéressante : Elche sous-évalué malgré son invincibilité à domicile face à une Real incapable de gagner en déplacement",
+          "odds_movement": "Cote stable, marché n'intègre pas assez la différence domicile/extérieur"
+        },
+        "key_factors_summary": [
+          "Elche invaincu à domicile cette saison (3V-2N-0D) vs Real Sociedad 0 victoire en déplacement (0V-2N-3D)",
+          "6 absents chez la Real Sociedad dont plusieurs titulaires, effectif très affaibli",
+          "Historique défavorable compensé par la forme actuelle : Elche solide chez lui, Real fragile à l'extérieur",
+          "Contexte psychologique favorable : équipe confiante à domicile vs visiteurs sous pression",
+          "Différence de dynamique domicile/extérieur énorme entre les deux équipes"
+        ]
+      },
+      "conclusion": "Situation parfaite pour miser sur l'équipe à domicile : Elche reste invaincu à domicile cette saison (3V-2N-0D) et reçoit une Real Sociedad incapable de gagner en déplacement (0V-2N-3D). Malgré un historique défavorable, la forme actuelle est totalement en faveur des locaux qui évoluent dans leur jardin face à des visiteurs en grande difficulté à l'extérieur. L'absence de 6 joueurs chez la Real Sociedad, dont plusieurs titulaires, aggrave leur situation déjà précaire en déplacement. Les cotes à 1.95 offrent une value intéressante pour un scénario très probable compte tenu des dynamiques opposées des deux équipes.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Elche)",
+      "odds": 1.95,
+      "confidence": 72,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Double Chance 1X",
+          "odds": 1.3,
+          "reasoning": "Sécurité avec l'invincibilité d'Elche à domicile, mais cote trop faible"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 2,
+    "examples": [
+      {
+        "match": "Pisa vs Cremonese",
+        "reason": "Pisa sans victoire cette saison (0V-6N-4D) mais Cremonese pas assez dominateur pour justifier une cote intéressante. Match trop incertain."
+      },
+      {
+        "match": "Paris FC vs Rennes",
+        "reason": "Match très équilibré (11e vs 10e), nombreux absents des deux côtés, Rennes 0 victoire en déplacement mais Paris FC irrégulier. Pas de value claire."
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Werder Bremen victoire vs VfL Wolfsburg",
+      "Zulte Waregem victoire vs Dender",
+      "Elche victoire vs Real Sociedad"
+    ],
+    "total_odds": 7.59,
+    "confidence": 76,
+    "detailed_reasoning": "Trois situations où l'équipe favorite présente une value claire : Bremen solide à domicile face à un Wolfsburg en crise (75% confiance), Zulte avec le meilleur buteur du championnat face à la lanterne rouge sans victoire (80% confiance), Elche invaincu à domicile face à une Real Sociedad incapable de gagner en déplacement (72% confiance). Corrélation faible entre les trois matchs (ligues différentes). Probabilité combinée estimée : 43% (75% × 80% × 72%). Cote totale 7.59 offre une value intéressante vs ce risque calculé.",
+    "risk_level": "Medium-High"
+  },
+  "validation": {
+    "validated": true,
+    "corrections_count": 0,
+    "corrections": [],
+    "rejected_low_odds_count": 0,
+    "rejected_low_odds": []
+  }
+}

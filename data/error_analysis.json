@@ -418,5 +418,47 @@
     "bet_choice": "1 (Victoire AEK Larnaca)",
     "final_score": "0-0",
     "analysis_date": "2025-11-06T23:14:34.440869"
+  },
+  {
+    "main_cause": "Sous-estimation de la capacité de résistance défensive de Dender à domicile malgré ses absences, face à une équipe de Zulte Waregem historiquement irrégulière à l'extérieur.",
+    "missed_factors": [
+      "Analyse insuffisante des performances extérieures spécifiques de Zulte Waregem cette saison (points pris à l'extérieur vs à domicile)",
+      "Impact réel des 5 absences de Dender non quantifié par rapport à leurs remplaçants habituels et leur système défensif à domicile",
+      "Négligence du facteur psychologique : une équipe lanterne rouge à domicile peut montrer une réaction d'orgueil face à un adversaire supposé supérieur"
+    ],
+    "actionable_conclusion": "Pour les paris sur victoire extérieure impliquant une équipe classée 8e ou moins bien, vérifier systématiquement le ratio points domicile/extérieur des deux équipes et pondérer à la baisse si l'équipe favorite prend moins de 40% de ses points à l'extérieur.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-11-07_1",
+    "match": {
+      "home_team": "Dender",
+      "away_team": "Zulte Waregem",
+      "league": "Jupiler Pro League",
+      "date": "19:45"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire Zulte Waregem)",
+    "final_score": "2-2",
+    "analysis_date": "2025-11-07T23:13:51.296006"
+  },
+  {
+    "main_cause": "Surestimation de l'impact des statistiques domicile/extérieur sans tenir compte de la capacité défensive de la Real Sociedad à limiter les dégâts même en difficulté.",
+    "missed_factors": [
+      "La Real Sociedad, malgré 0 victoire à l'extérieur, n'avait concédé que 2 défaites nettes sur 5 déplacements, montrant une solidité défensive",
+      "Elche, bien qu'invaincu à domicile, n'avait que 3 victoires en 5 matchs, suggérant une tendance aux matchs nuls à domicile",
+      "L'absence de 6 joueurs chez la Real Sociedad pouvait paradoxalement créer un effet de groupe et une motivation défensive accrue"
+    ],
+    "actionable_conclusion": "Avant de parier sur une victoire nette basée sur les stats domicile/extérieur, vérifier si l'équipe visiteur a montré une capacité à éviter les défaites lourdes même en période difficile.",
+    "error_category": "statistiques_trompeuses",
+    "match_id": "2025-11-07_2",
+    "match": {
+      "home_team": "Elche",
+      "away_team": "Real Sociedad",
+      "league": "La Liga",
+      "date": "20:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Elche)",
+    "final_score": "1-1",
+    "analysis_date": "2025-11-07T23:13:58.494656"
   }
 ]

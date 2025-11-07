@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-06T23:14:34.442972",
-  "total_errors_analyzed": 20,
+  "last_updated": "2025-11-07T23:13:58.496284",
+  "total_errors_analyzed": 22,
   "categories": {
     "sous_estimation_outsider": {
       "count": 6,
@@ -28,12 +28,8 @@
       ]
     },
     "surestimation_favori": {
-      "count": 9,
+      "count": 10,
       "examples": [
-        {
-          "match": "Werder Bremen vs FSV Mainz 05",
-          "conclusion": "Pour les matchs impliquant une équipe en crise mais avec un enjeu maintien, vérifier le ratio buts marqués/occasions créées de l'équipe favorite à domicile avant de parier sur sa victoire sèche."
-        },
         {
           "match": "Marseille vs Auxerre",
           "conclusion": "Quand un favori avec plus de 10 points d'écart a une cote supérieure à 1.80 ET un historique récent défavorable, analyser prioritairement l'impact des absences sur les postes clés avant de valider le pronostic."
@@ -49,6 +45,10 @@
         {
           "match": "AEK Larnaca vs Aberdeen",
           "conclusion": "Pour les équipes en crise face à des formations invaincues, vérifier si l'équipe en difficulté a montré des capacités défensives à l'extérieur et considérer le pari 'Under buts' ou 'Double Chance' plutôt qu'une victoire nette."
+        },
+        {
+          "match": "Dender vs Zulte Waregem",
+          "conclusion": "Pour les paris sur victoire extérieure impliquant une équipe classée 8e ou moins bien, vérifier systématiquement le ratio points domicile/extérieur des deux équipes et pondérer à la baisse si l'équipe favorite prend moins de 40% de ses points à l'extérieur."
         }
       ]
     },
@@ -75,7 +75,7 @@
       ]
     },
     "statistiques_trompeuses": {
-      "count": 2,
+      "count": 3,
       "examples": [
         {
           "match": "Arsenal vs Burnley",
@@ -84,21 +84,15 @@
         {
           "match": "FC Porto vs Utrecht",
           "conclusion": "Pour les équipes 'en crise' avec 0 point, analyser séparément leurs stats offensives et défensives - une attaque inefficace n'implique pas forcément une défense perméable."
+        },
+        {
+          "match": "Elche vs Real Sociedad",
+          "conclusion": "Avant de parier sur une victoire nette basée sur les stats domicile/extérieur, vérifier si l'équipe visiteur a montré une capacité à éviter les défaites lourdes même en période difficile."
         }
       ]
     }
   },
   "key_learnings": [
-    {
-      "date": "2025-10-25T11:14:25.004192",
-      "category": "sous_estimation_outsider",
-      "conclusion": "Avant de parier sur une équipe de division inférieure contre une équipe en crise de l'élite, vérifier si l'écart de niveau structurel (budget, effectif, expérience) reste supérieur à 30% et analyser les 5 derniers matchs de l'équipe favorite contre des adversaires de niveau similaire."
-    },
-    {
-      "date": "2025-10-27T23:13:09.080248",
-      "category": "surestimation_favori",
-      "conclusion": "Pour les équipes bien classées jouant à l'extérieur contre un relégable à domicile, vérifier systématiquement les stats défensives away et privilégier les paris 'Both Teams to Score' plutôt que la victoire nette."
-    },
     {
       "date": "2025-10-27T23:13:17.249398",
       "category": "absence_joueur",
@@ -188,6 +182,16 @@
       "date": "2025-11-06T23:14:34.440869",
       "category": "surestimation_favori",
       "conclusion": "Pour les équipes en crise face à des formations invaincues, vérifier si l'équipe en difficulté a montré des capacités défensives à l'extérieur et considérer le pari 'Under buts' ou 'Double Chance' plutôt qu'une victoire nette."
+    },
+    {
+      "date": "2025-11-07T23:13:51.296006",
+      "category": "surestimation_favori",
+      "conclusion": "Pour les paris sur victoire extérieure impliquant une équipe classée 8e ou moins bien, vérifier systématiquement le ratio points domicile/extérieur des deux équipes et pondérer à la baisse si l'équipe favorite prend moins de 40% de ses points à l'extérieur."
+    },
+    {
+      "date": "2025-11-07T23:13:58.494656",
+      "category": "statistiques_trompeuses",
+      "conclusion": "Avant de parier sur une victoire nette basée sur les stats domicile/extérieur, vérifier si l'équipe visiteur a montré une capacité à éviter les défaites lourdes même en période difficile."
     }
   ]
 }

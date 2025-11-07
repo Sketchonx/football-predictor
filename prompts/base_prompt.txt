@@ -405,16 +405,16 @@ Red Bull Salzburg (🏠) joue À DOMICILE, donc si Salzburg a une forme catastro
 
 **✅ CE QUE TU AURAIS DÛ ÉCRIRE:**
 ```json
-"recent_form": {
-  "home_team": {
+"recent_form": {{
+  "home_team": {{
     "last_5_matches": "0V-0N-3D (Salzburg forme catastrophique)",
     "trend": "Forme catastrophique avec 3 défaites consécutives"
-  },
-  "away_team": {
+  }},
+  "away_team": {{
     "last_5_matches": "2V-0N-1D (GO Ahead Eagles forme excellente)",
     "trend": "Forme excellente avec 2 victoires"
-  }
-}
+  }}
+}}
 ```
 
 **VÉRIFICATION OBLIGATOIRE AVANT CHAQUE SECTION:**

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-07T23:13:58.496284",
-  "total_errors_analyzed": 22,
+  "last_updated": "2025-11-08T23:12:53.474703",
+  "total_errors_analyzed": 23,
   "categories": {
     "sous_estimation_outsider": {
       "count": 6,
@@ -28,12 +28,8 @@
       ]
     },
     "surestimation_favori": {
-      "count": 10,
+      "count": 11,
       "examples": [
-        {
-          "match": "Marseille vs Auxerre",
-          "conclusion": "Quand un favori avec plus de 10 points d'écart a une cote supérieure à 1.80 ET un historique récent défavorable, analyser prioritairement l'impact des absences sur les postes clés avant de valider le pronostic."
-        },
         {
           "match": "Sunderland vs Everton",
           "conclusion": "Avant de miser sur une victoire basée sur les absences adverses, vérifier les performances des remplaçants sur les 3 derniers matchs et pondérer l'effet 'gueule de bois' après un exploit majeur."
@@ -49,6 +45,10 @@
         {
           "match": "Dender vs Zulte Waregem",
           "conclusion": "Pour les paris sur victoire extérieure impliquant une équipe classée 8e ou moins bien, vérifier systématiquement le ratio points domicile/extérieur des deux équipes et pondérer à la baisse si l'équipe favorite prend moins de 40% de ses points à l'extérieur."
+        },
+        {
+          "match": "Como vs Cagliari",
+          "conclusion": "Quand l'équipe visiteur a de nombreuses absences offensives, analyser si cela peut renforcer son approche défensive et privilégier les paris 'Moins de 2.5 buts' plutôt que la victoire du favori."
         }
       ]
     },
@@ -93,11 +93,6 @@
     }
   },
   "key_learnings": [
-    {
-      "date": "2025-10-27T23:13:17.249398",
-      "category": "absence_joueur",
-      "conclusion": "Avant de parier sur une surprise basée sur les absences, vérifier les 5 dernières confrontations directes et pondérer l'effet rebond des équipes expérimentées après une défaite de 3+ buts d'écart."
-    },
     {
       "date": "2025-10-29T23:14:02.792968",
       "category": "surestimation_favori",
@@ -192,6 +187,11 @@
       "date": "2025-11-07T23:13:58.494656",
       "category": "statistiques_trompeuses",
       "conclusion": "Avant de parier sur une victoire nette basée sur les stats domicile/extérieur, vérifier si l'équipe visiteur a montré une capacité à éviter les défaites lourdes même en période difficile."
+    },
+    {
+      "date": "2025-11-08T23:12:53.472814",
+      "category": "surestimation_favori",
+      "conclusion": "Quand l'équipe visiteur a de nombreuses absences offensives, analyser si cela peut renforcer son approche défensive et privilégier les paris 'Moins de 2.5 buts' plutôt que la victoire du favori."
     }
   ]
 }

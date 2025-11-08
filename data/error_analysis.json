@@ -460,5 +460,26 @@
     "bet_choice": "1 (Victoire Elche)",
     "final_score": "1-1",
     "analysis_date": "2025-11-07T23:13:58.494656"
+  },
+  {
+    "main_cause": "Surestimation de l'impact des absences de Cagliari sans analyser leur capacité défensive à limiter les dégâts en match nul.",
+    "missed_factors": [
+      "Cagliari avait déjà montré une tendance aux matchs nuls cette saison (3N sur 10 matchs) malgré ses difficultés offensives",
+      "Como n'avait marqué qu'1 but ou moins dans 40% de ses matchs à domicile, suggérant des difficultés à concrétiser",
+      "Les 8 absents de Cagliari concernaient principalement l'attaque, renforçant paradoxalement leur approche défensive naturelle en déplacement"
+    ],
+    "actionable_conclusion": "Quand l'équipe visiteur a de nombreuses absences offensives, analyser si cela peut renforcer son approche défensive et privilégier les paris 'Moins de 2.5 buts' plutôt que la victoire du favori.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-11-08_0",
+    "match": {
+      "home_team": "Como",
+      "away_team": "Cagliari",
+      "league": "Serie A",
+      "date": "14:00"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Como)",
+    "final_score": "0-0",
+    "analysis_date": "2025-11-08T23:12:53.472814"
   }
 ]

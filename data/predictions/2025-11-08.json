@@ -1,0 +1,554 @@
+{
+  "analysis_date": "2025-11-08",
+  "total_analyzed": 24,
+  "total_retained": 5,
+  "recommendations": [
+    {
+      "match": "Como vs Cagliari",
+      "competition": "Serie A",
+      "kickoff": "14:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-5N-1D, 12 buts pour, 6 contre",
+            "home_record": "À domicile: 3V-2N-0D, invaincu",
+            "trend": "Forme excellente, équipe invaincue à domicile cette saison",
+            "details": "Derniers résultats : [N] 0-0 vs Napoli, [V] 3-1 vs Verona, [N] 0-0 vs Parma, [V] 2-0 vs Juventus, [N] 1-1 vs Atalanta"
+          },
+          "away_team": {
+            "last_5_matches": "2V-3N-5D, 9 buts pour, 14 contre",
+            "away_record": "À l'extérieur: 1V-2N-2D, difficultés en déplacement",
+            "trend": "Forme instable avec défense perméable",
+            "details": "Derniers résultats : [D] 2-0 vs Lazio, [D] 1-2 vs Sassuolo, [N] 2-2 vs Verona, [D] 0-2 vs Bologna, [N] 1-1 vs Udinese"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Como, 1N, 1V Cagliari",
+          "at_home": "Como domine à domicile avec 2 victoires récentes",
+          "details": "Résultats: Como 3-1 Cagliari (2025), Cagliari 1-1 Como (2024), Cagliari 1-3 Como (2024), Cagliari 2-1 Como (2023), Cagliari 2-0 Como (2023)",
+          "trends": "Como a pris l'ascendant récemment avec 3 victoires sur 4 derniers matchs"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Assane Diao (blessure genou)",
+              "I. Van der Brempt (blessure)",
+              "A. Dossena (genou)",
+              "J. Ramon (carton rouge)"
+            ],
+            "impact": "Impact modéré, quelques absents mais effectif globalement disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Leonardo Pavoletti (genou)",
+              "Z. Luvumbo (cuisse)",
+              "B. Radunovic (inactif)",
+              "G. Zappa (blessure)",
+              "A. Belotti (blessure)",
+              "G. Gaetano (cuisse)",
+              "J. Rodriguez (cuisse)",
+              "M. Rog (cuisse)"
+            ],
+            "impact": "Impact MAJEUR : 8 joueurs absents dont plusieurs titulaires offensifs et défensifs"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Système solide sous Cesc Fàbregas, jeu de possession, défense très organisée (0.6 but encaissé/match)",
+          "away_style": "Équipe en reconstruction, difficultés offensives (0.9 but/match), défense fragile surtout à l'extérieur",
+          "key_matchup": "Solidité défensive de Como vs attaque affaiblie de Cagliari. N. Paz (4 buts, 4 passes) clé pour Como.",
+          "predicted_approach": "Como va contrôler le match à domicile, Cagliari forcé de subir avec un effectif diminué"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos correct depuis le match nul face à Napoli, équipe fraîche",
+          "away_team": "Défaite récente face à Lazio, moral en berne, pas d'avantage physique particulier",
+          "advantage": "Léger avantage physique et mental pour Como"
+        },
+        "context_stakes": {
+          "home_situation": "7e place avec 17 points, excellent début de saison, veut confirmer à domicile",
+          "away_situation": "14e place avec seulement 9 points, situation préoccupante, besoin urgent de points",
+          "psychological": "Como en confiance totale à domicile (invaincu), Cagliari sous pression avec de nombreux absents",
+          "overall": "Avantage psychologique net pour Como qui reçoit une équipe en difficulté"
+        },
+        "home_advantage": {
+          "home_record_season": "3V-2N-0D à domicile, invaincu avec seulement 3 buts encaissés en 5 matchs",
+          "away_record_opponent": "1V-2N-2D à l'extérieur, seulement 1 victoire en déplacement cette saison",
+          "atmosphere": "Stade Giuseppe Sinigaglia, supporters enthousiastes pour cette première saison en Serie A",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Très fort avantage domicile"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifié, Como largement sous-évalué compte tenu de sa forme et des absences adverses",
+          "odds_movement": "Cote stable, marché n'a pas encore intégré l'ampleur des absences de Cagliari"
+        },
+        "key_factors_summary": [
+          "Como invaincu à domicile (3V-2N-0D) vs Cagliari en difficulté à l'extérieur (1V-2N-2D)",
+          "8 joueurs absents chez Cagliari dont plusieurs titulaires vs effectif Como quasi-complet",
+          "Historique récent favorable : Como 3 victoires sur 4 derniers H2H",
+          "Différence de dynamique : Como 7e en confiance vs Cagliari 14e sous pression",
+          "Avantage tactique : défense solide Como (0.6 but/match) vs attaque faible Cagliari (0.9 but/match)"
+        ]
+      },
+      "conclusion": "Tous les facteurs convergent vers une victoire de l'équipe à domicile : Como invaincu chez lui cette saison face à Cagliari en grande difficulté à l'extérieur avec 8 joueurs absents. L'écart de forme est flagrant (Como 4V-5N-1D vs Cagliari 2V-3N-5D), l'historique récent favorable (3V sur 4 derniers H2H), et l'avantage tactique évident (défense solide vs attaque affaiblie). La cote à 1.85 offre une excellente value pour une probabilité estimée à 65-70%.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Como)",
+      "odds": 1.85,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Défense solide Como, attaque faible Cagliari, historique de matchs serrés"
+        }
+      ]
+    },
+    {
+      "match": "Bayer Leverkusen vs 1. FC Heidenheim",
+      "competition": "Bundesliga",
+      "kickoff": "14:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "5V-2N-2D, 18 buts pour, 14 contre",
+            "home_record": "À domicile: 3V-1N-1D, attaque prolifique",
+            "trend": "Forme solide avec victoires importantes récentes",
+            "details": "Derniers résultats : [V] 1-0 vs Benfica, [D] 0-3 vs Bayern, [V] 4-2 vs Paderborn, [V] 2-0 vs Freiburg, [D] 2-7 vs PSG"
+          },
+          "away_team": {
+            "last_5_matches": "1V-2N-6D, 8 buts pour, 17 contre",
+            "away_record": "À l'extérieur: 0V-0N-4D, aucune victoire en déplacement",
+            "trend": "Forme catastrophique, lanterne rouge en déplacement",
+            "details": "Derniers résultats : [N] 1-1 vs Frankfurt, [D] 0-1 vs Hamburg, [D] 1-3 vs Hoffenheim, [N] 2-2 vs Bremen, [D] 0-1 vs Fürth"
+          }
+        },
+        "head_to_head": {
+          "last_5": "4V Leverkusen, 0N, 1V Heidenheim",
+          "at_home": "Leverkusen domine totalement à domicile",
+          "details": "Résultats: Heidenheim 0-1 Leverkusen (2025), Leverkusen 5-2 Heidenheim (2024), Heidenheim 1-2 Leverkusen (2024), Leverkusen 4-1 Heidenheim (2023), Heidenheim 2-1 Leverkusen (2019)",
+          "trends": "Domination récente totale de Leverkusen avec des scores fleuves"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Martin Terrier (rupture tendon)",
+              "Malik Tillman (mollet)",
+              "Arthur Soares (cheville)",
+              "Exequiel Palacios (muscle)",
+              "Victor Boniface (blessure)",
+              "Loic Bade (muscle)",
+              "J. Belocian (ligaments croisés)"
+            ],
+            "impact": "Impact modéré malgré les absences, effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Benedikt Gimber (hernie)",
+              "Marvin Pieringer (cheville)",
+              "Frank Feller (genou)",
+              "Adrian Beck (contusion)",
+              "Thomas Keller (cheville)",
+              "F. Feller (genou)",
+              "M. Honsak (muscle)",
+              "T. Keller (genou)"
+            ],
+            "impact": "Impact MAJEUR : nombreux absents dans une équipe déjà limitée techniquement"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Jeu offensif sous pression, transitions rapides, pressing haut efficace malgré les absences",
+          "away_style": "Équipe défensive, jeu direct, grandes difficultés à créer du danger (0.9 but/match)",
+          "key_matchup": "Puissance offensive Leverkusen vs défense fragile Heidenheim. Álex Grimaldo (3 passes) clé côté local.",
+          "predicted_approach": "Leverkusen va dominer et chercher le break rapide, Heidenheim en mode survie"
+        },
+        "schedule_fatigue": {
+          "home_team": "Victoire en Ligue des Champions face à Benfica, moral au beau fixe",
+          "away_team": "Match nul laborieux face à Frankfurt, équipe en manque de confiance",
+          "advantage": "Avantage mental net pour Leverkusen après sa victoire européenne"
+        },
+        "context_stakes": {
+          "home_situation": "5e place avec 17 points, doit confirmer son retour en forme après la victoire face à Benfica",
+          "away_situation": "18e place avec seulement 5 points, dans la zone rouge, situation critique",
+          "psychological": "Leverkusen retrouve confiance vs Heidenheim en plein doute, écart de niveau évident",
+          "overall": "Enjeu vital pour Heidenheim mais écart de qualité trop important"
+        },
+        "home_advantage": {
+          "home_record_season": "3V-1N-1D à domicile, BayArena traditionnellement difficile pour les visiteurs",
+          "away_record_opponent": "0V-0N-4D à l'extérieur, aucune victoire en déplacement cette saison",
+          "atmosphere": "BayArena, public acquis à l'équipe, ambiance européenne",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile écrasant"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Excellente value bet, Leverkusen largement sous-évalué face à la lanterne rouge",
+          "odds_movement": "Cote attractive, marché semble sous-estimer l'écart de niveau"
+        },
+        "key_factors_summary": [
+          "Écart de classement énorme : Leverkusen 5e (17 pts) vs Heidenheim 18e (5 pts)",
+          "Heidenheim 0 victoire à l'extérieur cette saison vs Leverkusen solide à domicile",
+          "Historique récent : 4 victoires Leverkusen sur 5 derniers H2H avec scores larges",
+          "Différence offensive flagrante : 2.0 buts/match vs 0.9 buts/match",
+          "Contexte favorable : Leverkusen en confiance après victoire européenne vs Heidenheim en crise"
+        ]
+      },
+      "conclusion": "Match déséquilibré entre une équipe de Leverkusen qui retrouve ses marques (victoire face à Benfica) et la lanterne rouge Heidenheim qui n'a jamais gagné à l'extérieur cette saison. L'écart de niveau est considérable (5e vs 18e), l'historique récent écrasant (4V-1D pour Leverkusen), et l'avantage du domicile décisif. Malgré quelques absences, Leverkusen possède un effectif autrement plus qualitatif. La cote à 1.75 représente une excellente opportunité.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Bayer Leverkusen)",
+      "odds": 1.75,
+      "confidence": 85,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Handicap -1.5",
+          "odds": 2.2,
+          "reasoning": "Historique de victoires larges de Leverkusen face à Heidenheim"
+        }
+      ]
+    },
+    {
+      "match": "Marseille vs Stade Brestois 29",
+      "competition": "Ligue 1",
+      "kickoff": "16:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "7V-1N-3D, 25 buts pour, 11 contre",
+            "home_record": "À domicile: 4V-1N-0D, invaincu",
+            "trend": "Forme excellente malgré défaite récente face à Atalanta en C1",
+            "details": "Derniers résultats : [D] 0-1 vs Atalanta, [V] 1-0 vs Auxerre, [N] 2-2 vs Angers, [D] 1-2 vs Lens, [D] 1-2 vs Sporting"
+          },
+          "away_team": {
+            "last_5_matches": "2V-4N-5D, 14 buts pour, 18 contre",
+            "away_record": "À l'extérieur: 1V-1N-3D, difficultés en déplacement",
+            "trend": "Forme décevante, loin du niveau de la saison passée",
+            "details": "Derniers résultats : [N] 0-0 vs Lyon, [D] 0-1 vs Le Havre, [D] 0-3 vs PSG, [N] 3-3 vs Lorient, [N] 0-0 vs Nantes"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Marseille, 1N, 1V Brest",
+          "at_home": "Marseille domine largement à domicile",
+          "details": "Résultats: Marseille 4-1 Brest (2025), Brest 1-5 Marseille (2024), Brest 1-0 Marseille (2024), Marseille 2-0 Brest (2023), Marseille 1-2 Brest (2023)",
+          "trends": "Marseille très efficace face à Brest avec des scores élevés récemment"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Facundo Medina (suspendu carton rouge)",
+              "Adrien Rabiot (autre)",
+              "Jonathan Rowe (autre)",
+              "Geoffrey Kondogbia (incertain)",
+              "Amine Harit (incertain)",
+              "Faris Moumbagna (blessure)"
+            ],
+            "impact": "Impact modéré, quelques absences mais effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Justin Bourgault (incertain)",
+              "L. Tousart (cheville)",
+              "J. Dina Ebimbe (cheville)",
+              "M. Balde (cuisse)"
+            ],
+            "impact": "Impact significatif avec plusieurs joueurs clés absents au milieu"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Jeu offensif spectaculaire sous De Zerbi, pressing haut, transitions rapides, M. Greenwood (7 buts, 3 passes) en grande forme",
+          "away_style": "Équipe en reconstruction après le départ de plusieurs cadres, jeu moins fluide qu'en 2023-24",
+          "key_matchup": "Attaque prolifique Marseille (2.3 buts/match) vs défense fragile Brest (1.6 but encaissé/match)",
+          "predicted_approach": "Marseille va imposer son rythme offensif, Brest tentera de résister mais manque de solutions"
+        },
+        "schedule_fatigue": {
+          "home_team": "Défaite frustrante face à Atalanta en C1 mais motivation intacte pour le championnat",
+          "away_team": "Match nul terne face à Lyon, équipe en manque d'inspiration offensive",
+          "advantage": "Marseille plus motivé pour se racheter après la déception européenne"
+        },
+        "context_stakes": {
+          "home_situation": "2e place avec 22 points, course au titre avec Paris, doit confirmer à domicile",
+          "away_situation": "13e place avec 10 points, saison décevante après l'excellente campagne précédente",
+          "psychological": "Marseille ambitieux et en confiance à domicile vs Brest en reconstruction",
+          "overall": "Enjeu important pour Marseille dans la course au titre, Brest sans pression particulière"
+        },
+        "home_advantage": {
+          "home_record_season": "4V-1N-0D à domicile, Vélodrome en forteresse avec 25 buts marqués en 11 matchs",
+          "away_record_opponent": "1V-1N-3D à l'extérieur, seulement 1 victoire en déplacement",
+          "atmosphere": "Vélodrome, ambiance électrique, public marseillais derrière l'équipe",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Très fort avantage domicile"
+        },
+        "odds_value": {
+          "bet_odds": 1.7,
+          "implied_probability": "58.8%",
+          "estimated_real_probability": "70-75%",
+          "value_analysis": "Value bet intéressante, Marseille sous-évalué compte tenu de sa forme à domicile",
+          "odds_movement": "Cote limite mais acceptable vu la probabilité estimée"
+        },
+        "key_factors_summary": [
+          "Marseille invaincu à domicile (4V-1N-0D) vs Brest en difficulté à l'extérieur (1V-1N-3D)",
+          "Écart de niveau évident : 2e place (22 pts) vs 13e place (10 pts)",
+          "Historique favorable : Marseille 4-1 lors du dernier affrontement",
+          "Différence offensive : 2.3 buts/match pour Marseille vs 1.3 pour Brest",
+          "Contexte : Marseille veut se racheter après la défaite européenne"
+        ]
+      },
+      "conclusion": "L'équipe à domicile présente tous les atouts pour s'imposer : invaincu au Vélodrome cette saison avec une attaque redoutable (25 buts en 11 matchs), face à une équipe en déplacement en grande difficulté (1 seule victoire extérieure). L'écart de niveau est net (2e vs 13e), l'historique récent favorable (4-1 au dernier match), et la motivation marseillaise intacte après la déception européenne. Malgré quelques absences, la qualité d'effectif penche largement en faveur de Marseille.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Marseille)",
+      "odds": 1.7,
+      "confidence": 78,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Attaque prolifique Marseille, historique de matchs à buts entre ces équipes"
+        }
+      ]
+    },
+    {
+      "match": "Atletico Madrid vs Levante",
+      "competition": "La Liga",
+      "kickoff": "17:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "6V-4N-1D, 21 buts pour, 10 contre",
+            "home_record": "À domicile: 5V-1N-0D, invaincu",
+            "trend": "Forme exceptionnelle, machine bien huilée de Simeone",
+            "details": "Derniers résultats : [V] 3-1 vs Union St. Gilloise, [V] 3-0 vs Sevilla, [V] 2-0 vs Real Betis, [D] 0-4 vs Arsenal, [V] 1-0 vs Osasuna"
+          },
+          "away_team": {
+            "last_5_matches": "2V-3N-6D, 15 buts pour, 20 contre",
+            "away_record": "À l'extérieur: 2V-2N-2D, bilan équilibré mais niveau faible",
+            "trend": "Forme irrégulière, équipe de milieu de tableau en difficulté",
+            "details": "Derniers résultats : [D] 1-2 vs Celta Vigo, [V] 4-3 vs Orihuela, [N] 1-1 vs Mallorca, [D] 0-3 vs Rayo Vallecano, [N] 3-3 vs Leganes"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Atletico, 2N, 2V Levante",
+          "at_home": "Historique équilibré mais Atletico plus fort récemment",
+          "details": "Résultats: Levante 0-2 Atletico (2023), Atletico 0-1 Levante (2022), Levante 2-2 Atletico (2021), Atletico 0-2 Levante (2021), Levante 1-1 Atletico (2021)",
+          "trends": "Matchs souvent serrés mais Atletico a pris l'ascendant récemment"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "J. Giménez (cuisse)",
+              "Álex Baena (muscle)",
+              "T. Almada (muscle)",
+              "J. Alvarez (genou)"
+            ],
+            "impact": "Impact modéré, quelques absences mais effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Alfonso Pastor (blessé)",
+              "Carlos Alvarez (incertain)",
+              "Jon Ander Olasagasti (blessé)",
+              "Kervin Arriaga (blessé)",
+              "Alan Matturro (incertain)",
+              "Matias Moreno (incertain)",
+              "Goduine Koyalipou (incertain)"
+            ],
+            "impact": "Impact MAJEUR : 7 joueurs absents ou incertains dans un effectif déjà limité"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Système Simeone rodé, défense solide, transitions rapides, J. Álvarez (7 buts) en grande forme",
+          "away_style": "Équipe offensive mais fragile défensivement, manque de constance, Etta Eyong (5 buts) seul danger",
+          "key_matchup": "Solidité défensive Atletico vs attaque irrégulière Levante. Milieu madrilène dominant.",
+          "predicted_approach": "Atletico va contrôler, Levante tentera de surprendre en contre mais manque de moyens"
+        },
+        "schedule_fatigue": {
+          "home_team": "Victoire convaincante face à Union St. Gilloise en C1, confiance au maximum",
+          "away_team": "Défaite frustrante face à Celta Vigo, moral en berne",
+          "advantage": "Net avantage mental pour Atletico après sa victoire européenne"
+        },
+        "context_stakes": {
+          "home_situation": "4e place avec 22 points, course aux places européennes, veut confirmer sa bonne forme",
+          "away_situation": "16e place avec 9 points, situation préoccupante, besoin urgent de points",
+          "psychological": "Atletico en pleine confiance au Metropolitano vs Levante sous pression",
+          "overall": "Enjeu européen pour Atletico, survie pour Levante mais écart de niveau trop important"
+        },
+        "home_advantage": {
+          "home_record_season": "5V-1N-0D à domicile, Metropolitano en forteresse avec 21 buts marqués",
+          "away_record_opponent": "2V-2N-2D à l'extérieur, bilan correct mais contre des équipes plus faibles",
+          "atmosphere": "Metropolitano, public madrilène derrière l'équipe, ambiance européenne",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile écrasant"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Excellente value bet, Atletico largement sous-évalué face à une équipe de Levante affaiblie",
+          "odds_movement": "Cote attractive compte tenu de l'écart de niveau et des circonstances"
+        },
+        "key_factors_summary": [
+          "Atletico invaincu à domicile (5V-1N-0D) vs Levante en difficulté (16e place)",
+          "7 joueurs absents ou incertains chez Levante vs effectif Atletico quasi-complet",
+          "Différence de niveau énorme : 4e place (22 pts) vs 16e place (9 pts)",
+          "Forme récente : Atletico 6V-4N-1D vs Levante 2V-3N-6D",
+          "Contexte favorable : Atletico en confiance après victoire européenne"
+        ]
+      },
+      "conclusion": "Match déséquilibré entre l'équipe à domicile invaincu au Metropolitano cette saison et une équipe en déplacement en grande difficulté avec 7 joueurs absents ou incertains. L'écart de niveau est considérable (4e vs 16e), la forme récente sans appel (6V-4N-1D vs 2V-3N-6D), et l'avantage du domicile décisif. Atletico sort d'une victoire convaincante en Ligue des Champions et possède tous les atouts pour s'imposer largement. La cote à 1.75 représente une excellente opportunité.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Atletico Madrid)",
+      "odds": 1.75,
+      "confidence": 83,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Handicap -1.5",
+          "odds": 2.4,
+          "reasoning": "Écart de niveau important, nombreuses absences chez Levante"
+        }
+      ]
+    },
+    {
+      "match": "Chelsea vs Wolves",
+      "competition": "Premier League",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "5V-2N-3D, 18 buts pour, 11 contre",
+            "home_record": "À domicile: 2V-1N-2D, bilan correct mais irrégulier",
+            "trend": "Forme en progression sous Maresca, attaque efficace",
+            "details": "Derniers résultats : [N] 2-2 vs Qarabag, [V] 1-0 vs Tottenham, [V] 4-3 vs Wolves, [D] 1-2 vs Sunderland, [V] 5-1 vs Ajax"
+          },
+          "away_team": {
+            "last_5_matches": "0V-2N-8D, 7 buts pour, 22 contre",
+            "away_record": "À l'extérieur: 0V-1N-4D, aucune victoire en déplacement",
+            "trend": "Forme catastrophique, lanterne rouge, crise totale",
+            "details": "Derniers résultats : [D] 0-3 vs Fulham, [D] 3-4 vs Chelsea, [D] 2-3 vs Burnley, [D] 0-2 vs Sunderland, [N] 1-1 vs Brighton"
+          }
+        },
+        "head_to_head": {
+          "last_5": "3V Chelsea, 2N, 2V Wolves",
+          "at_home": "Historique équilibré mais Chelsea a pris l'ascendant récemment",
+          "details": "Résultats: Wolves 3-4 Chelsea (2025), Chelsea 3-1 Wolves (2025), Wolves 2-6 Chelsea (2024), Chelsea 2-4 Wolves (2024), Wolves 2-1 Chelsea (2023)",
+          "trends": "Matchs souvent spectaculaires avec beaucoup de buts, Chelsea dominant récemment"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Nicolas Jackson (suspendu)",
+              "Oluwatosin Adarabioyo (incertain)",
+              "M. Mudryk (suspendu)",
+              "Dário Essugo (cuisse)",
+              "B. Badiashile (contusion)"
+            ],
+            "impact": "Impact modéré, quelques absences mais effectif de qualité disponible"
+          },
+          "away_team": {
+            "absent": [
+              "Yerson Mosquera (ligaments croisés)",
+              "L. Chiwome (genou)",
+              "K. Hoever (genou)",
+              "E. Gonzalez (genou)"
+            ],
+            "impact": "Impact significatif dans une équipe déjà en grande difficulté"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Jeu offensif sous Maresca, pressing haut, transitions rapides, João Pedro (3 passes) créatif",
+          "away_style": "Équipe en perdition, défense perméable (2.2 buts encaissés/match), attaque inefficace (0.7 but/match)",
+          "key_matchup": "Attaque Chelsea en confiance vs défense Wolves catastrophique. Domination attendue.",
+          "predicted_approach": "Chelsea va dominer et chercher le festival offensif, Wolves en mode survie"
+        },
+        "schedule_fatigue": {
+          "home_team": "Match nul face à Qarabag en Conference League, rotation effectuée",
+          "away_team": "Nouvelle défaite face à Fulham, moral au plus bas",
+          "advantage": "Avantage mental énorme pour Chelsea face à une équipe en perdition"
+        },
+        "context_stakes": {
+          "home_situation": "7e place avec 17 points, course aux places européennes, doit confirmer à domicile",
+          "away_situation": "20e place avec 2 points, lanterne rouge, situation désespérée",
+          "psychological": "Chelsea en progression vs Wolves en crise totale, écart de moral énorme",
+          "overall": "Match crucial pour Wolves mais écart de niveau et de confiance abyssal"
+        },
+        "home_advantage": {
+          "home_record_season": "2V-1N-2D à domicile, Stamford Bridge doit redevenir une forteresse",
+          "away_record_opponent": "0V-1N-4D à l'extérieur, aucune victoire en déplacement cette saison",
+          "atmosphere": "Stamford Bridge, public londonien derrière l'équipe face à la lanterne rouge",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile écrasant"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Excellente value bet, Chelsea largement sous-évalué face à la lanterne rouge",
+          "odds_movement": "Cote très attractive compte tenu de l'état de forme des deux équipes"
+        },
+        "key_factors_summary": [
+          "Écart de classement abyssal : Chelsea 7e (17 pts) vs Wolves 20e (2 pts)",
+          "Wolves 0 victoire à l'extérieur cette saison vs Chelsea qui progresse",
+          "Différence offensive énorme : 1.8 buts/match vs 0.7 buts/match",
+          "Historique récent favorable : Chelsea 4-3 lors du dernier affrontement",
+          "Contexte : Chelsea en progression vs Wolves en crise totale"
+        ]
+      },
+      "conclusion": "Match entre une équipe à domicile en progression et la lanterne rouge en crise totale. Wolves n'a gagné aucun match à l'extérieur cette saison et encaisse 2.2 buts par match, face à Chelsea qui monte en puissance sous Maresca. L'écart de niveau est énorme (7e vs 20e avec 15 points d'écart), l'historique récent favorable (4-3 au dernier match), et l'avantage psychologique décisif. Malgré quelques absences, Chelsea possède largement les moyens de s'imposer face à une équipe en perdition.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Chelsea)",
+      "odds": 1.85,
+      "confidence": 80,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.9,
+          "reasoning": "Attaque Chelsea efficace, défense Wolves perméable, historique de matchs à buts"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 19,
+    "examples": [
+      {
+        "match": "Bayern München vs Union Berlin",
+        "reason": "Cote trop faible attendue (<1.70), pas de value malgré la domination évidente"
+      },
+      {
+        "match": "Arsenal vs Sunderland",
+        "reason": "Cote trop faible attendue (<1.70), favori trop évident"
+      },
+      {
+        "match": "Tottenham vs Manchester United",
+        "reason": "Match trop équilibré, difficile à prédire avec confiance suffisante"
+      },
+      {
+        "match": "West Ham vs Burnley",
+        "reason": "Deux équipes en difficulté, trop d'incertitude pour un pari de qualité"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Como victoire vs Cagliari",
+      "Bayer Leverkusen victoire vs Heidenheim",
+      "Atletico Madrid victoire vs Levante"
+    ],
+    "total_odds": 2.69,
+    "confidence": 75,
+    "detailed_reasoning": "Combiné de trois favoris logiques : Como invaincu à domicile face à Cagliari décimé par les blessures (82% confiance), Leverkusen face à la lanterne rouge Heidenheim (85% confiance), et Atletico Madrid invaincu à domicile face à Levante affaibli (83% confiance). Corrélation faible entre les matchs (ligues différentes). Risque combiné calculé : 57% (0.82 × 0.85 × 0.83). Cote totale 2.69 offre une excellente value pour ce niveau de probabilité.",
+    "risk_level": "Medium",
+    "IMPORTANT": "Trois paris solides avec des favoris logiques dans des contextes favorables, effectifs adverses affaiblis, et avantages domicile nets."
+  },
+  "validation": {
+    "validated": true,
+    "corrections_count": 0,
+    "corrections": [],
+    "rejected_low_odds_count": 0,
+    "rejected_low_odds": []
+  }
+}

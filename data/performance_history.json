@@ -418,5 +418,40 @@
     "actual_score": "1-1",
     "recorded_at": "2025-11-07T09:29:25.194886",
     "updated_at": "2025-11-07T23:13:40.388332"
+  },
+  {
+    "prediction_id": "2025-11-08_0",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-08T09:14:11.020240",
+    "updated_at": "2025-11-08T09:14:11.020246"
+  },
+  {
+    "prediction_id": "2025-11-08_1",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-08T09:14:11.020249",
+    "updated_at": "2025-11-08T09:14:11.020250"
+  },
+  {
+    "prediction_id": "2025-11-08_2",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-08T09:14:11.020251",
+    "updated_at": "2025-11-08T09:14:11.020252"
+  },
+  {
+    "prediction_id": "2025-11-08_3",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-08T09:14:11.020253",
+    "updated_at": "2025-11-08T09:14:11.020254"
+  },
+  {
+    "prediction_id": "2025-11-08_4",
+    "result": "pending",
+    "actual_score": null,
+    "recorded_at": "2025-11-08T09:14:11.020256",
+    "updated_at": "2025-11-08T09:14:11.020257"
   }
 ]

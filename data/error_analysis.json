@@ -481,5 +481,110 @@
     "bet_choice": "1 (Victoire Como)",
     "final_score": "0-0",
     "analysis_date": "2025-11-08T23:12:53.472814"
+  },
+  {
+    "main_cause": "Surestimation de l'impact des absences défensives d'Anderlecht sans vérifier leur capacité de résilience à domicile dans les matchs à enjeu.",
+    "missed_factors": [
+      "Négligence du facteur domicile : les 3 victoires nettes de Bruges mentionnées étaient à domicile pour Bruges, pas en déplacement chez Anderlecht",
+      "Absence d'analyse de la motivation spécifique d'Anderlecht dans ce derby belge majeur malgré leur position de 3e au classement",
+      "Sous-estimation de la capacité d'Anderlecht à compenser ses absences défensives par un jeu plus compact et défensif à domicile"
+    ],
+    "actionable_conclusion": "Distinguer systématiquement les performances domicile/extérieur dans l'historique des confrontations directes et pondérer davantage l'avantage du terrain dans les derbies entre équipes de niveau proche au classement.",
+    "error_category": "statistiques_trompeuses",
+    "match_id": "2025-11-09_0",
+    "match": {
+      "home_team": "Anderlecht",
+      "away_team": "Club Brugge KV",
+      "league": "Jupiler Pro League",
+      "date": "12:30"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire Club Brugge KV)",
+    "final_score": "1-0",
+    "analysis_date": "2025-11-09T23:13:00.324666"
+  },
+  {
+    "main_cause": "Sous-estimation de l'avantage du terrain de Valencia et surestimation de l'impact de la forme récente de Betis à l'extérieur face à une équipe désespérée à domicile.",
+    "missed_factors": [
+      "Valencia en tant qu'équipe en crise à domicile peut montrer une réaction d'orgueil face à un adversaire théoriquement supérieur",
+      "L'écart de classement peut créer une pression supplémentaire sur Betis pour confirmer son statut de favori, générant potentiellement de la nervosité",
+      "Les équipes 19e au classement ont souvent des stats domicile/extérieur très contrastées, Valencia pouvant être plus compétitive dans son stade malgré sa position"
+    ],
+    "actionable_conclusion": "Pour les paris sur des équipes bien classées face à des lanternes rouges, vérifier systématiquement les performances domicile de l'équipe en difficulté et privilégier les paris avec handicap plutôt que la victoire sèche quand l'écart de classement dépasse 10 places.",
+    "error_category": "sous_estimation_outsider",
+    "match_id": "2025-11-09_1",
+    "match": {
+      "home_team": "Valencia",
+      "away_team": "Real Betis",
+      "league": "La Liga",
+      "date": "17:30"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire Real Betis)",
+    "final_score": "1-1",
+    "analysis_date": "2025-11-09T23:13:09.006846"
+  },
+  {
+    "main_cause": "Sous-estimation de l'avantage du terrain de Mechelen face à un leader potentiellement moins motivé en milieu de saison.",
+    "missed_factors": [
+      "Performance domicile spécifique de Mechelen vs équipes du top 3 cette saison",
+      "Historique récent d'Union St. Gilloise à l'extérieur contre des équipes de milieu de tableau (tendance aux matchs nuls)",
+      "Contexte de mi-saison où les leaders peuvent manquer d'intensité face à des adversaires 'accessibles'"
+    ],
+    "actionable_conclusion": "Pour les paris sur les leaders à l'extérieur avec cote <1.80, vérifier leur pourcentage de victoires à l'extérieur contre le milieu de tableau et privilégier les paris avec handicap ou 'victoire ou nul' si ce taux est <70%.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-11-09_2",
+    "match": {
+      "home_team": "KV Mechelen",
+      "away_team": "Union St. Gilloise",
+      "league": "Jupiler Pro League",
+      "date": "18:15"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "2 (Victoire Union St. Gilloise)",
+    "final_score": "1-1",
+    "analysis_date": "2025-11-09T23:13:16.854135"
+  },
+  {
+    "main_cause": "Surestimation de la supériorité de Frankfurt basée uniquement sur le classement général sans tenir compte de leur forme récente à domicile et de la capacité de Mainz à performer en déplacement malgré sa position.",
+    "missed_factors": [
+      "Analyse insuffisante de la forme récente spécifique domicile/extérieur des deux équipes sur les 5 derniers matchs",
+      "Confusion dans l'attribution des buteurs (Burkardt joue pour Mainz, pas Frankfurt) révélant une préparation défaillante",
+      "Négligence du facteur psychologique : Mainz en crise peut avoir une motivation décuplée face à un adversaire supposé supérieur"
+    ],
+    "actionable_conclusion": "Vérifier systématiquement les stats domicile/extérieur des 5 derniers matchs et croiser avec les confrontations directes récentes avant de parier sur un favori avec une cote <2.00 face à une équipe en difficulté au classement.",
+    "error_category": "surestimation_favori",
+    "match_id": "2025-11-09_4",
+    "match": {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "FSV Mainz 05",
+      "league": "Bundesliga",
+      "date": "18:30"
+    },
+    "bet_type": "1X2",
+    "bet_choice": "1 (Victoire Eintracht Frankfurt)",
+    "final_score": "0-1",
+    "analysis_date": "2025-11-09T23:13:24.178048"
+  },
+  {
+    "main_cause": "Confusion entre le type de pari analysé (BTTS) et le raisonnement développé (victoire de Lyon), créant une incohérence totale dans l'évaluation.",
+    "missed_factors": [
+      "Le raisonnement porte sur une victoire de Lyon (cote 2.10) alors que le pari est sur BTTS, indiquant une erreur de saisie ou d'analyse",
+      "Aucune analyse des capacités offensives et défensives des deux équipes pour évaluer la probabilité que chaque équipe marque",
+      "Absence d'évaluation des confrontations directes récentes entre Lyon-PSG concernant le nombre de buts marqués par chaque équipe"
+    ],
+    "actionable_conclusion": "Systématiquement vérifier la cohérence entre le type de pari sélectionné et l'analyse développée, et pour les paris BTTS, se concentrer sur les stats offensives/défensives plutôt que sur le résultat final.",
+    "error_category": "autre",
+    "match_id": "2025-11-09_5",
+    "match": {
+      "home_team": "Lyon",
+      "away_team": "Paris Saint Germain",
+      "league": "Ligue 1",
+      "date": "19:45"
+    },
+    "bet_type": "BTTS",
+    "bet_choice": "Both Teams To Score - Oui",
+    "final_score": "2-3",
+    "analysis_date": "2025-11-09T23:13:30.795066"
   }
 ]

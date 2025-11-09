@@ -1,14 +1,10 @@
 {
-  "last_updated": "2025-11-08T23:12:53.474703",
-  "total_errors_analyzed": 23,
+  "last_updated": "2025-11-09T23:13:30.797123",
+  "total_errors_analyzed": 28,
   "categories": {
     "sous_estimation_outsider": {
-      "count": 6,
+      "count": 7,
       "examples": [
-        {
-          "match": "West Ham vs Newcastle",
-          "conclusion": "Pour les équipes en crise totale à domicile, vérifier leur historique de réaction dans les 3 derniers matchs à domicile après 4+ défaites consécutives avant de parier contre elles."
-        },
         {
           "match": "VfL Wolfsburg vs 1899 Hoffenheim",
           "conclusion": "Pour les équipes en crise profonde à domicile, vérifier leur bilan dans les matchs à enjeu direct contre des adversaires de niveau similaire au classement avant de miser sur leur défaite."
@@ -24,20 +20,16 @@
         {
           "match": "SC Freiburg vs Nice",
           "conclusion": "Pondérer différemment la forme en championnat vs coupe européenne quand une équipe joue sa survie continentale, en analysant spécifiquement les 3-4 derniers matchs domestiques pour évaluer le niveau réel."
+        },
+        {
+          "match": "Valencia vs Real Betis",
+          "conclusion": "Pour les paris sur des équipes bien classées face à des lanternes rouges, vérifier systématiquement les performances domicile de l'équipe en difficulté et privilégier les paris avec handicap plutôt que la victoire sèche quand l'écart de classement dépasse 10 places."
         }
       ]
     },
     "surestimation_favori": {
-      "count": 11,
+      "count": 13,
       "examples": [
-        {
-          "match": "Sunderland vs Everton",
-          "conclusion": "Avant de miser sur une victoire basée sur les absences adverses, vérifier les performances des remplaçants sur les 3 derniers matchs et pondérer l'effet 'gueule de bois' après un exploit majeur."
-        },
-        {
-          "match": "Marseille vs Atalanta",
-          "conclusion": "Avant de parier sur une victoire nette d'une équipe française contre une formation italienne en C1, vérifier le ratio buts marqués/attendus sur les 5 derniers matchs européens et privilégier les paris 'résultat nul possible' si l'écart offensif réel est <1 but/match."
-        },
         {
           "match": "AEK Larnaca vs Aberdeen",
           "conclusion": "Pour les équipes en crise face à des formations invaincues, vérifier si l'équipe en difficulté a montré des capacités défensives à l'extérieur et considérer le pari 'Under buts' ou 'Double Chance' plutôt qu'une victoire nette."
@@ -49,6 +41,14 @@
         {
           "match": "Como vs Cagliari",
           "conclusion": "Quand l'équipe visiteur a de nombreuses absences offensives, analyser si cela peut renforcer son approche défensive et privilégier les paris 'Moins de 2.5 buts' plutôt que la victoire du favori."
+        },
+        {
+          "match": "KV Mechelen vs Union St. Gilloise",
+          "conclusion": "Pour les paris sur les leaders à l'extérieur avec cote <1.80, vérifier leur pourcentage de victoires à l'extérieur contre le milieu de tableau et privilégier les paris avec handicap ou 'victoire ou nul' si ce taux est <70%."
+        },
+        {
+          "match": "Eintracht Frankfurt vs FSV Mainz 05",
+          "conclusion": "Vérifier systématiquement les stats domicile/extérieur des 5 derniers matchs et croiser avec les confrontations directes récentes avant de parier sur un favori avec une cote <2.00 face à une équipe en difficulté au classement."
         }
       ]
     },
@@ -75,7 +75,7 @@
       ]
     },
     "statistiques_trompeuses": {
-      "count": 3,
+      "count": 4,
       "examples": [
         {
           "match": "Arsenal vs Burnley",
@@ -88,36 +88,24 @@
         {
           "match": "Elche vs Real Sociedad",
           "conclusion": "Avant de parier sur une victoire nette basée sur les stats domicile/extérieur, vérifier si l'équipe visiteur a montré une capacité à éviter les défaites lourdes même en période difficile."
+        },
+        {
+          "match": "Anderlecht vs Club Brugge KV",
+          "conclusion": "Distinguer systématiquement les performances domicile/extérieur dans l'historique des confrontations directes et pondérer davantage l'avantage du terrain dans les derbies entre équipes de niveau proche au classement."
+        }
+      ]
+    },
+    "autre": {
+      "count": 1,
+      "examples": [
+        {
+          "match": "Lyon vs Paris Saint Germain",
+          "conclusion": "Systématiquement vérifier la cohérence entre le type de pari sélectionné et l'analyse développée, et pour les paris BTTS, se concentrer sur les stats offensives/défensives plutôt que sur le résultat final."
         }
       ]
     }
   },
   "key_learnings": [
-    {
-      "date": "2025-10-29T23:14:02.792968",
-      "category": "surestimation_favori",
-      "conclusion": "Pour les favoris évoluant à l'extérieur contre une lanterne rouge, vérifier leurs résultats des 3 derniers déplacements face aux équipes classées dans les 3 dernières places avant de miser sur une victoire simple."
-    },
-    {
-      "date": "2025-10-29T23:14:11.234138",
-      "category": "surestimation_favori",
-      "conclusion": "Pour les favoris avec cote <1.80 face à des équipes en crise, vérifier systématiquement les écarts de buts moyens des 5 derniers matchs domicile du favori et la capacité de résistance défensive de l'outsider avant de miser sur la victoire simple."
-    },
-    {
-      "date": "2025-10-30T23:14:01.117245",
-      "category": "surestimation_favori",
-      "conclusion": "Pour les favoris avec un écart de niveau important, vérifier systématiquement leurs performances offensives en déplacement et la capacité de l'outsider à limiter les dégâts à domicile avant de parier sur une victoire nette."
-    },
-    {
-      "date": "2025-11-01T23:13:10.440467",
-      "category": "contexte_match",
-      "conclusion": "Pour les matchs impliquant une équipe en lutte pour le maintien à domicile, réduire de 15-20% la probabilité de victoire du favori si celui-ci n'a plus d'enjeu classement significatif."
-    },
-    {
-      "date": "2025-11-01T23:13:17.870351",
-      "category": "surestimation_favori",
-      "conclusion": "Pour les matchs impliquant une équipe en crise mais avec un enjeu maintien, vérifier le ratio buts marqués/occasions créées de l'équipe favorite à domicile avant de parier sur sa victoire sèche."
-    },
     {
       "date": "2025-11-01T23:13:25.119002",
       "category": "statistiques_trompeuses",
@@ -192,6 +180,31 @@
       "date": "2025-11-08T23:12:53.472814",
       "category": "surestimation_favori",
       "conclusion": "Quand l'équipe visiteur a de nombreuses absences offensives, analyser si cela peut renforcer son approche défensive et privilégier les paris 'Moins de 2.5 buts' plutôt que la victoire du favori."
+    },
+    {
+      "date": "2025-11-09T23:13:00.324666",
+      "category": "statistiques_trompeuses",
+      "conclusion": "Distinguer systématiquement les performances domicile/extérieur dans l'historique des confrontations directes et pondérer davantage l'avantage du terrain dans les derbies entre équipes de niveau proche au classement."
+    },
+    {
+      "date": "2025-11-09T23:13:09.006846",
+      "category": "sous_estimation_outsider",
+      "conclusion": "Pour les paris sur des équipes bien classées face à des lanternes rouges, vérifier systématiquement les performances domicile de l'équipe en difficulté et privilégier les paris avec handicap plutôt que la victoire sèche quand l'écart de classement dépasse 10 places."
+    },
+    {
+      "date": "2025-11-09T23:13:16.854135",
+      "category": "surestimation_favori",
+      "conclusion": "Pour les paris sur les leaders à l'extérieur avec cote <1.80, vérifier leur pourcentage de victoires à l'extérieur contre le milieu de tableau et privilégier les paris avec handicap ou 'victoire ou nul' si ce taux est <70%."
+    },
+    {
+      "date": "2025-11-09T23:13:24.178048",
+      "category": "surestimation_favori",
+      "conclusion": "Vérifier systématiquement les stats domicile/extérieur des 5 derniers matchs et croiser avec les confrontations directes récentes avant de parier sur un favori avec une cote <2.00 face à une équipe en difficulté au classement."
+    },
+    {
+      "date": "2025-11-09T23:13:30.795066",
+      "category": "autre",
+      "conclusion": "Systématiquement vérifier la cohérence entre le type de pari sélectionné et l'analyse développée, et pour les paris BTTS, se concentrer sur les stats offensives/défensives plutôt que sur le résultat final."
     }
   ]
 }

@@ -98,7 +98,8 @@
           "odds": 1.75,
           "reasoning": "Historique de matchs ouverts entre ces équipes, moyennes offensives élevées"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Valencia vs Real Betis",
@@ -198,7 +199,8 @@
           "odds": 2.2,
           "reasoning": "Écart de niveau énorme, défense Valencia décimée, potentiel de victoire large"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "KV Mechelen vs Union St. Gilloise",
@@ -295,7 +297,8 @@
           "odds": 1.85,
           "reasoning": "Attaque prolifique d'Union, défense de Mechelen perfectible, historique de matchs ouverts"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "VfB Stuttgart vs FC Augsburg",
@@ -495,7 +498,8 @@
           "odds": 1.9,
           "reasoning": "Frankfurt attaque prolifique, défenses perméables des deux côtés, historique de matchs ouverts"
         }
-      ]
+      ],
+      "analyzed": true
     },
     {
       "match": "Lyon vs Paris Saint Germain",
@@ -595,7 +599,8 @@
           "odds": 1.85,
           "reasoning": "Deux attaques de qualité, historique de matchs ouverts, défenses affaiblies"
         }
-      ]
+      ],
+      "analyzed": true
     }
   ],
   "matches_excluded": {

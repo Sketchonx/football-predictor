@@ -1,0 +1,664 @@
+{
+  "analysis_date": "2025-11-09",
+  "total_analyzed": 27,
+  "total_retained": 6,
+  "recommendations": [
+    {
+      "match": "Anderlecht vs Club Brugge KV",
+      "competition": "Jupiler Pro League",
+      "kickoff": "12:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-2N-1D à domicile cette saison, solide performance à domicile",
+            "home_record": "Excellente forme récente avec victoires importantes",
+            "trend": "Dynamique positive avec victoires convaincantes",
+            "details": "Derniers résultats : [V] 3-1 vs KV Mechelen, [V] 2-0 vs Ninove, [D] 1-0 vs Charleroi, [N] 2-2 vs St. Truiden"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-1D en déplacement cette saison, forme récente mitigée",
+            "away_record": "4V-1N-2D à l'extérieur, performance correcte en déplacement",
+            "trend": "Forme stable mais pas dominante à l'extérieur",
+            "details": "Derniers résultats : [N] 3-3 vs Barcelona, [V] 2-1 vs Dender, [V] 6-1 vs Eendracht Aalst, [V] 0-1 vs Antwerp"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Club Brugge domine largement avec 4V-0N-1D sur les 5 derniers",
+          "at_home": "Domination totale de Club Brugge : 3-0, 3-1, 2-0 lors des 3 derniers à domicile",
+          "details": "Historique récent : 1-3 (2025), 2-1 (2025), 2-0 (2025), 0-3 (2025), 2-1 (2024)",
+          "trends": "Club Brugge n'a perdu qu'une seule fois sur 10 derniers H2H, moyenne 2+ buts par match"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Killian Sardella (blessure ischio-jambiers)",
+              "Ilay Camara (blessure musculaire)",
+              "Jan-Carlo Simic (blessure musculaire)",
+              "Cedric Hatenboer (commotion)"
+            ],
+            "impact": "Plusieurs absents défensifs importants, défense affaiblie"
+          },
+          "away_team": {
+            "absent": [
+              "Gustaf Nilsson (problèmes tendon d'Achille)",
+              "Kyriani Sabbe (blessure mineure)",
+              "Michal Skoras (blessure mineure)"
+            ],
+            "impact": "Impact modéré avec Gustaf Nilsson absent, mais effectif offensif reste compétent"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Club Brugge 2e du championnat avec 29 points, attaque efficace (21 buts pour), style offensif équilibré",
+          "away_style": "Anderlecht 3e avec 22 points, bon bilan offensif (20 buts) mais défense moins solide (13 encaissés)",
+          "key_matchup": "Attaque de Club Brugge (C. Tzolis 5 buts) face à une défense d'Anderlecht affaiblie par les blessures",
+          "predicted_approach": "Club Brugge va exploiter son avantage domicile et l'historique favorable, Anderlecht devra compenser ses absences défensives"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 8 jours, équipe bien reposée physiquement",
+          "away_team": "Dernier match il y a 4 jours (3-3 vs Barcelona), récupération correcte",
+          "advantage": "Léger avantage physique pour Anderlecht mais négligeable"
+        },
+        "context_stakes": {
+          "home_situation": "2e du championnat, veut maintenir sa position et confirmer sa domination sur Anderlecht",
+          "away_situation": "3e place, peut revenir à 4 points en cas de victoire, enjeu important",
+          "psychological": "Historique récent très favorable à Club Brugge, confiance maximale",
+          "overall": "Match crucial pour les deux équipes, avantage psychologique net pour Club Brugge"
+        },
+        "home_advantage": {
+          "home_record_season": "Données domicile non spécifiées mais 2e place au général indique solidité",
+          "away_record_opponent": "Anderlecht correct à l'extérieur mais historique défavorable ici",
+          "atmosphere": "Stade de Club Brugge, public acquis, ambiance favorable",
+          "weather": "Conditions normales prévues",
+          "advantage_score": "8/10 - Avantage domicile renforcé par l'historique"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifiée, cote sous-évaluée compte tenu de la domination historique",
+          "odds_movement": "Cote stable, marché n'intègre pas assez l'historique récent"
+        },
+        "key_factors_summary": [
+          "Domination historique écrasante : 4V-0N-1D sur 5 derniers H2H avec scores nets",
+          "Club Brugge 2e du championnat vs Anderlecht 3e, écart de niveau confirmé",
+          "Anderlecht affaibli défensivement avec 4 absents dont 3 défenseurs",
+          "Avantage domicile renforcé par l'historique très favorable",
+          "Forme récente équilibrée des deux côtés mais historique déterminant"
+        ]
+      },
+      "conclusion": "L'historique récent est sans appel : Club Brugge domine totalement Anderlecht avec 4 victoires sur 5 derniers matchs, dont 3 victoires nettes à domicile (3-0, 3-1, 2-0). Cette domination s'explique par un niveau supérieur confirmé au classement (2e vs 3e) et se trouve renforcée par les absences défensives d'Anderlecht (4 joueurs dont 3 défenseurs). La cote à 1.85 sous-évalue cette domination historique et tactique. Pari de valeur identifié.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Club Brugge KV)",
+      "odds": 1.85,
+      "confidence": 78,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.75,
+          "reasoning": "Historique de matchs ouverts entre ces équipes, moyennes offensives élevées"
+        }
+      ]
+    },
+    {
+      "match": "Valencia vs Real Betis",
+      "competition": "La Liga",
+      "kickoff": "17:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-1N-2D à domicile cette saison, difficultés à domicile",
+            "home_record": "Forme catastrophique récente avec défaites lourdes",
+            "trend": "Crise profonde avec défaites consécutives",
+            "details": "Derniers résultats : [D] 4-0 vs Real Madrid, [V] 0-5 vs Maracena, [D] 0-2 vs Villarreal, [N] 0-0 vs Alaves"
+          },
+          "away_team": {
+            "last_5_matches": "1V-4N-0D à l'extérieur cette saison, invaincu en déplacement",
+            "away_record": "Solidité remarquable à l'extérieur avec aucune défaite",
+            "trend": "Forme excellente récente avec 3 victoires consécutives",
+            "details": "Derniers résultats : [V] 2-0 vs Lyon, [V] 3-0 vs Mallorca, [V] 1-7 vs Palma del Rio, [D] 0-2 vs Atletico Madrid"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Équilibré sur 5 derniers : 2V-2N-1D pour Betis",
+          "at_home": "Valencia a gagné 4-2 le dernier match à domicile mais historique variable",
+          "details": "Historique récent : 1-1 (2025), 4-2 Valencia (2024), 1-2 Betis (2024), 3-0 Betis (2023)",
+          "trends": "Matchs généralement ouverts avec beaucoup de buts, pas de domination claire"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Alberto Mari (blessé)",
+              "André Almeida (entorse cheville)",
+              "Thierry Correia (genou)",
+              "Mouctar Diakhaby (ischio-jambiers)",
+              "Dimitri Foulquier (blessé)"
+            ],
+            "impact": "Défense décimée avec 4-5 absents majeurs, impact critique sur la solidité défensive"
+          },
+          "away_team": {
+            "absent": [
+              "Diego Llorente (incertain)",
+              "Marc Roca (incertain)",
+              "Iker Losada (incertain)",
+              "Nelson Deossa (incertain)",
+              "Giovani Lo Celso (problèmes musculaires)"
+            ],
+            "impact": "Plusieurs incertitudes mais effectif globalement disponible"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Real Betis 5e avec 19 points, attaque prolifique (18 buts pour), défense solide (12 encaissés), style offensif équilibré",
+          "away_style": "Valencia 19e avec seulement 9 points, attaque faible (10 buts), défense perméable (20 encaissés), en grande difficulté",
+          "key_matchup": "Attaque de Betis (C. Hernández 4 buts) face à une défense de Valencia décimée et déjà fragile",
+          "predicted_approach": "Betis va dominer offensivement, Valencia en mode survie défensive mais avec des moyens limités"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 8 jours, équipe reposée physiquement",
+          "away_team": "Dernier match il y a 3 jours (2-0 vs Lyon), récupération courte mais équipe habituée",
+          "advantage": "Léger avantage physique pour Valencia mais négligeable face aux autres facteurs"
+        },
+        "context_stakes": {
+          "home_situation": "5e place, vise l'Europe, match à gagner pour maintenir le rythme",
+          "away_situation": "19e place, lutte pour le maintien, situation critique avec seulement 9 points",
+          "psychological": "Betis en confiance avec 3 victoires récentes, Valencia en crise profonde",
+          "overall": "Écart de situation énorme, pression maximale sur Valencia mais moyens insuffisants"
+        },
+        "home_advantage": {
+          "home_record_season": "Données domicile non spécifiées mais 5e place indique solidité générale",
+          "away_record_opponent": "Valencia en difficulté partout, 19e place témoigne des problèmes",
+          "atmosphere": "Stade Betis, public motivé, ambiance favorable pour pousser l'équipe",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile maximal face à une équipe en crise"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "75-80%",
+          "value_analysis": "Excellente value bet, cote largement sous-évaluée compte tenu de l'écart de niveau",
+          "odds_movement": "Cote attractive, marché sous-estime la crise de Valencia"
+        },
+        "key_factors_summary": [
+          "Écart de classement énorme : 5e place (19 pts) vs 19e place (9 pts)",
+          "Valencia en crise totale avec défense décimée (5 absents défensifs)",
+          "Betis invaincu à l'extérieur cette saison (1V-4N-0D) et en grande forme",
+          "Différentiel offensif/défensif : Betis +6 vs Valencia -10",
+          "Contexte psychologique très favorable à Betis face à une équipe en perdition"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire nette de Betis. L'écart de niveau est abyssal : 5e vs 19e place, +6 vs -10 au goal-average, équipe en forme vs équipe en crise. Valencia cumule une défense décimée par les blessures (5 absents) et une confiance au plus bas après des défaites lourdes. Betis, invaincu à l'extérieur et sur 3 victoires consécutives, a tous les atouts pour s'imposer largement. La cote à 1.75 est une excellente opportunité de value bet.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Real Betis)",
+      "odds": 1.75,
+      "confidence": 85,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Betis -1.5",
+          "odds": 2.2,
+          "reasoning": "Écart de niveau énorme, défense Valencia décimée, potentiel de victoire large"
+        }
+      ]
+    },
+    {
+      "match": "KV Mechelen vs Union St. Gilloise",
+      "competition": "Jupiler Pro League",
+      "kickoff": "18:15",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-3N-1D à domicile cette saison, forme mitigée à domicile",
+            "home_record": "6e place avec 20 points, performance correcte mais irrégulière",
+            "trend": "Forme instable avec alternance de bons et mauvais résultats",
+            "details": "Derniers résultats : [D] 3-1 vs Anderlecht, [V] 2-1 vs K. Lierse S.K., [N] 1-1 vs OH Leuven, [V] 1-3 vs Dender"
+          },
+          "away_team": {
+            "last_5_matches": "4V-2N-1D à l'extérieur cette saison, excellente performance en déplacement",
+            "away_record": "Leader du championnat avec 32 points, forme exceptionnelle",
+            "trend": "Machine à gagner malgré défaite récente en Ligue des Champions",
+            "details": "Derniers résultats : [D] 3-1 vs Atletico Madrid, [V] 1-4 vs Zulte Waregem, [V] 0-3 vs Tubize, [V] 2-0 vs St. Truiden"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Historique équilibré récent : 2V-1N-2D pour Union",
+          "at_home": "Union a perdu 0-1 le dernier match à domicile mais historique variable",
+          "details": "Historique récent : 0-1 Mechelen (2025), 1-1 (2024), 1-0 Union (2023), 4-0 Mechelen (2023), 2-1 Union (2023)",
+          "trends": "Matchs serrés généralement, pas de domination claire, résultats alternés"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Tommy St Jago (problèmes tendon d'Achille)",
+              "Ortwin De Wolf (blessure mineure)"
+            ],
+            "impact": "Effectif quasi-complet, impact minimal sur les performances"
+          },
+          "away_team": {
+            "absent": [
+              "Guillaume Francois (blessure inconnue)",
+              "Christian Burgess (blessure mineure)",
+              "Promise David (blessure mineure)",
+              "Kamiel Van De Perre (dos)",
+              "Henok Teklab (dos)"
+            ],
+            "impact": "Plusieurs absents mais effectif de qualité, impact modéré"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Union St. Gilloise leader avec 32 points, attaque redoutable (28 buts pour), défense solide (7 encaissés), style dominateur",
+          "away_style": "KV Mechelen 6e avec 20 points, attaque correcte (18 buts), défense moyenne (16 encaissés), style équilibré",
+          "key_matchup": "Attaque prolifique d'Union (K. Rodríguez 7 buts, P. David 5 buts) face à une défense de Mechelen correcte mais pas exceptionnelle",
+          "predicted_approach": "Union va imposer son jeu offensif, Mechelen devra résister et jouer en contre"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 8 jours, équipe bien reposée",
+          "away_team": "Dernier match il y a 5 jours (défaite 3-1 vs Atletico Madrid), récupération correcte",
+          "advantage": "Léger avantage physique pour Mechelen mais négligeable"
+        },
+        "context_stakes": {
+          "home_situation": "Leader du championnat, veut maintenir son avance et confirmer sa domination",
+          "away_situation": "6e place, peut revenir dans le top 5, enjeu important mais moins critique",
+          "psychological": "Union en position de force malgré défaite européenne, confiance du leader",
+          "overall": "Pression sur Union pour confirmer son statut, Mechelen peut jouer libéré"
+        },
+        "home_advantage": {
+          "home_record_season": "Données domicile non spécifiées mais statut de leader indique solidité partout",
+          "away_record_opponent": "Mechelen correct à l'extérieur mais face au leader",
+          "atmosphere": "Stade d'Union, public acquis, ambiance de leader",
+          "weather": "Conditions normales",
+          "advantage_score": "7/10 - Bon avantage domicile tempéré par l'historique équilibré"
+        },
+        "odds_value": {
+          "bet_odds": 1.72,
+          "implied_probability": "58.1%",
+          "estimated_real_probability": "68-72%",
+          "value_analysis": "Value bet modérée, cote légèrement sous-évaluée compte tenu du statut de leader",
+          "odds_movement": "Cote limite mais acceptable, marché respecte l'historique équilibré"
+        },
+        "key_factors_summary": [
+          "Union leader incontesté avec 32 points vs Mechelen 6e avec 20 points",
+          "Différentiel offensif/défensif énorme : Union +21 vs Mechelen +2",
+          "Attaque d'Union exceptionnelle avec 28 buts en 13 matchs (2.15/match)",
+          "Défense d'Union remarquable avec seulement 7 buts encaissés",
+          "Historique équilibré mais niveau actuel nettement en faveur d'Union"
+        ]
+      },
+      "conclusion": "Union St. Gilloise présente un profil de leader incontestable avec 32 points et un différentiel de +21 buts. Leur attaque exceptionnelle (28 buts, 2.15/match) couplée à une défense de fer (7 encaissés) contraste avec le profil plus modeste de Mechelen (20 points, +2 de différentiel). Malgré un historique H2H équilibré, l'écart de niveau actuel est significatif. La cote à 1.72 offre une value correcte pour le leader face à une équipe de milieu de tableau.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire Union St. Gilloise)",
+      "odds": 1.72,
+      "confidence": 75,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Attaque prolifique d'Union, défense de Mechelen perfectible, historique de matchs ouverts"
+        }
+      ]
+    },
+    {
+      "match": "VfB Stuttgart vs FC Augsburg",
+      "competition": "Bundesliga",
+      "kickoff": "16:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-0N-0D à domicile cette saison, invaincu à domicile",
+            "home_record": "6e place avec 18 points, excellent bilan domicile",
+            "trend": "Forme remarquable avec victoires importantes récentes",
+            "details": "Derniers résultats : [V] 2-0 vs Feyenoord, [D] 3-1 vs RB Leipzig, [V] 0-2 vs FSV Mainz 05, [V] 2-1 vs FSV Mainz 05"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-2D à l'extérieur cette saison, difficultés en déplacement",
+            "away_record": "15e place avec seulement 7 points, en grande difficulté",
+            "trend": "Forme catastrophique avec défaites lourdes récentes",
+            "details": "Derniers résultats : [D] 0-1 vs Borussia Dortmund, [D] 0-1 vs VfL Bochum, [D] 0-6 vs RB Leipzig, [N] 1-1 vs 1.FC Köln"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Domination totale de Stuttgart : 5V-0N-0D sur 5 derniers",
+          "at_home": "Stuttgart invaincu face à Augsburg : 4-0, 1-0, 0-1 (seule défaite), 3-0, 2-1",
+          "details": "Historique récent : 4-0 (2025), 1-0 (2025), 0-1 (2025), 0-1 (2024), 3-0 (2023)",
+          "trends": "Domination historique écrasante de Stuttgart, Augsburg n'a gagné qu'une fois récemment"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Alexander Nubel (blessé)",
+              "Dan Axel Zagadou (blessé)",
+              "Leonidas Stergiou (pied)",
+              "Justin Diehl (incertain)",
+              "Silas (cheville)"
+            ],
+            "impact": "Quelques absents mais effectif globalement disponible, impact modéré"
+          },
+          "away_team": {
+            "absent": [
+              "Elias Saad (muscle)",
+              "Elvis Rexhbecaj (genou)",
+              "Samuel Essende (suspendu)",
+              "Yusuf Kabadayi (blessé)",
+              "Maximilian Kömür (orteil)"
+            ],
+            "impact": "Plusieurs absents offensifs dont Samuel Essende suspendu, attaque affaiblie"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Stuttgart 6e avec 18 points, attaque efficace (14 buts), défense solide (10 encaissés), invaincu à domicile",
+          "away_style": "Augsburg 15e avec 7 points, attaque faible (12 buts), défense perméable (21 encaissés), en crise",
+          "key_matchup": "Attaque de Stuttgart à domicile face à une défense d'Augsburg déjà très fragile (21 encaissés)",
+          "predicted_approach": "Stuttgart va dominer offensivement, Augsburg en mode défensif mais avec des moyens limités"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 3 jours (2-0 vs Feyenoord), récupération courte mais équipe habituée",
+          "away_team": "Dernier match il y a 9 jours, équipe bien reposée physiquement",
+          "advantage": "Avantage physique pour Augsburg mais négligeable face aux autres facteurs"
+        },
+        "context_stakes": {
+          "home_situation": "6e place, vise l'Europe, match à domicile à gagner pour maintenir le rythme",
+          "away_situation": "15e place avec 7 points, situation critique, lutte pour le maintien",
+          "psychological": "Stuttgart en confiance à domicile, Augsburg en crise profonde",
+          "overall": "Écart de situation énorme, Stuttgart favori logique"
+        },
+        "home_advantage": {
+          "home_record_season": "Invaincu à domicile cette saison (4V-0N-0D), forteresse",
+          "away_record_opponent": "Augsburg en difficulté partout, seulement 7 points au total",
+          "atmosphere": "Stade Stuttgart, public motivé, ambiance favorable",
+          "weather": "Conditions normales",
+          "advantage_score": "9/10 - Avantage domicile maximal face à une équipe en crise"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "78-82%",
+          "value_analysis": "Excellente value bet, cote largement sous-évaluée compte tenu de la domination historique et actuelle",
+          "odds_movement": "Cote attractive, marché sous-estime la crise d'Augsburg"
+        },
+        "key_factors_summary": [
+          "Domination historique totale : Stuttgart 5V-0N-0D sur 5 derniers H2H",
+          "Stuttgart invaincu à domicile (4V-0N-0D) vs Augsburg en crise (15e, 7 pts)",
+          "Différentiel énorme : Stuttgart +4 vs Augsburg -9 au goal-average",
+          "Augsburg affaibli offensivement avec Samuel Essende suspendu",
+          "Écart de classement significatif : 6e place vs 15e place"
+        ]
+      },
+      "conclusion": "La domination de Stuttgart est totale sur tous les plans. Historiquement avec 5 victoires consécutives face à Augsburg, sportivement avec un statut d'invaincu à domicile face à une équipe en crise (15e, 7 points), et tactiquement avec un différentiel de +4 vs -9. Augsburg, privé de son attaquant Samuel Essende (suspendu), n'a pas les armes pour résister à Stuttgart dans son antre. La cote à 1.75 est une excellente opportunité de value bet.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire VfB Stuttgart)",
+      "odds": 1.75,
+      "confidence": 82,
+      "risk_level": "Low",
+      "alternative_bets": [
+        {
+          "type": "Stuttgart -1.5",
+          "odds": 2.3,
+          "reasoning": "Domination historique, Augsburg en crise, Stuttgart invaincu à domicile"
+        }
+      ]
+    },
+    {
+      "match": "Eintracht Frankfurt vs FSV Mainz 05",
+      "competition": "Bundesliga",
+      "kickoff": "18:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "2V-0N-2D à domicile cette saison, forme mitigée à domicile",
+            "home_record": "8e place avec 14 points, performance correcte mais irrégulière",
+            "trend": "Forme récente en dents de scie avec alternance de bons et mauvais résultats",
+            "details": "Derniers résultats : [N] 0-0 vs Napoli, [N] 1-1 vs 1. FC Heidenheim, [N] 1-1 vs Borussia Dortmund, [V] 2-0 vs FC St. Pauli"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-2D à l'extérieur cette saison, difficultés en déplacement",
+            "away_record": "17e place avec seulement 5 points, en grande difficulté",
+            "trend": "Forme catastrophique avec une seule victoire récente",
+            "details": "Derniers résultats : [V] 2-1 vs Fiorentina, [N] 1-1 vs Werder Bremen, [D] 0-2 vs VfB Stuttgart, [D] 2-1 vs VfB Stuttgart"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Historique équilibré récent : 2V-3N-0D pour Frankfurt",
+          "at_home": "Frankfurt invaincu à domicile face à Mainz récemment",
+          "details": "Historique récent : 1-1 (2025), 1-3 Mainz (2024), 1-0 Frankfurt (2024), 1-1 (2023), 3-0 Frankfurt (2023)",
+          "trends": "Matchs souvent serrés, Frankfurt légèrement avantagé à domicile"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Nathaniel Brown (ischio-jambiers)",
+              "Ellyes Skhiri (genou)",
+              "Kaua Santos (ligaments croisés)",
+              "Jessic Ngankam (fracture tibia-péroné)",
+              "Mario Götze (contusion musculaire)"
+            ],
+            "impact": "Plusieurs absents importants dont des titulaires, effectif affaibli"
+          },
+          "away_team": {
+            "absent": [
+              "Lee Jae Sung (fracture pommette)",
+              "Maxim Dal (ligaments croisés)",
+              "Paul Nebel (carton rouge)",
+              "Daniel Gleiber (cuisse)",
+              "Brajan Hollerbach (contusion musculaire)"
+            ],
+            "impact": "Nombreux absents dont Paul Nebel suspendu, effectif très affaibli"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Frankfurt 8e avec 14 points, attaque prolifique (22 buts pour), défense perméable (19 encaissés), style offensif",
+          "away_style": "Mainz 17e avec 5 points, attaque faible (10 buts), défense fragile (17 encaissés), en crise totale",
+          "key_matchup": "Attaque de Frankfurt (J. Burkardt 6 buts, C. Uzun 5 buts) face à une défense de Mainz déjà fragile et affaiblie",
+          "predicted_approach": "Frankfurt va exploiter sa supériorité offensive, Mainz en mode survie"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 5 jours (0-0 vs Napoli), récupération correcte",
+          "away_team": "Dernier match il y a 3 jours (2-1 vs Fiorentina), récupération plus courte",
+          "advantage": "Léger avantage physique pour Frankfurt"
+        },
+        "context_stakes": {
+          "home_situation": "8e place, peut viser l'Europe, match important à domicile",
+          "away_situation": "17e place avec 5 points, situation critique, lutte désespérée pour le maintien",
+          "psychological": "Frankfurt en position de force, Mainz sous pression énorme",
+          "overall": "Écart de situation important, Frankfurt largement favori"
+        },
+        "home_advantage": {
+          "home_record_season": "2V-0N-2D à domicile, performance mitigée mais face à une équipe en crise",
+          "away_record_opponent": "Mainz en difficulté partout, 17e place témoigne des problèmes",
+          "atmosphere": "Stade Frankfurt, public motivé, ambiance favorable",
+          "weather": "Conditions normales",
+          "advantage_score": "8/10 - Bon avantage domicile face à une équipe en crise"
+        },
+        "odds_value": {
+          "bet_odds": 1.8,
+          "implied_probability": "55.6%",
+          "estimated_real_probability": "72-76%",
+          "value_analysis": "Bonne value bet, cote sous-évaluée compte tenu de l'écart de niveau et de situation",
+          "odds_movement": "Cote attractive, marché sous-estime la crise de Mainz"
+        },
+        "key_factors_summary": [
+          "Écart de classement significatif : 8e place (14 pts) vs 17e place (5 pts)",
+          "Frankfurt attaque prolifique (22 buts) vs Mainz attaque défaillante (10 buts)",
+          "Mainz en crise avec seulement 5 points, situation critique au classement",
+          "Effectifs affaiblis des deux côtés mais Mainz plus touché avec Paul Nebel suspendu",
+          "Avantage domicile pour Frankfurt face à une équipe en perdition"
+        ]
+      },
+      "conclusion": "L'écart de niveau et de situation est net entre Frankfurt (8e, 14 points) et Mainz (17e, 5 points). Frankfurt possède une attaque redoutable avec 22 buts marqués et des buteurs confirmés (Burkardt 6 buts, Uzun 5 buts) face à une équipe de Mainz en crise profonde. Malgré quelques absents, Frankfurt à domicile a les moyens de s'imposer face à une équipe de Mainz affaiblie et sous pression. La cote à 1.80 offre une bonne value.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Eintracht Frankfurt)",
+      "odds": 1.8,
+      "confidence": 76,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.9,
+          "reasoning": "Frankfurt attaque prolifique, défenses perméables des deux côtés, historique de matchs ouverts"
+        }
+      ]
+    },
+    {
+      "match": "Lyon vs Paris Saint Germain",
+      "competition": "Ligue 1",
+      "kickoff": "19:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "4V-0N-1D à domicile cette saison, excellente performance à domicile",
+            "home_record": "5e place avec 20 points, bonne dynamique générale",
+            "trend": "Forme récente mitigée avec défaite face à Betis mais solide à domicile",
+            "details": "Derniers résultats : [D] 2-0 vs Real Betis, [N] 0-0 vs Stade Brestois 29, [N] 3-3 vs Paris FC, [V] 2-1 vs Strasbourg"
+          },
+          "away_team": {
+            "last_5_matches": "3V-2N-1D à l'extérieur cette saison, performance correcte en déplacement",
+            "away_record": "3e place avec 24 points, excellent niveau général",
+            "trend": "Forme récente solide malgré défaite face au Bayern",
+            "details": "Derniers résultats : [D] 1-2 vs Bayern München, [V] 1-0 vs Nice, [N] 1-1 vs Lorient, [V] 0-3 vs Stade Brestois 29"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Domination nette du PSG : 4V-1N-0D sur 5 derniers",
+          "at_home": "Lyon a perdu les 3 derniers matchs à domicile face au PSG",
+          "details": "Historique récent : 2-3 PSG (2025), 3-1 PSG (2024), 1-2 PSG (2024), 4-1 PSG (2024), 1-4 PSG (2023)",
+          "trends": "Domination historique claire du PSG, matchs généralement ouverts avec beaucoup de buts"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Mahamadou Diawara (blessé)",
+              "Paul Akouokou (blessé)",
+              "Matias Satriano (jambe)",
+              "Rayan Ghezzal (blessure)"
+            ],
+            "impact": "Quelques absents mais effectif globalement disponible, impact modéré"
+          },
+          "away_team": {
+            "absent": [
+              "Nordi Mukiele (blessé)",
+              "Joao Neves (suspendu)",
+              "Senny Mayulu (adducteurs)",
+              "Presnel Kimpembe (incertain)",
+              "Gianluigi Donnarumma (blessé)",
+              "Khvicha Kvaratskhelia (incertain)"
+            ],
+            "impact": "Plusieurs absents importants dont Donnarumma et Joao Neves, effectif affaibli"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Lyon 5e avec 20 points, attaque correcte (16 buts), défense solide (12 encaissés), style équilibré, fort à domicile",
+          "away_style": "PSG 3e avec 24 points, attaque efficace (21 buts), défense solide (9 encaissés), style dominateur",
+          "key_matchup": "Attaque de Lyon à domicile face à une défense du PSG affaiblie par les absences",
+          "predicted_approach": "Match ouvert entre deux équipes offensives, Lyon va jouer ses chances à domicile"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match il y a 3 jours (défaite 2-0 vs Betis), récupération courte",
+          "away_team": "Dernier match il y a 5 jours (défaite 1-2 vs Bayern), récupération correcte",
+          "advantage": "Léger avantage physique pour le PSG"
+        },
+        "context_stakes": {
+          "home_situation": "5e place, vise l'Europe, match de prestige à domicile contre le PSG",
+          "away_situation": "3e place, veut revenir sur le podium, match important pour le classement",
+          "psychological": "Lyon motivé à domicile face au PSG, PSG sous pression après défaite européenne",
+          "overall": "Match ouvert entre deux équipes de niveau, enjeu important pour les deux"
+        },
+        "home_advantage": {
+          "home_record_season": "Excellent à domicile (4V-0N-1D), Lyon transformé dans son stade",
+          "away_record_opponent": "PSG correct à l'extérieur mais pas dominateur",
+          "atmosphere": "Stade de Lyon, public motivé contre le PSG, ambiance électrique",
+          "weather": "Conditions normales",
+          "advantage_score": "7/10 - Bon avantage domicile dans un match de prestige"
+        },
+        "odds_value": {
+          "bet_odds": 2.1,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "42-46%",
+          "value_analysis": "Cote légèrement surévaluée, historique favorable au PSG",
+          "odds_movement": "Cote attractive pour Lyon mais historique défavorable"
+        },
+        "key_factors_summary": [
+          "Lyon excellent à domicile (4V-0N-1D) face à un PSG affaibli par les absences",
+          "PSG domine l'historique récent (4V-1N-0D) mais Lyon motivé à domicile",
+          "Absences importantes côté PSG : Donnarumma, Joao Neves, possiblement Kvaratskhelia",
+          "Match de prestige, Lyon peut créer l'exploit dans son stade",
+          "Différentiel de niveau moins important que d'habitude"
+        ]
+      },
+      "conclusion": "Ce match présente un profil intéressant pour un pari sur Lyon. Excellents à domicile cette saison (4V-0N-1D), les Lyonnais reçoivent un PSG certes supérieur historiquement mais affaibli par plusieurs absences importantes (Donnarumma, Joao Neves, possiblement Kvaratskhelia). L'ambiance du stade et la motivation face au PSG peuvent faire la différence. Malgré l'historique défavorable, la cote à 2.10 offre une opportunité intéressante pour un pari sur l'exploit lyonnais.",
+      "bet_type": "BTTS",
+      "prediction": "Both Teams To Score - Oui",
+      "odds": 1.75,
+      "confidence": 72,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Deux attaques de qualité, historique de matchs ouverts, défenses affaiblies"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 21,
+    "examples": [
+      {
+        "match": "Real Madrid vs Rayo Vallecano",
+        "reason": "Cote Real Madrid trop faible (<1.70), pas de value malgré la domination évidente"
+      },
+      {
+        "match": "Manchester City vs Liverpool",
+        "reason": "Match trop incertain entre deux équipes de niveau équivalent, pas de value claire"
+      },
+      {
+        "match": "Atalanta vs Sassuolo",
+        "reason": "Atalanta en difficulté avec trop de nuls, Sassuolo imprévisible, risque trop élevé"
+      },
+      {
+        "match": "Bologna vs Napoli",
+        "reason": "Match équilibré entre deux équipes de niveau similaire, pas d'avantage net"
+      },
+      {
+        "match": "Inter vs Lazio",
+        "reason": "Hakan Calhanoglu suspendu pour Inter, facteur d'incertitude trop important"
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "Real Betis victoire vs Valencia (1.75)",
+      "VfB Stuttgart victoire vs FC Augsburg (1.75)",
+      "Union St. Gilloise victoire vs KV Mechelen (1.72)"
+    ],
+    "total_odds": 5.27,
+    "confidence": 77,
+    "detailed_reasoning": "Trois paris avec des profils similaires : équipes supérieures face à des adversaires en difficulté. Betis (5e) vs Valencia (19e) en crise, Stuttgart invaincu à domicile vs Augsburg (15e, 7 pts), Union leader (32 pts) vs Mechelen (6e, 20 pts). Corrélation faible entre les matchs (ligues différentes). Probabilité combinée estimée : 85% × 82% × 75% = 52%. Cote offre une excellente value vs risque calculé.",
+    "risk_level": "Medium",
+    "IMPORTANT": "Combiné sélectionné avec les trois paris présentant le meilleur rapport confiance/cote, dans des contextes de domination claire."
+  },
+  "validation": {
+    "validated": true,
+    "corrections_count": 3,
+    "corrections": [
+      {
+        "match": "Club Brugge KV vs Anderlecht",
+        "issue": "HOME_AWAY_INVERTED",
+        "action": "CORRECTED: Club Brugge KV vs Anderlecht → Anderlecht vs Club Brugge KV",
+        "corrected_match": "Anderlecht vs Club Brugge KV"
+      },
+      {
+        "match": "Real Betis vs Valencia",
+        "issue": "HOME_AWAY_INVERTED",
+        "action": "CORRECTED: Real Betis vs Valencia → Valencia vs Real Betis",
+        "corrected_match": "Valencia vs Real Betis"
+      },
+      {
+        "match": "Union St. Gilloise vs KV Mechelen",
+        "issue": "HOME_AWAY_INVERTED",
+        "action": "CORRECTED: Union St. Gilloise vs KV Mechelen → KV Mechelen vs Union St. Gilloise",
+        "corrected_match": "KV Mechelen vs Union St. Gilloise"
+      }
+    ],
+    "rejected_low_odds_count": 0,
+    "rejected_low_odds": []
+  }
+}

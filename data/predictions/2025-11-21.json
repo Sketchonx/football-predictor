@@ -1,0 +1,333 @@
+{
+  "analysis_date": "2025-11-21",
+  "total_analyzed": 4,
+  "total_retained": 3,
+  "recommendations": [
+    {
+      "match": "FSV Mainz 05 vs 1899 Hoffenheim",
+      "competition": "Bundesliga",
+      "kickoff": "19:30",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-1N-3D selon les 5 derniers matchs analysés",
+            "home_record": "À domicile: 0V-1N-4D cette saison, aucune victoire à domicile",
+            "trend": "Forme catastrophique, lanterne rouge avec seulement 5 points en 10 matchs",
+            "details": "Derniers résultats : [D] 1-0 vs Eintracht Frankfurt, [V] 2-1 vs Fiorentina (seule victoire récente), [N] 1-1 vs Werder Bremen, [D] 0-2 vs VfB Stuttgart, [D] 2-1 vs VfB Stuttgart"
+          },
+          "away_team": {
+            "last_5_matches": "4V-1N-0D selon les 5 derniers matchs analysés",
+            "away_record": "À l'extérieur: 4V-1N-0D cette saison, invaincu en déplacement",
+            "trend": "Forme excellente, 6e place avec 19 points, série de 4 victoires sur 5 matchs",
+            "details": "Derniers résultats : [V] 3-0 vs SpVgg Greuther Fürth, [V] 3-1 vs RB Leipzig, [V] 2-3 vs VfL Wolfsburg, [N] 1-1 vs FC St. Pauli, [V] 3-1 vs 1. FC Heidenheim"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Historique équilibré sur les 5 derniers : 2V Hoffenheim, 1N, 2V Mainz",
+          "at_home": "À Mainz : victoires alternées, dernier match 2-0 pour Mainz en décembre 2024",
+          "details": "Résultats récents: Hoffenheim 2-0 Mainz (avril 2025), Mainz 2-0 Hoffenheim (décembre 2024), Mainz 4-1 Hoffenheim (avril 2024), Hoffenheim 1-1 Mainz (novembre 2023), Mainz 1-0 Hoffenheim (mars 2023)",
+          "trends": "Matchs souvent ouverts avec des buts, avantage domicile historique mais forme actuelle inverse la tendance"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Lee Jae Sung (fracture pommette)",
+              "Maxim Dal (rupture ligaments croisés)",
+              "P. Nebel (carton rouge suspendu)",
+              "Daniel Gleiber (problèmes cuisse)",
+              "B. Hollerbach (contusion musculaire)"
+            ],
+            "impact": "Impact MAJEUR : 5 joueurs absents dont des titulaires clés, effectif déjà limité encore affaibli"
+          },
+          "away_team": {
+            "absent": [
+              "Ozan Kabak (rupture ligaments croisés)",
+              "Adam Hlozek (fracture os naviculaire)",
+              "Valentin Gendrey (fracture cheville)"
+            ],
+            "impact": "Impact modéré : 3 absents mais effectif plus étoffé, remplaçants de qualité disponibles"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Équipe en grande difficulté offensive (1.0 but/match), défense perméable (1.8 buts encaissés/match), manque de solutions créatives",
+          "away_style": "Attaque prolifique (2.1 buts/match), défense solide (1.6 buts encaissés/match), jeu offensif avec F. Asllani (5 buts, top buteur équipe)",
+          "key_matchup": "Attaque Hoffenheim (21 buts en 10 matchs) vs défense Mainz (18 buts encaissés). Avantage net Hoffenheim.",
+          "predicted_approach": "Hoffenheim va dominer possession et occasions, Mainz contraint à défendre et jouer en contre"
+        },
+        "schedule_fatigue": {
+          "home_team": "Repos depuis le 9 novembre, équipe fraîche physiquement mais moral en berne après défaite à Francfort",
+          "away_team": "Dernière victoire convaincante 3-0 le 13 novembre, confiance au maximum, rythme de matchs normal",
+          "advantage": "Léger avantage physique Mainz (plus de repos) mais avantage mental énorme pour Hoffenheim"
+        },
+        "context_stakes": {
+          "home_situation": "17e place, zone de relégation, besoin urgent de points pour sortir de la crise. Pression maximale.",
+          "away_situation": "6e place, course à l'Europe, dynamique positive à entretenir. Motivation élevée mais moins de pression.",
+          "psychological": "Hoffenheim en confiance après 4 victoires sur 5, Mainz dans le doute avec 1 seule victoire en 10 matchs",
+          "overall": "Avantage psychologique net pour Hoffenheim malgré le déplacement"
+        },
+        "home_advantage": {
+          "home_record_season": "0V-1N-4D à domicile, aucune victoire à la maison cette saison. Pas d'avantage domicile.",
+          "away_record_opponent": "4V-1N-0D à l'extérieur, invaincu en déplacement cette saison",
+          "atmosphere": "Supporters Mainz frustrés par les résultats, ambiance tendue plutôt que portante",
+          "weather": "Conditions normales, pas d'impact météorologique",
+          "advantage_score": "2/10 - Avantage domicile inexistant, voire contre-productif"
+        },
+        "odds_value": {
+          "bet_odds": 1.85,
+          "implied_probability": "54.1%",
+          "estimated_real_probability": "65-70%",
+          "value_analysis": "Value bet identifié, cote sous-évaluée de 10-15% compte tenu de l'écart de forme",
+          "odds_movement": "Cote stable, marché n'intègre pas suffisamment l'écart de niveau actuel"
+        },
+        "key_factors_summary": [
+          "Écart de forme énorme : Hoffenheim 4V sur 5 vs Mainz 1V sur 10 matchs",
+          "Statistiques offensives : 2.1 buts/match Hoffenheim vs 1.0 Mainz",
+          "Invincibilité extérieure Hoffenheim (4V-1N-0D) vs 0 victoire domicile Mainz",
+          "Effectif Mainz affaibli par 5 absences vs 3 pour Hoffenheim",
+          "Enjeu différent : survie désespérée vs course à l'Europe sereine"
+        ]
+      },
+      "conclusion": "Tous les indicateurs convergent vers une victoire d'Hoffenheim : forme exceptionnelle en déplacement (invaincu, 4V-1N) contre une équipe de Mainz en crise totale (0 victoire à domicile, 17e place). L'écart offensif est considérable (2.1 vs 1.0 buts/match), l'effectif de Mainz est affaibli par 5 absences majeures, et l'avantage domicile est inexistant cette saison. La cote à 1.85 offre une value intéressante compte tenu de la probabilité réelle estimée entre 65-70%. Risque modéré mais probabilité élevée.",
+      "bet_type": "1X2",
+      "prediction": "2 (Victoire 1899 Hoffenheim)",
+      "odds": 1.85,
+      "confidence": 78,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "Over 2.5 buts",
+          "odds": 1.9,
+          "reasoning": "Attaque prolifique Hoffenheim vs défense perméable Mainz"
+        }
+      ]
+    },
+    {
+      "match": "Standard Liege vs Zulte Waregem",
+      "competition": "Jupiler Pro League",
+      "kickoff": "19:45",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "3V-1N-1D selon les 5 derniers matchs analysés",
+            "home_record": "À domicile: 3V-2N-2D cette saison, forme domicile correcte",
+            "trend": "Forme en amélioration récente avec 3 victoires sur 5, dont 2 à l'extérieur",
+            "details": "Derniers résultats : [D] 1-0 vs St. Truiden, [V] 3-1 vs Charleroi, [V] 1-2 vs SK Beveren, [D] 4-0 vs Gent, [V] 1-0 vs Antwerp"
+          },
+          "away_team": {
+            "last_5_matches": "2V-2N-1D selon les 5 derniers matchs analysés",
+            "away_record": "À l'extérieur: 2V-3N-2D cette saison, forme extérieure mitigée",
+            "trend": "Forme irrégulière, alternance entre bonnes et mauvaises performances",
+            "details": "Derniers résultats : [N] 2-2 vs Dender, [D] 1-4 vs Union St. Gilloise, [V] 1-4 vs Spouwen-Mopertingen, [N] 1-1 vs Cercle Brugge, [V] 4-1 vs Gent"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Historique équilibré : 2V Standard, 2N, 1V Zulte Waregem sur les 5 derniers",
+          "at_home": "À Standard : 1V-1N sur les 2 derniers matchs à domicile",
+          "details": "Résultats récents: Standard 2-2 Zulte (mars 2023), Zulte 0-3 Standard (octobre 2022), Standard 0-1 Zulte (décembre 2021), Zulte 1-2 Standard (août 2021), Zulte 3-2 Standard (février 2021)",
+          "trends": "Matchs souvent serrés et ouverts, avantage léger pour Standard à domicile historiquement"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Casper Nielsen (blessure mollet)",
+              "David Bates (blessure genou)",
+              "Boli Bolingoli Mbombo (blessure aine)",
+              "Mo El Hankouri (forme physique)",
+              "Ibe Hautekiet (coup mineur)",
+              "Henry Lawrence (appendicectomie)"
+            ],
+            "impact": "Impact MAJEUR : 6 joueurs absents dont plusieurs titulaires, effectif sérieusement affaibli"
+          },
+          "away_team": {
+            "absent": [
+              "Atli Barkarson (blessure épaule)"
+            ],
+            "impact": "Impact minimal : 1 seul absent, effectif quasi au complet"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Attaque en difficulté (0.9 buts/match), défense fragile (1.4 buts encaissés/match), jeu peu créatif",
+          "away_style": "Attaque plus prolifique (1.5 buts/match) avec J. Erenbjerg (8 buts, meilleur buteur du championnat), défense équilibrée (1.5 buts encaissés/match)",
+          "key_matchup": "Attaque Zulte avec Erenbjerg (top buteur) vs défense Standard affaiblie par les absences. Avantage Zulte.",
+          "predicted_approach": "Match équilibré mais Zulte aura plus d'armes offensives, Standard devra compter sur son public"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match le 9 novembre, équipe reposée physiquement",
+          "away_team": "Dernier match le 7 novembre, également bien reposé",
+          "advantage": "Égalité parfaite au niveau de la fraîcheur physique"
+        },
+        "context_stakes": {
+          "home_situation": "10e place, milieu de tableau, besoin de points pour se rapprocher du top 6",
+          "away_situation": "8e place, légèrement mieux classé, vise également le top 6",
+          "psychological": "Enjeu similaire pour les deux équipes, motivation équivalente",
+          "overall": "Pas d'avantage psychologique net pour l'une ou l'autre équipe"
+        },
+        "home_advantage": {
+          "home_record_season": "3V-2N-2D à domicile, bilan domicile correct sans être exceptionnel",
+          "away_record_opponent": "2V-3N-2D à l'extérieur, performances extérieures moyennes",
+          "atmosphere": "Supporters Standard traditionnellement chauds, avantage domicile modéré",
+          "weather": "Conditions normales pour la saison",
+          "advantage_score": "6/10 - Avantage domicile modéré mais réel"
+        },
+        "odds_value": {
+          "bet_odds": 2.1,
+          "implied_probability": "47.6%",
+          "estimated_real_probability": "40-45%",
+          "value_analysis": "Cote légèrement surévaluée compte tenu des absences de Standard et de la forme de Zulte",
+          "odds_movement": "Cote attractive pour Zulte compte tenu du contexte"
+        },
+        "key_factors_summary": [
+          "Effectif Standard très affaibli (6 absents) vs Zulte quasi au complet",
+          "Meilleur buteur du championnat côté Zulte (Erenbjerg, 8 buts)",
+          "Forme récente équivalente mais Zulte plus efficace offensivement",
+          "Classement favorable à Zulte (8e vs 10e)",
+          "Historique équilibré mais contexte actuel favorable aux visiteurs"
+        ]
+      },
+      "conclusion": "Match équilibré sur le papier mais les circonstances actuelles favorisent Zulte Waregem. L'équipe en déplacement dispose de son effectif quasi au complet avec le meilleur buteur du championnat (Erenbjerg, 8 buts), tandis que Standard doit composer avec 6 absences majeures affaiblissant considérablement l'équipe. Zulte est également mieux classé et plus efficace offensivement. La cote à 2.10 pour la double chance visiteur offre une sécurité intéressante dans un match où l'outsider a de réels arguments.",
+      "bet_type": "Double Chance",
+      "prediction": "X2 (Nul ou Victoire Zulte Waregem)",
+      "odds": 2.1,
+      "confidence": 72,
+      "risk_level": "Medium",
+      "alternative_bets": [
+        {
+          "type": "BTTS",
+          "odds": 1.8,
+          "reasoning": "Deux attaques capables de marquer, défenses perméables"
+        }
+      ]
+    },
+    {
+      "match": "Valencia vs Levante",
+      "competition": "La Liga",
+      "kickoff": "20:00",
+      "detailed_analysis": {
+        "recent_form": {
+          "home_team": {
+            "last_5_matches": "1V-2N-2D selon les 5 derniers matchs analysés",
+            "home_record": "À domicile: 2V-2N-2D cette saison, forme domicile moyenne",
+            "trend": "Forme en légère amélioration avec un nul récent contre le Betis, mais toujours en difficulté",
+            "details": "Derniers résultats : [N] 1-1 vs Real Betis, [D] 4-0 vs Real Madrid, [V] 0-5 vs Maracena (Coupe), [D] 0-2 vs Villarreal, [N] 0-0 vs Alaves"
+          },
+          "away_team": {
+            "last_5_matches": "1V-1N-3D selon les 5 derniers matchs analysés",
+            "trend": "Forme également difficile avec 3 défaites sur 5, mais quelques sursauts",
+            "away_record": "À l'extérieur: 2V-2N-3D cette saison, performances extérieures irrégulières",
+            "details": "Derniers résultats : [D] 3-1 vs Atletico Madrid, [D] 1-2 vs Celta Vigo, [V] 3-4 vs Orihuela (Coupe), [N] 1-1 vs Mallorca, [D] 0-3 vs Rayo Vallecano"
+          }
+        },
+        "head_to_head": {
+          "last_5": "Historique récent équilibré : 2V Valencia, 2N, 1V Levante",
+          "at_home": "À Valencia : 1V-1N sur les 2 derniers matchs à Mestalla",
+          "details": "Résultats récents: Valencia 0-0 Levante (juillet 2024), Valencia 1-1 Levante (avril 2022), Levante 3-4 Valencia (décembre 2021), Valencia 1-0 Levante (juillet 2021), Levante 1-0 Valencia (mars 2021)",
+          "trends": "Derby valencien souvent serré, matchs généralement ouverts avec des buts des deux côtés"
+        },
+        "injuries_suspensions": {
+          "home_team": {
+            "absent": [
+              "Alberto Mari (blessé)",
+              "André Almeida (entorse cheville)",
+              "F. Ugrinic (contusion)",
+              "Thierry Correia (genou du sauteur)",
+              "M. Diakhaby (blessure ischio)",
+              "D. Foulquier (blessure)",
+              "L. Ramazani (blessure musculaire)"
+            ],
+            "impact": "Impact MAJEUR : 7 joueurs absents, effectif très affaibli dans tous les secteurs"
+          },
+          "away_team": {
+            "absent": [
+              "Alfonso Pastor Vacas (blessé)",
+              "Carlos Alvarez (incertain)",
+              "Jon Ander Olasagasti (blessé)",
+              "Kervin Arriaga (blessé)",
+              "Alan Matturro (incertain)",
+              "Matias Moreno (incertain)",
+              "Goduine Koyalipou (incertain)"
+            ],
+            "impact": "Impact TRÈS MAJEUR : 7 joueurs également absents ou incertains, effectif également très diminué"
+          }
+        },
+        "tactical_analysis": {
+          "home_style": "Attaque en grande difficulté (0.9 buts/match), défense très perméable (1.8 buts encaissés/match), jeu peu inspiré",
+          "away_style": "Attaque légèrement plus prolifique (1.3 buts/match) avec Etta Eyong (5 buts), défense également fragile (1.9 buts encaissés/match)",
+          "key_matchup": "Deux équipes en difficulté offensive et défensive, match probablement fermé et tactique",
+          "predicted_approach": "Match serré entre deux équipes diminuées, jeu prudent privilégié"
+        },
+        "schedule_fatigue": {
+          "home_team": "Dernier match le 9 novembre, équipe reposée",
+          "away_team": "Dernier match le 8 novembre, également bien reposée",
+          "advantage": "Égalité parfaite au niveau fraîcheur physique"
+        },
+        "context_stakes": {
+          "home_situation": "17e place, zone de relégation, besoin urgent de points pour sortir de la zone rouge",
+          "away_situation": "19e place, également en relégation, situation encore plus critique",
+          "psychological": "Match de la peur entre deux équipes en grande difficulté, tension maximale",
+          "overall": "Enjeu énorme pour les deux équipes, match sous haute tension"
+        },
+        "home_advantage": {
+          "home_record_season": "2V-2N-2D à domicile, Mestalla n'est plus une forteresse cette saison",
+          "away_record_opponent": "2V-2N-3D à l'extérieur, performances extérieures légèrement inférieures",
+          "atmosphere": "Mestalla traditionnellement intimidant, mais supporters frustrés par les résultats",
+          "weather": "Conditions normales pour Valencia en novembre",
+          "advantage_score": "5/10 - Léger avantage domicile malgré les difficultés"
+        },
+        "odds_value": {
+          "bet_odds": 1.75,
+          "implied_probability": "57.1%",
+          "estimated_real_probability": "50-55%",
+          "value_analysis": "Cote correcte mais sans value particulière, match très incertain",
+          "odds_movement": "Cote stable reflétant l'incertitude du match"
+        },
+        "key_factors_summary": [
+          "Derby valencien entre deux équipes en crise (17e vs 19e)",
+          "Effectifs très affaiblis des deux côtés (7 absents chacun)",
+          "Enjeu de relégation majeur pour les deux formations",
+          "Historique récent équilibré dans ce derby",
+          "Léger avantage domicile pour Valencia malgré les difficultés"
+        ]
+      },
+      "conclusion": "Derby valencien sous haute tension entre deux équipes en grande difficulté au classement. Valencia, bien qu'en 17e position, bénéficie de l'avantage de Mestalla et d'une situation légèrement moins critique que Levante (19e). Les deux équipes sont très affaiblies par les blessures, mais Valencia dispose de Luis Rioja (3 passes décisives) et joue à domicile dans un match qu'elle ne peut pas se permettre de perdre. La cote à 1.75 est limite mais acceptable compte tenu de l'enjeu et du léger avantage domicile.",
+      "bet_type": "1X2",
+      "prediction": "1 (Victoire Valencia)",
+      "odds": 1.75,
+      "confidence": 70,
+      "risk_level": "Medium-High",
+      "alternative_bets": [
+        {
+          "type": "Under 2.5 buts",
+          "odds": 1.85,
+          "reasoning": "Deux attaques en difficulté, match de la peur, jeu prudent attendu"
+        }
+      ]
+    }
+  ],
+  "matches_excluded": {
+    "count": 1,
+    "examples": [
+      {
+        "match": "Nice vs Marseille",
+        "reason": "Cote Marseille trop faible attendue (<1.70), malgré leur forme supérieure (2e place, 8V-1N-3D vs 9e place Nice). Écart de niveau trop évident pour offrir de la value."
+      }
+    ]
+  },
+  "combined_bet": {
+    "matches": [
+      "1899 Hoffenheim victoire vs FSV Mainz 05",
+      "Double chance X2 Zulte Waregem vs Standard Liege",
+      "Valencia victoire vs Levante"
+    ],
+    "total_odds": 6.74,
+    "confidence": 73,
+    "detailed_reasoning": "Combiné de 3 paris avec des contextes différents mais des probabilités élevées. Hoffenheim invaincu à l'extérieur face à Mainz en crise totale (78% confiance). Zulte avec effectif complet face à Standard diminué par 6 absences (72% confiance). Valencia à domicile dans un derby crucial face à Levante encore plus mal classé (70% confiance). Corrélation faible entre les matchs (ligues différentes). Cote combinée attractive à 6.74 pour un risque calculé.",
+    "risk_level": "Medium-High"
+  },
+  "validation": {
+    "validated": true,
+    "corrections_count": 0,
+    "corrections": [],
+    "rejected_low_odds_count": 0,
+    "rejected_low_odds": []
+  }
+}
